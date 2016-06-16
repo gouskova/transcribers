@@ -1,4 +1,4 @@
- #encoding: utf8
+# encoding: utf8
 
 # =======================================================================
 # basic housekeeping for the input. add spaces
@@ -20,7 +20,7 @@ step1_digr_misc = {
     u"g y": u"D",
     # "d z" : "q",
     u"c s": u"C",
-    u"s z": u"RRR", #interim solution, so that transcribing all "s"'es won't interfere
+    u"s z": u"RRR",  # interim solution, so that transcribing all "s"'es won't interfere
     u"z s": u"Z",
     u"c h": u"h",
     u"n y": u"N",
@@ -49,6 +49,7 @@ def do_step1b(word):
     for char in step1b_corr.keys():
         word = word.replace(char, step1b_corr[char])
     return word
+
 
 # ===================================================
 # transcribing consonants -- step 2, digraphs for long consonants
@@ -143,10 +144,11 @@ def do_vowels(word):
         word = word.replace(char, vowels_shortlong[char])
     return word
 
+
 # ===================================================
-#voicing assimilation:
+# voicing assimilation:
 # ===================================================
-always_voiceless=[u"h", u"hh"]
+always_voiceless = [u"h", u"hh"]
 
 devoiced_pair = {
     u"b": u"p",
@@ -158,32 +160,35 @@ devoiced_pair = {
     u"Z": u"S",
     u"q": u"c",
     u"Q": u"C"
-    }
+}
 
-voiced_pair=dict((key, value) for (value, key) in devoiced_pair.items())
-voiceless=always_voiceless+list(devoiced_pair.values())
+voiced_pair = dict((key, value) for (value, key) in devoiced_pair.items())
+voiceless = always_voiceless + list(devoiced_pair.values())
 del voiced_pair[u"f"]
 
-#=======================================================================
-#a little utility function that creates a dictionary of UR/SR correspondences for voicing agreement
-#=======================================================================
+
+# =======================================================================
+# a little utility function that creates a dictionary of UR/SR correspondences for voicing agreement
+# =======================================================================
 def make_agree():
     make_clusters = {}
-    for voiced in devoiced_pair.keys(): #leftward spread of voicelessness--all dp it
+    for voiced in devoiced_pair.keys():  # leftward spread of voicelessness--all dp it
         for vless in voiceless:
             if devoiced_pair[voiced] == vless:
-                make_clusters[voiced+" "+vless] = vless+vless
+                make_clusters[voiced + " " + vless] = vless + vless
             else:
-                make_clusters[voiced+" "+vless]=devoiced_pair[voiced]+" " + vless
-    for vless in voiced_pair.keys(): #leftward spread of voicing: [v] doesn't trigger
+                make_clusters[voiced + " " + vless] = devoiced_pair[voiced] + " " + vless
+    for vless in voiced_pair.keys():  # leftward spread of voicing: [v] doesn't trigger
         for voiced in voiced_pair.values():
             if voiced_pair[vless] == voiced:
-                make_clusters[vless+" " +voiced] = voiced+voiced
+                make_clusters[vless + " " + voiced] = voiced + voiced
             else:
-                make_clusters[vless+" " +voiced]=voiced_pair[vless]+ " " + voiced
+                make_clusters[vless + " " + voiced] = voiced_pair[vless] + " " + voiced
     return make_clusters
 
-agree_clusters=make_agree()
+
+agree_clusters = make_agree()
+
 
 def voicing(word):
     """Applies word-final devoicing rule to obstruents, and regressive voicing agreement to obstruent clusters"""
@@ -191,6 +196,53 @@ def voicing(word):
         word = word.replace(cluster, agree_clusters[cluster])
     return word
 
+
+# ===================================================
+# the transcription function -- putting the pieces together. it has to be broken down into so many pieces because of the many digraphs and also because a unigraph (s) needs to be replaced too
+# ===================================================
+degem_pair = {
+    u"pp": u"p",
+    u"bb": u"b",
+    u"tt": u"t",
+    u"dd": u"d",
+    u"TT": u"T",
+    u"DD": u"D",
+    u"kk": u"k",
+    u"gg": u"g",
+    u"cc": u"c",
+    u"qq": u"q",
+    u"CC": u"C",
+    u"QQ": u"Q",
+    u"ff": u"f",
+    u"vv": u"v",
+    u"ss": u"s",
+    u"zz": u"z",
+    u"SS": u"S",
+    u"ZZ": u"Z",
+    u"hh": u"h",
+    u"mm": u"m",
+    u"nn": u"n",
+    u"NN": u"N",
+    u"ll": u"l",
+    u"rr": u"r",
+    u"jj": u"j"}
+
+consonants = [u"p", u"b", u"t", u"d", u"T", u"D", u"k", u"g", u"c", u"q", u"C", u"Q", u"f", u"v", u"s", u"z", u"S", u"Z", u"h", u"m", u"n", u"N", u"l", u"r", u"j"]
+
+def elim_geminates():
+    gem_clusters = {}
+    for gem in degem_pair.keys():  # leftward spread of voicelessness--all dp it
+        for cons in consonants:
+            gem_clusters[gem + " " + cons] = degem_pair[gem] + " " + cons
+            gem_clusters[cons + " " + gem] = cons + " " + degem_pair[gem]
+    return gem_clusters
+
+degem = elim_geminates()
+
+def degeminate(word):
+    for cluster in degem.keys():
+        word = word.replace(cluster, degem[cluster])
+    return word
 # ===================================================
 # the transcription function -- putting the pieces together. it has to be broken down into so many pieces because of the many digraphs and also because a unigraph (s) needs to be replaced too
 # ===================================================
@@ -203,10 +255,12 @@ def transcribe(word):
     word = do_step3(word)
     word = do_vowels(word)
     word = voicing(word)
+    word = degeminate(word)
+    print word
 
 # ===================================================
 # transcription of the list itself -- it needs a list of words as input, named wordlist
 # ===================================================
-#wordlist = 
+#wordlist = ["bántsa", "szivárvány", "árvíztűrő", "tükörfúrógép"]
 #for word in wordlist:
 #    transcribe(word)

@@ -328,11 +328,10 @@ def transcribe(word, IPA, MGL):
     if IPA == "yes":
         word = do_ipa_preclean(word)
         word = ipafy(word)
-    print word
 
 # ===================================================
 # transcription of the list itself -- it needs a list of words as input, named wordlist
 # ===================================================
-wordlist = ["bántsa", "szivárvány", "árvíztűrő", "tükörfúrógép"]
-for word in wordlist:
-    transcribe(word, "yes", "no")
+#wordlist = ["bántsa", "szivárvány", "árvíztűrő", "tükörfúrógép"]
+#for word in wordlist:
+#    transcribe(word, "yes", "no")

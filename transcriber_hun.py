@@ -205,8 +205,8 @@ def transcribe(word):
     word = voicing(word)
 
 # ===================================================
-# transcription of the list itself -- it needs a list where each word X looks like u"X"
+# transcription of the list itself -- it needs a list of words as input, named wordlist
 # ===================================================
-#wordlist = ["szár", "szar"]
+#wordlist = 
 #for word in wordlist:
 #    transcribe(word)

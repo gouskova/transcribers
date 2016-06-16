@@ -4,7 +4,8 @@
 # basic housekeeping for the input. add spaces
 # =======================================================================
 def spacify(word):
-    chars = list(word)
+    uword = unicode(word, 'utf8')
+    chars = list(uword)
     for char in chars:
         char = char.replace(char, char + ' ')
     word = " ".join(chars)
@@ -194,30 +195,18 @@ def voicing(word):
 # the transcription function -- putting the pieces together. it has to be broken down into so many pieces because of the many digraphs and also because a unigraph (s) needs to be replaced too
 # ===================================================
 def transcribe(word):
-    print word
     word = spacify(word)
-    print word
     word = do_step1(word)
-    print word
     word = do_step1b(word)
-    print word
     word = do_step2(word)
-    print word
     word = do_step2b(word)
-    print word
     word = do_step3(word)
-    print word
     word = do_vowels(word)
-    print word
     word = voicing(word)
-    print word
-
-word = u"szár"
-transcribe(word)
 
 # ===================================================
 # transcription of the list itself -- it needs a list where each word X looks like u"X"
 # ===================================================
-# wordlist = open() as list
-# for item in wordlist:
-#	transcribe(item)
+#wordlist = ["szár", "szar"]
+#for word in wordlist:
+#    transcribe(word)

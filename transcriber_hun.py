@@ -243,10 +243,79 @@ def degeminate(word):
     for cluster in degem.keys():
         word = word.replace(cluster, degem[cluster])
     return word
+
+# ===================================================
+# function transcribing UCLAPL input into IPA
+# ===================================================
+IPA_precleaning = {
+    u"c": u"WW",
+    u"cc": u"WWWW"}
+
+def do_ipa_preclean(word):
+    for char in IPA_precleaning.keys():
+        word = word.replace(char, IPA_precleaning[char])
+    return word
+
+IPA_corresp_long = {
+    u"aa": u"aː",
+    u"ee": u"eː",
+    u"ii": u"iː",
+    u"oo": u"oː",
+    u"22": u"øː",
+    u"uu": u"uː",
+    u"yy": u"yː",
+    u"pp": u"pː",
+    u"bb": u"bː",
+    u"tt": u"tː",
+    u"dd": u"dː",
+    u"TT": u"cː",
+    u"DD": u"ɟː",
+    u"kk": u"kː",
+    u"gg": u"gː",
+    u"ff": u"fː",
+    u"vv": u"vː",
+    u"ss": u"sː",
+    u"zz": u"zː",
+    u"SS": u"ʃː",
+    u"ZZ": u"ʒː",
+    u"hh": u"hː",
+    u"WWWW": u"ʦː",
+    u"qq": u"dzː",
+    u"CC": u"ʧː",
+    u"QQ": u"dʒː",
+    u"mm": u"mː",
+    u"nn": u"nː",
+    u"NN": u"ɲː",
+    u"ll": u"lː",
+    u"rr": u"rː",
+    u"jj": u"jː"}
+
+IPA_corresp_short = {
+    u"a": u"ɒ",
+    u"e": u"ɛ",
+    u"2": u"ø",
+    u"T": u"c",
+    u"D": u"ɟ",
+    u"S": u"ʃ",
+    u"Z": u"ʒ",
+    u"WW": u"ʦ",
+    u"q": u"dz",
+    u"C": u"ʧ",
+    u"Q": u"dʒ",
+    u"N": u"ɲ"}
+
+def ipafy(word):
+    for char in IPA_corresp_long.keys():
+        word = word.replace(char, IPA_corresp_long[char])
+    for char in IPA_corresp_short.keys():
+        word = word.replace(char, IPA_corresp_short[char])
+    word = u"ˈ"+word.replace(" ", "")
+    return word
+
 # ===================================================
 # the transcription function -- putting the pieces together. it has to be broken down into so many pieces because of the many digraphs and also because a unigraph (s) needs to be replaced too
 # ===================================================
-def transcribe(word):
+def transcribe(word, IPA, MGL):
     word = spacify(word)
     word = do_step1(word)
     word = do_step1b(word)
@@ -256,11 +325,14 @@ def transcribe(word):
     word = do_vowels(word)
     word = voicing(word)
     word = degeminate(word)
+    if IPA == "yes":
+        word = do_ipa_preclean(word)
+        word = ipafy(word)
     print word
 
 # ===================================================
 # transcription of the list itself -- it needs a list of words as input, named wordlist
 # ===================================================
-#wordlist = ["bántsa", "szivárvány", "árvíztűrő", "tükörfúrógép"]
-#for word in wordlist:
-#    transcribe(word)
+wordlist = ["bántsa", "szivárvány", "árvíztűrő", "tükörfúrógép"]
+for word in wordlist:
+    transcribe(word, "yes", "no")

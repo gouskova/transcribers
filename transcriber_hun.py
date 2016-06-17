@@ -1,4 +1,5 @@
 # encoding: utf8
+# -*- coding: utf-8 -*
 
 # =======================================================================
 # basic housekeeping for the input. add spaces

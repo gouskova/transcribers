@@ -268,7 +268,7 @@ def voicing(word):
 	"""Applies word-final devoicing rule to obstruents, and regressive voicing agreement to obstruent clusters"""
 	for cons in devoiced_pair.keys():
 		if word.endswith(cons):
-			word = word.replace(cons, devoiced_pair[cons])
+			word = word[:-1]+ word[-1].replace(cons, devoiced_pair[cons])
 		if word.endswith(cons+"ʲ"):
 			word = word[:-2]+word[-2].replace(cons, devoiced_pair[cons])+"ʲ"
 	for cluster in agree_clusters.keys():

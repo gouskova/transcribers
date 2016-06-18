@@ -1,6 +1,8 @@
 # encoding: utf8
 # -*- coding: utf-8 -*
 
+# This is a script providing functions for transcribing a list of (lowercase) words written in Hungarian orthography into a UCLA Phonotactic Learner input, IPA and Minimal Generalization Learner input format. It incorporates phenomena like voicing assimilation, palatal assimilation and degemination.
+
 # =======================================================================
 # basic housekeeping for the input. add spaces
 # =======================================================================

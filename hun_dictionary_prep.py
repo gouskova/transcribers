@@ -55,3 +55,8 @@ for potential_compound in wordlist:
 print(str(len(roots)) + " words remaining")
 #print roots[:100]
 print float(rootlength)/len(roots)
+
+with open('hun_roots.csv', 'wb') as roots_csv:
+    writer = csv.writer(roots_csv)
+    for root in roots:
+        writer.writerows(root)

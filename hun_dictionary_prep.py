@@ -56,6 +56,9 @@ print(str(len(roots)) + " words remaining")
 #print roots[:100]
 print float(rootlength)/len(roots)
 
+#====================================================
+# write roots into a .csv file that can be an input to the transcriber
+#====================================================
 with open('hun_roots.csv', 'wb') as roots_csv:
     writer = csv.writer(roots_csv)
     for root in roots:

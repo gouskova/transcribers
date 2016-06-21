@@ -61,5 +61,4 @@ print float(rootlength)/len(roots)
 #====================================================
 with open('hun_roots.csv', 'wb') as roots_csv:
     writer = csv.writer(roots_csv)
-    for root in roots:
-        writer.writerows(root)
+    writer.writerows(zip(roots))

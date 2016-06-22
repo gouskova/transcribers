@@ -1,15 +1,22 @@
-#!usr/bin/env python2.7
-# encoding: utf8
+#!usr/bin/env python3
 # -*- coding: utf-8 -*
 
 # This is a script providing functions for transcribing a list of (lowercase) words written in Hungarian orthography into a UCLA Phonotactic Learner input, IPA and Minimal Generalization Learner input format. It incorporates phenomena like voicing assimilation, palatal assimilation and degemination.
+# =======================================================================
+# timing the script
+# =======================================================================
+#import time
+#start_time = time.time()
+
 
 # =======================================================================
 # basic housekeeping for the input. add spaces
 # =======================================================================
 def spacify(word):
-    uword = unicode(word, 'utf8')
-    chars = list(uword)
+    word = word.replace(word, str(word))
+    word = unicode(word, 'utf8')
+    low_word = word.lower()
+    chars = list(low_word)
     for char in chars:
         char = char.replace(char, char + ' ')
     word = " ".join(chars)
@@ -231,7 +238,9 @@ degem_pair = {
     u"rr": u"r",
     u"jj": u"j"}
 
-consonants = [u"p", u"b", u"t", u"d", u"T", u"D", u"k", u"g", u"c", u"q", u"C", u"Q", u"f", u"v", u"s", u"z", u"S", u"Z", u"h", u"m", u"n", u"N", u"l", u"r", u"j"]
+consonants = [u"p", u"b", u"t", u"d", u"T", u"D", u"k", u"g", u"c", u"q", u"C", u"Q", u"f", u"v", u"s", u"z", u"S",
+              u"Z", u"h", u"m", u"n", u"N", u"l", u"r", u"j"]
+
 
 def elim_geminates():
     gem_clusters = {}
@@ -241,19 +250,23 @@ def elim_geminates():
             gem_clusters[cons + " " + gem] = cons + " " + degem_pair[gem]
     return gem_clusters
 
+
 degem = elim_geminates()
+
 
 def degeminate(word):
     for cluster in degem.keys():
         word = word.replace(cluster, degem[cluster])
     return word
 
+
 # ===================================================
 # function transcribing UCLAPL input into IPA
 # ===================================================
 IPA_precleaning = {
     u"c": u"WW",
-    u"cc": u"WWWW"}
+    u"cc": u"WWWW",
+    u"a": u"XX"}
 
 def do_ipa_preclean(word):
     for char in IPA_precleaning.keys():
@@ -261,7 +274,7 @@ def do_ipa_preclean(word):
     return word
 
 IPA_corresp_long = {
-    u"aa": u"aː",
+    u"XXXX": u"aː",
     u"ee": u"eː",
     u"ii": u"iː",
     u"oo": u"oː",
@@ -295,7 +308,7 @@ IPA_corresp_long = {
     u"jj": u"jː"}
 
 IPA_corresp_short = {
-    u"a": u"ɒ",
+    u"XX": u"ɒ",
     u"e": u"ɛ",
     u"2": u"ø",
     u"T": u"c",
@@ -308,12 +321,73 @@ IPA_corresp_short = {
     u"Q": u"dʒ",
     u"N": u"ɲ"}
 
+
 def ipafy(word):
     for char in IPA_corresp_long.keys():
         word = word.replace(char, IPA_corresp_long[char])
     for char in IPA_corresp_short.keys():
         word = word.replace(char, IPA_corresp_short[char])
-    word = u"ˈ"+word.replace(" ", "")
+    word = u"ˈ" + word.replace(" ", "")
+    return word
+
+
+# ===================================================
+# function transcribing UCLAPL input into IPA
+# ===================================================
+mgl_corresp_vowel_palat_long = {
+    u"aa": u"A",
+    u"ee": u"E",
+    u"ii": u"I",
+    u"oo": u"O",
+    u"22": u"3",
+    u"uu": u"U",
+    u"yy": u"Y",
+    u"CC": u"X",
+    u"QQ": u"W",
+    u"TT": u")",
+    u"DD": u"]",
+    u"SS": u">",
+    u"ZZ": u"}",
+    u"NN": u"_"}
+
+mgl_corresp_vowel_palat_short = {
+    u"C": u"x",
+    u"Q": u"w",
+    u"T": u"(",
+    u"D": u"[",
+    u"S": u"<",
+    u"Z": u"{",
+    u"N": u"-"}
+
+mgl_corresp_reg_cons = {
+    u"pp": u"P",
+    u"bb": u"B",
+    u"tt": u"T",
+    u"dd": u"D",
+    u"kk": u"K",
+    u"gg": u"G",
+    u"qq": u"Q",
+    u"cc": u"C",
+    u"ff": u"F",
+    u"vv": u"V",
+    u"ss": u"S",
+    u"zz": u"Z",
+    u"hh": u"H",
+    u"mm": u"M",
+    u"nn": u"N",
+    u"rr": u"R",
+    u"ll": u"L",
+    u"jj": u"J"}
+
+
+def mglify(word):
+    for char in mgl_corresp_vowel_palat_long.keys():
+        word = word.replace(char, mgl_corresp_vowel_palat_long[char])
+    for char in mgl_corresp_vowel_palat_short.keys():
+        word = word.replace(char, mgl_corresp_vowel_palat_short[char])
+    for char in mgl_corresp_reg_cons.keys():
+        word = word.replace(char, mgl_corresp_reg_cons[char])
+    word = word.replace(" ", "")
     return word
 
 # ===================================================
@@ -332,10 +406,39 @@ def transcribe(word, IPA, MGL):
     if IPA == "yes":
         word = do_ipa_preclean(word)
         word = ipafy(word)
+    if MGL == "yes":
+        word = mglify(word)
+    return word
+
 
 # ===================================================
-# transcription of the list itself -- it needs a list of words as input, named wordlist
+# providing the list to be transcribed -- it needs a list of words as input, named wordlist
 # ===================================================
-#wordlist = ["bántsa", "szivárvány", "árvíztűrő", "tükörfúrógép"]
-#for word in wordlist:
-#    transcribe(word, "yes", "no")
+import csv
+
+wordlist = []
+with open('C:\Users\ildi\Dropbox\NYELVESZET\PROJECTS\Tiers\Transcriber_hun\hun_roots.csv') as f:
+    reader = csv.reader(f, delimiter="\t")
+    for row in reader:
+        wordlist.append(row[0])
+
+# ===================================================
+# the transcription itself with saving
+# ===================================================
+wordlist_trans = []
+for word in wordlist:
+    trans_word = transcribe(word, "no", "no")
+    wordlist_trans.append(trans_word)
+
+import codecs
+
+text_file = codecs.open("hun_UCLAPL_roots.txt", "w", "utf-8")
+#text_file = codecs.open("hun_IPA_roots.txt", "w", "utf-8")
+#text_file = codecs.open("hun_MGL_roots.txt", "w", "utf-8")
+for item in wordlist_trans:
+    text_file.write(item)
+    text_file.write("\n")
+text_file.close()
+
+#print wordlist_trans[0:100]
+#print("--- %s seconds ---" % (time.time() - start_time))

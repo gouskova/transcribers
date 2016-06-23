@@ -332,7 +332,7 @@ def ipafy(word):
 
 
 # ===================================================
-# function transcribing UCLAPL input into IPA
+# function transcribing UCLAPL input into MGL input format
 # ===================================================
 mgl_corresp_vowel_palat_long = {
     u"aa": u"A",

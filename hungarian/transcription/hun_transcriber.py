@@ -417,7 +417,7 @@ def transcribe(word, IPA, MGL):
 import csv
 
 wordlist = []
-with open('C:\Users\ildi\Dropbox\NYELVESZET\PROJECTS\Tiers\Transcriber_hun\hun_roots.csv') as f:
+with open('C:\Users\ildi\Dropbox\NYELVESZET\GitHub\transcribers\hungarian\preparation\hun_root_list.csv') as f:
     reader = csv.reader(f, delimiter="\t")
     for row in reader:
         wordlist.append(row[0])

@@ -15,7 +15,7 @@ digraphs = ["cs", "dz", "dzs", "gy", "ly", "ny", "sz", "ty", "zs", "á", "é", "
 digits = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0"]
 #banned_segments = [" ", ",", "-", "à", "ä"]
 
-with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_dict_SzAB.csv', encoding='utf-8') as f:
+with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/preparation/hun_dict_SzAB.csv', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter="\t")
     for row in reader:
         word = row[0]

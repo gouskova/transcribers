@@ -21,7 +21,7 @@ def make_flat_dict(infile):
 #====================================================
 
 import os
-workdir = os.path.expanduser("C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/")
+workdir = os.path.expanduser("C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/preparation/")
 os.chdir(workdir)
 
 import csv
@@ -29,23 +29,22 @@ wordlist = []
 rootlist = []
 rootlength = 0
 wordlength = 0
-with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_wordlist.csv', encoding='utf-8') as f:
+with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/preparation/hun_wordlist.csv', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter="\t")
     for row in reader:
         word = row[0]
         wordlength += len(word)
         wordlist.append(word.strip())
 
-with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_roots.csv', encoding='utf-8') as f:
+with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_root_list.csv', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter="\t")
     for row in reader:
         word = row[0]
         rootlength += len(word)
         rootlist.append(word.strip())
 
-
 bound_stems1 = []
-with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_bound_stems.csv', encoding='utf-8') as f:
+with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_bound_stems_automatic.csv', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter="\t")
     for row in reader:
         word = row[0]
@@ -70,25 +69,27 @@ prefix_banlist = make_flat_dict(prefix_banlist_file)
 suffix_banlist_file = open("hun_suffix_banlist.txt", 'r', encoding='utf-8')
 suffix_banlist = make_flat_dict(suffix_banlist_file)
 
-bound_stems2_file = open("hun_bound_stems_2.txt", 'r', encoding='utf-8')
+bound_stems2_file = open("hun_bound_stems_misc.txt", 'r', encoding='utf-8')
 bound_stems2 = make_flat_dict(bound_stems2_file)
 
+bound_stems3_file = open("hun_bound_stems_epenthetic.txt", 'r', encoding='utf-8')
+bound_stems3 = make_flat_dict(bound_stems3_file)
+
+stem_alternants = bound_stems1 + bound_stems2 + bound_stems3
+
 prefix_list = preverbs + prefixes
-super_prefix_list = prefix_list + wordlist + bound_stems1 + bound_stems2
+super_prefix_list = prefix_list + wordlist + stem_alternants
 
 suffix_list = derivational_suffixes + inflectional_suffixes
 super_suffix_list = suffix_list + wordlist
-super_duper_suffix_list = super_suffix_list + bound_stems1 + bound_stems2
+super_duper_suffix_list = super_suffix_list + stem_alternants
 
-#fake_suffixes = ['oda', 'dia', 'ha', 'ja', 'se', 'ne', 'le', 'de', 'ad', 'na', 'ma', 'la', 'tematika', 'ex', 'ú']
-# comment the line below out if you don't want to rule out derivative suffixes
-#suffixes = ['zat', 'zet', 'ság', 'ség', 'ó', 'ő', 'adék', 'omány', 'emény', 'os', 'es', 'ás', 'és', 'i']
 
 #====================================================
 # Filtering out compounds and derived words: fake_suffixes is a collection of "words" that as second parts result in fake positives for compounds
 #====================================================
+
 roots = []
-#rootlength = wordlength
 
 for word in rootlist:
     length = len(word)
@@ -97,7 +98,6 @@ for word in rootlist:
     for banned_prefix in prefix_banlist:
         if word.startswith(banned_prefix):
             roots.remove(word)
-            #rootlength = rootlength - length
             print("\t\t banned_prefix")
             break
     if word in roots:
@@ -105,7 +105,6 @@ for word in rootlist:
         for banned_suffix in suffix_banlist:
             if word.endswith(banned_suffix):
                 roots.remove(word)
-                #rootlength = rootlength - length
                 print("\t\t banned_suffix")
                 break
     if word in roots:
@@ -115,7 +114,6 @@ for word in rootlist:
             morph2a = word[m:length+1]
             if morph1a in super_prefix_list and morph2a in super_suffix_list:
                 roots.remove(word)
-                #rootlength = rootlength - length
                 print("\t\t dimorphemic")
                 break
     if word in roots:
@@ -129,7 +127,6 @@ for word in rootlist:
                 morph3b = word[o:length+1]
                 if morph1b in super_prefix_list and morph2b in super_duper_suffix_list and morph3b in super_suffix_list:
                     roots.remove(word)
-                    #rootlength = rootlength - length
                     print("\t\t trimorphemic")
                     find = True
                     break
@@ -149,6 +146,6 @@ print(float(rootlength)/len(roots))
 # write roots into a .csv file that can be an input to the transcriber
 #====================================================
 
-with open('hun_roots_point_2.csv', 'w', newline='', encoding='utf-8') as roots_csv:
+with open('hun_roots.csv', 'w', newline='', encoding='utf-8') as roots_csv:
     writer = csv.writer(roots_csv)
     writer.writerows(zip(roots))

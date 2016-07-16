@@ -3,6 +3,17 @@
 
 #this module supplies functions and options for converting Russian Cyrillic into IPA, with or without voicing rules and unstressed vowel reduction as in the standard (Moscow) dialect. It will also convert the orthography to a pseudotranscription compatible with the Minimal Generalization Learner as well as the UCLA Phonotactic Learner.
 
+#the module is compatible with morpheme boundary marking as in Tikhonov's dictionary (corrections by Maria Gouskova and Alex Torchio), which we distribute as russian_morphology_dictionary.txt. Morpheme boundaries "/" are replaced with pipes "|" after transcription; this happens in the spacify function and the rest of the module just assumes pipes as boundaries.
+
+#note: several other modules rely on this one. You can copy it to the directory where the dependency is going to look for it, or else copy it to the appropriate sys.path(). On my system, the following steps located the relevant place:
+
+#>>> import sys
+#>>> print(sys.path())
+#/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5
+
+# $ cp transcriber_russ.py /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/
+
+
 #=======================================================================
 # basic housekeeping for the input. add spaces, define some stress digraphs
 #=======================================================================
@@ -14,6 +25,7 @@ def spacify(word):
 	word =" ".join(chars)
 	word = word.replace(" '", "'")
 	word = word.replace(" `", "`")
+	word = word.replace(" /", " |")
 	return word
 
 
@@ -106,14 +118,19 @@ velarized = contrastive+always_velarized
 #three separate functions for different desired levels of stress in the output.
 #=======================================================================
 
+
 def nostress_vowels(word):
 	"""Removes stress from the transcription, returns orthographic vowel values in IPA"""
 	word = word+" "
 	word = word.replace("'","").replace("`","")
 	word = word.replace("ь и", "ʲ j i")
 	word = word.replace("и", "ʲ i")
+	word = word.replace("ь | и", "ʲ | j i")
+	word = word.replace("| и", "ʲ | i")
 	for vowel in cyr_ipa_vowels_nostr.keys():
-		word = word.replace(vowel+" ʲ i", cyr_ipa_vowels_nostr[vowel]+ " i") 
+		word = word.replace(vowel+" ʲ | i", cyr_ipa_vowels_nostr[vowel]+ " | i") 
+		word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
+		word = word.replace(vowel+" ʲ | i", cyr_ipa_vowels_nostr[vowel]+ " | i") 
 		word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
 	word=word.replace("j o'", "j o")
 	word=word.lstrip("ʲ ")
@@ -126,6 +143,8 @@ def twoway_vowels(word):
 	word = word.replace("`", "") #just remove sec stress, don't treat it as primary
 	word = word.replace("ь и", "ʲ j i")
 	word = word.replace("и", "ʲ i")
+	word = word.replace("ь | и", "ʲ | j i")
+	word = word.replace("| и", "ʲ | i")
 	for vowel in cyr_ipa_vowels_nostr.keys():
 		word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
 	for vowel in ipa_vowels_str.keys():
@@ -140,7 +159,9 @@ def threeway_vowels(word):
 	"""Keeps all three levels of stress: primary as acute, secondary as grave, and unstressed"""
 	word = word+" "
 	word = word.replace("ь и", "ʲ j i")
+	word = word.replace("ь | и", "ʲ | j i")
 	word = word.replace("и", "ʲ i")
+	word = word.replace("| и", "ʲ | i")
 	for vowel in cyr_ipa_vowels_nostr.keys():
 		word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
 	for vowel in ipa_vowels_str.keys():
@@ -153,7 +174,7 @@ def threeway_vowels(word):
 	return word.strip()
 
 #=======================================================================
-# palatalization. this function requires the output of one of the vowels functions above
+# palatalization. this function requires the output of one of the vowels functions above.
 #=======================================================================
 		
 def palatalize(word):
@@ -161,6 +182,7 @@ def palatalize(word):
 	word=word.replace("ь", "ʲ")
 	for cons in float_pal:
 		word = word.replace(cons+" j", cons+"ʲ")
+		word = word.replace(cons+"| j", cons+"ʲ |")
 	for cons in always_velarized:
 		word = word.replace(cons+" j", cons)
 		word = word.replace(cons+"ʲ", cons)
@@ -168,6 +190,8 @@ def palatalize(word):
 		word = word.replace(cons+" ", cons+"ʲ")
 	word=word.replace("ʲ ʲ", "ʲ")
 	word=word.replace("ʲʲ", "ʲ")
+	word=word.replace("ʲ | ʲ", "ʲ |")
+	word=word.replace("ʲ | j", " ʲ |")
 	word=word.replace(" ʲ", "ʲ")
 	word=word.replace("ъ ", "")
 	word=word.replace("й", "j")

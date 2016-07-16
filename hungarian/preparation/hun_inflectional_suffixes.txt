@@ -7,3 +7,5 @@ nk, unk, ünk
 úak, űek
 ak, ek, ok, ök, k
 ban, ben
+ott, ött, t
+i

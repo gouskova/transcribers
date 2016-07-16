@@ -3,6 +3,7 @@ ság, ség
 ó, ő
 ú, ű
 adék, edék
+ék
 alék, elék
 aték, eték
 omány, emény
@@ -30,6 +31,7 @@ bb, obb, ebb, abb
 onc, önc
 ad, ed
 kod, ked, köd
+od, ed, öd
 ag, eg
 lag, leg
 ólag, őleg
@@ -44,10 +46,13 @@ gat, get
 gál, gél
 dogál, degél, dögél
 kál, kél
+ul, ül
+ódik, ődik
 alog, eleg
 ilag, ileg
 lag, leg
 asság, esség, osság, ésség, sság, sség, vesség, attság, ettség, ottság, öttség, úság, űség
+séges, ságos, ességes, asságos, osságos
 ig, dig
 ong, öng
 jancsi
@@ -67,5 +72,9 @@ tában, tében
 atag, eteg
 any, eny
 ász, ész
-oz, az, ez, öz
-ozik, azik, ezik, özik
+oz, az, ez, öz, áz, éz, z
+ozik, azik, ezik, özik, ázik, ézik, zik
+odik, edik, ödik
+kodik, kedik, ködik
+lat, let
+ászat, észet

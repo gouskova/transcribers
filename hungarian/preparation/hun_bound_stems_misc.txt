@@ -22,6 +22,7 @@ ir
 hid
 in
 nyil
+vig
 viz
 rív
 buj
@@ -30,6 +31,7 @@ döl
 falv
 darv
 tetv
+hamv
 husz
 kut
 lud
@@ -97,7 +99,5 @@ kanal
 fonal
 darazs
 parazs
-terh
-kelyh
-pelyh
-bolyh
+idej
+körny

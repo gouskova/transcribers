@@ -30,3 +30,7 @@ bio
 di
 kontakt
 leg
+utó
+tám
+fegy
+ön

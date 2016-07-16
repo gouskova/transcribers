@@ -10,7 +10,7 @@
 def make_flat_dict(infile):
     dictionary=[]
     for line in infile:
-        morph_soup=line.strip('\n').split(',')
+        morph_soup=line.strip('\n').split(', ')
         for morph in morph_soup:
             dictionary.append(morph)
     return dictionary
@@ -36,7 +36,7 @@ with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/prepar
         wordlength += len(word)
         wordlist.append(word.strip())
 
-with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_root_list.csv', encoding='utf-8') as f:
+with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/preparation/hun_roots.csv', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter="\t")
     for row in reader:
         word = row[0]
@@ -44,7 +44,7 @@ with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_ro
         rootlist.append(word.strip())
 
 bound_stems1 = []
-with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/hun_bound_stems_automatic.csv', encoding='utf-8') as f:
+with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/preparation/hun_bound_stems_automatic.csv', encoding='utf-8') as f:
     reader = csv.reader(f, delimiter="\t")
     for row in reader:
         word = row[0]
@@ -91,15 +91,24 @@ super_duper_suffix_list = super_suffix_list + stem_alternants
 
 roots = []
 
-for word in rootlist:
+for word in wordlist:
     length = len(word)
     roots.append(word)
     print(word)
-    for banned_prefix in prefix_banlist:
-        if word.startswith(banned_prefix):
+    if len(word) > 9:
+        roots.remove(word)
+    if word in roots:
+        for banned_prefix in prefix_banlist:
+            if word.startswith(banned_prefix):
+                roots.remove(word)
+                print("\t\t banned_prefix")
+                break
+
+    if word in roots:
+        if "x" in word:
             roots.remove(word)
-            print("\t\t banned_prefix")
-            break
+            print("\t\t x")
+
     if word in roots:
         #print(word)
         for banned_suffix in suffix_banlist:
@@ -107,6 +116,7 @@ for word in rootlist:
                 roots.remove(word)
                 print("\t\t banned_suffix")
                 break
+
     if word in roots:
         #print(word)
         for m in range(0,length):
@@ -116,6 +126,7 @@ for word in rootlist:
                 roots.remove(word)
                 print("\t\t dimorphemic")
                 break
+
     if word in roots:
         #print(word)
         find = False

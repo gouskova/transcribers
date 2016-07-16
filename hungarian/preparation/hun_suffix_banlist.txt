@@ -84,7 +84,7 @@ kés
 atás, etés
 ozás, azás, ezés
 ns
-ós, ős
+ós, ős	
 bus, dus, fus, ius, zmus, nus, szus, tus, zus
 isz
 rusz
@@ -93,6 +93,15 @@ rgat, rget
 lat
 óztat, őztet
 ozat, özet
-dt
+d
 get
 ászat, észet
+almas, elmes
+almasság, elmesség
+szerű
+ként
+sszív, tív, lzív, nzív
+ay, dy, ky, oy, ry
+ázs, ézs, ízs
+ió
+ikál, ilál, urál

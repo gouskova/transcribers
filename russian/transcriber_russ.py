@@ -13,6 +13,8 @@
 
 # $ cp transcriber_russ.py /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/
 
+import re
+
 
 #=======================================================================
 # basic housekeeping for the input. add spaces, define some stress digraphs
@@ -115,7 +117,7 @@ float_pal = always_palatalized+contrastive
 velarized = contrastive+always_velarized
 
 #=======================================================================
-#three separate functions for different desired levels of stress in the output.
+#three separate functions for different desired levels of stress in the output. we deal with и first since it changes its meaning by context in a way that other palatalazing letters do not. morpheme boundary handling has been added; in most cases, if a consonant is separated by a morpheme boundary from the following palatalizing vowel letter, it still gets palatalized.
 #=======================================================================
 
 
@@ -124,27 +126,26 @@ def nostress_vowels(word):
 	word = word+" "
 	word = word.replace("'","").replace("`","")
 	word = word.replace("ь и", "ʲ j i")
-	word = word.replace("и", "ʲ i")
-	word = word.replace("ь | и", "ʲ | j i")
 	word = word.replace("| и", "ʲ | i")
+	word = word.replace("ь | и", "ʲ | j i")
+	word = word.replace("и", "ʲ i")
 	for vowel in cyr_ipa_vowels_nostr.keys():
 		word = word.replace(vowel+" ʲ | i", cyr_ipa_vowels_nostr[vowel]+ " | i") 
 		word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
-		word = word.replace(vowel+" ʲ | i", cyr_ipa_vowels_nostr[vowel]+ " | i") 
-		word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
+	# fix ё --> jo' last
 	word=word.replace("j o'", "j o")
 	word=word.lstrip("ʲ ")
 	return word.strip()
 
 
 def twoway_vowels(word):
-	"""	Keeps two levels of stress: primary and unstressed (collapsing secondary stress--if present-- with unstressed)."""
+	""" Keeps two levels of stress: primary and unstressed (collapsing secondary stress--if present-- with unstressed)."""
 	word = word+" "
 	word = word.replace("`", "") #just remove sec stress, don't treat it as primary
 	word = word.replace("ь и", "ʲ j i")
-	word = word.replace("и", "ʲ i")
 	word = word.replace("ь | и", "ʲ | j i")
 	word = word.replace("| и", "ʲ | i")
+	word = word.replace("и", "ʲ i")
 	for vowel in cyr_ipa_vowels_nostr.keys():
 		word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
 	for vowel in ipa_vowels_str.keys():
@@ -160,8 +161,8 @@ def threeway_vowels(word):
 	word = word+" "
 	word = word.replace("ь и", "ʲ j i")
 	word = word.replace("ь | и", "ʲ | j i")
-	word = word.replace("и", "ʲ i")
 	word = word.replace("| и", "ʲ | i")
+	word = word.replace("и", "ʲ i")
 	for vowel in cyr_ipa_vowels_nostr.keys():
 		word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
 	for vowel in ipa_vowels_str.keys():
@@ -174,24 +175,27 @@ def threeway_vowels(word):
 	return word.strip()
 
 #=======================================================================
-# palatalization. this function requires the output of one of the vowels functions above.
+# palatalization. this function requires the output of one of the vowels functions above. is a bit clunky atm, too lazy to fix w regex
 #=======================================================================
-		
+
+
 def palatalize(word):
-	"""Fixes palatalization, which Cyrillic indicates inconsistently both on the vowel and on the consonant letters. Does not show velarization"""
+	"""Fixes palatalization, which Cyrillic indicates inconsistently both on the vowel and on the consonant letters. Does not show velarization. Deal with it."""
 	word=word.replace("ь", "ʲ")
 	for cons in float_pal:
+		word = word.replace(cons+"| j", cons+"j |")
 		word = word.replace(cons+" j", cons+"ʲ")
-		word = word.replace(cons+"| j", cons+"ʲ |")
 	for cons in always_velarized:
+		word = word.replace(cons+" ʲ", cons)
+		word = word.replace(cons+ " | j", cons + " |")
 		word = word.replace(cons+" j", cons)
-		word = word.replace(cons+"ʲ", cons)
 	for cons in always_palatalized:
 		word = word.replace(cons+" ", cons+"ʲ")
-	word=word.replace("ʲ ʲ", "ʲ")
-	word=word.replace("ʲʲ", "ʲ")
 	word=word.replace("ʲ | ʲ", "ʲ |")
 	word=word.replace("ʲ | j", " ʲ |")
+	word=word.replace("j |", "ʲ |")
+	word=word.replace("ʲ ʲ", "ʲ")
+	word=word.replace("ʲʲ", "ʲ")
 	word=word.replace(" ʲ", "ʲ")
 	word=word.replace("ъ ", "")
 	word=word.replace("й", "j")

@@ -26,7 +26,7 @@ with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/prepar
         #word = word.replace('3', '')
         #word = word.replace('4', '')
         #word = word.replace('5', '')
-        if word not in wordlist and not (word.startswith("leg") and word.endswith("bb")) and len(word) > 1 and word not in digraphs and " " not in word and "," not in word and "-" not in word and "à" not in word and "ä" not in word and "’" not in word and "." not in word:
+        if word not in wordlist and not (word.startswith("leg") and word.endswith("bb")) and len(word) > 1 and word not in digraphs and " " not in word and "," not in word and "-" not in word and "à" not in word and "ä" not in word and "’" not in word and "." not in word and "(" not in word and ")" not in word:
             if word.endswith("a"):
                 alternant = word[0:len(word)-1]+"á"
                 bound_stems.append(alternant)

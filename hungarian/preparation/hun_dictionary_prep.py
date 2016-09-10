@@ -26,7 +26,7 @@ with open('C:/Users/ildi/Dropbox/NYELVESZET/GitHub/transcribers/hungarian/prepar
         #word = word.replace('3', '')
         #word = word.replace('4', '')
         #word = word.replace('5', '')
-        if word not in wordlist and not (word.startswith("leg") and word.endswith("bb")) and len(word) > 1 and word not in digraphs and " " not in word and "," not in word and "-" not in word and "à" not in word and "ä" not in word:
+        if word not in wordlist and not (word.startswith("leg") and word.endswith("bb")) and len(word) > 1 and word not in digraphs and " " not in word and "," not in word and "-" not in word and "à" not in word and "ä" not in word and "’" not in word and "." not in word:
             if word.endswith("a"):
                 alternant = word[0:len(word)-1]+"á"
                 bound_stems.append(alternant)
@@ -53,6 +53,6 @@ with open('hun_wordlist.csv', 'w', encoding='utf-8', newline='') as wordlist_csv
     writer = csv.writer(wordlist_csv)
     writer.writerows(zip(wordlist))
 
-with open('hun_bound_stems.csv', 'w', encoding='utf-8', newline='') as bound_stems_csv:
+with open('hun_bound_stems_automatic.csv', 'w', encoding='utf-8', newline='') as bound_stems_csv:
     writer = csv.writer(bound_stems_csv)
     writer.writerows(zip(bound_stems))

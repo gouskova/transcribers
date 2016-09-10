@@ -16,7 +16,7 @@ g o r o m b a
 o t r o m b a
 s o b a
 o S t o b a
-a m 22 b a
+a m OO b a
 C o r b a
 b u b a
 g u b a
@@ -56,7 +56,7 @@ k a p c a
 b aa r c a
 t aa r c a
 o r c a
-u t c a
+u cc a
 b u c a
 c u c a
 p u c a
@@ -207,7 +207,7 @@ c i h a
 l a j h a
 s a j h a
 b o l h a
-k aa l i h a
+k aa j h a
 l a N h a
 k o N h a
 d u N h a
@@ -275,7 +275,7 @@ j u kk a
 p a l k a
 p o l k a
 c ee d u l k a
-p u l i k a
+p u j k a
 p o h aa n k a
 C i n k a
 p i n k a
@@ -414,28 +414,28 @@ u v u l a
 g uu l a
 d e v l a
 g u z l a
-g aa l i a
-p aa l i a
-Z aa l i a
-s a b l i a
-m aa g l i a
-b o g l i a
-C aa k l i a
-f aa k l i a
-C u k l i a
-i b o l i a
-r i g o l i a
-r o k o l i a
-k o p o l i a
-d a t o l i a
-g oo l i a
-k oo l i a
-p oo l i a
-S oo l i a
-g u l i a
-m u l i a
-p u l i a
-f u r u l i a
+g aa j a
+p aa j a
+Z aa j a
+s a b j a
+m aa g j a
+b o g j a
+C aa k j a
+f aa k j a
+C u k j a
+i b o j a
+r i g o j a
+r o k o j a
+k o p o j a
+d a t o j a
+g oo j a
+k oo j a
+p oo j a
+S oo j a
+g u j a
+m u j a
+p u j a
+f u r u j a
 m a
 b l a m a
 p a n a m a
@@ -465,7 +465,7 @@ f o r m a
 n o r m a
 D u r m a
 t u r m a
-j aa c m a
+j aa cc m a
 f i T m a
 t r a u m a
 C u m a
@@ -666,7 +666,7 @@ b o k S a
 k aa p S a
 b u S a
 k a T u S a
-a dt s a
+a cc a
 l ee s a
 k a j s a
 b u k s a
@@ -779,9 +779,9 @@ k o n g r u a
 D aa v a
 d u d v a
 m uu l v a
-m aa l i v a
-p e l i v a
-g o l i v a
+m aa j v a
+p e j v a
+g o j v a
 p aa N v a
 p o N v a
 h a d o v a
@@ -798,7 +798,7 @@ d u r v a
 k u r v a
 m u r v a
 S v a
-j aa c v a
+j aa cc v a
 d r a t v a
 h i v a t v a
 b o r o t v a
@@ -826,7 +826,6 @@ m uu Z a
 b aa
 t o v aa bb aa
 C aa
-b o C aa ’
 d aa d aa
 r e aa
 g ee h aa
@@ -866,9 +865,9 @@ S v aa b
 k i jj e bb
 s e bb
 j o bb
-t 2 bb
+t O bb
 e b
-g 2 r e b
+g O r e b
 S e b
 r o S S e b
 v e b
@@ -883,17 +882,17 @@ g o m b
 l o m b
 c o u l o m b
 d o r o m b
-g 2 m b
-t 2 m b
-k y l 2 n b
+g O m b
+t O m b
+k y l O n b
 b o b
 d o b
 l o b
 s n o b
 g a r d r oo b
-g 2 b
-k 2 b
-k y s 2 b
+g O b
+k O b
+k y s O b
 s e r b
 s o r b
 S t a u b
@@ -932,7 +931,7 @@ p u cc
 t r u cc
 S t r u cc
 j e g e c
-d 2 b l e c
+d O b l e c
 k e c m e c
 e N e c
 N e N e c
@@ -1008,9 +1007,9 @@ k o n c
 l o n c
 k o l o n c
 p o n c
-g 2 n c
-b 2 h 2 n c
-k 2 l 2 n c
+g O n c
+b O h O n c
+k O l O n c
 aa r b o c
 p o c
 g o m b oo c
@@ -1024,10 +1023,10 @@ k a n oo c
 p oo c
 d a r oo c
 p o k r oo c
-g 2 m b 2 c
-t 2 m l 2 c
-D e r k 22 c
-t e k n 22 c
+g O m b O c
+t O m l O c
+D e r k OO c
+t e k n OO c
 a r c
 k u d a r c
 h a r c
@@ -1052,7 +1051,7 @@ S i p i r c
 k o r c
 m o r c
 p o r c
-p 2 r c
+p O r c
 m u f u r c
 S k u r c
 S u r c
@@ -1070,7 +1069,7 @@ l a b d a C
 r a g a C
 t r a g a C
 k a C
-l i u k a C
+j u k a C
 k u l a C
 p a m a C
 a p a C
@@ -1105,16 +1104,16 @@ r e CC
 f i CC
 g i CC
 p r i CC
-f r 2 CC
+f r O CC
 f u CC
 C y CC
 b e C
-g 2 b e C
+g O b e C
 C e C
 s e g e C
 k e C
-2 n t e C
-k 2 v e C
+O n t e C
+k O v e C
 b e r b ee C
 m ee C
 g ee b i C
@@ -1129,8 +1128,8 @@ p a t i C
 k a v i C
 s p ii C
 D o l C
-b 2 l C
-e r k 2 l C
+b O l C
+e r k O l C
 k u l C
 d a n C
 a g a n C
@@ -1144,7 +1143,7 @@ r o v a n C
 g aa n C
 b o g aa n C
 h aa n C
-r 2 h e n C
+r O h e n C
 k i n C
 b i l i n C
 k i l i n C
@@ -1154,20 +1153,20 @@ S i n C
 S o S i n C
 t i n C
 r o n C
-l 2 n C
+l O n C
 p u n C
 b o C
 v a r k o C
 k a p o C
 s a t oo C
-2 C
-g 2 C
-p 2 C
-l 22 C
-k e n 22 C
+O C
+g O C
+p O C
+l OO C
+k e n OO C
 t e k e r C
 b i b i r C
-g 2 r C
+g O r C
 b o r S C
 k u k u C
 p a p u C
@@ -1180,7 +1179,7 @@ b e
 g e b e
 b i b e
 C i b e
-g 2 r b e
+g O r b e
 t y r b e
 i cc e
 r e c e c e
@@ -1200,15 +1199,15 @@ m e l e n c e
 k e m e n c e
 r e n c e
 p i n c e
-h e r 22 c e
-v e r 22 c e
-k e s 22 c e
+h e r OO c e
+v e r OO c e
+k e s OO c e
 k e l e p c e
 r e p c e
 d e r c e
 j ee r c e
 m ee r c e
-2 CC e
+O CC e
 u CC e
 d e
 i d e
@@ -1216,10 +1215,10 @@ e m i d e
 b l e n d e
 c e m e n d e
 t y n d e
-r 2 b d e
+r O b d e
 f e r d e
 y d e
-t 22 Z d e
+t OO Z d e
 k e f e
 n i f e
 C e g e
@@ -1230,12 +1229,12 @@ b i g e
 v e N i g e
 D e n g e
 Z e n g e
-z 2 n g e
+z O n g e
 C e r g e
 k e r g e
 z e r g e
-C 2 r g e
-p 2 r g e
+C O r g e
+p O r g e
 y r g e
 b y r g e
 f y r g e
@@ -1251,14 +1250,14 @@ h e
 g o u a h e
 v e m h e
 r e N h e
-g 2 r h e
+g O r h e
 C y r h e
 i u pp i e
 c u r i e
 l e p k e
 l e c k e
 f e C k e
-s 2 C k e
+s O C k e
 e k e
 b r e k e k e
 z e k e
@@ -1268,13 +1267,13 @@ r i z i k e
 f y z i k e
 p i l i n k e
 S t r o k e
-2 s t 2 k e
-c e l 22 k e
-r 2 p k e
+O s t O k e
+c e l OO k e
+r O p k e
 j e r k e
 S e r k e
 C i r k e
-y k 2 r k e
+y k O r k e
 D y r k e
 s y r k e
 b y s k e
@@ -1294,17 +1293,17 @@ l i l e
 C i ll e
 p i ll e
 j o ll e
-d 2 d 2 ll e
+d O d O ll e
 Z e m l e
 g e r l e
 p i t l e
 j o u l e
 p u z l e
-d e r e l i e
-e r e k l i e
-Z 2 ll i e
-g 2 d 2 l i e
-h y l i e
+d e r e j e
+e r e k j e
+Z O jj e
+g O d O j e
+h y j e
 r a g t i m e
 n e
 d o m i n e
@@ -1318,7 +1317,7 @@ e j N e
 h e j N e
 d i NN e
 h i NN e
-b 22 N e
+b OO N e
 g e r N e
 p e r N e
 b e n z o e
@@ -1327,8 +1326,8 @@ k e p e
 r e c i p e
 p i p e
 C e m p e
-t 2 m p e
-t 2 r p e
+t O m p e
+t O r p e
 l u p e
 r e
 b l i n d r e
@@ -1338,12 +1337,12 @@ k e T e r e
 c e f r e
 a v ee g r e
 e v ee g r e
-b 2 g r e
+b O g r e
 e m p i r e
 m o r e
-d 22 r e
-p 22 r e
-S 22 r e
+d OO r e
+p OO r e
+S OO r e
 u p r e
 a m e rr e
 e m e rr e
@@ -1359,7 +1358,7 @@ C ee s e
 p i s e
 f e j s e
 v e j s e
-p 2 s e
+p O s e
 v e p s e
 p e r s e
 m e ss e
@@ -1373,18 +1372,18 @@ p e t e
 p i t e
 f e k t e
 a n d a n t e
-k 2 l 2 n t e
+k O l O n t e
 s yy n t e
 l e t yy n t e
-g 22 t e
-g e N 22 t e
-C e p 22 t e
-r 2 p t e
+g OO t e
+g e N OO t e
+C e p OO t e
+r O p t e
 aa p e r t e
 f o r t e
-C 2 r t e
-j 2 s t e
-j 2 tt e
+C O r t e
+j O s t e
+j O tt e
 f o n d u e
 aa v e
 m e d v e
@@ -1393,12 +1392,12 @@ k ee v e
 g e z e
 C o z e
 m o r z e
-b 2 r z e
+b O r z e
 Z e Z e
-r 22 Z e
+r OO Z e
 b ee
 aa b ee
-t 2 bb ee
+t O bb ee
 aa b ee c ee
 t ee b ee c ee
 v ee c ee
@@ -1416,9 +1415,9 @@ p a r f ee
 b y f ee
 ee k aa g ee
 e l ee gg ee
-m 2 g ee
-a m 2 g ee
-e m 2 g ee
+m O g ee
+a m O g ee
+e m O g ee
 S u r D ee
 h ee
 p s i h ee
@@ -1435,12 +1434,12 @@ o jj ee
 u jj ee
 s a k ee
 p i k ee
-2 r 2 kk ee
+O r O kk ee
 o k ee
 Z o k ee
 b u k ee
 l ee
-p 2 n aa l ee
+p O n aa l ee
 p a u S aa l ee
 r i t u aa l ee
 d u b l ee
@@ -1455,7 +1454,7 @@ b u k l ee
 m e ll ee
 n i m o l ee
 b oo l ee
-f 2 l ee
+f O l ee
 p a r a p l ee
 k u p l ee
 l a m ee
@@ -1492,8 +1491,8 @@ C oo r ee
 g oo r ee
 l oo r ee
 p oo r ee
-k 2 r ee
-e k 2 r ee
+k O r ee
+e k O r ee
 t r ee
 p y r ee
 l i v r ee
@@ -1513,13 +1512,13 @@ r o r aa t ee
 v a r i e t ee
 k e tt ee
 h a b i t y ee
-2 v ee
+O v ee
 uu v ee
 e D y v ee
 i z ee
 r o z ee
-k 2 z ee
-QQ 2 r z ee
+k O z ee
+QQ O r z ee
 r e k u z ee
 e zz ee
 Z ee
@@ -1542,8 +1541,8 @@ t r e ff
 s k i ff
 S e r i ff
 g r i ff
-b l 2 ff
-p 2 ff
+b l O ff
+p O ff
 m u ff
 p u ff
 p y ff
@@ -1551,7 +1550,7 @@ a p o k r i f
 h a l f
 g u e l f
 g o l f
-d 2 l i f
+d O j f
 p i m f
 t r o m f
 p o f
@@ -1560,12 +1559,12 @@ c e r k oo f
 k u g l oo f
 g r oo f
 S r oo f
-d 2 f
-r 22 f
+d O f
+r OO f
 c o p f
 a m o r f
 i z o m o r f
-s 2 r f
+s O r f
 t u r f
 C uu f
 k a c a g
@@ -1580,7 +1579,7 @@ p a m l a g
 p a r l a g
 S l a g
 m a s l a g
-h oo l i a g
+h oo j a g
 m a g
 p a C m a g
 C o m a g
@@ -1622,18 +1621,18 @@ m e k e g
 N e k e g
 b r e k e g
 ee d e l e g
-22 D e l e g
+OO D e l e g
 m e l e g
 e N e l e g
 b i ll e g
 S e r l e g
-b ee l i e g
+b ee j e g
 m e g
 p e T m e g
 b a z m e g
 Z i n e g
 Z e N e g
-s 22 N e g
+s OO N e g
 C e p e g
 s e p e g
 S i p e g
@@ -1642,8 +1641,8 @@ l e pp e g
 S e pp e g
 r e g
 t u a r e g
-2 r e g
-S 22 r e g
+O r e g
+S OO r e g
 b e rr e g
 h e rr e g
 C i rr e g
@@ -1725,13 +1724,13 @@ k a t aa n g
 C e n g
 t e r j e n g
 l e n g
-2 m l e n g
+O m l e n g
 s l e n g
 p e n g
 r e n g
 k e r e n g
 m e r e n g
-t 2 p r e n g
+t O p r e n g
 f e t r e n g
 e S e n g
 v e r S e n g
@@ -1751,7 +1750,7 @@ m i S l i n g
 r i z l i n g
 l e mm i n g
 k e m p i n g
-d 2 m p i n g
+d O m p i n g
 d o pp i n g
 r i n g
 k e r i n g
@@ -1776,8 +1775,8 @@ d o r o n g
 s o r o n g
 v i S o n g
 Z o n g
-d 2 n g
-22 r j 2 n g
+d O n g
+OO r j O n g
 aa n d u n g
 v e r d u n g
 d e c k u n g
@@ -1856,11 +1855,11 @@ b aa j o l o g
 p aa r o l o g
 t a S l o g
 p i S l o g
-h aa l i o g
-t aa l i o g
-v aa l i o g
-b o l i o g
-aa m o l i o g
+h aa j o g
+t aa j o g
+v aa j o g
+b o j o g
+aa m o j o g
 c a mm o g
 m a mm o g
 N aa mm o g
@@ -1950,61 +1949,61 @@ h o m o l oo g
 m o n o l oo g
 aa n S l oo g
 f e r S l oo g
-d y b 2 g
-c 2 c 2 g
-d 2 c 2 g
-g 2 c 2 g
-C 2 g
-k 2 C 2 g
-f r 2 C 2 g
-h 2 r C 2 g
-d 2 g
-d 2 d 2 g
-2 r d 2 g
-b 2 f 2 g
-p 2 f 2 g
-r 2 f 2 g
-t 2 f 2 g
-g y D 2 g
-k 2 h 2 g
-r 2 h 2 g
-N 2 k 2 g
-z 2 k 2 g
-g 22 z 2 l 2 g
-b yy z 2 l 2 g
-h y mm 2 g
-z y mm 2 g
-d 2 r m 2 g
-d 2 n 2 g
-N 2 g
-d y NN 2 g
-h y pp 2 g
-r 2 g
-h 22 b 2 r 2 g
-d y b 2 r 2 g
-C 2 r 2 g
-y C 2 r 2 g
-d 2 r 2 g
-g 2 r 2 g
-h 2 r 2 g
-p 2 r 2 g
-z 2 r 2 g
-d y r 2 g
-S y r 2 g
-s 2 g
-t y ss 2 g
-y s 2 g
-p 2 n T 2 g
-l 2 T 2 g
-p 2 T 2 g
-r 2 T 2 g
-t 2 T 2 g
-z 2 T 2 g
-p 22 T 2 g
-f y TT 2 g
-N y Z 2 g
-b 22 g
-g 22 g
+d y b O g
+c O c O g
+d O c O g
+g O c O g
+C O g
+k O C O g
+f r O C O g
+h O r C O g
+d O g
+d O d O g
+O r d O g
+b O f O g
+p O f O g
+r O f O g
+t O f O g
+g y D O g
+k O h O g
+r O h O g
+N O k O g
+z O k O g
+g OO z O l O g
+b yy z O l O g
+h y mm O g
+z y mm O g
+d O r m O g
+d O n O g
+N O g
+d y NN O g
+h y pp O g
+r O g
+h OO b O r O g
+d y b O r O g
+C O r O g
+y C O r O g
+d O r O g
+g O r O g
+h O r O g
+p O r O g
+z O r O g
+d y r O g
+S y r O g
+s O g
+t y ss O g
+y s O g
+p O n T O g
+l O T O g
+p O T O g
+r O T O g
+t O T O g
+z O T O g
+p OO T O g
+f y TT O g
+N y Z O g
+b OO g
+g OO g
 e r g
 h u m b u g
 d u g
@@ -2038,7 +2037,7 @@ j e D
 k e D
 m e D
 s e D
-2 z v e D
+O z v e D
 l ee D
 n ee D
 m e DD
@@ -2048,21 +2047,21 @@ i r i D
 m i r i D
 ii D
 e m ii D
-h 2 l D
-t 2 l D
-v 2 l D
+h O l D
+t O l D
+v O l D
 l a n D
 v a r a n D
 aa n D
 r o n D
 t o r o n D
-D 2 n D
-g 2 r 2 n D
+D O n D
+g O r O n D
 f o D
 h o D
 a h o D
 r o D
-t 22 D
+t OO D
 t aa r D
 uu D
 h uu D
@@ -2096,7 +2095,7 @@ p l ee h
 m ee h
 p o s m ee h
 p i h
-b o l i h
+b o j h
 e N h
 d o h
 m o h
@@ -2122,9 +2121,9 @@ m o l d v a i
 r a bb i
 h o bb i
 l o bb i
-S a t 2 bb i
+S a t O bb i
 b ee b i
-r 2 g b i
+r O g b i
 b i b i
 a l i b i
 l a j b i
@@ -2160,8 +2159,8 @@ f o c i
 h o c i
 s o c i
 l i n k oo c i
-k 2 r m 2 c i
-n 22 c i
+k O r m O c i
+n OO c i
 h a p c i
 m a r c i
 m u r c i
@@ -2190,7 +2189,7 @@ f r o n C i
 u n C i
 k o C i
 r e p C i
-r 2 p C i
+r O p C i
 t u r C i
 i z l a n d i
 r a n d i
@@ -2208,7 +2207,7 @@ f i
 k u r a f i
 i f i
 h i f i
-r 2 f i
+r O f i
 l u f i
 p u f i
 Z u f i
@@ -2241,13 +2240,13 @@ k o k i
 r o k i
 k r o k i
 S t o k i
-b l 2 k i
+b l O k i
 r u s k i
 c u k i
 k u k i
 m u k i
 p u k i
-l i y k i
+j y k i
 p a l i
 r a l i
 b e n g aa l i
@@ -2330,7 +2329,7 @@ t r a m p l i
 S t e m p l i
 g i m p l i
 k r u m p l i
-k l 2 p l i
+k l O p l i
 g i g e r l i
 t a S l i
 k a m aa S l i
@@ -2361,8 +2360,8 @@ r i b i z l i
 p e m z l i
 h a n z l i
 m y z l i
-e r d ee l i i
-n aa p o l i i
+e r d ee j i
+n aa p o j i
 m i
 a m i
 e i d a m i
@@ -2375,7 +2374,7 @@ S ee r e l m i
 t y r e l m i
 ee r z e l m i
 k o m i
-r 2 m i
+r O m i
 c u m i
 g u m i
 p u m i
@@ -2400,7 +2399,7 @@ v e k n i
 l o k n i
 z o k n i
 r o l n i
-k 2 l n i
+k O l n i
 S p u l n i
 p oo n i
 f l e p n i
@@ -2441,7 +2440,7 @@ h aa r i
 k o l i b r i
 h a d r i
 c i d r i
-b 2 r b e r i
+b O r b e r i
 b i l g e r i
 g a l e r i
 p r ee r i
@@ -2592,11 +2591,11 @@ b e j
 f e C e j
 f e j
 h e j
-r 2 h e j
+r O h e j
 l e j
 p e j
-d 2 r e j
-z 2 r e j
+d O r e j
+z O r e j
 S e j
 t e j
 f e C t e j
@@ -2674,7 +2673,7 @@ C e l aa k
 m e l aa k
 k u l aa k
 s u l aa k
-p o l i aa k
+p o j aa k
 S u m aa k
 f o n aa k
 N aa k
@@ -2709,7 +2708,7 @@ k e r e k
 m a s e k
 f ee s e k
 p ee n t e k
-c 2 v e k
+c O v e k
 ee k
 p r i b ee k
 Z o m b ee k
@@ -2718,7 +2717,7 @@ o m l a d ee k
 u s a d ee k
 i v a d ee k
 m e n e d ee k
-j 2 v e d ee k
+j O v e d ee k
 v i d ee k
 a j aa n d ee k
 s u r d ee k
@@ -2726,11 +2725,11 @@ f ee k
 k ee k
 aa z a l ee k
 e m l ee k
-S e m l i ee k
+S e m j ee k
 i h a t n ee k
 e h e t n ee k
 N ee k
-k 2 N ee k
+k O N ee k
 p ee k
 k e r ee k
 b u b o r ee k
@@ -2740,16 +2739,16 @@ s t ee k
 m o z a i k
 a e r o b i k
 k u b i k
-t 22 c i k
+t OO c i k
 k u c i k
 m aa C i k
 h a n C i k
-p 22 C i k
+p OO C i k
 f a r C i k
 k o c oo d i k
 c i v oo d i k
-e v 22 d i k
-t e v 22 d i k
+e v OO d i k
+t e v OO d i k
 f y r d i k
 m o Z d i k
 h a z u d i k
@@ -2760,9 +2759,9 @@ t aa QQ i k
 t r a f i k
 t o j i k
 s o k i k
-s 2 k i k
+s O k i k
 b u k i k
-f o l i i k
+f o j i k
 p i k n i k
 D oo n i k
 C e t n i k
@@ -2830,8 +2829,8 @@ l i n k
 S m i n k
 C o n k
 p o n k
-r 2 n k
-t 2 n k
+r O n k
+t O n k
 v e r b u n k
 s k u n k
 o k
@@ -2845,7 +2844,7 @@ f o k
 D i l o k
 h o m l o k
 t u l o k
-S u l i o k
+S u j o k
 h o m o k
 k o n o k
 C a r n o k
@@ -2872,38 +2871,38 @@ C o m b oo k
 C oo k
 p u f oo k
 c oo k m oo k
-s 22 r m oo k
+s OO r m oo k
 p oo k
 h i m p oo k
 p i r oo k
 k o Z oo k
-b 2 k
-C 2 k
-v 2 C 2 k
-C y C 2 k
-r y C 2 k
-p r y C 2 k
-t y C 2 k
-k 2 l d 2 k
-D 2 k
-l 2 k
-C y l 2 k
-t y l 2 k
-k 2 l i 2 k
-k 2 N 2 k
-p 2 k
-p y S p 2 k
-2 r 2 k
-b y r 2 k
-t y S 2 k
-y s 2 k
-t 2 k
-f r y S t 2 k
-b y T 2 k
-r i p 22 k
+b O k
+C O k
+v O C O k
+C y C O k
+r y C O k
+p r y C O k
+t y C O k
+k O l d O k
+D O k
+l O k
+C y l O k
+t y l O k
+k O j O k
+k O N O k
+p O k
+p y S p O k
+O r O k
+b y r O k
+t y S O k
+y s O k
+t O k
+f r y S t O k
+b y T O k
+r i p OO k
 p a r k
 k v a r k
-p 2 r k
+p O r k
 t y r k
 b a s k
 m a s k
@@ -2917,7 +2916,7 @@ k a u C u k
 a NN u k
 a p j u k
 m a m e l u k
-l i u k
+j u k
 n a n u k
 T uu k
 y k
@@ -3076,7 +3075,7 @@ l a t i c e l
 C e l
 l i n C e l
 v e d e l
-s 2 ɡ d e l
+s O ɡ d e l
 f e l
 S i m f e l
 r e gg e l
@@ -3092,7 +3091,7 @@ j e l
 s ee jj e l
 k e l
 v e z e k e l
-p 2 f ee k e l
+p O f ee k e l
 S p ee k e l
 p a r a l e l
 k a m e l
@@ -3117,7 +3116,7 @@ f o t e l
 h o t e l
 m o t e l
 r e s t e l
-j 2 v e l
+j O v e l
 l e b Z e l
 p e r Z e l
 ee l
@@ -3126,7 +3125,7 @@ a c ee l
 f ee l
 g ee l
 e dd e g ee l
-j 22 d 2 g ee l
+j OO d O g ee l
 e v i c k ee l
 k ii m ee l
 m e nn ee l
@@ -3160,7 +3159,7 @@ r i v a ll
 f u v a ll
 v aa ll
 m o d e ll
-s 2 k e ll
+s O k e ll
 m e ll
 i d i ll
 b r i ll
@@ -3246,7 +3245,7 @@ Z u r m o l
 d a n o l
 t a p e n o l
 S p a nn o l
-g 2 nn o l
+g O nn o l
 S p a N o l
 v aa N o l
 a p o l
@@ -3300,39 +3299,39 @@ a rr oo l
 a m a rr oo l
 k o n t r oo l
 a tt oo l
-2 l
-l 2 D b 2 l
-b 2 m b 2 l
-2 b 2 l
-g y r c 2 l
-f 2 l
-p y f 2 l
-c ii g 2 l
-d 2 r g 2 l
-g 2 n D 2 l
-g 2 t h 2 l
-2 k 2 l
-t y s k 2 l
-l 2 T k 2 l
-z 2 T k 2 l
-h 2 r p 2 l
-S t ii r 2 l
-Z 2 r t 2 l
-b yy v 2 l
-d 22 Z 2 l
-d 2 r Z 2 l
-a v ee g b 22 l
-e v ee g b 22 l
-d 22 l
-a f e l 22 l
-e f e l 22 l
-s ee l r 22 l
-e rr 22 l
-m e rr 22 l
-a m e rr 22 l
-e tt 22 l
-m e tt 22 l
-g 2 r l
+O l
+l O D b O l
+b O m b O l
+O b O l
+g y r c O l
+f O l
+p y f O l
+c ii g O l
+d O r g O l
+g O n D O l
+g O t h O l
+O k O l
+t y s k O l
+l O T k O l
+z O T k O l
+h O r p O l
+S t ii r O l
+Z O r t O l
+b yy v O l
+d OO Z O l
+d O r Z O l
+a v ee g b OO l
+e v ee g b OO l
+d OO l
+a f e l OO l
+e f e l OO l
+s ee l r OO l
+e rr OO l
+m e rr OO l
+a m e rr OO l
+e tt OO l
+m e tt OO l
+g O r l
 k aa b u l
 b a m b u l
 C o r b u l
@@ -3394,165 +3393,165 @@ N uu l
 t uu l
 y l
 b y l b y l
-g 2 r b y l
-k 2 z b y l
+g O r b y l
+k O z b y l
 C y C y l
 s ee d y l
 p e n d y l
 Z e n d y l
-d 2 n d y l
+d O n d y l
 f e r d y l
 S e r d y l
-C 2 r d y l
-d 2 r d y l
-g 2 r d y l
-p 2 r d y l
-z 2 r d y l
+C O r d y l
+d O r d y l
+g O r d y l
+p O r d y l
+z O r d y l
 y d y l
 p e Z d y l
 f y l
 D e n g y l
-m 2 g y l
+m O g y l
 k e r g y l
 m e n e k y l
 n ee l k y l
 a n ee l k y l
 e n ee l k y l
 s y r k y l
-h y l i y l
+h y j y l
 C e p y l
 r e p y l
-t 2 r p y l
+t O r p y l
 k e r y l
 k e S e r y l
 S i r y l
-2 r y l
-a k 2 r y l
-e k 2 r y l
+O r y l
+a k O r y l
+e k O r y l
 S y l
 f ee S y l
 s y l
 f e k e t y l
-C 22 S t y l
+C OO S t y l
 f y T y l
 b ee v y l
 k ii v y l
-b 22 v y l
+b OO v y l
 D yy l
-p a d m a l i
-t a v a l i
-b i v a l i
-k a r v a l i
-g u Z a l i
-s a b aa l i
-a k a d aa l i
-n a d aa l i
-h o d aa l i
-m o r d aa l i
-d a g aa l i
-r a g aa l i
-a gg aa l i
-b o k aa l i
-h a r k aa l i
-h o m aa l i
-a p aa l i
-l a p aa l i
-i r aa l i
-k i r aa l i
-S i r aa l i
-a s aa l i
-v i s aa l i
-u s aa l i
-h a t aa l i
-t a r t aa l i
-f e r t aa l i
-o s t aa l i
-p e n d e l i
-v ee n d e l i
-C e g e l i
-t ee g e l i
-t e n g e l i
-h e l i
-k e h e l i
-p e h e l i
-f e k h e l i
-m e n h e l i
-e N h e l i
-s ee k e l i
-c i kk e l i
-p i kk e l i
-m e l i
-a m e l i
-ee m e l i
-g ee p e l i
-g e r e l i
-k e S e l i
-p e r S e l i
-k ee t e l i
-m ee t e l i
-h y v e l i
-b o r b ee l i
-k e d ee l i
-b o r d ee l i
-S o r d ee l i
-v 22 f ee l i
-n e g ee l i
-S e g ee l i
-s e g ee l i
-C e k ee l i
-f e k ee l i
-S e k ee l i
-t 2 k ee l i
-e r k ee l i
-m ee l i
-s e m ee l i
-e r ee l i
-e S ee l i
-b e s ee l i
-v e s ee l i
-r e j t ee l i
-f o r t ee l i
-k a S t ee l i
-e S t ee l i
-r o S t ee l i
-f u S t ee l i
-k e v ee l i
-g 2 r v ee l i
-i l i
-m i l i
-a m i l i
-g a ll i
-o l i
-b o l i
-o m b o l i
-z u b o l i
-b a g o l i
-p aa h o l i
-S i k o l i
-k o n k o l i
-S o n k o l i
-m o l i
-Z aa m o l i
-g o m o l i
-k o m o l i
-S i p o l i
-s i p o l i
-t i p o l i
-r aa S p o l i
-Z aa v o l i
-g 2 b 2 l i
-b 2 g 2 l i
-t 2 n k 2 l i
-t 2 r k 2 l i
-k 2 p 2 l i
-p 2 r 2 l i
-p a s u l i
-S uu l i
-S y l i
+p a d m a j
+t a v a j
+b i v a j
+k a r v a j
+g u Z a j
+s a b aa j
+a k a d aa j
+n a d aa j
+h o d aa j
+m o r d aa j
+d a g aa j
+r a g aa j
+a gg aa j
+b o k aa j
+h a r k aa j
+h o m aa j
+a p aa j
+l a p aa j
+i r aa j
+k i r aa j
+S i r aa j
+a s aa j
+v i s aa j
+u s aa j
+h a t aa j
+t a r t aa j
+f e r t aa j
+o s t aa j
+p e n d e j
+v ee n d e j
+C e g e j
+t ee g e j
+t e n g e j
+h e j
+k e h e j
+p e h e j
+f e k h e j
+m e n h e j
+e N h e j
+s ee k e j
+c i kk e j
+p i kk e j
+m e j
+a m e j
+ee m e j
+g ee p e j
+g e r e j
+k e S e j
+p e r S e j
+k ee t e j
+m ee t e j
+h y v e j
+b o r b ee j
+k e d ee j
+b o r d ee j
+S o r d ee j
+v OO f ee j
+n e g ee j
+S e g ee j
+s e g ee j
+C e k ee j
+f e k ee j
+S e k ee j
+t O k ee j
+e r k ee j
+m ee j
+s e m ee j
+e r ee j
+e S ee j
+b e s ee j
+v e s ee j
+r e j t ee j
+f o r t ee j
+k a S t ee j
+e S t ee j
+r o S t ee j
+f u S t ee j
+k e v ee j
+g O r v ee j
+i j
+m i j
+a m i j
+g a jj
+o j
+b o j
+o m b o j
+z u b o j
+b a g o j
+p aa h o j
+S i k o j
+k o n k o j
+S o n k o j
+m o j
+Z aa m o j
+g o m o j
+k o m o j
+S i p o j
+s i p o j
+t i p o j
+r aa S p o j
+Z aa v o j
+g O b O j
+b O g O j
+t O n k O j
+t O r k O j
+k O p O j
+p O r O j
+p a s u j
+S uu j
+S y j
 f i c a m
 r o h a m
 s l a m
-f o l i a m
+f o j a m
 d i a g r a m
 p r o g r a m
 t a m t a m
@@ -3577,12 +3576,12 @@ r e k v i e m
 S ee r e l e m
 t y r e l e m
 i ll e m
-S e l i e m
+S e j e m
 p oo n e m
 s e m
 t o t e m
 y z e m
-f 2 d ee m
+f O d ee m
 f ee m
 g ee m
 b o h ee m
@@ -3624,8 +3623,8 @@ f u v a l o m
 l i m l o m
 d i p l o m
 t e m p l o m
-S oo l i o m
-S u l i o m
+S oo j o m
+S u j o m
 N o m
 r o m
 b a r o m
@@ -3642,11 +3641,11 @@ g n oo m
 a u t o n oo m
 b r oo m
 k r oo m
-2 r 2 m
-y r 2 m
-t 2 m
-p 2 tt 2 m
-z 2 m
+O r O m
+y r O m
+t O m
+p O tt O m
+z O m
 a l a r m
 r e f o r m
 p a r f y m
@@ -3672,7 +3671,7 @@ p u kk a n
 k a t l a n
 f aa t l a n
 s oo t l a n
-a m o l i a n
+a m o j a n
 b r a h m a n
 v a l k m a n
 S t r oo m a n
@@ -3754,7 +3753,7 @@ k a f t aa n
 p u r i t aa n
 m ee l t aa n
 s u l t aa n
-f o l i t aa n
+f o j t aa n
 S p o n t aa n
 l e S T aa n
 d u TT aa n
@@ -3767,50 +3766,50 @@ k a z aa n
 p a j z aa n
 e n
 l i bb e n
-d 2 bb e n
+d O bb e n
 d y bb e n
 g e r e b e n
 ee b e n
-a k 2 z b e n
-e k 2 z b e n
+a k O z b e n
+e k O z b e n
 b i cc e n
-d 2 cc e n
+d O cc e n
 S e r c e n
 C e n
 f e CC e n
 ee d e n
 S p l e e n
 f e n
-b 2 ff e n
-r 2 ff e n
+b O ff e n
+r O ff e n
 s l o g e n
-r 2 n t g e n
+r O n t g e n
 i m i D e n
 i n D e n
 j e n
 k e n
-s 2 kk e n
-z 2 kk e n
+s O kk e n
+z O kk e n
 i k t e l e n
 b i ll e n
 p o ll e n
-e m i l i e n
+e m i j e n
 d o l m e n
 l u m e n
 v o l u m e n
 b i t u m e n
 e m i nn e n
-r 2 pp e n
+r O pp e n
 ee b r e n
-C 2 rr e n
-d 2 rr e n
-z 2 rr e n
+C O rr e n
+d O rr e n
+z O rr e n
 d e j s e n
 n o j s e n
 t y ss e n
 C e tt e n
 k e TT e n
-z 2 TT e n
+z O TT e n
 n e D v e n
 d o i e n
 c i t o i e n
@@ -3986,7 +3985,7 @@ Z e t o n
 N u g t o n
 p i t o n
 t r i t o n
-f o l i t o n
+f o j t o n
 f o t o n
 k o t o n
 m o n o t o n
@@ -4005,14 +4004,14 @@ h o m o f oo n
 t r oo n
 s l a v oo n
 p u z oo n
-2 n
-k 2 l C 2 n
-b 2 d 2 n
-2 h 2 n
-j 2 n
-b 2 r t 2 n
-2 s t 2 n
-2 z 2 n
+O n
+k O l C O n
+b O d O n
+O h O n
+j O n
+b O r t O n
+O s t O n
+O z O n
 k a m g a r n
 m o d e r n
 v e S t e r n
@@ -4110,13 +4109,13 @@ h i t v aa N
 o l t v aa N
 i r t v aa N
 l e b e N
-v 2 r h e N
+v O r h e N
 k e S k e N
-2 m l e N
+O m l e N
 m e N
 e d ee N
 i d ee N
-g 2 d ee N
+g O d ee N
 f ee N
 l e g ee N
 r e g ee N
@@ -4124,21 +4123,21 @@ s e g ee N
 i g ee N
 k ee N
 D ee k ee N
-k 2 k ee N
+k O k ee N
 r e p k ee N
 l ee N
 m e ll ee N
-b 2 l ee N
-f 2 l ee N
+b O l ee N
+f O l ee N
 k e m ee N
 r e m ee N
 e S e m ee N
 k ee m ee N
 ee l m ee N
-k 2 m ee N
-t 2 m ee N
+k O m ee N
+t O m ee N
 t e r m ee N
-2 r m ee N
+O r m ee N
 e s m ee N
 l e p ee N
 e r ee N
@@ -4146,19 +4145,19 @@ C e r ee N
 m e r ee N
 S e r ee N
 s e r ee N
-g 2 r ee N
-S 2 r ee N
+g O r ee N
+S O r ee N
 e r s ee N
 t ee N
-t 2 l t ee N
-k 2 t ee N
+t O l t ee N
+k O t ee N
 v ee N
 v e v ee N
-n 2 v ee N
-S 2 v ee N
-2 r v ee N
-2 S v ee N
-f 2 S v ee N
+n O v ee N
+S O v ee N
+O r v ee N
+O S v ee N
+f O S v ee N
 p i c i N
 k i C i N
 ii N
@@ -4166,7 +4165,7 @@ C ii N
 g e NN
 m e NN
 s e NN
-k 2 NN
+k O NN
 z u bb o N
 m o z d o N
 p a g o N
@@ -4192,18 +4191,18 @@ u s o N
 z aa t o N
 p u tt o N
 b i z o N
-f y gg 2 N
-S y r g 2 N
-b y kk 2 N
-k 2 z l 2 N
-2 l t 2 N
-k 2 z 2 N
-r e d 22 N
-e l 22 N
-m e z 22 N
+f y gg O N
+S y r g O N
+b y kk O N
+k O z l O N
+O l t O N
+k O z O N
+r e d OO N
+e l OO N
+m e z OO N
 aa r N
 s aa r N
-s 2 r N
+s O r N
 h u N
 S u N
 g uu N
@@ -4304,7 +4303,7 @@ h oo
 t a h oo
 e h oo
 e k h oo
-g o l i h oo
+g o j h oo
 k u N h oo
 o h oo
 b o h oo
@@ -4392,10 +4391,10 @@ k o t l oo
 n e b u l oo
 m uu l oo
 t ee k o z l oo
-b ee k l i oo
-t o k l i oo
-f o l i oo
-g o l i oo
+b ee k j oo
+t o k j oo
+f o j oo
+g o j oo
 g a m oo
 k a m oo
 f l a m oo
@@ -4461,7 +4460,7 @@ t r i S oo
 p ee t i S oo
 m u k S oo
 b u j d o S oo
-f o l i o S oo
+f o j o S oo
 o r S oo
 k o p o r S oo
 b u S oo
@@ -4515,99 +4514,99 @@ v a d o r z oo
 s o r z oo
 i zz oo
 Z o Z oo
-h 2 h 2 h 2
-b 22
-C 2 m b 22
-b e c 22
-C 22
-s y m C 22
-d r ee n C 22
-m e dd 22
-i d 22
-s y n i d 22
-b e n d 22
-l e e n d 22
-t e e n d 22
-k e l e n d 22
-i ll e n d 22
-e S e n d 22
-j 2 v e n d 22
-f e j l 22 d 22
-b e r d 22
-f y r d 22
-t y d 22
-k ee r 22 q 22
-f 22
-h ii z e l g 22
-t e k e r g 22
-p e r g 22
-k e S e r g 22
-C 2 r g 22
-d 2 r g 22
-g 2 r g 22
-h 2 r g 22
-r e z g 22
-p e Z g 22
-h 22
-h a j c i h 22
-k 22
-l 22
-v e l 22
-v e z e k l 22
-2 l d 2 k l 22
-i ll 22
-v i ll 22
-C y ll 22
-e m l 22
-h i m l 22
-s e p l 22
-C 2 r l 22
-d yy l 22
-C 2 r m 22
-g y m 22
-n 22
-m e n 22
-h ii m z 22 n 22
-y n 22
-s yy n 22
-f e N 22
-r e k e N 22
-b e S e N 22
-e r N 22
-e S e r N 22
-c i p 22
-p e m p 22
-b 2 D 2 r 22
-S e p r 22
-e l S 2 p r 22
-e S 22
-b e n S 22
-s 22
-v e ss 22
-y s 22
-t y s 22
-t 22
-h i h e t 22
-S e mm ii t 22
-f e r t 22
-k e tt 22
-s y T 22
-v 22
-e v 22
-v e v 22
-y D v i v 22
-s oo v i v 22
-h ii r v i v 22
-f e k v 22
-i D e k v 22
-j 2 v 22
+h O h O h O
+b OO
+C O m b OO
+b e c OO
+C OO
+s y m C OO
+d r ee n C OO
+m e dd OO
+i d OO
+s y n i d OO
+b e n d OO
+l e e n d OO
+t e e n d OO
+k e l e n d OO
+i ll e n d OO
+e S e n d OO
+j O v e n d OO
+f e j l OO d OO
+b e r d OO
+f y r d OO
+t y d OO
+k ee r OO q OO
+f OO
+h ii z e l g OO
+t e k e r g OO
+p e r g OO
+k e S e r g OO
+C O r g OO
+d O r g OO
+g O r g OO
+h O r g OO
+r e z g OO
+p e Z g OO
+h OO
+h a j c i h OO
+k OO
+l OO
+v e l OO
+v e z e k l OO
+O l d O k l OO
+i ll OO
+v i ll OO
+C y ll OO
+e m l OO
+h i m l OO
+s e p l OO
+C O r l OO
+d yy l OO
+C O r m OO
+g y m OO
+n OO
+m e n OO
+h ii m z OO n OO
+y n OO
+s yy n OO
+f e N OO
+r e k e N OO
+b e S e N OO
+e r N OO
+e S e r N OO
+c i p OO
+p e m p OO
+b O D O r OO
+S e p r OO
+e l S O p r OO
+e S OO
+b e n S OO
+s OO
+v e ss OO
+y s OO
+t y s OO
+t OO
+h i h e t OO
+S e mm ii t OO
+f e r t OO
+k e tt OO
+s y T OO
+v OO
+e v OO
+v e v OO
+y D v i v OO
+s oo v i v OO
+h ii r v i v OO
+f e k v OO
+i D e k v OO
+j O v OO
 C a p
 k a p
 l a p
 a l a p
 k a l a p
 t a l a p
-r 2 p l a p
+r O p l a p
 i z l a p
 n a p
 t e g n a p
@@ -4655,7 +4654,7 @@ S ii p
 S k a l p
 t a l p
 p u l p
-S e l i p
+S e j p
 h o m p
 k o m p
 k o l o m p
@@ -4674,9 +4673,9 @@ S t o p
 e t i oo p
 i z o t oo p
 i Z oo p
-k e C 2 p
-k 2 p
-c 2 l 2 p
+k e C O p
+k O p
+c O l O p
 l a pp
 d r a pp
 t r a pp
@@ -4701,7 +4700,7 @@ k r u pp
 t r u pp
 z u pp
 Z u pp
-s 2 r p
+s O r p
 s e l k u p
 s i r u p
 k uu p
@@ -4796,7 +4795,7 @@ m aa r
 s a m aa r
 t ii m aa r
 k a l m aa r
-S o l i m aa r
+S o j m aa r
 d a mm aa r
 h o m aa r
 S m aa r
@@ -4809,7 +4808,7 @@ N aa r
 b u d o aa r
 m e m o aa r
 p i s o aa r
-s 2 k 22 aa r
+s O k OO aa r
 p aa r
 D o p aa r
 k o p aa r
@@ -4843,7 +4842,7 @@ k a z aa r
 c ee z aa r
 c i b z aa r
 m o Z aa r
-d 2 r Z aa r
+d O r Z aa r
 k a l aa b e r
 b a r aa b e r
 ee b e r
@@ -4974,7 +4973,7 @@ N e r
 p e r
 e p e r
 a m p e r
-d 2 m p e r
+d O m p e r
 v aa l oo p e r
 t a pp e r
 n e pp e r
@@ -5046,7 +5045,7 @@ b ee r
 N u g b ee r
 i b ee r
 f e ɡ b ee r
-D 2 m b ee r
+D O m b ee r
 f a c ee r
 k a c ee r
 p e c ee r
@@ -5055,7 +5054,7 @@ p i n c ee r
 p u c ee r
 C ee r
 g aa C ee r
-t 2 l C ee r
+t O l C ee r
 d ee r
 k o n d ee r
 m u n d ee r
@@ -5075,7 +5074,7 @@ t a ll ee r
 Z e ll ee r
 f i ll ee r
 p i ll ee r
-b 2 ll ee r
+b O ll ee r
 m ee r
 Z a n ee r
 f u r n ee r
@@ -5083,7 +5082,7 @@ t aa N ee r
 f e N ee r
 k e N ee r
 t e N ee r
-v i v 22 ee r
+v i v OO ee r
 p ee r
 h i m p ee r
 k ii S ee r
@@ -5093,12 +5092,12 @@ t ee r
 S i n t ee r
 r e p t ee r
 v ee r
-2 s v ee r
+O s v ee r
 v e z ee r
 b u z ee r
 y z ee r
 f y z ee r
-t 22 Z ee r
+t OO Z ee r
 f a i r
 k e f i r
 ii r
@@ -5250,47 +5249,47 @@ S p oo r
 s oo r
 l a v oo r
 i Z oo r
-C 2 b 2 r
-d 2 b 2 r
-t 2 b 2 r
-g 2 n d 2 r
-g 2 d 2 r
-p 2 d 2 r
-v 2 d 2 r
-C 22 d 2 r
-k 2 r
-2 k 2 r
-t y k 2 r
-b yy f k 2 r
-C 2 m 2 r
-S 2 m 2 r
-t 2 m 2 r
-D 2 N 2 r
-S 2 p 2 r
-S 2 r
-e l 22 s 2 r
-t 2 r
-D 2 t 2 r
-22 r
-b 22 r
-C 22 r
-S o f 22 r
-c u g e h 22 r
-t r i 22 r
-k 22 r
-l i k 22 r
-v a l 22 r
-d u b l 22 r
-k u l 22 r
-p r i m 22 r
-s 22 r
-t 22 r
-a m a t 22 r
-v ii t 22 r
-m e tt 22 r
-v i v 22 r
-f r i z 22 r
-p o z 22 r
+C O b O r
+d O b O r
+t O b O r
+g O n d O r
+g O d O r
+p O d O r
+v O d O r
+C OO d O r
+k O r
+O k O r
+t y k O r
+b yy f k O r
+C O m O r
+S O m O r
+t O m O r
+D O N O r
+S O p O r
+S O r
+e l OO s O r
+t O r
+D O t O r
+OO r
+b OO r
+C OO r
+S o f OO r
+c u g e h OO r
+t r i OO r
+k OO r
+l i k OO r
+v a l OO r
+d u b l OO r
+k u l OO r
+p r i m OO r
+s OO r
+t OO r
+a m a t OO r
+v ii t OO r
+m e tt OO r
+v i v OO r
+f r i z OO r
+p o z OO r
 v a rr
 b i z a rr
 b r
@@ -5354,7 +5353,7 @@ C i C aa S
 j uu d aa S
 v a j uu d aa S
 z a j g aa S
-b o l i g aa S
+b o j g aa S
 f o r g aa S
 m o z g aa S
 p o Z g aa S
@@ -5372,8 +5371,8 @@ b o m l aa S
 o s l aa S
 m i k u l aa S
 m uu l aa S
-z aa k l i aa S
-f o l i aa S
+z aa k j aa S
+f o j aa S
 t a m aa S
 m e c ee n aa S
 m aa g n aa S
@@ -5406,7 +5405,7 @@ g i r h e S
 i k e S
 S t i kk e S
 a nn a l e S
-k 2 l e S
+k O l e S
 l i m e S
 m aa g n e S
 r e p e S
@@ -5426,18 +5425,18 @@ ee S
 b e n c ee S
 f y r d ee S
 p e r g ee S
-d 2 r g ee S
-h 2 r g ee S
-z 2 r g ee S
+d O r g ee S
+h O r g ee S
+z O r g ee S
 d y r g ee S
 S y r g ee S
 r e z g ee S
 p e Z g ee S
 C i h ee S
-d 2 m ee S
+d O m ee S
 m e n ee S
 p r ee S
-S 2 p r ee S
+S O p r ee S
 e S ee S
 t e cc ee S
 S e r t ee S
@@ -5445,7 +5444,7 @@ v ee S
 e v ee S
 k e v ee S
 f e k v ee S
-j 2 v ee S
+j O v ee S
 i S
 k a dd i S
 j i dd i S
@@ -5493,7 +5492,7 @@ f l uu g o S
 h u D o S
 C a h o S
 C a j h o S
-m o l i h o S
+m o j h o S
 p o h o S
 h o r h o S
 k o S
@@ -5519,82 +5518,82 @@ m a k s o S
 k o m oo t o S
 s u r t o S
 l u S t o S
-t 2 m b 2 S
-k 2 p c 2 S
-C 2 C 2 S
-g 2 r C 2 S
-b 2 ɡ d 2 S
-l 2 ɡ d 2 S
-p 2 ɡ d 2 S
-s 2 ɡ d 2 S
-2 l d 2 S
-k 2 d 2 S
-k 2 b d 2 S
-b y d 2 S
-d 2 l i f 2 S
-r 22 f 2 S
-r e g 2 S
-d 2 g 2 S
-r 2 g 2 S
-g 2 r 2 g 2 S
-y s 2 g 2 S
-g 22 g 2 S
-N yy g 2 S
-g 2 t h 2 S
-d y h 2 S
-2 C k 2 S
-r y C k 2 S
-b y kk 2 S
-t r y kk 2 S
-C y l k 2 S
-2 r 2 k 2 S
-t 2 r 2 k 2 S
-t 2 k 2 S
-y S t 2 k 2 S
-y s k 2 S
-b y T k 2 S
-f y T k 2 S
-s yy k 2 S
-2 b l 2 S
-k 2 b l 2 S
-f 2 l 2 S
-k 2 r m 2 S
-y r m 2 S
-2 n 2 S
-b yy n 2 S
-e l 22 N 2 S
-r 2 S
-g 2 d r 2 S
-v 2 d r 2 S
-2 k r 2 S
-t y k r 2 S
-k 2 r 2 S
-S 2 r 2 S
-v 2 r 2 S
-l i k 22 r 2 S
-s yy r 2 S
-z yy r 2 S
-s 2 s 2 S
-b 2 j t 2 S
-k 2 n t 2 S
-2 t 2 S
-f y r t 2 S
-k y r t 2 S
-f y S t 2 S
-N y S t 2 S
-e z y S t 2 S
-f y TT 2 S
-y d v 2 S
-2 r v 2 S
-2 t v 2 S
-b yy v 2 S
-h yy v 2 S
-k 2 z 2 S
-g 22 z 2 S
-b yy z 2 S
-p 2 r g 22 S
-z 2 r g 22 S
-S y r g 22 S
+t O m b O S
+k O p c O S
+C O C O S
+g O r C O S
+b O ɡ d O S
+l O ɡ d O S
+p O ɡ d O S
+s O ɡ d O S
+O l d O S
+k O d O S
+k O b d O S
+b y d O S
+d O j f O S
+r OO f O S
+r e g O S
+d O g O S
+r O g O S
+g O r O g O S
+y s O g O S
+g OO g O S
+N yy g O S
+g O t h O S
+d y h O S
+O C k O S
+r y C k O S
+b y kk O S
+t r y kk O S
+C y l k O S
+O r O k O S
+t O r O k O S
+t O k O S
+y S t O k O S
+y s k O S
+b y T k O S
+f y T k O S
+s yy k O S
+O b l O S
+k O b l O S
+f O l O S
+k O r m O S
+y r m O S
+O n O S
+b yy n O S
+e l OO N O S
+r O S
+g O d r O S
+v O d r O S
+O k r O S
+t y k r O S
+k O r O S
+S O r O S
+v O r O S
+l i k OO r O S
+s yy r O S
+z yy r O S
+s O s O S
+b O j t O S
+k O n t O S
+O t O S
+f y r t O S
+k y r t O S
+f y S t O S
+N y S t O S
+e z y S t O S
+f y TT O S
+y d v O S
+O r v O S
+O t v O S
+b yy v O S
+h yy v O S
+k O z O S
+g OO z O S
+b yy z O S
+p O r g OO S
+z O r g OO S
+S y r g OO S
 t a p S
 h i p S
 h a r S
@@ -5609,7 +5608,7 @@ b r o S S
 j u S S
 k u S S
 p l y S S
-d a r C
+d a r CC
 c i c u S
 m u c u S
 a r a m e u S
@@ -5716,7 +5715,7 @@ s e s
 v aa t e s
 l u e s
 v e s
-b 2 n g ee s
+b O n g ee s
 f y r k ee s
 m ee s
 p e n ee s
@@ -5748,9 +5747,9 @@ o r o s
 t o s
 m ii t o s
 S t oo s
-k 2 s
-l 2 s
-s 2 s
+k O s
+l O s
+s O s
 S n a p s
 b i c e p s
 g i p s
@@ -5758,7 +5757,7 @@ r i p s
 m u m p s
 Z u p s
 f o r s
-n 2 r s
+n O r s
 k l a ss
 S n a ss
 p a ss
@@ -5815,7 +5814,7 @@ C a t
 c a f a t
 f a gg a t
 N a gg a t
-l i u gg a t
+j u gg a t
 C ii g a t
 n oo g a t
 c i r oo g a t
@@ -5824,7 +5823,7 @@ N u g a t
 k r uu g a t
 i z g a t
 m o z g a t
-f o l i a t
+f o j a t
 k a m a t
 p a m a t
 z a m a t
@@ -5835,7 +5834,7 @@ Z i n a t
 g a r a t
 D a r a t
 u g r a t
-r 2 p i r a t
+r O p i r a t
 S i r a t
 t i p r a t
 p a s a t
@@ -5847,7 +5846,7 @@ k a j t a t
 i k t a t
 s o k t a t
 m ee l t a t
-f o l i t a t
+f o j t a t
 D oo n t a t
 f i r t a t
 b a s t a t
@@ -5879,7 +5878,7 @@ d u k aa t
 v o l aa t
 S k a r l aa t
 g r aa n aa t
-f o l i p aa t
+f o j p aa t
 b a r aa t
 Z a r aa t
 k v a d r aa t
@@ -5895,7 +5894,7 @@ v ee n h e tt
 h ii r h e tt
 k e S h e tt
 N u g o tt
-b yy s h 2 tt
+b yy s h O tt
 c e t
 e c e t
 e C e t
@@ -5933,7 +5932,7 @@ e S e t
 o f s e t
 e t e t
 v i t e t
-s 2 k t e t
+s O k t e t
 l y k t e t
 b y n t e t
 s y n t e t
@@ -5941,7 +5940,7 @@ t y n t e t
 v e t
 e v e t
 k e r e v e t
-j 2 v e t
+j O v e t
 v e z e t
 k l o z e t
 f y z e t
@@ -5955,17 +5954,16 @@ o nn ee t
 a m o nn ee t
 m e N ee t
 k o n k r ee t
-S 2 r ee t
+S O r ee t
 s ee t
 o s ee t
-S 2 t ee t
+S O t ee t
 v ee t
 s a f t
 t a f t
 S e f t
 l i f t
 S t i f t
-k f t .
 l u f t
 j a h t
 e h t
@@ -6013,10 +6011,10 @@ a n d e z i t
 t r a n z i t
 p aa Z i t
 k aa b ii t
-2 r e g b ii t
+O r e g b ii t
 C o r b ii t
-g 2 r b ii t
-e r 22 Z b ii t
+g O r b ii t
+e r OO Z b ii t
 r a C ii t
 k a n C ii t
 s ee d ii t
@@ -6033,8 +6031,8 @@ f e r d ii t
 o r d ii t
 C o r d ii t
 f o r d ii t
-g 2 r d ii t
-z 2 r d ii t
+g O r d ii t
+z O r d ii t
 C u r d ii t
 z uu d ii t
 y d ii t
@@ -6047,7 +6045,7 @@ D e n g ii t
 S aa r g ii t
 p u h ii t
 i f j ii t
-22 r j ii t
+OO r j ii t
 m e n e k ii t
 r i k ii t
 S i k ii t
@@ -6066,7 +6064,7 @@ C uu N ii t
 r e p ii t
 S i p ii t
 C aa m p ii t
-t 2 r p ii t
+t O r p ii t
 k e r ii t
 p i r ii t
 v i r ii t
@@ -6091,7 +6089,7 @@ p u s t ii t
 b u t ii t
 j a v ii t
 S i v ii t
-b 22 v ii t
+b OO v ii t
 d u r v ii t
 i zz ii t
 l o h a j t
@@ -6104,7 +6102,7 @@ o j t
 b o j t
 f o j t
 r o j t
-b 2 j t
+b O j t
 D uu j t
 N uu j t
 S uu j t
@@ -6127,9 +6125,9 @@ f o l t
 r i k o l t
 S i k o l t
 v o l t
-k 2 l t
-t 2 l t
-y v 2 l t
+k O l t
+t O l t
+y v O l t
 o kk u l t
 p u l t
 m uu l t
@@ -6150,7 +6148,7 @@ h a S m aa n t
 D a n aa n t
 a m a r aa n t
 c e n t
-p 2 cc e n t
+p O cc e n t
 b a r h e n t
 m e n t
 c e m e n t
@@ -6164,7 +6162,7 @@ k o cc i n t
 S e r c i n t
 h i n t
 C a h i n t
-k 2 h i n t
+k O h i n t
 S u h i n t
 z u h i n t
 b oo l i n t
@@ -6172,7 +6170,7 @@ k oo l i n t
 f u r m i n t
 p i n t
 t a p i n t
-h 2 r p i n t
+h O r p i n t
 f o r i n t
 r e p r i n t
 S p r i n t
@@ -6185,8 +6183,8 @@ D uu p o n t
 r o n t
 f r o n t
 b o z o n t
-d 2 n t
-S 2 n t
+d O n t
+S O n t
 p r oo f u n t
 e l t yy n t
 b o t
@@ -6209,10 +6207,10 @@ b u r n oo t
 d r oo t
 v oo t
 b o z oo t
-2 t
-k 2 t
-r 22 t
-S 22 t
+O t
+k O t
+r OO t
+S OO t
 r e c e p t
 p r o m p t
 k o p t
@@ -6240,7 +6238,7 @@ C o p o r t
 a pp o r t
 S p o r t
 r e s o r t
-f l 2 r t
+f l O r t
 j o g h u r t
 u d m u r t
 f y r t
@@ -6249,7 +6247,7 @@ b ii z v aa S t
 e S t
 f e S t
 p e S t
-r 2 g v e S t
+r O g v e S t
 p r ee p o S t
 r o S t
 m u S t
@@ -6277,11 +6275,11 @@ a z b e s t
 i j e s t
 e r j e s t
 i ll e s t
-2 m l e s t
+O m l e s t
 m e n e s t
 e p e s t
 ee b r e s t
-j 2 v e s t
+j O v e s t
 e m ee s t
 l i s t
 r ee m i s t
@@ -6296,8 +6294,8 @@ p o s t
 r i p o s t
 d r o s t
 t oo s t
-t r 2 s t
-f y r 2 s t
+t r O s t
+f y r O s t
 p s t
 k a r s t
 j u s t
@@ -6370,12 +6368,12 @@ S a m o tt
 k o p o tt
 S o d r o tt
 v aa S o tt
-m 2 g 2 tt
-a m 2 g 2 tt
-e m 2 g 2 tt
-s 2 k 2 tt
-z y ll 2 tt
-a k 2 z 2 tt
+m O g O tt
+a m O g O tt
+e m O g O tt
+s O k O tt
+z y ll O tt
+a k O z O tt
 u m l a u t
 S k o r b u t
 h u n c u t
@@ -6411,7 +6409,7 @@ f i TT
 k o TT
 t r o TT
 s o TT
-l 2 TT
+l O TT
 k u r u TT
 S u TT
 z u TT
@@ -6497,7 +6495,7 @@ v a r j uu
 i n t e r j uu
 b o r j uu
 k l uu
-v aa l i uu
+v aa j uu
 D a n uu
 S a N a r uu
 d o m b o r uu
@@ -6528,27 +6526,27 @@ k y T y
 r e v y
 g y z y
 b yy
-n a D 2 b yy
-k i S 2 b yy
+n a D O b yy
+k i S O b yy
 f yy
 b u v aa k f yy
-z 2 r g 22 f yy
+z O r g OO f yy
 p f yy
 h yy
 p h yy
-k 2 l i yy
+k O j yy
 m yy
 N yy
 C e p yy
 k e S e r yy
-k 2 s 2 r yy
-2 s t 2 r yy
+k O s O r yy
+O s t O r yy
 S e p r yy
 S yy r yy
 f ee S yy
 D yy s yy
 t yy
-h ii m z 22 t yy
+h ii m z OO t yy
 t y t yy
 T yy
 k e s T yy
@@ -6566,7 +6564,7 @@ ee v
 h ee v
 n ee v
 b e c e n ee v
-s 2 k 22 ee v
+s O k OO ee v
 r ee v
 n a i v
 ii v
@@ -6577,13 +6575,13 @@ v ii v
 e l v
 N e l v
 ee l v
-2 l i v
+O j v
 h a m v
 e N v
-k 2 N v
+k O N v
 b a z e d o v
 oo v
-2 v
+O v
 s a r v
 k e S e r v
 s e r v
@@ -6593,7 +6591,7 @@ ee r v
 m ee r v
 S ee r v
 o r v
-2 r v
+O r v
 S y v
 S h o v
 a z
@@ -6691,14 +6689,14 @@ m a t r oo z
 f r u k t oo z
 m a l t oo z
 v i r t u oo z
-d 2 b 2 z
-k 2 z
-2 t v 2 z
-g 22 z
-D 22 z
-g r a c i 22 z
-d u b l 22 z
-f r i t 22 z
+d O b O z
+k O z
+O t v O z
+g OO z
+D OO z
+g r a c i OO z
+d u b l OO z
+f r i t OO z
 t r a v e r z
 k u r z
 f r i d z
@@ -6722,7 +6720,7 @@ r i Z
 b u r i Z
 p a j Z
 r o Z
-p 22 Z
+p OO Z
 g uu Z
 r uu Z
 d u l C aa c a
@@ -6733,21 +6731,21 @@ o s t r i g a
 e s t e r g a
 k a l a n D a
 t a l i C k a
-S u S u l i k a
+S u S u j k a
 p u l i s k a
 p o n D o l a
 s o T o l a
 S t r i g u l a
-N a v a l i a
-S a r o g l i a
-k u r u g l i a
-c i r b o l i a
-t u r b o l i a
-m o C o l i a
-p o C o l i a
-C i g o l i a
-g u r g o l i a
-n a S p o l i a
+N a v a j a
+S a r o g j a
+k u r u g j a
+c i r b o j a
+t u r b o j a
+m o C o j a
+p o C o j a
+C i g o j a
+g u r g o j a
+n a S p o j a
 C a t o r n a
 p a l o Z n a
 v a r g aa N a
@@ -6774,7 +6772,7 @@ b o d o b aa C
 k r a m p aa C
 v a r aa d i C
 k i k e r i C
-D y m 2 l C
+D y m O l C
 k u ll a n C
 t a pp a n C
 h e b r e n C
@@ -6785,33 +6783,33 @@ b e r b e n c e
 s e l e n c e
 p e t r e n c e
 s e k e r c e
-s 2 m 2 r c e
+s O m O r c e
 k e l e n D e
 p i l i n c k e
-g e r e b l i e
-d e r e g l i e
+g e r e b j e
+d e r e g j e
 p e C e N e
 t e r g e N e
 z e g e r N e
 C e s N e
-k 2 s m ee t e
-p 2 s m ee t e
+k O s m ee t e
+p O s m ee t e
 r e k e TT e
-k 2 p 2 N e g
+k O p O N e g
 t ee n f e r e g
 N e k e r e g
 h e n t e r e g
-C 2 pp
+C O pp
 m i n d ee t i g
 S n i d l i n g
 s a T i n g
 C aa m C o g
-k oo v aa l i o g
-t aa m o l i o g
+k oo v aa j o g
+t aa m o j o g
 s i v aa r o g
 S u T o r o g
-s 2 r C 2 g
-p r y ss 2 g
+s O r C O g
+p r y ss O g
 k ii v aa n C i
 h e C e d l i
 p a r t e d l i
@@ -6840,15 +6838,15 @@ k a m a T o l
 d o r b ee z o l
 d u r u Z o l
 k u r u Z o l
-d 2 r 2 m b 2 l
-d 2 m 2 c k 2 l
-p r y s k 2 l
-i S p o t aa l i
-Z i n d e l i
-m e ss e l i
-s e s ee l i
-g a r a b o l i
-Z o m b o l i
+d O r O m b O l
+d O m O c k O l
+p r y s k O l
+i S p o t aa j
+Z i n d e j
+m e ss e j
+s e s ee j
+g a r a b o j
+Z o m b o j
 c i m b a l o m
 l a j S t r o m
 N i ss a n
@@ -6860,10 +6858,10 @@ g a l a C i n
 k a n k a l i n
 h e r m e l i n
 b u z o g aa N
-b 2 r Z 2 N
+b O r Z O N
 m aa n g o r o l
 D a k o r o l
-k 2 z 2 m b 2 S
+k O z O m b O S
 k a T v a s
 p o DD aa s
 b a r h e s
@@ -6874,12 +6872,12 @@ p e T h y tt
 g u bb a s t
 p u ff a s t
 k o p o l T uu
-k 2 S 2 n T yy
-t 2 p 2 r T yy
-d 2 g 2 N 2 z
+k O S O n T yy
+t O p O r T yy
+d O g O N O z
 p e r e m i Z
-b o h o l i
+b o h o j
 C e b e r
-k 2 l 2 k
-p 2 c 2 k
+k O l O k
+p O c O k
 v e d e r

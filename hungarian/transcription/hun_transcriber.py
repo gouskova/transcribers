@@ -336,12 +336,16 @@ IPA_corresp_short = {
     u"Q": u"dʒ",
     u"N": u"ɲ"}
 
+IPA_correction = {
+	u"ɛː": u"eː"}
 
 def ipafy(word):
     for char in IPA_corresp_long.keys():
         word = word.replace(char, IPA_corresp_long[char])
     for char in IPA_corresp_short.keys():
         word = word.replace(char, IPA_corresp_short[char])
+	for char in IPA_correction.keys():
+		word = word.replace(char, IPA_correction[char])
     word = u"ˈ" + word.replace(" ", "")
     return word
 

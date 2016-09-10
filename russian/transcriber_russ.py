@@ -28,6 +28,7 @@ def spacify(word):
 	word = word.replace(" '", "'")
 	word = word.replace(" `", "`")
 	word = word.replace(" /", " |")
+	word = word.replace("-","")
 	return word
 
 
@@ -93,14 +94,16 @@ ipa_vowels_str = {
 	"e'" : "é",
 	"i'" : "í",
 	"o'" : "ó",
-	"u'" : "ú"}
+	"u'" : "ú"
+	}
 	
 ipa_vowels_secstr = {
-	"а`" : "à",
+	"a`" : "à",
 	"e`" : "è",
 	"i`" : "ì",
 	"o`" : "ò",
-	"u`" : "ù"
+	"u`" : "ù",
+	"ó`" : "ò"
 	}
 
 all_vowels=list(cyr_ipa_vowels_nostr.values())+list(ipa_vowels_str.values())
@@ -190,10 +193,12 @@ def palatalize(word):
 		word = word.replace(cons+ " | j", cons + " |")
 		word = word.replace(cons+" j", cons)
 	for cons in always_palatalized:
-		word = word.replace(cons+" ", cons+"ʲ")
+		word = word.replace(cons+" ", cons+"ʲ ")
+		if len(word)>2 and (word[-1]==cons or word[-2:]==cons):
+			word = word+"ʲ"
 	word=word.replace("ʲ | ʲ", "ʲ |")
 	word=word.replace("ʲ | j", " ʲ |")
-	word=word.replace("j |", "ʲ |")
+	word=word.replace("j |", "ʲ |") #
 	word=word.replace("ʲ ʲ", "ʲ")
 	word=word.replace("ʲʲ", "ʲ")
 	word=word.replace(" ʲ", "ʲ")
@@ -309,7 +314,10 @@ def voicing(word):
 #=======================================================================	
 
 def transcribe(word, stress, spaces, voice, reduction):
-	"""Transcribes Cyrillic to IPA. Options include stress ("off"=default, "twoway" and "threeway"), adding spaces between sounds ("yes"=default, "no), transcribing devoicing and voicing agreement ("no"=default, "yes"), vowel reduction ("no"=default, "yes")."""
+	"""
+	Transcribes Cyrillic to IPA. Options include stress ("off"=default, "twoway" and "threeway"), adding spaces between sounds ("yes"=default, "no"), transcribing devoicing and voicing agreement ("no"=default, "yes"), vowel reduction ("no"=default, "yes").
+	Make sure to set spaces to 'yes' if you are using UCLAPL='yes' in the transcription wrapper version.
+	"""
 	word = spacify(word)
 	word = do_consonants(word)
 	word = do_vowels(word, stress)
@@ -318,20 +326,19 @@ def transcribe(word, stress, spaces, voice, reduction):
 		word=voicing(word)
 	if reduction=="yes":
 		word = reduce_vowels(word)
+	word = word.replace('  ', ' ')
 	if spaces == "no":
-		word = word.replace(" ", "")
+		word = word.replace(" ", "")	
 	return word
 
 def transcription_wrapper(input_list, MGL="no", UCLAPL="no", stress="off", spaces = "yes", voice="no", reduction="no"):
-	out=[]
 	for word in input_list:
 		word=transcribe(word, stress, spaces, voice, reduction)
 		if MGL=="yes":
 			word = MGL_transcribe(word)
 		if UCLAPL!="no":
 			word = UCLAPL_transcribe(word, UCLAPL)
-		out.append(word)
-	return out
+	return word
 
 #================================================================
 #substitions for IPA characters, compatible with the Minimal Generalization Learner 
@@ -372,7 +379,7 @@ def MGL_transcribe(word):
 HWcons = {
 	 "ʦ" : "ts",
 	 "ʐ" : "zh",
-	 "ʃʃʲ" : "shshj", 
+	 "ʃʃ" : "shsh", 
 	 "ʂ" : "sh", 
 	 "ʧ" : "ch", 
 	 "ɡ" : "g",
@@ -392,24 +399,24 @@ HWvowelsnostress ={
 	 "ù" : "u"} 
 
 HWvowelstress = {
-	 "á" : "A1" , 
-	 "é" : "E1" ,
-	 "í" : "I1" ,
-	 "ó" : "O1" ,
-	 "ú" : "U1" ,
-	 "à" : "A2" ,
-	 "è" : "E2" ,
-	 "ì" : "I2" ,
-	 "ò" : "O2" ,
-	 "ù" : "U2"} 
+	 "á" : "A" , 
+	 "é" : "E" ,
+	 "í" : "I" ,
+	 "ó" : "O" ,
+	 "ú" : "U" ,
+	 "à" : "A" ,
+	 "è" : "E" ,
+	 "ì" : "I" ,
+	 "ò" : "O" ,
+	 "ù" : "U"} 
 	 
 
 def UCLAPL_transcribe(word, UCLAPL):
 	"""converts IPA to UCLAPL ascii format, with stress (default) or without stress, as defined by the user-supplied UCLAPL parameter. the value is passed from the wrap function
 	"""
 	for sound in HWcons.keys():
-		for cons in contrastive:
-			word = word.replace(cons+ "ʲ", cons.upper())
+		#for cons in contrastive:
+		#	word = word.replace(cons+ "ʲ", cons.upper())
 		word = word.replace(sound, HWcons[sound])
 	if UCLAPL=="nostress":
 		for vowel in HWvowelsnostress.keys():
@@ -417,4 +424,5 @@ def UCLAPL_transcribe(word, UCLAPL):
 	elif UCLAPL=="stress":
 		for vowel in HWvowelstress.keys():
 			word = word.replace(vowel, HWvowelstress[vowel])
+	word = word.replace('jj','j')
 	return word

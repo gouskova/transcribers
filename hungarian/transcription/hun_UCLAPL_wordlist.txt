@@ -5996,7 +5996,6 @@ b aa
 t o v aa bb aa
 o j b aa
 C aa
-b o C aa ’
 d aa d aa
 r e aa
 g ee h aa
@@ -33615,7 +33614,6 @@ v e S t e r n
 e k s t e r n
 f i r n
 l e g h o r n
-i n f aa n S ( n OO )
 u n
 f a u n
 p o z a u n
@@ -61914,7 +61912,6 @@ t e h e r l i f t
 D o r S l i f t
 f o r S r i f t
 S t i f t
-k f t .
 l u f t
 j a h t
 e h t

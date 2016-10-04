@@ -384,7 +384,8 @@ HWcons = {
 	 "ʧ" : "ch", 
 	 "ɡ" : "g",
 	 "ʲ" : "j",
-	 "ə" : "@"}
+	 "ə" : "ee"}
+	 #note: @ breaks the UCLAPL. at least the GUI
 
 HWvowelsnostress ={
 	 "á" : "a", 

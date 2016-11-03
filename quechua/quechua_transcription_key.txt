@@ -1,0 +1,13 @@
+L	ʎ
+N	ɲ
+c	tʃ
+b	p'
+d	t'
+z	tʃ'
+g	k'
+G	q'
+P	ph
+T	th
+C	tʃh
+K	kh
+Q	qh

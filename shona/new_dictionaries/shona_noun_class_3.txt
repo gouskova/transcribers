@@ -1,0 +1,763 @@
+chiuno 	DKK 	3 	z 		chiuno DKK z 3 . Chiuno inzvimbo yomuviri womunhu yakadzvinyingikira mukati, panobatana hudyu, dumbu nemusana. Chiuno chinobatsira kuti kana munhu apfeka bhurugwa risadonha. Chiuno itsika yomunhurume anenge achinyanya kuda kurara nevakadzi. Iwe shamwari, uchasiya watiparira mhosva, nechiuno chako ichocho.
+matewunhewu 	DKDKD 	3 	z 		matewunhewu DKDKD z 3 . Uku kunwa kwakaita semaheu kana doro kunenge kwakawandisa.
+mavhai 	DDK 	3 	z 		mavhai muvhai DDK z 3 . Mavhai kuzadzwa nomufaro wakawandisa.
+mhumhu 	DK 	3 	z 		mhumhu DK z 3 . Mhumhu kukura kwemuviri wemunhu. Chenai ane mhumhu mukuru chaizvo, zvekuti anotoita kunge mhandara iye ari mwana wazuro chaiye. mumhu 3 .
+mongo 	DK 	3 	z 		mongo DK z 3 . Mongo mafuta anowanikwa mukati memabhonzo. mwongo 9 .
+moto 	DK 	3 	z 		moto DK z 3 . Moto kubvira kwehuni kana sora kana marasha. mwoto 3 .
+muapirikoti 	DKDDDD 	3 	z 		muapirikoti DKDDDD z 3 . Uyu muti unobereka vana vanonzi maapirikoti, vadiki vakatenderera vanodyiwa.
+mubaba 	DDK 	3 	z 		mubaba DDK z 3 . mutukutu 3 .
+mubatanidzwa 	DKKDK 	3 	z 		mubatanidzwa DKKDK z 3 . Iri isangano guru rine masangano madiki mauri, kana kuti vanhu vanomirira nyaya dzakasiyana-siyana. Uku kunyora mavara akatsikirirana, ari pedyo nepedyo.
+mubatiranwa 	DKKKK 	3 	z 		mubatiranwa DKKKK z 3 . Kana munhu akaitwa mubatiranwa anenge achitakurwa kana kuchengetwa nevanhu vakawanda nekuti anorwara kana kuti ane hasha anoda zvekurwa.
+mubatirapamwe 	DKKDKK 	3 	z 		mubatirapamwe DKKDKK z 3 . Uku kusevenza pamwe chete kwevanhu vakawanda, pamabasa akaita sekurima nekusona. mushandirapamwe 3, humwe 9, hoka 9 .
+mubato 	DKK 	3 	z 		mubato DKK z 3 . Mubato chihochekero kana chimupon'oro chiri pamidziyo, chinoshandiswa kuitakurisa. Mubato wepoto iyoyo uchiri kupisa. Ubate nemucheka.
+mubayamhondoro 	D- 	3 	z 		mubayamhondoro D- z 3 . Uyu muti une minzwa yakareba zvikuru, unogona kuita pamusoro pakati chechetere. muunga 3 .
+mubayanzou 	D- 	3 	z 		mubayanzou mubayazhou D- z 3 . Urwu rudzi rwemuti une minzwa inokura chaizvo.
+mubayiro 	D- 	3 	z 		mubayiro D- z 3 . Uyu mugove unopiwa munhu kana akunda vamwe, kana kuti aita chimwe chinhu chinorumbidzwa. Iyi imari kana zvimwewo zvaunogona kupihwa mushure mekunge washandira mumwe munhu. mubhadharo 3, muripo 3 .
+mubhadha 	D- 	3 	z 		mubhadha D- z 3 . Mubhadha muti unoshandiswa pakufamba nevakuru vachembera, vasisanyatsogona kufamba vega. tsvimbo 9 .
+mubhadharo 	D- 	3 	z 		mubhadharo D- z 3 . Ichi ndechinobviswa pakutenga chinhu, kazhinji iri mari. muripo 3 . Ichi ndechinopihwa munhu anenge akushandira. muripo 3 . Ichi ndechinobviswa neanenge atadzira mumwe kuti mumwe wake amuregerere. muripo 3 .
+mubhanana 	DDKD 	3 	z 		mubhanana DDKD z 3 . Uyu muti une hunde yakapfava nemashizha marefu akapamhama, unobereka michero inodyiwa, inonzi mabhanana.
+mubhedha 	DKD 	3 	z 		mubhedha DKD z 3 . Mubhedha chivakwa chinorarirwa pane matiresi pamusoro, chakagadzirwa nesimbi kana mapuranga. Mubhedha inzvimbo inogadzirwa, yozodyarwa muriwo, mbambaira kana maruva. muhomba 3 .
+mubhemhe 	DKK 	3 	z 		mubhemhe DKK z 3 . mbongoro 9 .
+mubhonda 	D- 	3 	z 		mubhonda mumhonda D- z 3 . Mubhonda rudzi rwemuti une mapazi matsva, makobvu, ane mvere neruvara rweyero.
+mubikirwa 	DDKD 	3 	z 		mubikirwa DDKD z 3 . Ichi chibage chinyoro chinogochwa chiri mumashizha acho. mubikwa 3 .
+mubikwa 	DDK 	3 	z 		mubikwa DDK z 3 . mubikirwa 3 .
+mubobo 	D- 	3 	z 		mubobo D- z 3 . Mubobo inyoka huru yakasvibirira inowanzoonekwa mumakomo, ine uturu hunouraya. rovambira 5, nzayo 9 .
+mubobobo 	D- 	3 	z 		mubobobo D- z 3 . Mubobobo mushonga unonzi unoshandiswa nevarume kupindira nekunorara nevakadzi nevanhukadzi, kana varume vavo varere navo vasingazive kuti ndizvo zviri kuitika. muchemedzambuya 3 .
+mubondorokoto 	D- 	3 	z 		mubondorokoto D- z 3 . Urwu rudzi rwemuti unowanzowanikwa panzvimbo dziri pedyo nenzizi kanoita maruva machena pakati pegore.
+muboora 	DDDK 	3 	z 		muboora mubovora DDDK z 3 . Uyu muriwo wemashizha emunhanga. mumanga 3, muhwandanyoka 3 .
+mubura 	D- 	3 	z 		mubura D- z 3 . Mubura muti wakasimba unowanzomera pedyo nerwizi. mupimbiri 3, mutehwa 3, mutongoro 3 .
+mubvamaropa 	D- 	3 	z 		mubvamaropa mubvaropa D- z 3 . Uyu muti unoburitsa muto unenge ropa, wakasimba zvekuti unowanzogadziriswa zvinhu zvakaita sematafura nezvigaro. mubvamakovo 3, mubvinzamaropa 3 .
+mubvinzamaropa 	D- 	3 	z 		mubvinzamaropa D- z 3 . mubvamaropa 3 .
+mubvumbi 	DDK 	3 	z 		mubvumbi DDK z 3 . Mubvumbi imvura nhete inenge yakawanda, inonaya kwenguva refu.
+mubvumira 	D- 	3 	z 		mubvumira D- z 3 . Urwu rudzi rwemuti unoreba chaizvo, nekumera chitumbu chemashizha kunoperera mapazi.
+mubvunzandadya 	DDDKD 	3 	z 		mubvunzandadya DDDKD z 3 . Uyu muriwo une tushizha, unomera padhuze nerukova, unonaka zvekuti zvinonzi unotozobvunza wapedza kudya kuti chiiko chandanga ndichidya.
+mubvunzo 	D- 	3 	z 		mubvunzo muvhunzo D- z 3 . Mubvunzo mazwi anotaurwa munhu achida kupihwa mhinduro. ANTONYMS mhinduro 9.
+muchacha 	D- 	3 	z 		muchacha D- z 3 . Muchacha ibhora rinenge rarohwa zvakasimba mumutambo wenhabvu, richienda nechepasi. bara 5 .
+muchacha 	DKK 	3 	z 		muchacha DKK z 3 . Muchacha muriwo unomera pazhizha une mashizha akada kuita semugaka.
+muchadya 	D- 	3 	z 		muchadya D- z 3 . Muchadya ishiri huru ine makumbo marefu nemutsipa mutete, inowanzofamba mumapani. gumbwi 5, gunja 5 .
+muchakata 	D- 	3 	z 		muchakata D- z 3 . Uyu muti une hunde yakaswatuka, ine man'aran'azhu nemashizha ane pasi pakapfumburuka, asingazunziki kana kuoma ese pachando, unobereka michero inonzi hacha, inodyiwa. muhacha 3, musha 3, muura 3 .
+muchakata pasi 	DDDD DK 	3 	z 		muchakata pasi DDDD DK z 3 . Aka kamuchakata kadiki, kanokura kachiti ware pasi.
+muchato 	D- 	3 	z 		muchato D- z 3 . Muchato kubatanidzwa kwevaviri vanenge vafunga zvekuroorana. Muchato mabiko anoitirwa vaviri vanenge vachiroorana. Takadya tikazvimbirwa kumuchato waMai naBaba Tinarwo.
+muchayiwa 	DDKD 	3 	z 		muchayiwa DDKD z 3 . Uhwu hwahwa hunosvinwa kubva mumasese akadirwa mvura, anenge ambosara panenge pasvinwa doro kwaro.
+muchecheni 	DKKD 	3 	z 		muchecheni DKKD z 3 . Uyu muti mudiki une minzwa, unobereka vana vanonzi checheni, vanodyiwa, vakada kufanana nemasau.
+muchechete 	D- 	3 	z 		muchechete D- z 3 . Uyu muti unowanzomera pachuru, mumakomo nemunzizi, unoita muchero unonzi chechete dzine ruvara rwemondo yemazai.
+muchechetere 	D- 	3 	z 		muchechetere D- z 3 . Kana munhu uri pa muchechetere unenge ugere murunyararo, zvinhu zvichifamba zvakanaka.
+muchecheto 	D- 	3 	z 		muchecheto D- z 3 . Apa ndepaya paunoona pachisangana denga nenyika, kana ukatarisa kunoguma kuona maziso. jengachenga 5 .
+mucheka 	DKD 	3 	z 		mucheka DKD z 3 . Mucheka ishinda dzakarukwa nemishina, dzinoshandiswa mabasa akasiyana, akaita sekusona hembe dzatinopfeka. jira 5 .
+muchekameno 	DKKDK 	3 	z 		muchekameno DKKDK z 3 . Uyu mushonga unoita kuti imbwa iite hasha.
+muchekechera 	D- 	3 	z 		muchekechera D- z 3 . Aya maruva machena anotumbuka pamusoro pechibage chinenge chichikura. ngara 9 .
+muchekesani 	DDDKD 	3 	z 		muchekesani DDDKD z 3 . Uyu muti une hunde nhete netumapazi tune tsarapu dzakawanda netumashizha tudiki, unobereka tuvana twakawanda, tunoibva twuri tutema.
+muchemedzambuya 	DKKDKD 	3 	z 		muchemedzambuya DKKDKD z 3 . mubobobo 3 .
+muchenje 	D- 	3 	z 		muchenje D- z 3 . Muchenje tumajuru tudiki tune dumbu jena, tunowanzodya uswa, miti nezvimwewo. mujuru 3 .
+mucherechese 	DDDKK 	3 	z 		mucherechese mucherekese, mutserekese DDDKK z 3 . Uyu muti murefu unobereka vana vanoshandiswa pakuredzesa hove.
+mucheri 	DKD 	3 	z 		mucheri DKD z 3 . Mucheri muti unobereka michero inodyiwa, inenge yakatsvukira kana kusvibirira kana yaibva.
+muchero 	D- 	3 	z 		muchero D- z 3 . Muchero mwana wemiti, angava anodyiwa kana asingadyiwi.
+mucheto 	D- 	3 	z 		mucheto D- z 3 . Uku kumagumiro kwezvinhu zvakaita senzvimbo, mubhedha kana munda.
+muchetura 	D- 	3 	z 		muchetura D- z 3 . Uyu mushonga unouraya chese chese chinenge chaudya. Nduru yegarwe muchetura unouraya chinhu pasina kana nenguva. chefu 9 .
+muchina 	DKD 	3 	z 		muchina mushina DKD z 3 . Uyu mudziyo wakagadzirwa navanhu unokwanisa kushanda wega, nesimba revanhu, nemhepo kana nedzimwewo nzira. Baba vakatenga muchina wokusonesa unoshanda negetsi. mushini 3 .
+muchindwi 	DKK 	3 	z 		muchindwi muchingwi DKK z 3 . Muchindwi rudzi rwemuti unomera pane mvura kana mugure, une mashizha anoshandiswa paPasika nemaKristu kurangarira rufu rwaJesu. murara 3 .
+muchinjiko 	DKKD 	3 	z 		muchinjiko muchinjikwa DKKD z 3 . Iyi miti miviri yakapesana nechekumusoro, pairoverwa vanhu nemaJudha kana vavapa chirango chorufu. Jesu akaroverwa pamuchinjiko nemaJudha. chipiyaniso 7 . Iyi miti miviri yakapesana. chipiyaniso 7 .
+muchiso 	DKK 	3 	z 		muchiso DKK z 3 . Muchiso kamutsetse kanosara pajira rinenge raainwa. Muchiso ukaenda nepadivi pehanzu, inonyadzisa kupfeka. mupono 3, mupani 3 . Muchiso mucherechedzo unoiswa pamombe nesimbi inopisa. chidhindo 7 .
+muchiuno 	DDKK 	3 	z 		muchiuno DDKK z 3 . Kuva ne muchiuno kufarira zvekuda kusangana nemurume kana mukadzi zvakanyanyisa, zvisina mwero. Murume wake ane muchiuno zvekuti, akangoona rokwe kupfuura haazokwanisi kugadzikana.
+muchochororo 	D- 	3 	z 		muchochororo muchochorondo D- z 3 . Ichi chinyama chitsvuku chiri pamusoro wehuku chakati swatu.
+muchokochiyana 	DDDKDD 	3 	z 		muchokochiyana DDDKDD z 3 . Uyu muti unokura pachuru, unoita vana vachena vakawanda, une mashizha anofarirwa nembudzi. musosoti 3 .
+muchokoto 	D- 	3 	z 		muchokoto D- z 3 . Iyi imheremhere inoitika panenge pava kuda kurwiwa. Zirume riya rekushusha rakasvikomutsa muchokoto, parakawana mukadzi asina kurisiira musoro wehove. musindo 3 .
+mudanhatsindi 	DDDKK 	3 	z 		mudanhatsindi DDDKK z 3 . Urwu rudzi rwemuti une mudzi unoshandiswa semushonga wemusana uye une mashizha asingaome gore rese.
+mudapakati 	DK- 	3 	z 		mudapakati DK- z 3 . Uyu munwe wepakati wakareba kudarika mimwe minwe yose.
+mudeme mudeme 	DKD+ 	3 	z 		mudeme mudeme DKD+ z 3 . Iyi inzira yokuunganidza zvinhu zvakaita sekudya kana zvokupfeka, vanhu vachibatsirana kunyanya panhamo. Mari yomudeme mudeme ndiyo yakazotengesa bhokisi rechitunha.
+mudhadhadha 	D- 	3 	z 		mudhadhadha D- z 3 . Uyu mutsetse wezvinhu wakareba, wakaita sewedzimba.
+mudhanda 	DKK 	3 	z 		mudhanda DKK z 3 . Mudhanda iriva rinoteyeswa mhuka hombe dzemusango. Kuteya mhuka nomudhanda zvinosungisa. mukuni 3 .
+mudhebhe 	D- 	3 	z 		mudhebhe D- z 3 . Mudhebhe chipfeko chine makumbo marefu chinotangira muchiuno chichidzika kutsoka. bhurukwa 5 .
+mudhefudhefu 	DDKDD 	3 	z 		mudhefudhefu DDKDD z 3 . Iri idanho rinondengendera, rakatetepa, rinoyambukisa vanhu rwizi.
+mudhende 	DDK 	3 	z 		mudhende dhende DDK z 3 . mudune 3 .
+mudhindwa 	DDK 	3 	z 		mudhindwa DDK z 3 . Mudhindwa kunyora munhu achishandisa mavara makuru erunyoro. Runyoro rwomudhindwa rwunotora nzvimbo yakakura pakunyora. Mudhindwa ibhurukwa rekadubura rine ruvara rwekaki, uye rakasonwa zvakaipa zvekumhanya-mhanya. Pfuti ye mudhindwa ndeiya yerudzi rwakare yaiitwa zvekupakirwa unga, ichizongopfura nebara rimwe chete panguva imwe chete.
+mudhombo 	DDK 	3 	z 		mudhombo DDK z 3 . Mudhombo isoda kana madota emiti anoiswa mufodya yebute kuti ikorongonye mumhuno kana yaputwa.
+mudhori 	DDK 	3 	z 		mudhori DDK z 3 . chidhori 7 .
+mudhorodhoro 	D- 	3 	z 		mudhorodhoro D- z 3 . Iyi imotokari yasakara, inotinhira ichiputika-putika. muchovha 3, sikorokoro 9 .
+mudhorofiyo 	DDDKD 	3 	z 		mudhorofiyo DDDKD z 3 . Uyu muti une minzwa mitete inobaya, unomera munzvimbo dzisina mvura yakawanda.
+mudhudhudhu 	D- 	3 	z 		mudhudhudhu D- z 3 . Uyu mushini wekufambisa, une mavhiri maviri sebhasikoro, asi uine injini uye uchishandisa peturu. motobhaiki 9, motobheki 3 .
+mudhunduzuru 	D- 	3 	z 		mudhunduzuru D- z 3 . Uyu mupanje unosara usina kurimwa mumunda nekuda kwekuti gejo ranzvenga, kana kuti panenge pane ibwe kana muti. Aka kakoronga kari pakati pamagaro emunhu.
+mudhuri 	DDK 	3 	z 		mudhuri DDK z 3 . Mudhuri chidziro chemba kana chimwewo chivakwa. Mota yamai yakabondereswa pamudhuri wepamba naNyasha.
+mudido 	D- 	3 	z 		mudido D- z 3 . Kuita mudido kuramba munhu achingodzokera kunzvimbo imwecheteyo kwenguva refu. Jaya rakaita mudido mhiri kwerwizi kwaive kwamuka mhandara yakaritosvora mwoyo.
+mudiwadiwa 	DKDKD 	3 	z 		mudiwadiwa DKDKD z 3 . Uyu muti une midzi inotsengwa navakomana kuti vadiwe nevasikana. Gomana parakaona kuti zvekusvika panaChido feya feya zvairinetsa, rakabva ramutsengera mudiwadiwa kuti riwane ushingi hwekumusvikira. muhatura 3 .
+mudodo 	DKK 	3 	z 		mudodo DKK z 3 . Mudodo kabwe kana mhodzi inoshandiswa ichikandwa mudenga, pakutamba mutambo wevana wenhodo.
+mudomasi 	D- 	3 	z 		mudomasi mutomati D- z 3 . Aka kamuti kanorimwa mubundo, kanoita vana vanoti kana vaibva vanenge vakatsvukurukira, vanokangiswa muriwo uchiita muto.
+mudonzvo 	DKK 	3 	z 		mudonzvo DKK z 3 . Mudonzvo muti unoshandiswa pakufamba navanhu vanenge vakwegura, kana kuti nemunhu anenge akuvara gumbo. Mutana akatorerwa mudonzvo, haakwanise kufamba. mubhadha 3 .
+mududu 	DDK 	3 	z 		mududu DDK z 3 . Mududu igomba rakadirwa mvura, rinocherwa ivhu rekuitisa mabasa akasiyana seepakuvaka.
+mudune 	DDK 	3 	z 		mudune mutune DDK z 3 . Aka kambeva kanogara musango, kane muromo murefu nemakumbo ekumashure marefu, kanosvetuka zvikuru. mudhende 3 .
+mudunge mudunge 	DKD+ 	3 	z 		mudunge mudunge DKD+ z 3 . Kuita mudunge mudunge kuramba munhu achingomedza kudya pasina zororo.
+mudungiro 	DKKD 	3 	z 		mudungiro DKKD z 3 . Iyi itambo kana tsanga inopakirwa hove, majenya kana hwiza dzinenge dzabatwa, kuti zvirambe zviri pamwe pazvinenge zvakachengeterwa.
+mudungwe 	DKD 	3 	z 		mudungwe dungwe DKD z 3 . Uyu mutsara wevanhu kana mhuka. Nzou dzinofamba dzakaita mudungwe kana dzichiyambuka mugwagwa. rundaza 11, mutsetse 3 .
+mudungwerungwe 	DKKKD 	3 	z 		mudungwerungwe DKKKD z 3 . Aya makomo akabatana-batana akatanda. KuNyanga kune mudungwerungwe wemakomo.
+mudyabveni 	DKKD 	3 	z 		mudyabveni DKKD z 3 . Urwu rudzi rwemuti une mapazi akasvibira, unokora kubva pakati kusvika kumusoro, uye unobuda mukaka. muruguru 3, mudzambara 3 .
+mudyagava 	DKKK 	3 	z 		mudyagava DKKK z 3 . mutsubvu 3 .
+mudyahuku 	DKKK 	3 	z 		mudyahuku DKKK z 3 . Uyu muti unoita chitsokotsoko chemapazi akawanda-wanda, unobereka muchero unotapira chaizvo. munwahuku 3 .
+mudyakuwe 	DKDD 	3 	z 		mudyakuwe DKDD z 3 . Uyu muti unoreba chaizvo, kunyanya kana uri pachidzere. mudyambira 3, mukavi 3, mudanhapfunye 3 .
+mudyambudzi 	DKKK 	3 	z 		mudyambudzi DKKK z 3 . Uyu muti unomera pachuru, unoberaka vana vanodyiwa. musangaoma 3, musosoti 3, mutakunanzva 3 .
+mudyamhara 	DKDK 	3 	z 		mudyamhara DKDK z 3 . Uyu muti unomera mumapani unoshandiswa kuveza mipinyi, majoki nezvimwewo zvakadaro. mugopa 3, mubikanyemba 3, mutsikanyati 3 .
+mudyamhembwe 	DKKD 	3 	z 		mudyamhembwe DKKD z 3 . Iyi imhando yemuti unobereka muchero unodyiwa nemhuka, uye uine mwoyo wavo wakatsvukuruka wakanaka kugadzirisa zvishongo. mutsonzowa 3, mutoto 3, mukuvazviyo 3, musamba 3 .
+mudyamhofu 	DKKD 	3 	z 		mudyamhofu DKKD z 3 . Iyi imhando yemuti une mashizha anotsvukuruka munguva dzechirimo, uye unoita mapazi anoita dumbu remashizha kwekupedzisira kwawo. munyimonyimo 3, mudyavarungu 3, mukwiramhofu 3 .
+mudyamhungu 	DKKK 	3 	z 		mudyamhungu DKKK z 3 . Uyu muti unowanzoonekwa pachuru uchiita vana vane mhodzi dzakawanda. mutandanyoka 3, mukundanyoka 3 .
+mudyandigere 	DKKDK 	3 	z 		mudyandigere DKKDK z 3 . Uku kuda kunoita munhu kuguta asi iye asingadi kushanda, kana kungoda kupona nezvaasina kushandira. mudyandirere 1 . Iyi imari inozotambirwa nemunhu asisasevenzi nekukura, yaanenge anga achimbobatirwa achiri kushanda. penjeni 9, mudyandirere 1 .
+mudyandirere 	DKKDK 	3 	z 		mudyandirere DKKDK z 3 . mudyandigere 3 .
+mudyapfunde 	DKDD 	3 	z 		mudyapfunde mudyabvunde DKDD z 3 . Iyi imhando yemapfunde anobudisa muto unotapirira. mudyakwose 3 .
+mudyaroro 	DKKD 	3 	z 		mudyaroro DKKD z 3 . Iyi imhando yemuti unoita mashizha akapfava, ane mvere uye ganda gobvu, unowanikwa munzvimbo dzine matombo. mukuhunu 3, mufunuka 3, mutsvedzambudzi 3, chiwirowiro 7 .
+mudzamba 	DKK 	3 	z 		mudzamba DKK z 3 . Mudzamba ibota rinobikwa nemukaka wekutanga kukamwa pamombe ichangobereka. Vakomana vanotemana nebota romudzamba kuti vasimbisane. munamba 3 .
+mudzambara 	D- 	3 	z 		mudzambara D- z 3 . muruguru 3 .
+mudzambiringwa 	DDKDD 	3 	z 		mudzambiringwa mudzambiringa DDKDD z 3 . Uyu muti unoita zvekutanda uchimonera mimwe miti, unobereka tuvana tudiki tunovavira.
+mudzanga 	D- 	3 	z 		mudzanga D- z 3 . Mudzanga ifodya, yakati rebei, yakamonerwa mupepa.
+mudzeerere 	DKKDD 	3 	z 		mudzeerere DKKDD z 3 . Apa ndepanotambira vana vachizeya kuenda mudenga nekudzoka, pavanenge vachidhaiwa vari pachigaro chakabatwa nemisungo miviri. mudzuwerere 3 .
+mudzepete 	DKDD 	3 	z 		mudzepete munzepete DKDD z 3 . Ichi chiruva chine mudzi unobumba pasi, une mvura inodhaka munhu zvekufa. Ukanwa mvura yekutanga yakafashaidzwa mudzepete unosiya nyemba.
+mudzi 	D- 	3 	z 		mudzi D- z 3 . Mudzi inhengo yemuti inenge iri muvhu, inopa kudya nemvura kumuti wese kuti ukure. Mudzi mushonga unorapa kana kukuvadza, unocherwa kana kuwanikwa pazvimerwa zvakasiyana-siyana. Nyaviri yaMunya yakapedzwa nemudzi waakagezeswa nawo nambuya.
+mudzimundione 	DKKKDK 	3 	z 		mudzimundione DKKKDK z 3 . mudzimundiripe 3 .
+mudzimundiringe 	DKKKDK 	3 	z 		mudzimundiringe DKKKDK z 3 . Iri idambudziko rekuti hamheno munhu akabuda mariri, zvekuti anenge okumbira vadzimu kuti vamutarire kuti vamubatsire. mudzimundione 3 .
+mudziti 	DKK 	3 	z 		mudziti DKK z 3 . Mudziti kamuti katete kanonamirwa urimbo, koteyeswa shiri.
+mudziyo 	DKK 	3 	z 		mudziyo DKK z 3 . Mudziyo ndechipi nechipi zvacho chinoshandiswa pamusha chakaita sehari, ndiro kana majoki ekurimisa.
+mudzonga 	DKD 	3 	z 		mudzonga DKD z 3 . Mudzonga inyama inenge yakachekwa kana kuvedzengwa, ichisara iri nhete kuti iyanikwe kana kubikwa.
+mudzonzo 	DKK 	3 	z 		mudzonzo DKK z 3 . Mudzonzo itsika yekuparadza zvinenge zvaitwa nevamwe, apo zvinenge zvava kubudirira.
+mudzuwerere 	DKKDD 	3 	z 		mudzuwerere DKKDD z 3 . mudzeerere 3 .
+mudzvurwa 	DKD 	3 	z 		mudzvurwa DKD z 3 . Mudzvurwa upfu hwechibage chakatswiwa muduri. mutwiwa 3, duure 5 .
+muenzaniso 	D- 	3 	z 		muenzaniso D- z 3 . Kupa muenzaniso kuratidza vamwe zvavangaite, kana kuti kufananidza zvinhu. mufananidzo 3 .
+muenzano 	D- 	3 	z 		muenzano D- z 3 . Aya magariro ekuti vanhu kana zvinhu zvinenge zvakafanana kana, kuti zvichibatwa zvakaenzana, pasina rusarura.
+mueresero 	D- 	3 	z 		mueresero D- z 3 . Uyu mupimo wouwandu hunodiwa chaihwo, wakaringana, pasina kushomeka kana kuwandisa.
+mufakamwe 	DKKK 	3 	z 		mufakamwe DKKK z 3 . Uku kushingirira kuita basa rakaoma rese nguva imwe, kuti zvibve zvangopera nguva iyoyo. Murimi akaita mufakamwe kurima zvese nekukavira, paakaona kuti mvura yakanga yazadza denga.
+mufakaviri 	DKKDK 	3 	z 		mufakaviri DKKDK z 3 . Uku kuita chinhu uchifunga kuti wapedza, wozoona kuti unenge uchifanira kuchidzokorora zvakare, nokuti chinenge chisina kubuda sezvaunoda. Mukadzi akaita mufakaviri apo akapedza kutsvaira pachivanzi mhepo ichibva yauya ichiisa marara akachizotangazve.
+mufake 	DKD 	3 	z 		mufake DKD z 3 . Mufake mupunga wakaiswa dovi. mashakada 6 .
+mufambo 	DKK 	3 	z 		mufambo DKK z 3 . Mufambo kuteera nyika uchienda kwaunenge uchida kusvika. rwendo 11 . Mufambo mutunhu wakareba pakufamba rwendo. KuMazowe kure zvakadii? Aa, pane mufambo.
+mufananidzo 	DKKKD 	3 	z 		mufananidzo DKKKD z 3 . Uyu mufanikiso wemunhu kana chimwewo chinenge chatorwa nemushini. Chipo naCharisi pavakadanana, vakapanana mifananidzo yavo kuratidza rudo rwavo. pikicha 9 . Ichi chinhu chinenge chichienzaniswa nechimwe. MuBhaibheri zvinonzi Mwari akasika munhu nemufananidzo wake. Urwu runyaya rwunobuda rwuine mapikicha anenge atorwa kuti vanhu vagozoona. Takaona mufananidzo wa"Neria" nezuro patiivhii. firimu 5, bhaisikopo 5 . Iyi inyaya ine chinangwa chekudzidzisa vateereri.
+mufanawembudzi 	DKDKDD 	3 	z 		mufanawembudzi DKDKDD z 3 . Aka kamuti kanokura munzvimbo nyoro munenge munine uswa uzhinji, kane mashizha anovava zvekuti huyai muone. Tiri vadiki taishinhirwa nevakomana vakuru kumombe tichidyiswa mufanawembudzi.
+mufandaedza 	DKKDK 	3 	z 		mufandaedza DKKDK z 3 . Uku kushinga kuita chinhu chaunenge usina chokwadi kuti chinobudirira, asi uchingoti dzimwe nguva zvingangofamba, saka zviri nani kuedza pane kungogara.
+mufandichimuka 	DKDKKK 	3 	z 		mufandichimuka DKDKKK z 3 . Aka kamuti kasingafi mangamanga, kanombooma kozobukira zvekare, kanokura pakati pemabwe. mupfakwenye 3, rufandichimuka 11 .
+mufanikiso 	DKKKD 	3 	z 		mufanikiso DKKKD z 3 . mufananidzo 3 .
+mufarinya 	DDKD 	3 	z 		mufarinya DDKD z 3 . Urwu rudzi rwemuti unorimwa nokudyiwa midzi yawo inenge mbambaira. mujumbura 3 .
+mufaro 	DKK 	3 	z 		mufaro DKK z 3 . Mufaro manyawi anonzwika nemunhu kana zvinhu zvichimufambira zvakanaka, kana kuti kana pane chakanaka chinenge chaitika. rufaro 11 .
+mufenje 	DKK 	3 	z 		mufenje DKK z 3 . Mufenje muti une ganda gobvu rakabanzuka-banzuka kunze kwaro, asi mukati maro rakapfava, unoita mashizha anofarirwa nembudzi. Mbudzi kudya mufenje hufana nyina.
+mufere 	D- 	3 	z 		mufere D- z 3 . Mufere muti unodyarwa uchikura wakatambarara, unokubereka vana vanonzi mashamba, vanobikiswa nhopi kana kupihwa mombe. mushamba 3 .
+mufokosiyana 	DDDKDD 	3 	z 		mufokosiyana DDDKDD z 3 . Uyu muti unokura munzvimbo nyoro, wakatwasanuka, une mapazi anorembera. mutepe 3 .
+muforo 	DKD 	3 	z 		muforo DKD z 3 . Muforo indima inenge yarimwa kana kuti icharimwa, panotenderera mombe negejo panguva imwe.
+mufote 	DKD 	3 	z 		mufote DKD z 3 . Mufote inyimo dzakabikwa kuita mutakura, unoitwa mbuva.
+mufoyi 	DDK 	3 	z 		mufoyi mufoi DDK z 3 . Mufoyi ijira rinoiswa pakati pemakumbo nevanhu vechikadzi kuti vasapindwe nemhepo kana kuti vari kumwedzi. mugwada 3 .
+mufudze 	DKD 	3 	z 		mufudze mupfudze DKD z 3 . mupfudze 3 .
+mufuku 	DDK 	3 	z 		mufuku DDK z 3 . Mufuku igomba rinocherwa mujecha kuti vanhu vawane mvura, kana rwizi rwuchinge rwaoma.
+mufuramhembwe 	D- 	3 	z 		mufuramhembwe D- z 3 . Iri igwenzi rine midzi inorapa chikosoro, rine mashizha anofarirwa nemhembwe.
+mufushwa 	DKD 	3 	z 		mufushwa mufuswa, mufusha DKD z 3 . Mufushwa muriwo wakabikwa ukayanikwa. mutsotso 3, musone 3 .
+mufuta 	DKK 	3 	z 		mufuta mupfuta DKK z 3 . mupfuta 3 .
+mugaka 	DKD 	3 	z 		mugaka mukaka DKD z 3 . Mugaka muchero unorimwa, unotanda uchibereka vana vane minzwa kana vasina, vanodyiwa mhodzi nemuto wacho.
+mugan'acha 	DKDK 	3 	z 		mugan'acha DKDK z 3 . Uyu muti une zvana zvinodyiwa, zvinoita zvipfumbu kana zvaibva, zvichidaidza mhamhatsi chaizvo. mushamba 3 .
+muganhu 	DKD 	3 	z 		muganhu muganho DKD z 3 . Muganhu inzvimbo inoperera chero chinhu.
+mugara 	D- 	3 	z 		mugara D- z 3 . Mugara muti unokura pachuru nemunzvimbo dzine matombo. muora 3, mugundudzi 3, muchangiza 3 .
+mugaragunguo 	DDDKKD 	3 	z 		mugaragunguo DDDKKD z 3 . Iyi imhando yemuti unobereka vana vanodyiwa nevanhu neshiri. murungu 3, musukameno 3, murunganyama 3 .
+mugarahorwe 	DDDKD 	3 	z 		mugarahorwe DDDKD z 3 . Iyi imhando yemuti inowanikwa munzvimbo dzakakwirira. mutsatsati 3, mugarahungwe 3 .
+mugarambinga 	DDDKD 	3 	z 		mugarambinga DDDKD z 3 . Iyi imhando yemuti unogara uine mashizha manyoro kwekupedzisira kwemapazi awo. mukwenukwenu 3, muchemedzambuya 3, mubanda 3 .
+mugaranguruve 	D- 	3 	z 		mugaranguruve D- z 3 . Iyi imhando yemuti, unoita minzwa inotandikira, unowanzowanikwa munzvimbo dzinonaya mvura yakawanda. garura 5 .
+mugaranhoko 	DDDDK 	3 	z 		mugaranhoko DDDDK z 3 . Uhwu ura hwembudzi kana hwai, hunochengeta nhoko dzisati dzaburitswa mudumbu. mugaragovera 3, mutsindanhoko 3 .
+mugaranjiva 	DDDDK 	3 	z 		mugaranjiva DDDDK z 3 . Uyu muti unokura pazvuru nekuita mapazi ane minzwa yakaomarara, unonzi mashizha acho anorapa mudumbu. chizhuzhu 7, chivhunabadza 7 .
+mugaranyenze 	DDDKK 	3 	z 		mugaranyenze DDDKK z 3 . Iyi imhando yemuti une ganda rine man'aran'azha. muriranyenze 3, mudyahacha 3 .
+mugayiwa 	DKKK 	3 	z 		mugayiwa DKKK z 3 . Uhwu upfu hwechibage chakagayiwa chakangodaro nechigayo chisingagone kutanga chambobvisa makanda sezvinowanzoitwa kumamisha. muguza 3 .
+mugero 	DKK 	3 	z 		mugero DKK z 3 . Mugero igoronga rinocherwa kuti rifambe nemvura, kuitira kudzivirira kukukurwa kwevhu muminda nemumigwagwa.
+mugigwa 	DDK 	3 	z 		mugigwa DDK z 3 . Mugigwa ipfuti yakare yairidzwa nounga uye ichipakirwa mbumburu imwe imwe. mudhindwa 3 .
+mugirandera 	DDKDD 	3 	z 		mugirandera DDKDD z 3 . Iyi imhando yemuti unokura wakatambarara, uchiteedza mapango, mimwe miti kana fenzi, unobereka vana vanonzi magirandera.
+Mugobera 	DDKD 	3 	z 		Mugobera DDKD z 3 . Mugovera 3 .
+mugodhi 	DDK 	3 	z 		mugodhi DDK z 3 . Mugodhi itsime rakadzika rakavakirirwa mukati nezvitinha. Mugodhi igomba rinocherwa matombo anokosha, akafanana negoridhe, mhangura, marasha nezvimwewo. KuHwange kune mughodhi wemarasha.
+mugodo 	D- 	3 	z 		mugodo D- z 3 . Mugodo imhando yemuti wakasimba chaizvo, une mashizha makobvu ane mvere, unoshandiswa pakuveza mipinyi. mugoro 3, mupembere 3 .
+mugomo 	DKD 	3 	z 		mugomo mugoro DKD z 3 . Mugomo mudziyo wakagadzirwa nesimbi, unoshandiswa kucherera mvura kana kuitisa mamwe mabasa emumba.
+mugonyo 	DKD 	3 	z 		mugonyo DKD z 3 . Mugonyo mubato wakamonyoroka, unenge wemukombe.
+mugopogopo 	DKKDK 	3 	z 		mugopogopo DKKDK z 3 . Iyi imhando yemuti unoreba chaizvo, uye unowanikwa kumabvazuva kwenyika yeZimbabwe.
+mugorihondo 	DDKDD 	3 	z 		mugorihondo mugoriondo DDKDD z 3 . Uyu muti unoreba zviri pakati nepakati, uine mwoyo wakasimba chaizvo. mukamba 3, mungongoma 3 .
+mugoti 	DKD 	3 	z 		mugoti DKD z 3 . Mugoti chimuti chakavezwa chiine kumberi kwakapamhamama, chinoshandiswa pakubikisa.
+mugove 	DDK 	3 	z 		mugove DDK z 3 . Mugove chidimbu chakakodzera, chinopihwa munhu kubhadhara zvaanenge aita. Mugove ipfuma inopihwa munhu yakaita senhaka.
+Mugovera 	DDKD 	3 	z 		Mugovera DDKD z 3 . Iri izuva rechitanhatu pasvondo. Chitanhatu 7, Mugobera 3 .
+mugugunanzvu 	DKDKD 	3 	z 		mugugunanzvu mugugunanzvi DKDKD z 3 . Utwu twuhutapitapi twunowanikwa kubva mumaruva emimwe miti. Kutapira kwemugugunanzvu kunopinda tsvigiri.
+mugumachembere 	D- 	3 	z 		mugumachembere D- z 3 . Iri iderere rinomera kumakura.
+mugumegume 	DKDKD 	3 	z 		mugumegume DKDKD z 3 . Ichi chiitiko chekupedzisira paurongwa hwose hwunenge huripo. vharamusasa 9, mhedziso 9 .
+muguri 	D- 	3 	z 		muguri D- z 3 . Muguri chibage chizere tsanga chisati chatokonyorwa. hupi 5 . Muguri chimai chichena chinosaririra panenge patokonyorwa chibage, chinogona kushandiswa kubvirisa moto.
+muguzibheri 	DKDDD 	3 	z 		muguzibheri DKDDD z 3 . Uyu muti unobereka vana vanonzi maguzibheri vanodyiwa vakadaro kana kugadziriswa jemhu. muguzvuveri 3 .
+mugwada 	DDK 	3 	z 		mugwada DDK z 3 . Uyu mucheka unopetwa napakati pamakumbo, wosungirirwa muchiuno. mufoyi 3 .
+mugwagwa 	D- 	3 	z 		mugwagwa D- z 3 . Mugwagwa inzira huru yakagadzirwa yakapamhamha, panofamba nevanhu, mabhazi, mota kana ngoro. nzira 9 .
+mugwaku 	DDK 	3 	z 		mugwaku DDK z 3 . Mugwaku mudziyo wakavezwa, unenge mugoti, asi iwo wakafombwera mukati, unoshandiswa kupakurisa kudya kwakaita sesadza. rugwaku 11 .
+mugwango 	DKK 	3 	z 		mugwango DKK z 3 . Mugwango mwoyo kana kuti mweya wokufarira chimwe chinhu. Vadzidzi vanoita mapitse nedoro havazomboitawo mugwango nemabhuku. Mugwango kukwanisa kana kunzwisisa zvinodiwa pakufara nevamwe kana kufambidzana navo.
+mugwara 	DDK 	3 	z 		mugwara DDK z 3 . Mugwara isimbi yakagadzirirwa kuchera makomba kana kupikinura mazitombo.
+mugwavha 	DKD 	3 	z 		mugwavha DKD z 3 . Mugwavha muti unodyarwa pamusha unobereka vana vanonzi magwavha, vakatsvuka kana kuchena mukati, vaine tumhodzi tudikidiki.
+mugwazo 	D- 	3 	z 		mugwazo D- z 3 . Mugwazo ibasa rinotemerwa vanhu kuti varipedze munguva yakati kuti.
+mugweje 	DDK 	3 	z 		mugweje DDK z 3 . Mugweje chinhu chesimbi chakangofafa, chisinganyatsoonekera. Kudakwashe uya wekuda kuvhaira nechimugweje chake chemota azosungwa nhasi nemapurisa abondera akadhakwa.
+muhabhurosi 	DKDDD 	3 	z 		muhabhurosi mumabhurosi DKDDD z 3 . Uyu muti unobereka vana vanodyiwa vakadaro, uye vanogona kugadziriswa jemu, vanenge vari vadiki, vari vatsvuku vasati vaibva, vozosvibira kana vaibva. muhingi 3 .
+muhacha 	D- 	3 	z 		muhacha D- z 3 . muchakata 3 .
+muhacha pasi 	DDD DK 	3 	z 		muhacha pasi DDD DK z 3 . Aka kamuchakata kanomerera pasi kasingarebi kuenzana neimwe yakawanda-wanda panzvimbo imwe chete. muchakatapasi 3 .
+muhingi 	DKD 	3 	z 		muhingi DKD z 3 . muhabhurosi 3 .
+muhobo 	DDK 	3 	z 		muhobo DDK z 3 . mubhanana 3 .
+muhomba 	DKD 	3 	z 		muhomba DKD z 3 . Muhomba idhunduru rakaumbirwa, rinodyarwa muriwo kana mbambaira. mudzere 3 .
+muhotwe 	DDK 	3 	z 		muhotwe muhota DDK z 3 . mututu 3 .
+muhute 	DKD 	3 	z 		muhute mukute DKD z 3 . Uyu muti kana zvimiti zvinowanda-wanda panzvimbo imwe, zvinobereka vana vanonzi hute, vanowanzoibva nguva inenge vanhu vachirima. Muhute uya wemubani raChingwa unoita mazihute anombotidzora nzara, zvikuru kana tichibva kumunda.
+muhwabha 	DDK 	3 	z 		muhwabha DDK z 3 . Muhwabha inyama yakayanikwa kana kuti yakaomeswa. chimukuyu 7 .
+mujaho 	D- 	3 	z 		mujaho mujahwo D- z 3 . Mujaho mutambo unenge vanhu vachiita zvinhu zvakaita sekumhanya netsoka kana nemabhiza, kuti vaone anokunda vamwe. makwikwi 6 .
+mujakari 	DKKK 	3 	z 		mujakari DKKK z 3 . Uyu muriwo unomera mumunda munguva dzezhizha. musemwasemwa 3 .
+mujivha 	D- 	3 	z 		mujivha D- z 3 . Mujivha ihembe yakareba.
+mujumbura 	D- 	3 	z 		mujumbura mujumbuya D- z 3 . Ichi chimuti chinobereka vana muvhu vanodyiwa vanenge mbambaira. mufarinya 3 .
+mujuru 	DDK 	3 	z 		mujuru DDK z 3 . muchenje 3 .
+mukadziusaende 	DKKDKKD 	3 	z 		mukadziusaende DKKDKKD z 3 . Urwu rudzi rwechibage chinokurumidza kuibva kupinda mamwe marudzi.
+mukaha 	DKK 	3 	z 		mukaha DKK z 3 . Mukaha kudya munhu achikasika zvekuda kupedzera vamwe vaanenge achidya navo. mupan'o 3 . Mukaha iburi rinosara panenge pakada kubatana. Madzvinyu anopinda mumukaha webwe kana aona vanhu. mukana 3 .
+mukaka 	D- 	3 	z 		mukaka D- z 3 . Mukaka kunwa kunobva muzamu ramai, kunonwiwa nevana vacho. Mukaka muto muchena unobuda pane mimwe miti kana yatemwa.
+mukambo 	DKK 	3 	z 		mukambo DKK z 3 . Mukambo imbatya dzinotengeswa dzakambopfekwa. mazitye 6 .
+mukana 	D- 	3 	z 		mukana D- z 3 . Mukana inzira inopfuura nepakati pemakomo. mupata 3 . mukaha 3 . chanzi 9 .
+mukanda 	DKK 	3 	z 		mukanda DKK z 3 . Mukanda chuma chinosungwa nevanhukadzi muchiuno.
+mukanganyama 	D- 	3 	z 		mukanganyama D- z 3 . Iyi inguva yemangwanani, zuva richangobva kubuda. runyanhiriri 11 .
+mukarati 	DKKD 	3 	z 		mukarati DKKD z 3 . Iyi imhando yemuti unonyanya kukura munzvimbo dzinevhu rakaita jechajecha, unowanzoberekera harati dzinodyiwa.
+mukarirano 	D- 	3 	z 		mukarirano D- z 3 . Uku kusada kuita basa kwevanhu, mumwe nemumwe achiti mumwe ndiye anofanirwa kuriita.
+mukate 	DKD 	3 	z 		mukate DKD z 3 . Mukate ihari huru inobikirwa sadza. tsambakodzi 9, tsaiya 9 .
+muko 	DK 	3 	z 		muko DK z 3 . Muko mutemo unoti ukakanganiswa, pane chinoitika kuna nyakukanganisa. MaShona ane muko wekuti munhu haafaniri kudya mutupo. Muko mutemo wezvinorambidzwa kana zvinotofanirwa kuitwa, zvinonzi nen'anga kana ukasazvitevedza mushonga wayakupa hauzoshanda.
+mukoho 	D- 	3 	z 		mukoho D- z 3 . Mukoho ndizvo zvinhu zvaunenge wawana pakurima kwaunenge waita mwaka iwoyo.
+mukoko 	DDK 	3 	z 		mukoko DDK z 3 . Mukoko mudziyo unovakirirwa kuti nyuchi dzigadzirire uchi mukati macho.
+mukombe 	DKK 	3 	z 		mukombe DKK z 3 . Mukombe mudziyo unogadzirwa nebudzi, unosevenzeswa kucheresa kana kunwisa zvinwiwa zvakaita semaheu kana doro.
+mukombero 	D- 	3 	z 		mukombero D- z 3 . mupendero 3 .
+mukonde 	D- 	3 	z 		mukonde D- z 3 . Mukonde isadza rinenge rakapakurwa riri mundiro. Mukonde muti unoita tumashizha tudikidiki uchibuda mukaka muchena, usingaite mhanda kazhinjizhinji, asi kana ukazoita mhanda dzinenge dziri pfupi.
+mukondombera 	D- 	3 	z 		mukondombera D- z 3 . Iri idzivo guru rinosevenzeswa zvombo kuuraya vanhu. hondo 9 . Ichi chirwere chinouraya nenzira yekuti chinotorera muviri masimba awanga uinawo ekudzivirira kana kurwisa zvirwere.
+mukongo 	D- 	3 	z 		mukongo D- z 3 . gongo 5 .
+mukonikoni 	D- 	3 	z 		mukonikoni D- z 3 . Aka kabhururukwa kada kuita sendege, kakareba kari katete, kanonyanyoonekwa muuswa huri pedyo nemvura.
+mukono 	DKK 	3 	z 		mukono DKK z 3 . Mukono imhuka yechirume. Mukono izwi rinowanzoshandiswa kudaidzwa munhu wechirume akasimba, uye anokunda vamwe vanhu pakurwa.
+mukosho 	DKK 	3 	z 		mukosho DKK z 3 . mhata 9 .
+mukoto 	D- 	3 	z 		mukoto D- z 3 . Mukoto kanzira kadiki kanenge kari pakati pezvinhu zviviri, zvingava makomo kana dzimba refu refu.
+mukoto 	DDK 	3 	z 		mukoto DDK z 3 . Mukoto karwizi kadiki diki. karukova 12 .
+mukubvu 	DKD 	3 	z 		mukubvu DKD z 3 . mutsubvu 3 .
+mukucha 	D- 	3 	z 		mukucha D- z 3 . Mukucha imbeu yakanonoka kudyarwa.
+mukumbidzani 	D- 	3 	z 		mukumbidzani D- z 3 . Uyu munhu waunenge wakavakidzana naye, kana waunoshamwaridzana naye zvekuti munogona kupota muchipanana zvinhu.
+mukume 	DKD 	3 	z 		mukume DKD z 3 . Mukume zviupfu ndezvinoonekwa pamuchekechera wechibage kana mhunga, zvinozoberekesa maruva acho.
+mukuna 	D- 	3 	z 		mukuna D- z 3 . Mukuna munhu anenge asina kupfeka kana chii zvacho. Hatidi kuti mwana afambe ari mukuna. musvo 3 .
+mukundanyoka 	DKDKK 	3 	z 		mukundanyoka DKDKK z 3 . Urwu rudzi rwemakwenzi asingasviki nyoka pedo. musvayanyoka 3, mutandanyoka 3 .
+mukundo 	DKK 	3 	z 		mukundo DKK z 3 . Mukundo kuita zvinhu zvisingafadze vamwe pamusana pekuti unoti uri mukuru, kana kuti unoti ndiwe unoziva. chisimba 7 .
+mukundu 	DKK 	3 	z 		mukundu DKK z 3 . Uku kufamba usina kupfeka.
+mukurumbira 	DKKDK 	3 	z 		mukurumbira DKKDK z 3 . Uku kuzivikanwa zvikuru nepamusana pemabasa ako akanaka kana akaipa.
+mukute 	DKD 	3 	z 		mukute muhute DKD z 3 . muhute 3 .
+mukuyadenhe 	DDDKK 	3 	z 		mukuyadenhe DDDKK z 3 . Aka kambeva kadiki kasingadyiwi.
+mukuyu 	DDK 	3 	z 		mukuyu DDK z 3 . muonde 3 .
+mukuze 	DKD 	3 	z 		mukuze DKD z 3 . Mukuze idutu renyuchi. bumha 5 .
+mukwa 	D- 	3 	z 		mukwa D- z 3 . Mukwa rudzi rwemuti wakaoma chaizvo, unoshandiswa kugadzira zvivezwa.
+mukwechete 	D- 	3 	z 		mukwechete D- z 3 . Iri ibasa kana dambudziko rakakura chaizvo, zvokuti unenge usina kariro yokurikunda. Kana mupurisa akanzi aferefete nyaya yakaitika kare kare, anotoziva kuti apiwa mukwechete webasa.
+mukwende 	DKK 	3 	z 		mukwende DKK z 3 . Mukwende zvinhu zvakawanda chaizvo, zvakaita senhumbi kana midziyo, zvinenge zvakasungirirwa pamwe. Mukomana aishanda pavaMutowevhu, paakangoona kuti adyisa gadheni nembudzi, akabva asunga mukwende wake odzokera kumusha kwake.
+mukwerera 	D- 	3 	z 		mukwerera mukwerere D- z 3 . Uyu mutambo wekukumbira mvura kuvadzimu. marenje 6, chipwa 7 .
+mukweshwa 	DKD 	3 	z 		mukweshwa DKD z 3 . Mukweshwa munhu ane muviri mukuru chaizvo.
+mukwidza 	DKD 	3 	z 		mukwidza DKD z 3 . Mukwidza kusimukira kunoita nzira panhu pakaita sepachikomo kana pachuru. makata 6 .
+mumanga 	DDK 	3 	z 		mumanga DDK z 3 . muboora 3 .
+mumara 	DKK 	3 	z 		mumara DKK z 3 . Mumara muti unonhuwa chaizvo zvekuti unoshandiswa kudzinga nhata. zumbani 5 .
+mumbambara 	D- 	3 	z 		mumbambara D- z 3 . muruguru 3 .
+mumbingwa 	D- 	3 	z 		mumbingwa D- z 3 . Mumbingwa muti unoita muzvuru, unoita zviminzwa zvinenge nyanga dzemombe nezvana zvinobuda mukaka. mudzambiringwa 3 .
+mumengo 	DKD 	3 	z 		mumengo mumango DKD z 3 . Mumengo muti wemuchero unorimwa pamba, unobereka muchero unonzi mengo.
+mumera 	D- 	3 	z 		mumera D- z 3 . Mumera zviyo zvakaiswa mumvura zvikamera, zvinozokuyiwa kuti zvibikise doro kana maheu.
+mumhanzi 	D- 	3 	z 		mumhanzi D- z 3 . Mumhanzi mutinhimira unobva mukuimba kwevanhu nekurira kwemagitare, ngoma, mbira nezvimwewo. dhindindi 5 .
+mumhare 	D- 	3 	z 		mumhare D- z 3 . Mumhare chibage chinoomeswa icho chambobikwa chiri chinyoro. mafushe 6, mupare 3 .
+mumharupwa 	DKDK 	3 	z 		mumharupwa DKDK z 3 . Aka kamuti kanenge munhundurwa, kanobereka vana vanonzi mharupwa.
+mumhonda 	DDK 	3 	z 		mumhonda mubonda DDK z 3 . Uyu muti unoita chiruva chakaomarara unotyoka-tyoka zvekuti vanhu vanofarira kuubikisa nekuti unobvira chaizvo usingaite utsi.
+mumhu 	DK 	3 	z 		mumhu DK z 3 . mhumhu 3 .
+mumhudzungwa 	DKDK 	3 	z 		mumhudzungwa DKDK z 3 . mumodzongwa 3 .
+mumodzongwa 	DKDK 	3 	z 		mumodzongwa mumhodzongwa DKDK z 3 . Uyu muti une mashizha mahombe netumapazi twutete, netuvana tunodyiwa, tudikidiki twakatenderera tunoibva twuri tutsvuku. mumhodzongwa 3 .
+mumonwa 	DKD 	3 	z 		mumonwa DKD z 3 . chimonera 7 .
+mumve-e 	DKD 	3 	z 		mumve-e mumveve DKD z 3 . Mumve-e muti unomera padyo nenzizi, unobereka vana vakobvu vakarebenuka.
+mumvuri 	DKD 	3 	z 		mumvuri mubvuri DKD z 3 . Mumvuri pasi pemuti kana pechimwewo panenge pasingarovi miranzi yezuva nekuti rinenge rakadzikatirwa. Ngatigarei pamumvuri mubereri remba, tichikurukura zvedu.
+mumvuri webwe 	DKD DK 	3 	z 		mumvuri webwe DKD DK z 3 . Aka kamuti kanenge karuva, kane tumashizha tudikidiki, kanomera panzvimbo nyoro dzakaita semumatsime.
+mumvuri wenyoka 	DKD KDD 	3 	z 		mumvuri wenyoka DKD KDD z 3 . muboora 3 .
+munachisi 	DKDD 	3 	z 		munachisi DKDD z 3 . Uyu muti unogara une mashizha akasvibira, wakaita semuranjisi, unobereka michero inotapira inonzi manachisi.
+munakamwe 	DDDK 	3 	z 		munakamwe DDDK z 3 . Iyi inguva yegore mvura ichangotanga kunaya. munhuruka 3 .
+munamato 	D- 	3 	z 		munamato D- z 3 . Aya mazwi anotaurwa kuna Mwari kana kuvadzimu, vanhu vachikumbira kana kutenda zvakasiyana-siyana. munyengetero 3 .
+munamba 	DKK 	3 	z 		munamba DKK z 3 . mudzamba 3 .
+munanazi 	DKDK 	3 	z 		munanazi DKDK z 3 . Uyu muti unorimwa nevanhu, unobereka michero inonzi zvinanazi.
+munanzvagona 	DKKDK 	3 	z 		munanzvagona DKKDK z 3 . Aka kabhurukwa kadiki kanopfekwa nemunhurume mukati merimwe bhurukwa.
+munava 	D- 	3 	z 		munava D- z 3 . Munava kamhuru kanenge kachangobva kuzvarwa. nhedyana 9, nhenjana 9, nhenzvana 9 .
+munda 	D- 	3 	z 		munda D- z 3 . Munda inzvimbo inorimwa mbeu nemichero zvakasiyana-siyana.
+mundarira 	DDKD 	3 	z 		mundarira DDKD z 3 . Urwu rudzi rwesimbi isinganyanyopenya. musafuri 3 .
+mundatsva 	DDK 	3 	z 		mundatsva DDK z 3 . Mundatsva muti unotungira uchibva muvhu gore negore, unonzi unouraya zvipfuyo zvinenge zvaudya. mesoembudzi 6, mumbudzimbudzi 3 .
+mundawarara 	DDKDD 	3 	z 		mundawarara DDKDD z 3 . Uyu muriwo unomera munzvimbo dzakamborimwa.
+mundimu 	DKD 	3 	z 		mundimu DKD z 3 . Mundimu muti unogara uine mashizha manyoro nguva dzese semuranjisi, uchibereka vana vanovava vanonzi mandimu. muremoni 3 .
+mundya 	DK 	3 	z 		mundya DK z 3 . Mundya mucheka wakasonererwa pambereko kana pitikoti yechikadzi, unosungiswa zvinhu izvi kuti zvisadonhe.
+munetakamwe 	DDDDK 	3 	z 		munetakamwe DDDDK z 3 . Uku kuti kana uine mabasa akawanda aunoda kuita, wobva waaita ese nguva imwe kuti ugozozorora wapedza basa racho rese.
+mungava 	D- 	3 	z 		mungava D- z 3 . chikwereti 7 .
+mungenge 	D- 	3 	z 		mungenge D- z 3 . Mungenge imota yakanaka chaizvo, inofamba zvakanaka. Dudzai paakabva kuJapan, akauya nemungenge weToyota.
+mungurau 	D- 	3 	z 		mungurau D- z 3 . Uyu muti unowanzomera pane mvura zhinji, nekukura wakatandika mimwe miti.
+munhanga 	D- 	3 	z 		munhanga D- z 3 . muboora 3 .
+munhenga 	DDK 	3 	z 		munhenga DDK z 3 . Minhenga mazigushe akareba anovhara muviri weshiri anoita kuti dzimwe dzacho dzigone kubhururuka.
+munhengeni 	DKKD 	3 	z 		munhengeni DKKD z 3 . mutsvanzva 3 .
+munhenzva 	DKD 	3 	z 		munhenzva DKD z 3 . Munhenzva muti unobuda mukaka, une mashizha anoitwa muriwo, anotunga gore negore.
+munhondo 	D- 	3 	z 		munhondo mutondo D- z 3 . Munhondo muti wakada kufanana nemusasa, unoita vana vane mhodzi dzingapfuure nhatu, vanonyaudza pakubanzuka kana vaoma.
+munhongotowa 	DKKDK 	3 	z 		munhongotowa DKKDK z 3 . Uyu muti unobuda mukaka pamakwati kana wakanwa mvura chaizvo.
+munhuchu 	DKD 	3 	z 		munhuchu munyuchu DKD z 3 . Munhuchu chibage chakaoma chinotswiwa chobikwa chomonwa nedovi. mashazhare 6 .
+munhuhwenhuhwe 	DDKKD 	3 	z 		munhuhwenhuhwe DDKKD z 3 . Aka kamuti kana kuti kamuruva, kanomera pamadziro emba kana pamatongo, kanorapa buka. mutandangozi 3 .
+munhuhwi 	DDK 	3 	z 		munhuhwi munhuwe, munhuhwi DDK z 3 . Munhuhwi mweya unobva pane chimwe chinhu uchipinda mumhuno dzako.
+munhukwi 	DDK 	3 	z 		munhukwi munhikwi DDK z 3 . Munhukwi kumira kunoita kufema munhu achigwinwa muchipfuva zvinokonzerwa nekusanyatsovharika nekuvhurika kunenge kuchiita mukana wekufema nawo.
+munhundurwa 	DDKD 	3 	z 		munhundurwa DDKD z 3 . Aka kamuti kanobereka tuvana tweyero, twusingadyiwe, twunonzi nhundurwa.
+munhunguru 	DDDK 	3 	z 		munhunguru DDDK z 3 . Uyu muti unoita muchero wakaurungana, unotsvukuruka kana waibva, uchiitisa hambe kana uchinge waudya usina kuibva.
+munhuruka 	DKDK 	3 	z 		munhuruka DKDK z 3 . Iyi inguva inonaya mvura yekutanga. munakamwe 3 .
+munongedzo 	DKKD 	3 	z 		munongedzo DKKD z 3 . Uyu munwe wechipiri unoshandiswa pakuratidza zvinoda kuonekwa.
+munungu 	DDK 	3 	z 		munungu DDK z 3 . Munungu ndechakafanana nemunhenga, chakatesva kumagumo, chinowanikwa pamuviri wenungu.
+munwe 	D 	3 	z 		munwe mumwe D z 3 . Munwe inhengo yeruoko inoshandiswa pakubata chinhu kana kupfumbatira muchanza.
+munya 	D- 	3 	z 		munya D- z 3 . Munya isadza rinenge rarara. Munya kunyorova kunenge kwakaita chinhu asi chisingati tapatapa. Hembe idzi hadzina kunyatsooma, dzichine munya.
+-munya 	D 	3 	z 		-munya D z 3 it . Ku munya kudya chinhu zvishoma nezvishoma sezvinoitwa nemujuru.
+munyaka 	DKD 	3 	z 		munyaka DKD z 3 . Munyaka ibwe rakapfava rinogadzirisa zviumbwa.
+munyama 	DKD 	3 	z 		munyama DKD z 3 . Iri irombo rakaipa rinoita kuti munhu angogara achiwirwa nematambudziko. jambwa 5 .
+munyatso 	D- 	3 	z 		munyatso D- z 3 . Munyatso pamuromo pezamu panobuda nemukaka.
+munyemba 	DDK 	3 	z 		munyemba DDK z 3 . Munyemba chirimwa chinokura chichitandira kana kumonera mimwe miti iripo, chinobereka nyemba.
+munyengetero 	DKKKD 	3 	z 		munyengetero DKKKD z 3 . Uyu munamato kana chikumbiro kuna Mwari kana kuvadzimu. munamato 3 .
+munyepfu 	D- 	3 	z 		munyepfu D- z 3 . Munyepfu inyama isina mapfupa.
+munyii 	DKK 	3 	z 		munyii DKK z 3 . Munyii muti unomera nzvimbo dzisinganyanyonaya mvura, unobereka vana vane mhodzi dzakaomarara, vanotapira.
+munyorondega 	DKKDD 	3 	z 		munyorondega DKKDD z 3 . Ichi chibage chinoibva mushure mechizhinji, chimwe chatooma.
+munyu 	DK 	3 	z 		munyu DK z 3 . Munyu zvitsanga kana zviupfu zvinorungiswa usavi, zvekuti kana zvisipo nyama kana muriwo haudyike.
+munzambara 	DDKD 	3 	z 		munzambara DDKD z 3 . mutsamviringa 3 .
+munzva 	DK 	3 	z 		munzva mundya DK z 3 . mundya 3 .
+munzvambara 	DDKD 	3 	z 		munzvambara DDKD z 3 . muruguru 3 .
+munzvi 	DK 	3 	z 		munzvi DK z 3 . Munzvi ndepakatesva pechinhu chakaita semuseve.
+munzviru 	DKD 	3 	z 		munzviru munzvirwa DKD z 3 . Uyu muti une vana vakaita sekutenderera vanotsvukuruka kana vaibva uye vanodyiwa.
+munzwa 	DK 	3 	z 		munzwa DK z 3 . Munzwa kamuti kadiki katete, kanomera pamuti kana pasora kana paruva, kane kamuromo kanobaya.
+muoko 	DKK 	3 	z 		muoko DKK z 3 . ruoko 11 .
+muonde 	DDK 	3 	z 		muonde DDK z 3 . Uyu muti unobereka vana vanonzi maonde, vanodyiwa nevanhu uye neshiri chaizvo. mukuyu 3 .
+muonekedzo 	D- 	3 	z 		muonekedzo D- z 3 . Izvi ndezvinoitwa pekupedzisira pechiitwa. Pakapera doro, takapiwa hari yemuonekedzo.
+muoneko 	D- 	3 	z 		muoneko D- z 3 . muonekedzo 3 .
+muora 	D- 	3 	z 		muora D- z 3 . Muora muti usina kuomarara, wakada kufanana nemuzeze.
+muore 	DDK 	3 	z 		muore DDK z 3 . Muore ihuni dzava kuora, dzisisanetsi kutyora. Muore chinhu chisingashupi kuita.
+mupaka 	D- 	3 	z 		mupaka D- z 3 . Mupaka chitumbu chemakasi.
+mupakato 	DKKD 	3 	z 		mupakato DKKD z 3 . Ichi chisimbi kana chijira kana chimuti chinobatiswa chese chese chingangosimudzwa chakaita sebhegi kana poto. mubato 3 .
+mupako 	DKK 	3 	z 		mupako DKK z 3 . mbuva 9 .
+mupambangoma 	DKKKD 	3 	z 		mupambangoma DKKKD z 3 . Urwu rudzi rwemuti unoreba kuenda mudenga.
+mupanda 	D- 	3 	z 		mupanda D- z 3 . Mupanda chikamu chedzimba dzakaita mudhadhadha. Mupanda mumwe wezvikamu zvemazita anowanikwa mumutauro kana tichiongorora sungawirirano muzvirevo. Mubvunzo mukuru uri pano ndewekuti Shona ine mipanda 20 here kana 21?
+mupande 	DKD 	3 	z 		mupande DKD z 3 . Mupande kutinhira kune simba kunoitika kana kunze kwava kuda kunaya, kana kuti kuchitonaya. bhanan'ana 5 .
+mupangara 	DDDK 	3 	z 		mupangara DDDK z 3 . Uyu muti unoita mazimunzwa makobvu ari marefu, unogadziriswa mipinyi nemapango ekukomberedza dzimba.
+mupani 	DKD 	3 	z 		mupani mupane DKD z 3 . Mupani muti une mwoyo wakasimba chaizvo, unoti kana chiri chirimo unooma mashizha, wotozoita mashizha zvakare kana mvura yanyatsonaya. musaru 3 .
+muparavara 	DKKKK 	3 	z 		muparavara DKKKK z 3 . Uyu musoro unenge wakabviswa bvudzi rese uchitovaima ganda. baravara 5 .
+muparu 	DKD 	3 	z 		muparu DKD z 3 . Muparu mucheka waishandiswa kare kubata mazamu.
+mupata 	D- 	3 	z 		mupata D- z 3 . Mupata kanzira kadiki kari pakati pezvinhu zvakakwirira, zvakaita semakomo kana dzimba. mukana 3 .
+mupedzazviyo 	DKKDK 	3 	z 		mupedzazviyo DKKDK z 3 . Iyi inhengo yemuviri inoungana tsvina inobva mudumbu, isati yabuda kunze.
+mupembere 	DDDK 	3 	z 		mupembere DDDK z 3 . Uyu muti unoita mashizha akapfava, nekutanga kuita maruva usati waita mashizha aya. mugodo 3, mupakamabwe 3 .
+mupendero 	D- 	3 	z 		mupendero D- z 3 . Uku kumucheto kwehembe kunenge kwakapfunyirwa mukati. mukombero 3 .
+mupengo 	DKK 	3 	z 		mupengo DKK z 3 . Mupengo munhu anenge achirwara nechirwere chepfungwa. benzi 5 .
+mupeni 	D- 	3 	z 		mupeni D- z 3 . Mupeni ibanga risingakoperwi, rinogara rakavhurika.
+mupeta 	D- 	3 	z 		mupeta D- z 3 . Mupeta idoro rinobikwa kumusha.
+mupeya 	DKD 	3 	z 		mupeya DKD z 3 . Mupeya muti unobereka michero inonzi mapeya.
+mupfekerwa 	DDKD 	3 	z 		mupfekerwa DDKD z 3 . Mupfekerwa chibhakera chakasimba, chinoita zvekukwidzwa uchindorova munhu munyasi meshaya. Mutambo wetsiva wakazopera pakapuwa mumwe wacho chibhakera chemupfekerwa ndokuwira pasi, kwava kumbozorora akadaro.
+mupfudze 	DKD 	3 	z 		mupfudze mufudze DKD z 3 . Mupfudze manyowa emombe anobva mundove yacho. mupfumbwe 3 .
+mupfuhwira 	D- 	3 	z 		mupfuhwira mufuhwira D- z 3 . Uyu mushonga unonzi unoshandiswa nevadikanwi kukuchidzira rudo, kazhinji vanhukadzi vachiisira varume vavo muzvekudya kuti vavade zvikuru, vasazombotarisa vamwe vakadzi.
+mupfukwa 	DDK 	3 	z 		mupfukwa DDK z 3 . Mupfukwa mushonga unonwiwa nemunhu, kuitira kuti kana akaurayiwa agomukira anenge amuuraya.
+mupfumbo 	D- 	3 	z 		mupfumbo D- z 3 . Mupfumbo mushonga unoshandiswa nevaroyi kuti vakwanise kupinda mumba, muridzi wemba akakotsira.
+mupfumbwe 	DKD 	3 	z 		mupfumbwe DKD z 3 . mupfudze 3 .
+mupfumvumvu 	D- 	3 	z 		mupfumvumvu D- z 3 . Uku kuzarisa kunoita tswanda kana mugomo neupfu, kana chibage, kana zvimwewo.
+mupfundo 	DKK 	3 	z 		mupfundo DKK z 3 . mararo 6 .
+mupfunga 	DDK 	3 	z 		mupfunga DDK z 3 . Mupfunga ndezvingawire pasi zvakaita sezviyo kana mhunga kana chinhu chinenge chichiisirwa chazarisa. Madzimai akatora mupfunga paakatenga chibage.
+mupfura 	DKD 	3 	z 		mupfura DKD z 3 . Mupfura muti unobereka mapfura unokura munzvimbo dzinopisa uye unovezwa ndiro, maturi nengoma.
+mupfuta 	DKK 	3 	z 		mupfuta DKK z 3 . Mupfuta muti unomera wega kana kudyarwa, uchibereka vana vanonzi pfuta, vane mafuta anoshandiswa kuzorwa kana kurapisa. mufute 3 .
+mupfuti 	D- 	3 	z 		mupfuti D- z 3 . Mupfuti muti unopfumvudza kana mvura yava kuda kunaya, unowanzosvuurwa makavi anosungiswa dzimba pakuvaka, kana kugadzirisa tambo.
+mupichisi 	DKDD 	3 	z 		mupichisi DKDD z 3 . Uyu muti unobereka vana vanonzi mapichisi, vanodyiwa kana kugadziriswa jemhu. mupirichisi 3, mupirikisi 3 .
+mupimbira 	DKKD 	3 	z 		mupimbira mupimbiri, mupambare DKKD z 3 . Apa pamberi pegumbo kubvira pabvi zvichidzika kutsoka.
+mupimo 	D- 	3 	z 		mupimo D- z 3 . Mupimo chigaba kana chimwewo chinoshandiswa kuratidza kuwanda kwezvinhu. Pataitenga chibage, taishandisa mupimo wegogogo.
+mupinyi 	DKK 	3 	z 		mupinyi mupinyu, mupini DKK z 3 . Mupinyi mubato webadza kana demo. Mbezo yangu yaenda kupi ndiveze mupinyi webadza raRimai.
+mupira 	D- 	3 	z 		mupira D- z 3 . Mupira chidimbu chetayi chinoshandiswa kugadzirisa manyatera.
+mupiro 	DKK 	3 	z 		mupiro DKK z 3 . Uyu munamato unopirwa kuna Mwari.
+mupon'oro 	DKDD 	3 	z 		mupon'oro DKDD z 3 . Ichi chivakwa chitete chakarebenuka, chakaita semudhuri mutete ungavakwa uchikwira mudenga. Uyu mubato wepoto wakarebesa. Aka kumuromo kepfuti kunobuda namabara.
+mupono 	D- 	3 	z 		mupono muponi D- z 3 . Mupono kamutsetse kanoitwa pabhurukwe rechirume, kana maoko ehembe, mushure mekunge zvaainwa.
+mupopo 	DKD 	3 	z 		mupopo DKD z 3 . Mupopo muti unobereka michero mihombe inonzi mapopo, anoti kana aibva anenge ari eyero.
+muposo 	D- 	3 	z 		muposo D- z 3 . Uyu mushonga unoteyeswa munhu nemuvengi, kuti kana asvika obva atanga kurwadziwa.
+mupunga 	D- 	3 	z 		mupunga D- z 3 . Mupunga kudya kunorimwa mudimbwa, kunotswiwa muduri kusati kwabikwa kuti kuzodyiwa nemuriwo.
+mupuno 	D- 	3 	z 		mupuno D- z 3 . Mupuno kamuti kanorimwa mubundo, kanoita vana vanoti kana vaibva vanenge vakatsvukirira, vanokangiswa muriwo. mudomasi 3, mutomati 3 .
+mupuranga 	DDKD 	3 	z 		mupuranga DDKD z 3 . Uyu muti unoreba chaizvo wakarurama, unosimwa nevanhu kuti ugoshandiswa pamabasa akaita sekuvaka.
+mupuro 	DKK 	3 	z 		mupuro DKK z 3 . Mupuro rwumuti rwunoshandiswa pakupura zviyo.
+mupururu 	DKKK 	3 	z 		mupururu DKKK z 3 . Iyi imhere yekufara inoridzwa nemadzimai vachiratidza rufaro, ruremekedzo kana rutendo. mhururu 9 .
+mupurwa 	DKD 	3 	z 		mupurwa DKD z 3 . Mupurwa rudzi rwezibuka rinenge zidzvinyu ziguru, rinogara pedyo nemvura, kazhinji. burwa 5, tsamba 9 .
+murabaraba 	D- 	3 	z 		murabaraba murambaramba D- z 3 . Murabaraba chinhu chakareba chaizvo.
+muradzwa 	DKD 	3 	z 		muradzwa DKD z 3 . munya 3 .
+muraini 	DKDD 	3 	z 		muraini DKDD z 3 . Uku kurongeka kunenge kwakaita zvinhu zvichitevedzana. Chibage chakadyarwa chakaita muraini. mudungwe 3, mutsetse 3 . Umu munzvimbo munenge makagara vanhu vamwe. Muraini mekwaChimuti mune mbavha dzarura chaizvo.
+murakatira 	D- 	3 	z 		murakatira D- z 3 . Uku kurara kana kudonha kunoita vanhu, kana chii zvacho, zvakawanda panguva imwe chete. Ndawana vana vakaita murakatira kurara kumba nenzara yanga yaruma.
+murakwani 	D- 	3 	z 		murakwani murakani D- z 3 . Uyu mupfudze unoita kana mashizha emuti aora.
+muramba 	DKK 	3 	z 		muramba DKK z 3 . Iyi ihove ine ganda rinotsvedzerera nemusoro mukuru wakapamhamhamha, inowanzogara mumadhaka kana nzvimbo ine mvura isina kudzika. ramba 5, mhatye 9, muhono 3 .
+murambamhuru 	DKKDK 	3 	z 		murambamhuru mutambamhuru DKKDK z 3 . Uku kumhanya kunoita mombe yakasimudza muswe mudenga.
+murandu 	DDK 	3 	z 		murandu DDK z 3 . Murandu imhosva kana zvikanganiso zvemunhu, kana zvaanonzi anokanganisa. mhaka 9 .
+muranjisi 	DKDD 	3 	z 		muranjisi DKDD z 3 . Uyu muti unodyarwa, unogara uine mashizha manyoro mazuva ese, nekuita vana vakaurungana vanonzi maranjisi, vanogadziriswa zvinwiwa kana jemhu. muraranji 3 .
+murapatira 	D- 	3 	z 		murapatira D- z 3 . Uku kumhanya kune mutinhimira mukuru unoenderana.
+murara 	D- 	3 	z 		murara D- z 3 . Murara rudzi rwemuti une mashizha anorukiswa heti, kana tswanda nezvekuwaridza mumba.
+murara 	DKD 	3 	z 		murara DKD z 3 . Murara uswa hunooma hworamba hwakangomira, rimwe bundo idzva diki richikura mukati maro. Murara itsenza dzinochengetwa kuti dzigoitwa mbeu panguva yekurimwa kwadzo inozotevera. Murara mutsetse kana gwapa jena rinenge riri paganda remhuka.
+murarabungu 	DDDKK 	3 	z 		murarabungu DDDKK z 3 . Iri zibhandi rine mavara akawanda, rinotanda mudenga kana kuchipfunha.
+murarama 	D- 	3 	z 		murarama D- z 3 . Uyu muti unoshandiswa kubata varoyi.
+muraraunga 	DDDKK 	3 	z 		muraraunga DDDKK z 3 . murarabungu 3 .
+murari 	DDK 	3 	z 		murari DDK z 3 . Murari zvinhu zvaunenge uchireva asi usingadi kubuda pachena. muzvambarara 3 .
+muratu 	DKD 	3 	z 		muratu DKD z 3 . Muratu izambuko rinobatwa netambo dzesimbi dzinenge dzichibva mhiri nemhiri kwerwizi. mudhefudhefu 3 .
+murau 	D- 	3 	z 		murau murao D- z 3 . mutemo 3 .
+muravidzo 	D- 	3 	z 		muravidzo D- z 3 . Ichi ndechokudya kana chekunwa chishomanana chaunopiwa, kana uchida kunzwa kunaka kwazvingazoita zvawanda. Vanhu vazhinji vanoda kutanga vapiwa svidoro svomuravidzo, vasati vatenga doro racho. nzwisa 9 .
+murayiro 	D- 	3 	z 		murayiro D- z 3 . Aya maitiro anotarwa anofanira kuchengetedzwa. mutemo 3, chirevo 7 .
+murazvo 	DKD 	3 	z 		murazvo murazvu DKD z 3 . Murazvo moto unobvira uchikwira mudenga uchinge unotamba-tamba.
+murehwa 	DKK 	3 	z 		murehwa murehwo DKK z 3 . Murehwa inhengo yenzou inotangira pahuma yakareba, inoshandiswa nenzou pakufema kana kuisa chekudya mumuromo mayo. musinga 3 .
+muremani 	DKDD 	3 	z 		muremani DKDD z 3 . mundimu 3 .
+muremberembe 	D- 	3 	z 		muremberembe D- z 3 . Uyu muti une vana vanorembera vari varefurefu. murumanyama 3, musatanyoko 3 .
+muremwaremwa 	DKKKD 	3 	z 		muremwaremwa chiremwaremwa DKKKD z 3 . Aka kapuka kanokwanisa kubhururuka seshiri asi iko kaine mapapiro eganda, uye kaine muviri wakada kuita sekambeva.
+murenda 	D- 	3 	z 		murenda D- z 3 . Murenda ishiri nhema inodya hwiza netumwe tumbuyu.
+murengarenga 	D- 	3 	z 		murengarenga D- z 3 . Umu ndemuchadenga zvichikwira kuenda kumusorosoro.
+murenje 	D- 	3 	z 		murenje D- z 3 . Murenje inhengo yetsoka inoshandiswa kutsika pasi. Murenje wangu wairwadza zvokuti ndikatsika pasi waibaya-baya. mukumbo 18 .
+mureveso 	DKKD 	3 	z 		mureveso DKKD z 3 . Iri idoro rinopiwa baba vepamusha nemudzimai wavo, semucherechedzo wekuti doro ramirira kuti richinwiwa.
+mureza 	DKD 	3 	z 		mureza DKD z 3 . Mureza ijira rinomirira nyika kana kambani kana zvimwewo, rinosungirirwa pabango kuratidzira nyika iyoyo kana kambani iyoyo. Wanga uchiziva here kuti ruvara rutsvuku rwuri pamureza weZimbabwe runomirira ropa remagamba rakadeuka munguva yehondo yerusununguko?
+murezu murezu 	DKD+ 	3 	z 		murezu murezu DKD+ z 3 . Idzi inhumbi kana zvimwewo zvinenge zvisina kumira zvakanaka zvakarembera kana kupfumvunyuka.
+muridzo 	DKD 	3 	z 		muridzo murudzi DKD z 3 . Muridzo kurira kunobuda nemumuromo kana munhu achifuridza mweya.
+murikitira 	D- 	3 	z 		murikitira D- z 3 . Urwu ruzha runoitwa nezvinomhanya zvakaita semombe, kana sekuwa kunoita muchero waibva.
+murimo 	D- 	3 	z 		murimo D- z 3 . Murimo mubairo wemabasa akaipa anenge achiitwa nemunhu. Ambuya vakagara vayambira kazukuru kavo kuti kutsva ndomurimo wemisikanzwa yekutamba nemoto. Murimo mabasa emaoko anoitwa senzira yekuzvivaraidza nayo, zvakafanana nekuruka tswanda.
+murindi 	DDK 	3 	z 		murindi DDK z 3 . Murindi igomba guru rinochengeterwa mbambaira kana dzakohwewa. pfimbi 9 .
+muringanyama 	DKKKD 	3 	z 		muringanyama DKKKD z 3 . Ichi chirwere chinobata mombe, chadzinozadzana.
+muripo 	D- 	3 	z 		muripo D- z 3 . Iyi imari, kana chimwewo chinobviswa nemunhu, kutsiva mhosva yaanenge apara. Muripo imari kana chimwewo chingangobviswa nemunhu achitenga, mungave muchitoro kanawo paimwe nzvimbo.
+murirakamwe 	DDDKK 	3 	z 		murirakamwe DDDKK z 3 . Iyi inguva inorira huku kekutanga usiku hwega hwega.
+muriranyenze 	DDDKK 	3 	z 		muriranyenze muriranyenje DDDKK z 3 . Uyu muti unoita mashizha akaita denderedzwa, akanotsvukuruka pamativi, une midzi inogona kushandiswa kugadzira chitubwa dzepazviredzo. mubunguti 3 .
+muriwo 	DKK 	3 	z 		muriwo DKK z 3 . Muriwo mashizha anodyiswa sadza kana zvimwewo, anorimwa nevanhu kana kumera ega. Muriwo kudya kwese kwakaita senyama, hove kana mashizha kunogona kudyiswa sadza.
+muromo 	D- 	3 	z 		muromo D- z 3 . Muromo inhengo yemuviri inopinda nayo chikafu, uye ine mazino nerurimi mukati. Muromo wegejo kana badza ndiwo unotanga kupinda muvhu kana richirima. Kana munhu achinzi ane muromo anenge achidenha zvikuru.
+muromodungo 	DDDKK 	3 	z 		muromodungo DDDKK z 3 . Uku kuzvimbisa muromo nehasha nenharo. Ukagoita muromodungo kudaro kunge une mwana wako waunogona kuranga, pano iwe mwana wazuro zvake.
+muromopote 	DDDKD 	3 	z 		muromopote DDDKD z 3 . Iyi ihove inorema zvikuru.
+muromoromo 	D- 	3 	z 		muromoromo D- z 3 . Uku ndekwekutanga-tanga kwechinhu.
+muronga 	DDK 	3 	z 		muronga DDK z 3 . Muronga chikamu chemvura yerwizi inotsauka nekuerera payo yega. Muronga mabwe anoiswa murwizi akatevedzana, panotsikwa nevanhu vachiyambuka napo.
+murongomuna 	D- 	3 	z 		murongomuna D- z 3 . Izvi zvinhu zvinenge zviri zvina. Uhwu urongwa hwezvinhu zviri mumapoka mana.
+muroporopo 	D- 	3 	z 		muroporopo D- z 3 . Ichi chinhu chisisina kusimba, chaita mvura-mvura nekuti chaibvisa kana kuti chaora.
+murori 	DDK 	3 	z 		murori DDK z 3 . Murori muromo wepfuti.
+muroro 	DKD 	3 	z 		muroro DKD z 3 . Muroro kamuti kanowanzomera mumapani, kasingarebi, kanobereka maroro.
+muroromera 	D- 	3 	z 		muroromera D- z 3 . Urwu ruzha runonzwikwa pazvinhu zvakawanda zvakabatana, sematiroko echitima. murororo 3 . Urwu ruzha runonzwikwa panenge pachivirima rimi guru remoto. murororo 3 .
+murororo 	D- 	3 	z 		murororo D- z 3 . muroromera 3 .
+murota 	D- 	3 	z 		murota D- z 3 . sipo 9 .
+murotso 	DKK 	3 	z 		murotso DKK z 3 . Murotso mushonga unopiwa munhu kuti akwanise kurota zvinhu zvinomubatsira pane zvaanoda. Murotso mushonga unopiwa munhu kuti ataure akarara zvaasingadi kubudisa pachena akasvinura.
+murove 	DDK 	3 	z 		murove DDK z 3 . Murove kuwandisa kwemvura inonaya, kunoita kuti minda izare nemvura inyudze, uye dzimba dzinyorove pasi nemadziro.
+muruguru 	DKDK 	3 	z 		muruguru DKDK z 3 . Aka kamuti kane mashizha akasvibira, kane minzwa mipfupi, kanobereka vana vanobuda mukaka kana vari vambishi, vanozoibva vachiita vatema. mudzambara 3, mumbambara 3 .
+muruka 	DDK 	3 	z 		muruka DDK z 3 . Muruka rudzi rwemuti unowanzowanikwa pedyo nenzizi, une midzi inoshandiswa kuruka tswanda. murarahumba 3 .
+murundu 	DKK 	3 	z 		murundu DKK z 3 . Murundu iganda rinovhara mberi kwechinoitiswa weti nevanhurume. Murundu kuchecheudzwa nekubiswa kunoitwa ganda rinovhara mberi kwechinoitisa weti chemunhurume. Murundu inzvimbo inombogarwa nevachangoyaruka pavanenge vachichecheudzwa. Murundu inzvimbo diki inogona kuitirwa mitambo nevana vadiki.
+murunganyama 	D- 	3 	z 		murunganyama D- z 3 . Uyu muti unogona kugadziriswa munyu kubva mauri. mugugudu 3, mushangizha 3 .
+murururu 	DKKK 	3 	z 		murururu DKKK z 3 . Uyu mudungwe wezvinhu zvinenge zvakatsinhana, sechibage mumitsetse. mutototo 3 .
+murwiti 	DKK 	3 	z 		murwiti DKK z 3 . Murwiti muti une minzwa, unokura munzvimbo dzinonaya mvura yakawanda. munhohwe 3, mumhingwe 3 .
+musaka 	DKK 	3 	z 		musaka DKK z 3 . saka 5 .
+musakasa 	D- 	3 	z 		musakasa D- z 3 . Iyi inzvimbo yekuhwanda zuva kana mvura inenge yakavakwa, kazhinji neuswa.
+musakasaka 	D- 	3 	z 		musakasaka D- z 3 . Iyi imvura inonaya zvinyoronyoro.
+musakazo 	D- 	3 	z 		musakazo D- z 3 . Uyu mumhanzi zienda nakuenda, rinongorira asi pasina kuimba.
+musaku 	DKK 	3 	z 		musaku DKK z 3 . Musaku zvinhu zvakasiyana-siyana. Pane misaku nemisaku yevanhu pano pasi. rudzi 5, mhando 9 .
+musambara 	DKKK 	3 	z 		musambara DKKK z 3 . Uku kureba kwakaita mhuka kubva pamhanza kusvika panoperera muswe wayo.
+musambasi 	DDKK 	3 	z 		musambasi DDKK z 3 . mutsambatsi 3 .
+musambo 	D- 	3 	z 		musambo D- z 3 . Musambo ibutwa rakaputirwa neuswa kana nemashizha. mushunje 3 . Musambo maitiro emumwe munhu, kazhinji anenge asina kunaka. Musambo wako wekufamba usiku, uchakupinza muna taisireva. magariro 6 . Musambo rudzi rwemhanzi. Zvino chiregai timbokuridzirai musambo werumba.
+musana 	DKK 	3 	z 		musana DKK z 3 . Musana kuseri kwemuviri wemunhu kunobvira pakagumira huro kusvika panotangira magaro. mushapato 3 .
+musananguro 	D- 	3 	z 		musananguro D- z 3 . Uku kuratidza divi rawakarerekera pamaonero nepamaitiro ezvinhu.
+musandizeze 	DKKKD 	3 	z 		musandizeze DKKKD z 3 . Iyi ihembe yechikadzi pfupi, kana kuti inonjenjemera ichiratidza zviri mukati mayo.
+musandusandu 	D- 	3 	z 		musandusandu D- z 3 . Uku kupinduka kwezvinhu iwe usingazvifungiri. Musandusandu yegore rino yandikonesa kunyatsoronga zvinhu zvangu zvakanaka.
+musanga 	DKK 	3 	z 		musanga DKK z 3 . muchochororo 3 .
+musangano 	D- 	3 	z 		musangano D- z 3 . Uku kuungana kunoita vanhu kana pane zvavanenge vachida kukurukura kana kuita. Iri iboka revanhu vanotova nhengo dzine urongwa nechisungo.
+musara 	D- 	3 	z 		musara D- z 3 . Musara kutamba muchiita zvekutukana kana kutsvinyirana. jee 5, muyembe 3, muchohwe 3 .
+musarasara 	D- 	3 	z 		musarasara D- z 3 . Urwu rudzi rwematombo akada kuita machena kana kutsvukuruka, anopenya iwo akaomarara. Aka kasaisai kadiki kanoonekwa mumvura.
+musari 	DKD 	3 	z 		musari DKD z 3 . Musari zvinyamanyama zvinotsvedzerera, zvinobudirana pamwe nemhuru ichangozvarwa. bvuo 5, musana 3, mushapato 3 .
+musaridzwa 	DKDK 	3 	z 		musaridzwa musariridzwa DKDK z 3 . Iri ibasa kana mari yemubhadharo inosaririra zvimwe zvose zvaitwa.
+musarinya 	DDKD 	3 	z 		musarinya DDKD z 3 . Aya maitiro ane undururani mukati.
+musaru 	DDK 	3 	z 		musaru DDK z 3 . mupani 3 .
+musasa 	D- 	3 	z 		musasa D- z 3 . Musasa inzvimbo yekumbofanorara imba isati yapera kuvakwa. Musasa inzvimbo, yekugara kwenguva shoma, inovakwa nemasanzu kunze kwemusha.
+musasa 	DDK 	3 	z 		musasa DDK z 3 . Musasa muti wakada kufanana nemunhondo, unosvuurwa makavi ekugadzirisa tambo, kana kuvakisa dzimba nekuvezwa mipinyi.
+musavara 	DKKD 	3 	z 		musavara DKKD z 3 . Iri igunguwo rine pahuro pachena, rinowanzofamba riri mumapoka richitsvaga nyama nemazai. savara 9 .
+musekesa 	DDKD 	3 	z 		musekesa DDKD z 3 . mutukutu 3 .
+musemi 	DKK 	3 	z 		musemi DKK z 3 . mhandu 9 .
+musemwasemwa 	DKDKD 	3 	z 		musemwasemwa DKDKD z 3 . Uyu muriwo unowanzomera pamunhuruka chete, une tumhodzi tutema twakada kuita setwetsunga. mujakari 3 .
+musengwa 	DDK 	3 	z 		musengwa DDK z 3 . Musengwa zvinhu zvaunenge wakatakura zvichikuremera. mutoro 3 . Musengwa zvinhu zvinokuremera kuita kana kufunga nezvazvo. mutoro 3 .
+museredzero 	D- 	3 	z 		museredzero D- z 3 . Utwu twunwiwa kana twudyiwa twunodyiwa mushure mekudya kukuru kwenguva iyoyo. Mazuva ese tapedza kudya sadza remanheru, amai vangu vanototi vabike tii yemuseredzero.
+musero 	D- 	3 	z 		musero D- z 3 . rusero 11 .
+museso 	D- 	3 	z 		museso D- z 3 . feso 5 .
+museurwa 	DDKD 	3 	z 		museurwa DDKD z 3 . Museurwa munda mutsva uchangobva mukuparurwa nemapadza.
+museve 	D- 	3 	z 		museve D- z 3 . Museve chombo chakareba nokutesvera mberi chinoti chikakandwa neuta chinogona kubaya chachinenge chichikandirwa, ingava mhuka kana munhu. Miseve ndezvese zvakareba zviri zvitete, semiseve yezuva kana yenungu. Museve munhu anenge achimhanya zvekushura mare. bara 5 .
+musevenzo 	DKKD 	3 	z 		musevenzo DKKD z 3 . Iri ibasa raunogona kuita pamba, kana kuti uchishandira mumwe munhu. mushando 3, basa 5 .
+musha 	DK 	3 	z 		musha DK z 3 . Musha inzvimbo ine dzimba dzinogara vanhu vemhuri imwe. Musha wedu uri kuMhondoro. Musha inzvimbo ine dzimba dzakawanda nevanhu vakasiyana-siyana. Harare musha mukuru.
+mushaba 	D- 	3 	z 		mushaba D- z 3 . mudhombo 3 .
+mushakata 	D- 	3 	z 		mushakata muchakata D- z 3 . muhacha 3 .
+mushamba 	D- 	3 	z 		mushamba D- z 3 . mugan'acha 3 .
+mushamba 	DDK 	3 	z 		mushamba DDK z 3 . Mushamba munhanga unorimwa uchiita manhanga anobikiswa nhopi, kana kupihwa nguruve dzinochengetwa mumusha kuti dzidye.
+mushambaropa 	D- 	3 	z 		mushambaropa D- z 3 . mubvamaropa 3 .
+mushambira 	DDDK 	3 	z 		mushambira DDDK z 3 . mutyaira 3 .
+mushambwe 	D- 	3 	z 		mushambwe D- z 3 . chishambwe 7 .
+mushamhu 	DDK 	3 	z 		mushamhu DDK z 3 . Iyi imari inobhadharwa neanenge amhan'ara padare kuti chichemo chake chinzwikwe. shamhu 9 .
+mushana 	DDK 	3 	z 		mushana DDK z 3 . Mushana kazuva kanodziyirira munguva dzechando, kanenge kakazambirwa nevanhu.
+mushandirapamwe 	DKKKKK 	3 	z 		mushandirapamwe DKKKKK z 3 . Uyu mubatanidzwa wevanhu vane chinangwa chimwe chavanoda kuzadzikisa, nekubatsirana pamabasa avo. Mushure mekuwana kwezvitonga, mishandirapamwe yekurima, kupfuya zvipfuyo, kuveza nezvimwewo yaikurudzirwa nehurumende zvikuru.
+mushando 	DKK 	3 	z 		mushando DKK z 3 . basa 5 .
+mushanu 	DKD 	3 	z 		mushanu DKD z 3 . Mushanu kumhoresana muchibvunzana upenyu nezvimwe zvose.
+mushapato 	DKKK 	3 	z 		mushapato DKKK z 3 . Izvi zvinyamanyama nezviroparopa zvinobuda panosunungukwa mwana. musana 3 .
+mushapeshape 	D- 	3 	z 		mushapeshape D- z 3 . Uku kunwa mvura kana doro nechimbichimbi.
+mushapiro 	DKKK 	3 	z 		mushapiro DKKK z 3 . Iyi inzira yekunwa nayo zvinwiwa, asi zvine makaro mukati.
+musharapanzi 	DKKKD 	3 	z 		musharapanzi DKKKD z 3 . Iri ibasa rakareruka kuita. Ichi chinhu chaunowana usina kuchishandira iwe pachako.
+mushate 	D- 	3 	z 		mushate D- z 3 . Mushate ibota dete dete rinodyiwa risina shuga kana munyu.
+mushava 	DKK 	3 	z 		mushava DKK z 3 . Uyu muti wakatsvukuruka usingadziyiwi nevanhu. murasha 3, muvara 3, mubaravashava 3 .
+musheche 	DKD 	3 	z 		musheche mushuche DKD z 3 . Musheche ivhu rine mabandi makuru, rinowanikwa rakawanda munzizi. jecha 5 .
+mushenjere 	D- 	3 	z 		mushenjere D- z 3 . Urwu rudzi rweuswa hunoreba nekuita mapazi semuti, hwakasimba zvekuti, unoitiswa nhungo, uye hunoshandiswa kurukisa mabhasikiti nezvimwewo. musengere 3 .
+musheshe 	DKK 	3 	z 		musheshe DKK z 3 . musvo 3 .
+mushinda 	D- 	3 	z 		mushinda D- z 3 . Mushinda kamuti kadiki kanorimwa, kanopa vana vachena vanogadziriswa shinda. mutonje 3, mudonje 3 .
+mushini 	DKD 	3 	z 		mushini DKD z 3 . muchini 3 .
+mushiya 	DKD 	3 	z 		mushiya mashiya DKD z 3 . Mushiya iropa remhuka rinochingidzirwa richibva nepahuro, kuti ridyiwe rakadaro kana kubikwa. musiya 3 .
+mushonga 	DDK 	3 	z 		mushonga DDK z 3 . Mushonga ndechinoshandiswa kuti zvinhu zvakaita semumba kana bhutsu zvikwidzime.
+mushonga 	DDK\D- 	3 	z 		mushonga DDK\D- z 3 . Mushonga mapiritsi, midzi kana zvimwewo zvinoshandiswa kurapisa, kurwarisa kana kuurayisa zvipuka. muti 3 .
+mushonjowa 	DDDK 	3 	z 		mushonjowa mushozhowa DDDK z 3 . mutsonzowa 3 .
+mushu 	DK 	3 	z 		mushu DK z 3 . musvo 3 .
+mushuku 	D- 	3 	z 		mushuku D- z 3 . muzhanje 3 .
+mushumbo 	DKK 	3 	z 		mushumbo DKK z 3 . Mushumbo kudokwairira kunoita munhu kurara nemumwe waanenge achiva. ruziso 11 .
+mushumha 	DKD 	3 	z 		mushumha mushuma, musuma DKD z 3 . Mushumha muti unobereka shuma, unowanzokura pazvuru.
+mushuna 	D- 	3 	z 		mushuna D- z 3 . munyepfu 3 .
+mushunasiri 	DDKDK 	3 	z 		mushunasiri DDKDK z 3 . munyepfu 3 .
+mushunje 	D- 	3 	z 		mushunje D- z 3 . Mushunje ibutwa rine zvinhu mukati, rinogadzirwa neuswa kana mashizha. Mushunje ihari yedoro inosiyiwa mushure mekutsvaira nekugadziridza guva ranyakufa.
+mushutu 	D- 	3 	z 		mushutu D- z 3 . musvo 3 .
+mushwapu 	DDK 	3 	z 		mushwapu DDK z 3 . shamhu 9 .
+musi 	DK 	3 	z 		musi DK z 3 . Musi inguva inobvira mangwanini vanhu vachimuka kusvika vanhu vachienda kunorara usiku. Musi weSvondo takaswera kubhora. zuva 5 .
+musika 	D- 	3 	z 		musika D- z 3 . Musika inzvimbo inotengeserwa zvinhu zvakasiyana-siyana.
+musika 	DDK 	3 	z 		musika DDK z 3 . Musika kamuti katete, kane tuwaya twakarukirwa kumberi kwacho kuti kagokwanisa kushandiswa kupunza mapundu, kuti sadza risapundire.
+musikanyimo 	D- 	3 	z 		musikanyimo D- z 3 . Uyu muti unokuniwa urimbo. mutowa 3 .
+musikanzwa 	DKDK 	3 	z 		musikanzwa DKDK z 3 . Uku kuramba kutevedzera zvakanaka zvaunofanirwa kuita, kana kuti zvaunonzi nevakuru uite.
+musikavakadzi 	DDDDKK 	3 	z 		musikavakadzi DDDDKK z 3 . Iyi mishonga inoita kuti vasingazvare vakwanise kuzvara.
+musikisa 	DKKD 	3 	z 		musikisa DKKD z 3 . mubato 3 .
+musimbiro 	DDKK 	3 	z 		musimbiro DDKK z 3 . Musimbiro wemunhu kuwanda kwenyama dzemuviri wake. Musimbiro wemunhu kukwanisa kwake kuita zvinorema asi asingakasiri kuneta. Musimbiro wechinhu kugona kugara kwenguva refu kwacho chisati chaparara.
+musimboti 	D- 	3 	z 		musimboti D- z 3 . Iri ibango rinodzimikirwa pakati pemba painenge ichiturikirwa denga. mbiru 9 . Ichi chinhu chinomisa upenyu hwemunhu kuti hufambe zvakanaka. Mari ndiyo musimboti weupenyu hwamazuva ano.
+musimbwa 	DDK 	3 	z 		musimbwa DDK z 3 . Musimbwa kunonoka kuita zvawataurirwa, uchitoita sokunge haudi kuzviita. musindimari 3 .
+musimha 	D- 	3 	z 		musimha D- z 3 . Musimha igomba rakadzika, rinocherwa nemajuru kana mbeva. musindi 3 .
+musindo 	D- 	3 	z 		musindo D- z 3 . Musindo muitiro wekuda kurwa nguva zhinji. mheremhere 9 . Musindo ruzha runonyaudza chaizvo. Marori mahombe anotiitira musindo isu tichida kurara.
+musinga 	D- 	3 	z 		musinga D- z 3 . Musinga imhuno yenzou.
+musingwi 	DKK 	3 	z 		musingwi DKK z 3 . Musingwi igomba guru rakadzika zvikuru. singwi 5 .
+musipiti 	DKKK 	3 	z 		musipiti DKKK z 3 . Musipiti muti wakareba chaizvo. Musipiti kumira wakangoti twi, kunge une zvawafambira kana kuti zvawatumwa.
+musisidzo 	D- 	3 	z 		musisidzo D- z 3 . Iyi inguva inombobvumidzwa mhuru kuti imwe kana munhu achikama, kuti mukaka wemhou uwande muzamu. musiso 3 .
+musiso 	D- 	3 	z 		musiso D- z 3 . musisidzo 3 .
+musiwo 	DKD 	3 	z 		musiwo musuwo DKD z 3 . Musiwo iburi rekupinda naro mumba kana munzvimbo yakavakirirwa. mukova 3 . Musiwo ndechinovhurwa kana kuvharwa, kana munhu achipinda kana kubuda mumba kana mumotokari. sasa 5 .
+musiyidzanwa 	DKKDK 	3 	z 		musiyidzanwa DKKDK z 3 . Iyi imari inosara isina kubhadharwa, imwe yabhadharwa.
+musiyiranwa 	DKKDK 	3 	z 		musiyiranwa DKKDK z 3 . Iyi itsika nemaitiro evanhu anogamuchidzanwa nokufamba kwenguva mumhuri. Uku kutambidzanwa kunoitwa zvinhu kune anogara nhaka yasiyiwa neumwe.
+musodzi 	DKD 	3 	z 		musodzi DKD z 3 . Musodzi imvura inobuda mumaziso kana munhu achiseka kana kuchema.
+musokoso 	D- 	3 	z 		musokoso D- z 3 . Iyi inhamo inoshevedza dzimwe nhamo.
+musombo 	DDK 	3 	z 		musombo DDK z 3 . gongo 5 .
+musone 	DDK 	3 	z 		musone DDK z 3 . mufushwa 3 .
+musongora 	D- 	3 	z 		musongora D- z 3 . Uyu mutsipa wehuku kana shiri inenge yaurayiwa. musonhoro 3 .
+musongosongo 	D- 	3 	z 		musongosongo D- z 3 . Iyi inyama tsvuku inoreba yakagara pamusoro wejongwe.
+musono 	D- 	3 	z 		musono D- z 3 . Musono ndepanenge pakabatanidzwa napo chisonwa.
+musonzwana 	DDKK 	3 	z 		musonzwana DDKK z 3 . Uyu muromoromo wepfuti.
+musoro 	DKK 	3 	z 		musoro DKK z 3 . Musoro inhengo yemuviri ine nzeve, maziso, vhudzi, mhino nezvimwewo. Chinhu chine musoro chinhu chinoratidza njere. pfungwa 9 . Kana munhu achirwara ne musoro anenge achirwadziwa nawo uchimutema. Musoro izita rebhuku kana nyaya, sekuti "Chakwesha".
+musoro bandamba 	DKK KKK 	3 	z 		musoro bandamba DKK KKK z 3 . Uyu musoro unenge wakanyanyokukura.
+musoro bande 	DKK DK 	3 	z 		musoro bande DKK DK z 3 . Uku kutemwa nemusoro zvinorwadza zvikuru.
+musosahwai 	D- 	3 	z 		musosahwai D- z 3 . Uyu muti unoita hunde, wakaomarara, unosevenzeswa kusoseresa ruzhowa.
+musoso 	D- 	3 	z 		musoso D- z 3 . Aka kasora kanotunga kubva muvhu, kanoita tuminzwa tunobaya. mufeso 3 .
+musososo 	D- 	3 	z 		musososo D- z 3 . musasa 3 .
+musosoti 	DKKD 	3 	z 		musosoti DKKD z 3 . Uyu muti unowanzomera pachuru sechikwenzi, unobereka muzhizha vana vanoibva vachiita vachena, vadiki. muchokochiyana 3, muchakakuhwe 3 .
+musova 	D- 	3 	z 		musova musuva D- z 3 . Musova isadza rinonokorwa nemunhu osvinyanga-svinyanga asati aseva mumuriwo.
+musudzo 	D- 	3 	z 		musudzo musuzo D- z 3 . Uyu mweya unoburitswa nemunhu nekumashure, unogona kubuda chinyararire uchiti pfu-u, kana kubuda zvine ruzha uchiti bhu. rusudzo 11 .
+musukameno 	D- 	3 	z 		musukameno D- z 3 . Urwu rudzi rwekamuti kadiki kanoshandiswa kusuka meno. mugaragunguo 3, murungu 3 .
+musumbu 	DKK 	3 	z 		musumbu DKK z 3 . Musumbu uswa hwakawanda, hwakasungwa pamwe chete. mwanda 9, chimwanda 7 .
+musumbunuko 	D- 	3 	z 		musumbunuko D- z 3 . Iri izuva rekutanga resvondo, panotanga vanhu kushanda. Muvhuro 1a .
+musumburumbu 	DKKKK 	3 	z 		musumburumbu DKKKK z 3 . Izvi zvinhu zvakawanda zvinenge zviri pamwe chete. Hombarume ndakaiona nemusumburumbu weshiri.
+musumo 	DKK 	3 	z 		musumo DKK z 3 . Musumo kakari kanotanga kupiwa muridzi wemusha, kumuratidza kuti doro rava kuda kunwiwa. Musumo mashoko ekutanga anotaurwa kana vanhu vachipira kuvadzimu. Musumo mashoko anonyorwa kwekutanga kwebhuku.
+musumudzo 	DKKD 	3 	z 		musumudzo DKKD z 3 . Iyi imari inopiwa kuna tezvara panopera zvirango zvewanano, vakuwasha votora mudzimai wavo.
+musungahuro 	DKKKD 	3 	z 		musungahuro DKKKD z 3 . Ichi chishongo chemuhuro.
+musungo 	DKK 	3 	z 		musungo DKK z 3 . Musungo itambo chero chimwewo chinosevenzeswa pakusunga zvinhu zvakasiyana-siyana. Musungo itambo kana waya inosevenzeswa pakuteya mhuka dzakaita diki setsuro.
+musungusungu 	DKKDK 	3 	z 		musungusungu DKKDK z 3 . mukundanyama 3 .
+musungwa 	DDK 	3 	z 		musungwa DDK z 3 . Musungwa munhu anenge akapara mhosva, kana kuti anenge achifungirwa kuti akapara mhosva zvekuti anenge akachengetwa nemapurisa.
+musuo 	DKD 	3 	z 		musuo DKD z 3 . Apa panhu panovhurika nekuvharika panopindwa nokubudiwa napo mumba kana pese pese pakavakirirwa. mukova 3 .
+musure 	DKD 	3 	z 		musure DKD z 3 . mumashure 18 .
+mususu 	DKD 	3 	z 		mususu DKD z 3 . Uyu muti unokura zviri pakati nepakati, unoshandiswa kuveza zvinhu zvakaita sezvikei nemajoki. mukonono 3 .
+musvesvenenga 	D- 	3 	z 		musvesvenenga D- z 3 . Ichi chinhu chakareba-reba kana munhu murefu-refu.
+musvi 	DK 	3 	z 		musvi DK z 3 . Musvi kunwa kunenge kwabviswa magufu kana masese, kwasara nhapitapi yega. Musvi muto unotapira unowanikwa kubva kumichero zvirimwa kana uchi. musvisvi 3 .
+musvisvi 	DKD 	3 	z 		musvisvi DKD z 3 . musvi 3 .
+musvongosvongo 	D- 	3 	z 		musvongosvongo D- z 3 . Iri zinhu zirefurefu, rinotyisa.
+musvotamhungu 	DDDKK 	3 	z 		musvotamhungu DDDKK z 3 . Uyu muti unoshandiswa kuita mapango, unowanzoita muzvuru maunenge uchimonerana nemimwe.
+musvuu 	DDK 	3 	z 		musvuu DDK z 3 . Musvuu musoro unogerwa kusara usisina kana kabvudzi. baravara 5 . Musvuu ihuku isina makushe muhuro. Musvuu munhu asina mari kana upfumi hwekuti azvibatsire.
+muswe 	DK 	3 	z 		muswe musve DK z 3 . Muswe inhengo yemuviri wemhuka inomera kumagumo emusana inopinimidza kana kurembera kumashure. muchira 3 . Muswe munhu anosaririra shure pakuita zvinhu.
+muswedzwa 	DDK 	3 	z 		muswedzwa DDK z 3 . Muswedzwa isadza rinenge rasara pakudyiwa mangwanani kana masikati, rozodyiwa manheru.
+muswere 	DDK 	3 	z 		muswere muswero DDK z 3 . Iri izuva rose, kubva mangwanani kusvika zuva radoka. Mashaya mombe, manga muchiitei muswere wese wezuva?
+muswinda 	DDK 	3 	z 		muswinda DDK z 3 . Muswinda kunge munhu usina kupfeka nhumbi. musvo 3 .
+mutabvunda 	DDKD 	3 	z 		mutabvunda DDKD z 3 . Aka kahembe kemangamanga, kasingaonekeri, kane mucheka mutetetete unofamba uchitamba-tamba.
+mutadzva 	D- 	3 	z 		mutadzva D- z 3 . Mutadzva mukaka wemombe wakakora, unosanganiswa nomutuvi, mushure mokubviswa kweruomba. Mutadzva muto wematamba.
+mutakataka 	D- 	3 	z 		mutakataka D- z 3 . Iri ibasa rinotora zuva rose kuti riitwe.
+mutakatira 	D- 	3 	z 		mutakatira D- z 3 . Mutakatira muswere wezuva rose. Vanamai vaita mutakatira kumunda kubvira runyanhiriri.
+mutakunanzva 	DDKDD 	3 	z 		mutakunanzva DDKDD z 3 . Izvi ndezvinotapira chaizvo zvakaita seuchi, jemhu kana manyuchi.
+mutakura 	D- 	3 	z 		mutakura D- z 3 . Uku kudya kunobikwa nezvirimwa zvakaoma, zvakaita sechibage, nyimo kana nzungu.
+mutamba 	DDK 	3 	z 		mutamba DDK z 3 . Mutamba muti unobereka vana vanonzi matamba, vakaomarara kunze, vanoita yero kana vaibva.
+mutambarakede 	DDDDKD 	3 	z 		mutambarakede DDDDKD z 3 . Uku kugara upenyu hwakanaka, husina zvinonetsa. mutambaratende 3 .
+mutambaratende 	DDDDKD 	3 	z 		mutambaratende DDDDKD z 3 . mutambarakede 3 .
+mutambausiku 	DDKDKK 	3 	z 		mutambausiku DDKDKK z 3 . Uyu muti werumwe rudzi rwemutamba.
+mutambo 	D- 	3 	z 		mutambo D- z 3 . Mutambo ijira rinopfekedzwa mucheche rakabatwa pachiuno nezvipeneti. munapukeni 9 .
+mutambo 	DKK 	3 	z 		mutambo DKK z 3 . Mutambo zviitiko zvakasiyana-siyana zvinoitwa nechinangwa chekufadza vazhinji. Mutambo mabiko anoitwa kufarira kukunda kana zvimwewo, zvakaita sezuva rekuzvarwa kwemunhu. Mutambo chiitiko chinoitwa, chichibva mubhuku, vamwe vakatarisa. Pandakaona mutambo waMungoshi, "Inongova Njakenjake", ndakabvuma kuti murume uya une chipo chekunyora. Mutambo makwikwi, akaita sebhora, anoitwa mapoka akasiyana-siyana. Mutambo inyaya kana maitiro anoshaisa vanhu zano. Mukomana uya wekuba nekugura mota yechipatara, akatiitira mutambo wakaoma.
+mutanda 	DKK 	3 	z 		mutanda DKK z 3 . Mutanda idanda kana simbi inenge yakachinjika pachinhu. Anga achichovha bhasikoro akagara pamutanda waro.
+mutandabota 	DDDKK 	3 	z 		mutandabota DDDKK z 3 . Iri ibota rinobikwa nemuto wematamba.
+mutandamhuno 	DKKKD 	3 	z 		mutandamhuno mutandamhino DKKKD z 3 . Iri ibhonzo rakamisa mhuno, rinomhanya kubva pakati pemaziso kusvika panoperera mhuno.
+mutandangu 	DDDK 	3 	z 		mutandangu DDDK z 3 . Uyu mutinhimira wengoma inoririsa zvikuru.
+mutandariko 	DKKKD 	3 	z 		mutandariko DKKKD z 3 . Iri idanda rinoshandiswa kuvhara padanga, kana pagedhe, kana musuwo.
+mutandarombo 	DKKDK 	3 	z 		mutandarombo DKKDK z 3 . Uyu muti unoshandiswa kubvisa munyama. Uyu muti unoshandiswa kudzinga mweya yakaipa.
+mutando 	D- 	3 	z 		mutando D- z 3 . Mutando itsambo inogadzirwa nemhangwa nezvuma.
+mutangatsapi 	DKKDK 	3 	z 		mutangatsapi DKKDK z 3 . Uku kurara kunoita musikana nemukomana vasati varoorana.
+mutanho 	D- 	3 	z 		mutanho D- z 3 . Mutanho inzvimbo inovakwa nematanda, inoyanikirwa zvirimwa zvakaita senzungu kana chibage. Mutanho ibhiriji rematanda. Mutanho mufambo unosvika maira imwe.
+mutapatapa 	D- 	3 	z 		mutapatapa mutaparapa D- z 3 . murabaraba 3 .
+mutapatapa 	DKKKK 	3 	z 		mutapatapa DKKKK z 3 . Ichi chipfeko kana chekugarira chakanyorova zvekutosvinwa mvura. Bvisai mwana mutapatapa wemutambo uri kumuchemedza uyo.
+mutarara 	D- 	3 	z 		mutarara D- z 3 . Uyu muti wakaomarara unobereka nharara dzinodyiwa. mutara 3 .
+mutararo 	DKKD 	3 	z 		mutararo DKKD z 3 . Iyi iwaya kana shinda inenge yakatandiwa kuti iyanikirwe hembe kana nyama. mutariko 3 .
+mutariko 	DKKD 	3 	z 		mutariko DKKD z 3 . mutararo 3 .
+mutariro 	DKKD 	3 	z 		mutariro DKKD z 3 . Uku kumbomiswa kwebasa rinenge richiitwa. muturiko 3 . Uku kurega kutemwa kwemutongo pazuva raunenge wakatarisirwa.
+mutatu 	DDK 	3 	z 		mutatu DDK z 3 . Mutatu kurongwa kwemapfihwa, ari matatu, pachoto. Mutatu ibhasikoro rinochinjwa kuti ripfave kana kuti riome pakuchovha. Mutatu itsoro inotambwa nevanhu vaviri, inonyorwa ine makona matatu, nezvekutambisa zvacho, zvitatu pamunhu. Mutatu chidavado chekuruka tyava kana tambo, uchishandisa tambo diki, dzinenge dzichipindana, dziri nhatu. Mutatu kufamba nemakumbo matatu kunoita imbwa, kana imwewo mhuka ine makumbo mana, kana yakuvara rimwe gumbo.
+mutauro 	D- 	3 	z 		mutauro D- z 3 . Mutauro rurimi rwunotaurwa nevanhu. Mutauro weShona ndiwo unotaurwa nevanhu vazhinji vemuno muZimbabwe. Mutauro kutaudzana kunoita vanhu vachiburitsirana mashoko akaomarara. Pamba apo pakaita mutauro nezuro, mombe dzavo dzadya kumunda kwevaridzi.
+mutavara 	DDKD 	3 	z 		mutavara DDKD z 3 . Uyu mucheka unomonerwa nevarume.
+mutekateka 	D- 	3 	z 		mutekateka D- z 3 . Uyu munhu, mhuka kana mudziyo wemumba unenge wakatakurwa nevanhu vaviri kana vanopfuura, vachishandisa maoko avo kana zvitakuriso zvakagadzirirwa basa iri.
+muteketeke 	D- 	3 	z 		muteketeke D- z 3 . Iyi inyama yakabikwa, inotengeswa panzvimbo inenge yakaungana vanwi vedoro.
+mutemarege 	DKKDK 	3 	z 		mutemarege DKKDK z 3 . Uku kuurayiwa kwezvinhu zvakawanda, asi zvisingadyiwe. Nyoka yakapinda muzumbu ikasiya yaita huku mutemarege. chiurayeuraye 7 .
+mutembwende 	D- 	3 	z 		mutembwende D- z 3 . Uyu mucheka murefu unomonerwa nevarume unosvika mumabvi. mukofo 3, mutevera 3 .
+mutemo 	DKK 	3 	z 		mutemo DKK z 3 . Mutemo mashoko anodzikwa nechinangwa chekuti pave nekugarisana kwakanaka. murau 3 . Mutemo chinhu chakatarwa kuti ndicho chinofanira kutevedzwa. murau 3 .
+mutendekahama 	DKKDKK 	3 	z 		mutendekahama DKKDKK z 3 . munongedzo 3 .
+mutengano 	DKKD 	3 	z 		mutengano DKKD z 3 . Uku kupa mumwe chinhu, iye achikupawo chaunoda.
+mutengate 	DDKD 	3 	z 		mutengate DDKD z 3 . mutekateka 3 .
+mutengo 	DKK 	3 	z 		mutengo DKK z 3 . Mutengo imari kana chimwe chipo chinobviswa kuti upiwe zvaunoda. muripo 3 .
+mutenu 	DKD 	3 	z 		mutenu DKD z 3 . Iyi inzvimbo inenge yakadzikira kana uchibva pakakwirira. mudzakisirwa 3 .
+mutepe 	DKD 	3 	z 		mutepe DKD z 3 . Mutepe muti une midzi inoshandiswa semushonga wemusoro kana wemhepo, unomera munzizi kana munzvimbo dzine mvura. mupumha 3 .
+mutero 	D- 	3 	z 		mutero D- z 3 . Mutero imari inobviswa kana munhu achibhadharira imba yaanogara, kana magetsi kana magetsi, kana zvimwewo. Mutero imari inobviswa kuhurumende ichibva pamari yaunotambira, kana yaunobhadhara muzvitoro nedzimwewo nzvimbo dzakasiyana-siyana.
+mutetenerwa 	DKKDK 	3 	z 		mutetenerwa DKKDK z 3 . Idzi inzungu dzakakangwa dzikaiswa munyu dzinodyiwa dzakadaro, kana dzinodyiswa sadza panzvimbo pemuriwo. Zvidhakwa zvinofarira mutetenerwa chaizvo kana zvine bhabharasi. mutete 3 .
+muteto 	D- 	3 	z 		muteto D- z 3 . Muteto maitiro anoshoreka.
+muteuro 	DKKD 	3 	z 		muteuro DKKD z 3 . munamato 3 .
+muteyo 	DKK 	3 	z 		muteyo DKK z 3 . Muteyo mushonga unoshandiswa pakutsvaga muroyi pakati pevanhu vakawanda. Muteyo mudziyo wekubatisa shiri kana mhuka.
+mutezo 	DKK 	3 	z 		mutezo DKK z 3 . Mutezo inhengo yemuviri. Mutezo inhengo yechita.
+muti 	DK 	3 	z 		muti DK z 3 . Muti imhando yezvinhu zvinomera zvega pasi, kana kudyarwa, asi zvichireba kupfuura uswa. Muti mapiritsi, midzi kana zvimwewo zvinoshandiswa kurapa vanhu, kana kuvakuvadzawo zvakare. mushonga 3 .
+mutibwa 	DDK 	3 	z 		mutibwa mutimbwa DDK z 3 . Mutibwa kurara munhu akawarira nekufuga jira rimwe.
+mutigida 	DDKD 	3 	z 		mutigida DDKD z 3 . Iri ijira rinomonerwa navanhukadzi, rinobvira padundundu richisvika mumakumbo. mutikuda 3, zambiya 5 .
+mutikiti 	DKKK 	3 	z 		mutikiti DKKK z 3 . muboora 3 .
+mutimbwa 	DDK 	3 	z 		mutimbwa DDK z 3 . Mutimbwa chuma chinopfekwa muchiuno nevanhukadzi.
+mutinhimira 	D- 	3 	z 		mutinhimira D- z 3 . Aya maririro anoita mumhanzi.
+mutinhiro 	DDKK 	3 	z 		mutinhiro DDKK z 3 . Urwu ruzha runobuda mumishini yakaita semota kana zvombo zvinodhuuka, zvakaita semabhambo kana pfuti. Urwu ruzha runowanzobatana nemheni, runoitika kana mvura ichinyaya. mupande 3 .
+mutiti 	D- 	3 	z 		mutiti mutete D- z 3 . Mutiti muti wakasimba unovezwa ngoma nezvigaro. munhimbiti 3 .
+mutitimira 	D- 	3 	z 		mutitimira D- z 3 . Uyu munhu muhombe chaizvo, kana chimwewo chisikwa chihombe. Apa paita mutitimira werume. hofori 9 .
+mutitinini 	D- 	3 	z 		mutitinini D- z 3 . Uku kufamba kwemunhu asina kupfeka. Uku kurara kwemunhu asina kufuga jira. Kuita mutitinini kumira kuti twi kunoita mhuka yemunhurume.
+muto 	D- 	3 	z 		muto D- z 3 . Muto zvimvura zvinosevewa mumuriwo. Muto imvura inobva mumuchero kana muti.
+mutobvo 	D-\DKD 	3 	z 		mutobvo mutobvu D-\DKD z 3 . Mutobvo isimbi yakapfava inonanautswa, yogadziriswa zvinhu zvesimbi zvakasiyana.
+mutocha 	DKD 	3 	z 		mutocha DKD z 3 . Mutocha iganda rinopeteka, rinowanikwa panosangana hudyu nemutumbi wekumusoro. Mutocha itsika yekuita musikanzwa kana kutsvinyira vamwe. ugashura 14 .
+mutochera 	DKKK\D- 	3 	z 		mutochera DKKK\D- z 3 . Uku kuzvimba kunoita muhapwa kana pahudyu, kana munhu aine ronda pane dzimwe nhengo dzemuviri. mwambabvu 3, mwandabvu 3 . Aya maiitiro emwana ane misikanzwa, asingaremekedze vakuru. Iyi itsika yekufamba uchitsvaga chikafu mumabhini nezvinenge zvasiyiwa panzvimbo dzinobikirwa chikafu.
+mutodo 	DDK 	3 	z 		mutodo DDK z 3 . Mutodo ibhurukwa rinosvika kutsoka. mudhebhe 3, mutirauzi 3 .
+mutohwe 	DKD 	3 	z 		mutohwe mutobwe DKD z 3 . Mutohwe muti unobereka muchero une mbai dzinonunira kana dzaibva, dzichirera kana munhu achitsenga. mugururu 3 .
+mutombo 	DKK 	3 	z 		mutombo DKK z 3 . Mutombo muti kana mushonga unoshandiswa kurapa kana kuuraya.
+mutondo 	D- 	3 	z 		mutondo D- z 3 . munhondo 3 .
+mutondochuru 	D- 	3 	z 		mutondochuru D- z 3 . Uyu muti unomera pazvuru, unobereka vana vakaomarara, vane mhodzi tsvuku mukati mavo.
+mutongo 	DKK 	3 	z 		mutongo DKK z 3 . Mutongo kuenzaniswa nokugurwa kunoitwa nyaya padare.
+mutonono 	D- 	3 	z 		mutonono D- z 3 . Uku kugonyesa mabvi, sezvinoita mukuwasha paanenge achiombera ambuya. Uku kugara munhu wakaisa magaro nezvitsiko zvetsoka pasi.
+mutoo 	D- 	3 	z 		mutoo mutowo D- z 3 . Mutoo maitiro anoitwa zvinhu.
+mutoro 	DDK 	3 	z 		mutoro DDK z 3 . Mutoro inzvimbo inoitirwa mitambo yakakosha sekupira midzimu. Mutoro inyaya kana basa rakaoma rakatarisana newe. Mutoro idoro rinobikwa vanhu vachizorishandisa kukumbira mvura kuvadzimu.
+mutoro 	DKK 	3 	z 		mutoro DKK z 3 . Mutoro chinhu chinorema kana nhumbi dzinorema, dzinenge dzakatakurwa nemunhu.
+mutorododo 	D- 	3 	z 		mutorododo D- z 3 . Uku kuteerana kwezviitiko zvakareba, chimwe chichienda pamusoro pechimwe. Uku kutaura kwenguva refu mutauri asingazorori, kana kupawo vamwe nguva yekutaura. Pandakamubvunza nezvemari yangu akatangs kunditaurira mutorododo wenyaya.
+mutoto 	D- 	3 	z 		mutoto D- z 3 . Mutoto kumberi kwepfuti kunobuda namabara.
+mutovakamwe 	DDDDK\DDDKK 	3 	z 		mutovakamwe DDDDK\DDDKK z 3 . Ichi chiitiko chinoitika kamwe asi chichishamisa. ziitikakamwe 21 .
+mutowa 	DKD 	3 	z 		mutowa mutohwa DKD z 3 . Mutowa rudzi rwemuti unokunwa urimbo. musikanyimo 3 .
+mutoweguru 	DDKDD 	3 	z 		mutoweguru DDKDD z 3 . Iyi ishiri ine muviri une ruvara rweyero nomusoro mutema yakakura kunge chidzvururu inoshandisa mvere kuvaka dendere rayo. gochihwo 5 .
+mutsa 	DK 	3 	z 		mutsa DK z 3 . Mutsa mwoyo wakanaka unofarira kuyamura vamwe. tsitsi 10, nyasha 10, mwoyochena 3 .
+mutsago 	D- 	3 	z 		mutsago D- z 3 . Mutsago kasimbi kanomonerwa shinda, yozoiswa pazasi pemushini ichibatana neshinda yepamusoro, mushini wozosona. bhobhiri 9, chibhobhiri 7 . Mutsago chitanda chaivezwa kare chaishandiswa kutsamira wakarara. Mutsago chihomwe chakaiswa machira kana shinda yakapfava chekutsamira wakarara. piro 9, mutsago 3 .
+mutsakora 	D- 	3 	z 		mutsakora D- z 3 . Idzi imbatya dzabvaruka dzinenge dzisisakwanisi kushandiswa. mvemve 5, dhende 5 .
+mutsambatsi 	DDDK 	3 	z 		mutsambatsi DDDK z 3 . Uyu muti unomera kunyanya pazvuru mumapani, usingaendi mudenga, unobereka tuvana tunoibva twakasvibira.
+mutsamiro 	DKKD 	3 	z 		mutsamiro DKKD z 3 . mutsago 3 .
+mutsamvi 	DDK 	3 	z 		mutsamvi mushavhi, mutsamvu DDK z 3 . Mutsamvi muti unowanzomera pazvuru nomuzvikomo, unobereka muchero mudikidiki, unodyiwa neshiri kunyanya.
+mutsamvinyana 	DDKDD 	3 	z 		mutsamvinyana DDKDD z 3 . Uyu muti mudiki werudzi rwemutsamvi.
+mutsara 	DDK 	3 	z 		mutsara DDK z 3 . Mutsara kamutaro kanonyorwa. mutaro 3, mutsetse 3 . Mutsara rundaza rwezvinhu. mutsetse 3 .
+mutsatsakunya 	D- 	3 	z 		mutsatsakunya D- z 3 . Uku kudya kwemangwanani kunenge kwakasarira nezuro, kana mazuva anenge apfuura. muradzwa 3, munya 3 .
+mutsatsati 	DKKD 	3 	z 		mutsatsati DKKD z 3 . Uyu muti unowanzomera kumakomo, unoita hunde, waivezeswa masasa nevakuru vakare nekuti haudyiwe nemuchenje.
+mutsaukano 	DKKKD 	3 	z 		mutsaukano DKKKD z 3 . mutsauko 3 .
+mutsauko 	DKKDD 	3 	z 		mutsauko DKKDD z 3 . Uku kusiyana kunenge kwakaita zvinhu zvinenge zvichienzaniswa. mutsaukano 3, musiyano 3 .
+mutserendende 	D- 	3 	z 		mutserendende D- z 3 . Iyi inzvimbo yakatenuka, panotamba vana vachitsvedza. mutedzerere 3 .
+mutsetse 	DKD 	3 	z 		mutsetse DKD z 3 . mutsara 3 .
+mutsetsenuri 	D- 	3 	z 		mutsetsenuri D- z 3 . Uyu munhu anogona kukuya zviyo, zvichisara zvanyatsotsetseka. Uyu munhu anokwanisa kunyatsotsanangura zvaanenge aona.
+mutsigo 	DKK 	3 	z 		mutsigo DKK z 3 . Kuva ne mutsigo kuva neunhu hwakanaka, hunoremekedzwa. chiremera 7 .
+mutsimba 	DDK 	3 	z 		mutsimba DDK z 3 . Mutsimba mutambo wekuti vatambi vanenge vachibhidhiridzana vari mudariro, vachida kuona kuti ndiani anokundwa simba. Kuita mutsimba nebasa kushingirira kusvika waripedza, nyange richikurwadza.
+mutsindirwa 	DKDK 	3 	z 		mutsindirwa DKDK z 3 . Aya marukirwo anoitwa vhudzi nemadhiredhi zvakadonyongodzwa, pamwe zvakarara kuti tsepete nemusoro. kapeti 9 .
+mutsindo 	DKK 	3 	z 		mutsindo DKK z 3 . Mutsindo kutinhira kwepasi kunonzwikwa panofamba munhu kana mhuka.
+mutsinganhoko 	DKKDK 	3 	z 		mutsinganhoko mutsinzanhoko DKKDK z 3 . Ichi chikamu cheura chinogara nhoko dzemhuka dzakaita sembudzi, tsuro nemakwai. mugaranhoko 3 .
+mutsinyarinya 	DKKKD 	3 	z 		mutsinyarinya mutsunyarunya DKKKD z 3 . Iyi ihwiza yakaonda, ine kamuromo karefu, inodyiwa nevamwe vanhu.
+mutsipa 	D- 	3 	z 		mutsipa mutsiba D- z 3 . Mutsipa inhengo yemuviri yakagarwa nemusoro, iri pakati pemusoro nemapfudzi. huro 9 .
+mutsombori 	DDDK 	3 	z 		mutsombori mushombori DDDK z 3 . Urwu rudzi rwekamuti kanoita midzi inodyiwa ichiri midiki.
+mutsomo 	DDK 	3 	z 		mutsomo DDK z 3 . Mutsomo rudzi rwemuti unobereka michero inodyiwa, inonzi mapfura. mupfura 3 .
+mutsongora 	D- 	3 	z 		mutsongora D- z 3 . musongora 3 .
+mutsonha 	D- 	3 	z 		mutsonha D- z 3 . mungai 3 .
+mutsonzowa 	DKDK 	3 	z 		mutsonzowa mushonjowa, mushozhowa DKDK z 3 . Uyu muti une mashizha akaita seakatsvukuruka, unobereka vana vakaomarara vanodyiwa nembudzi. mudyamhembwe 3, mutototo 3, mukuvazviyo 3 .
+mutsotso 	DKK 	3 	z 		mutsotso DKK z 3 . mututu 3 .
+mutsubvu 	DKD 	3 	z 		mutsubvu mukubvu DKD z 3 . Mutsubvu muti unobereka michero inonzi tsubvu kana hubvu, inoti kana dzaibva dzinenge dziri nhema nhema ganda zvose nemukati, kana ukadzidya dzosvibisa mukanwa. muhubvu 3 .
+mutsunda 	DDK 	3 	z 		mutsunda DDK z 3 . Mutsunda mudziyo unoshandiswa pakuboora chikumba, panosonwa zvakaita sebhutsu kana mabhegi.
+mutsvairo 	DKKD 	3 	z 		mutsvairo DKKD z 3 . Mutsvairo uswa kana mashizha, zvinoshandiswa kubvisisa marara anenge ari pasi mumba kana panze.
+mutsvandimire 	DKKDK 	3 	z 		mutsvandimire DKKDK z 3 . musemwasemwa 3 .
+mutsvanzva 	DKD 	3 	z 		mutsvanzva DKD z 3 . Urwu rudzi rwemuti unobereka michero inonzi tsvanzva, inoti kana yaibva inenge iri tsvuku kana yero. munhengeni 3 .
+mutsvoritsvoto 	DDKDD 	3 	z 		mutsvoritsvoto DDKDD z 3 . Urwu rudzi rwemuti unowanzomera mumakomo, une minzwa pamapazi, uchibereka muchero unodyiwa unonzi tsoritsvoto. musvisvirondo 3 .
+mutswatswa 	D- 	3 	z 		mutswatswa D- z 3 . Mutswatswa rwudzi rwemuti unoita mapazi akawanda, uchibereka vana vatema. chinzanga 7, murapambare 3 .
+mutswi 	D- 	3 	z 		mutswi mutwi D- z 3 . Mutswi idanda rakavezwa, rinoshandiswa pakudzvura zvakaita sezviyo. muhwi 3 . Mutswi kutsemuka kunoita zvakaita semidhuri yedzimba, matombo kana hari.
+mutswiri 	D- 	3 	z 		mutswiri muswiri D- z 3 . Mutswiri kambeva kane muromo murefu, kanogara pasi kachiitira vana muuswa hwakapfava. muchuchu 3 .
+mutswiwa 	DKD 	3 	z 		mutswiwa mutwiwa DKD z 3 . Mutwiwa upfu hwechibage chinenge chakambobandwa muduri. mudzvurwa 3, duure 5 .
+mutufu 	D- 	3 	z 		mutufu mutupfu D- z 3 . Mutufu rudzi rwemuti une mapazi matsvuku anotyoka nyore, unobereka vana vanodyiwa vanonzi matufu.
+mutukure 	D- 	3 	z 		mutukure D- z 3 . Kana zvinhu zvakaita mutukure zvinenge zvakawanda kwazvo, zvisinganetsi kuwana.
+mutukutu 	DDKD 	3 	z 		mutukutu DDKD z 3 . Uyu muti une mashizha makobvu anenge mabhuku, unoita zvivana zvakareba, zvakaomarara zvinopihwa mombe. mubhuku 3, muhavahava 3, musekesa 3 .
+mutumbi 	DDK 	3 	z 		mutumbi mutumbu DDK z 3 . Mutumbi muviri wemunhu akafa. chitunha 7 .
+mutundo 	D- 	3 	z 		mutundo D- z 3 . Mutundo imvura inenge iri mumuviri wemunhu, inozoburitswa nekuzasi kana dundiro razara. weti 9, dope 5 .
+mutundu 	DKK 	3 	z 		mutundu DKK z 3 . Mutundu zvinhu zvakawanda zvinenge zvakasungirirwa pamwe chete mumucheka. mukwende 3 .
+mutunduru 	DDKD 	3 	z 		mutunduru DDKD z 3 . Urwu rudzi rwemuti unogara wakasvibira, unobereka muchero unodyiwa unonzi matunduru. munywanywa 3 .
+mutunhu 	DKK 	3 	z 		mutunhu DKK z 3 . dunhu 5 . Mutunhu urefu hwenzvimbo yaunofamba uchienda kana kubva kune imwe nzvimbo. Mutunhu inzvimbo iri kure. Kubva kwedu kusvika kwambuya pane mutunhu.
+mutupo 	DKK 	3 	z 		mutupo DKK z 3 . Mutupo mucherechedzo weukama hwevanhu verudzi rumwe chete, unotorwa kubva pamhuka kana zvimwewo zvisikwa. Mutupo wenyu munoera chii? Munhu akati chimwe chinhu mutupo kwaari anenge achireva kuti haatombodi kana kuchibata kana kuchiita. Isu vanamati doro utori mutupo. Kana munhu ari nyope badza unenge utori mutupo kwaari.
+muturu 	DKD 	3 	z 		muturu DKD z 3 . mutariko 3 .
+mututu 	DKK 	3 	z 		mututu DKK z 3 . Mututu chirwere chinoita kuti munhu abude ropa mumhuno, kazhinji kana kuchipisa. mhuka 9, muhotwe 3, mutsotso 3 . Mututu imhepo yakasimba.
+mutuu 	D- 	3 	z 		mutuu D- z 3 . Mutuu mudziyo wekubatisa hove, unogadzirwa netsanga.
+mutuvi 	DKK 	3 	z 		mutuvi DKK z 3 . Mutuvi imvura inovavira, inobuda mumukaka unenge wakora.
+mutwaro 	DKK 	3 	z 		mutwaro DKK z 3 . mutoro 3 .
+mutwi 	D- 	3 	z 		mutwi D- z 3 . mutswi 3 .
+mutyaba 	D- 	3 	z 		mutyaba D- z 3 . Mutyaba idota rakagadzirirwa kusanganiswa nefodya yemumhuno. mushaba 3, mudhombo 3 .
+mutyambi 	DDK 	3 	z 		mutyambi DDK z 3 . Mutyambi vanhu kana mombe dzakawanda.
+mutyangetyange 	DKKKK 	3 	z 		mutyangetyange DKKKK z 3 . Aka kasora kanomera mumunda pazhizha, kanodyiwa semuriwo.
+mutyora 	DKD 	3 	z 		mutyora DKD z 3 . Mutyora ndechinoshandiswa pakubika derere, chinobva mumadota emaguri echibage. muteka 3 .
+mutyuviza 	DDKD 	3 	z 		mutyuviza DDKD z 3 . Iri idoro rakaita mvura mvura.
+muucha 	D- 	3 	z 		muucha D- z 3 . muhacha 3 .
+muunga 	D- 	3 	z 		muunga D- z 3 . Urwu rudzi rwemuti une minzwa michena yakareba chaizvo. mubayamhondoro 3 .
+muunji 	DDK 	3 	z 		muunji DDK z 3 . muururo 3 .
+muunze 	D- 	3 	z 		muunze muuzhe D- z 3 . Muunze rudzi rwemuti une hunde yakati twasu neganda rinoda kutsvedzerera, unomera munzvimbo dzine makomo.
+muunzo 	DKK 	3 	z 		muunzo DKK z 3 . Muunzo mudziyo unoshandiswa kunhadziridza zviumbwa. muvuzo 3 .
+muururo 	DKKD 	3 	z 		muururo DKKD z 3 . Iyi isimbi inoti, kana yaiswa muchoto yapisa, yobooreswa zvinhu zvakaita semipinyi yemapadza kana yematemo. mupfondo 3 .
+muuyo 	D- 	3 	z 		muuyo D- z 3 . Muuyo kunze kwemadziro emba.
+muuyu 	DDK 	3 	z 		muuyu muwuyu, muvuyu DDK z 3 . Muuyu rudzi rwemuti wakakura zvikurusa, unowanzowanikwa munzvimbo dzakaderera, unobereka vana vanodyiwa vanonzi mauyu, vane mvere kunze nechikanda chakaomarara.
+muvanga 	DDK 	3 	z 		muvanga DDK z 3 . Urwu rudzi rwehove ine mazino anokuvadza, inogara muhova huru. cheni 9, mucheni 3 .
+muvanga 	DKK 	3 	z 		muvanga DKK z 3 . Muvanga muti wakasimba chaizvo, usingatemeki nhando, unogadziriswa mapango ekusoseresa.
+muvengahonye 	DKKKD 	3 	z 		muvengahonye DKKKD z 3 . Aka karudzi kemuti kasingakuri kuenda mudenga zvakanyanya. munyingahanyi 3 .
+muvha 	DK 	3 	z 		muvha DK z 3 . Muvha inzira yakafara, inokwanisa kufamba nemotokari kana zvikochikari. mugwagwa 3 .
+muvhandu 	DDK 	3 	z 		muvhandu DDK z 3 . Muvhandu kubika chikafu chakawandisa munhu asingapimi. mamvonzo 3 . Muvhandu makaro anoita kuti munhu adye achikasika.
+muvharadhongi 	DDDDK 	3 	z 		muvharadhongi DDDDK z 3 . Iyi ihembe kana jira remangamanga.
+muvheneka 	DDKK 	3 	z 		muvheneka DDKK z 3 . Aka kamuti kanobereka vana varefu vanorembera, vanokwanisa kushandiswa semwenje. muremberembe 3 .
+muvhunambezo 	DKKKD 	3 	z 		muvhunambezo DKKKD z 3 . Uyu muti unonetsa kuveza nekuti unenge wakaomarara.
+Muvhuro 	D- 	3 	z 		Muvhuro D- z 3 . Muvhuro ndiro zuva rekutanga pavhiki. Musumbunuko 3, Mande 9 .
+muvhuruvhuru 	D- 	3 	z 		muvhuruvhuru D- z 3 . mafufu 6 .
+muvhuvhura 	DDDK 	3 	z 		muvhuvhura DDDK z 3 . Uyu muonde unokura munzvimbo dzine mvura. Iyi imhepo inotonhora, inounza mvura.
+muviri 	D- 	3 	z 		muviri D- z 3 . Muviri wemunhu mutumbi wake wese, kubva kumusoro kusvika kutsoka. Munhu akanzi ane muviri zvinoreva kuti anenge ari mukobvu. Mwana uyu anenge akakarotodza baba vake kuita muviri.
+muwa 	DK 	3 	z 		muwa DK z 3 . Muwa idzinde nyoro rechibage. gunde 5 .
+muweru 	DDK 	3 	z 		muweru DDK z 3 . Muweru imvura yakachena inosara pamusoro, masese edoro adzika pasi pehari.
+muwi 	D- 	3 	z 		muwi D- z 3 . musha 3 .
+muwirowiro 	DKDKD 	3 	z 		muwirowiro DKDKD z 3 . Uyu muti unomera panzvimbo ine mabwe. mukosvo 3, mudanhatsindi 3 .
+muyapo 	D- 	3 	z 		muyapo D- z 3 . Muyapo rubatsiro rwaunowana. ruyamuro 11 .
+muyembe 	DKK 	3 	z 		muyembe DKK z 3 . Muyembe kutyisidzira kune kutamba mukati. musara 3 .
+muzarabani 	DKDKD 	3 	z 		muzarabani DKDKD z 3 . Uku kurwa kuya kunoita vanhu vachiuya vakawanda kuita mhomho chaiyo.
+muzekezeke 	D- 	3 	z 		muzekezeke D- z 3 . Iyi ipfumvu inovhurira dzimwe kuti dzirambe dzichiuya.
+muzemberere 	DKKDD 	3 	z 		muzemberere DKKDD z 3 . mudzuwerere 3 .
+muzengure 	DDKD 	3 	z 		muzengure DDKD z 3 . Izvi zvidhori zvinoiswa mumunda wembesa, kuitira kutyisidzira shiri nemakudo. muderwe 3, muzerwe 3 . Iri zidumbu guru rakarembera.
+muzera 	D- 	3 	z 		muzera muzira D- z 3 . Muzera mutsetse wechibage uri paguri. mutanda 3 .
+muzerere 	DKDD 	3 	z 		muzerere DKDD z 3 . mudzewerere 3 .
+muzeze 	D- 	3 	z 		muzeze D- z 3 . Muzeze muti une tumashizha tudikidiki, neganda rakachenuruka rinoshandiswa kurapa mudumbu nemaziso, uye mwoyo wawo unoshandiswawo pakuveza. mujisa 3, mupamhamakuva 3 .
+muzhangani 	DKKD 	3 	z 		muzhangani DKKD z 3 . Aya mazhanje aunowana akadonhedzwa nemhepo usingazvifungiri.
+muzhanje 	D- 	3 	z 		muzhanje D- z 3 . Urwu rudzi rwemuti unowanikwa munzvimbo inonaya mvura yakawanda, unobereka muchero unodyiwa unonzi mazhanje. mushuku 3 .
+muzharara 	DKKK 	3 	z 		muzharara DKKK z 3 . Iyi inzvimbo iri murwizi panodonha mvura. bopopo 5 .
+muzhararira 	D- 	3 	z 		muzhararira D- z 3 . Iyi itsika yekuvhundukira zvinhu nepasina kukodzera.
+muzhumwi 	DDK 	3 	z 		muzhumwi muzhumu DDK z 3 . Muzhumwi imhando yemuti wemutamba, une mapazi netsotso zvine minzwa yakakombama, unoita matamba anotapira chaizvo.
+muzinda 	D- 	3 	z 		muzinda D- z 3 . Iyi inzvimbo inogara mambo padare rake, kana kuti dzimba dzake.
+muzinindi 	D- 	3 	z 		muzinindi D- z 3 . Muzinindi kuoma musoro kana kusadzokera shure. ushindindi 14, ushwindi 14 .
+muzipire 	DDKK 	3 	z 		muzipire DDKK z 3 . Aya manakiro echinhu. muzipo 3 .
+muziyo 	DKK 	3 	z 		muziyo DKK z 3 . Muziyo ibango repamusuo. gwatidziro 5 .
+muzongoza 	D- 	3 	z 		muzongoza D- z 3 . Iri ibvupa riri pakati pemusana wemunhu, rinobva kuhuro richidzika panoperera musana.
+muzumbani 	DDKK 	3 	z 		muzumbani muzimbani DDKK z 3 . Muzumbani kamuti kadiki kanogadziriswa putugadzike, kana mushonga unogona kurapa chikosoro. sumba 9, zumbani 5 .
+muzura 	D- 	3 	z 		muzura D- z 3 . Kutyora muzura kufonyora mabvi kunoita vanhukadzi kana vachiratidza rukudzo. Muroora akatyora muzura apo aiombera vamwene vake.
+muzvambarara 	D- 	3 	z 		muzvambarara D- z 3 . Ichi chinhu chakareba chaizvo. Amai vakatenga muzvambarara wemota. Uyu mutauro wakahwanda, unoshandisa mazwi anopesedzera pane zvaanenge achireva. Munhu anonzi anoita muzvambarara anenge achishandisa nzira dzisina kuvimbika kuti awane zvaanoda.
+muzvazvarara 	D- 	3 	z 		muzvazvarara D- z 3 . Ichi chinhu chirefu, chakaita senyoka, chinenge chakarara pasi.
+muzvezve 	DKD\D- 	3 	z 		muzvezve DKD\D- z 3 . Muzvezve mutsara unosara panenge pafamba nenyoka kana chireyi. muzvezverere 3, muhwezva 3, mwezha 3 .
+muzvezverere 	DKDDD\D- 	3 	z 		muzvezverere DKDDD\D- z 3 . muzvezve 3 .
+mvikomviko 	KDDD 	3 	z 		mvikomviko KDDD z 3 . Ichi chinyamututa chine mavara matema nematsvuku, chine zvinyanga zvirefu.
+mwaka 	DK 	3 	z 		mwaka DK z 3 . Mwaka inguva yegore yakasiyana-siyana, sekuti zhizha kana chirimo. Mwaka uno mvura yatorambisisa.
+mwakani 	DKD 	3 	z 		mwakani DKD z 3 . Mwakani ndekwekutanga kwenguva yechirimo.
+mwambabvu 	DKD 	3 	z 		mwambabvu mwandabvu DKD z 3 . Mwambabvu kuzvimba kunoita muhapwa kana panosangana makumbo, kunogona kukonzerwa nechironda chinenge chiri paimwewo nhengo yemuviri.
+mwanda 	D- 	3 	z 		mwanda D- z 3 . Mwanda uswa hwakasungwa pamwe chete. chiswa 7 .
+mwando 	D- 	3 	z 		mwando D- z 3 . mhepo 9 .
+mwangato 	D- 	3 	z 		mwangato D- z 3 . Mwangato muti wakavezwa, unogona kuiswa chifananidzo cheshumba kana mbada, unowanzotakurwa nemasvikiro.
+mwanza 	DK 	3 	z 		mwanza DK z 3 . Mwanza mwena unogara kana kupinda mbeva kana makonzo. mwezha 3, mbudu 3 .
+mwaranzi 	DKK 	3 	z 		mwaranzi DKK z 3 . Mwaranzi kamutsetse kezuva kanovapo kana zuva richibuda. museve 3, ranzi 5 .
+mwazi 	DK 	3 	z 		mwazi DK z 3 . mhango 9 .
+mwedzi 	DK 	3 	z 		mwedzi DK z 3 . Mwedzi idenderedzi hombe jena, rinoonekwa kazhinji usiku rakajekesa nyika, asi dzimwe nguva richimboonekwawo kwakachena, risina kunyanyoita denderedzi kudaro. Mwedzi chidimbu chegore chinowanzoita mazuva makumi matatu kana kuti makumi matatu nerimwe. Mwedzi waKukadzi ndiwo wega une mazuva ane uwandu hunochinja, kubva kumakumi maviri nemasere kuita makumi maviri nepfumbamwe, makore mana ega ega. Kuenda ku mwedzi kwemunhukadzi kubuda ropa, rinenge richibva muchibereko, pamwedzi wega wega. kugeza 15 .
+mwena 	DK 	3 	z 		mwena DK z 3 . Mwena iburi rakacherwa nechipuka chinogaramo, chakaita sembeva kana gurwe. Mwena imhuka yemusango yakafanana nembwa, inodya majuru nokufamba usiku, ichigara muguru masikati. mbizimumwena 9 . Mwena igomba rinosara padumbu kana munhu ava nenzara, kana padumbu remombe yaneta yava nenzara.
+mwendachirimo 	D- 	3 	z 		mwendachirimo D- z 3 . Aka kakova kasingaomi, kanoerera gore rese.
+mwenje 	D- 	3 	z 		mwenje D- z 3 . Mwenje moto unotungidzwa kuti ujekese murima. chivheneko 7 .
+mwenza 	DK 	3 	z 		mwenza mwanza DK z 3 . Iyi inzira inofambwa nayo nemakonzo kana kuti nembeva. mwezha 3 .
+mweredzo 	D- 	3 	z 		mweredzo D- z 3 . Mweredzo idoro rezvirango zvevadzimu rinozonwiwa mushure mekuurayiwa kwemombe kana kuvigwa kwemufi.
+mwerere 	D- 	3 	z 		mwerere D- z 3 . Mwerere ibvudzi remwana achangozvarwa, rakaita zerere.
+mwero 	D- 	3 	z 		mwero D- z 3 . Mwero uwandu hwakaenzerana, husina kuwandisa kana kushomekesa. Manwiro ake doro haana mwero. mupimo 3 .
+mweya 	DK 	3 	z 		mweya DK z 3 . Mweya imhepo inofemwa nevanhu nezvisikwa zvakasiyana, inokonzera kuti zvipuka izvi zvirarame. Mweya kunhuhwa kwakaipa. Mweya maitiro asina nduramo anoitwa nemunhu, zvinozonzi anenge ane chakamugara. mhepo 9, mamhepo 6 . Mweya wemunhu ndiwo unonzi unorarama kana afa.
+mwise 	DK 	3 	z 		mwise DK z 3 . muswe 3 . Munhu akanzi aita mwise , zvinoreva kuti ndiye anenge apedzisira kusvika kana kuita chimwe chinhu. muswe 3 .
+mwiso 	D- 	3 	z 		mwiso D- z 3 . Mwiso mukaka unenge waakukamwa mushure mekunge mhuru yamboyamwiswa zvekare.
+mwoko 	D- 	3 	z 		mwoko D- z 3 . Mwoko murwi wezviyo zvisati zvapurwa.
+mwongo 	DK 	3 	z 		mwongo DK z 3 . mongo 3 .
+mwonzo 	D- 	3 	z 		mwonzo D- z 3 . muururo 3 .
+mwoto 	DK 	3 	z 		mwoto DK z 3 . moto 3 .
+mwowa 	D- 	3 	z 		mwowa D- z 3 . Mwowa muriwo wakati pfumburukei unowanzomera panguva yezhizha. mowa 3 . Mwowa isora rinobuda muzhizha, kazhinji pane ndove, rinodyiwa semuriwo. mowa 3 .
+mwowa sena 	D- 	3 	z 		mwowa sena D- z 3 . Iri isora rinomera padanga kana pane manyowa, rinowanzodyiwa nemombe. mwowa danga 3, mowa danga 3 .
+mwoyo 	D- 	3 	z 		mwoyo moyo D- z 3 . Mwoyo inhengo yemuviri iri mukati mechipfuva, inopomba ropa kuti rikwanise kufamba nemuviri wese. Pa mwoyo pechinhu pakati pacho. Kana chinhu chichinzi chiri pa mwoyo , zvinoreva kuti chinenge chichidiwa zvakanyanya. Kana munhu achinzi ane mwoyo anenge achida tunhutunhu twevamwe twunonaka.
+mwoyochena 	DDKD\D- 	3 	z 		mwoyochena mwoyo muchena DDKD\D- z 3 . Uku kuva nechido chekuitira vamwe vanhu zvakanaka, kuti vagare vakafara. ANTONYMS mwoyomutema 3.
+mwoyosviba 	DDKD 	3 	z 		mwoyosviba DDKD z 3 . mwoyomutema 3 .
+mwoyosviba 	DDKD\DDDK 	3 	z 		mwoyosviba DDKD\DDDK z 3 . mwoyotema 3 .
+mwoyotema 	DDKD 	3 	z 		mwoyotema mwoyo mutema DDKD z 3 . Munhu ane mwoyomutema anenge achiitira vamwe vanhu zvakaipa nekuda kwekuipa kwake. mwoyosviba 3 .

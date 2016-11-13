@@ -1,0 +1,32 @@
+amai 	DKD 	2b 	z 		amai DKD z 2b . mai .
+amaiguru 	DKKKK 	2b 	z 		amaiguru DKKKK z 2b . maiguru 2a .
+amainini 	DKDKK 	2b 	z 		amainini DKDKK z 2b . mainini 2a .
+ambuya 	DKD 	2b 	z 		ambuya DKD z 2b . mbuya 1a .
+ambuya 	KDD 	2b 	z 		ambuya KDD z 2b . mbuyawasha 1a .
+ambuyawasha 	KDDDD 	2b 	z 		ambuyawasha KDDDD z 2b . mbuyawasha 1a .
+vamoyo 	KKD 	2a 	z 		vamoyo KKD z 2a . Vamoyo mwanasikana washe.
+vamwene 	KDK 	2a 	z 		vamwene KDK z 2a . Vamwene ndimai vemurume wako.
+vanyamukuta 	KKD 	2a 	z 		vanyamukuta KKD z 2a . Vanyamukuta munhu anobatsira madzimai pakuzvara.
+zambadota 	D- 	21 	z 		zambadota D- z 21 . Apa ndepanorasirwa madota.
+zambanenje 	D- 	21 	z 		zambanenje D- z 21 . Urwu rudzi rwehove.
+zanza 	D- 	21 	z 		zanza D- z 21 . Zanza mukati meruoko rwakazara nezvinhu.
+zarakuzaza 	DDKDD 	21 	z 		zarakuzaza DDKDD z 21 . Iri ibopoto rinoitika pakati pevanhu vashaya kunzwisisana. Rakanga rava zarakuzaza chairo, tezvara nemukuwasha zvatosvorana.
+zavirira 	DKKK 	21 	z 		zavirira DKKK z 21 . Iri zivivi romoto mukuru unenge uchibvira.
+zimai redziva 	DKK DKD 	21 	z 		zimai redziva DKK DKD z 21 . Aka kamhuka kanogara mumvura.
+zimbabwe 	DKD 	21 	z 		zimbabwe DKD z 21 . Zimbabwe dzimba dzakavakwa nemabwe pedyo neguta reMasvingo, dzinova ndidzo dzakatipa zita renyika yeZimbabwe.
+zinyekenyeke 	D- 	21 	z 		zinyekenyeke D- z 21 . Kana munhu akasunga zinyekenyeke, anenge asunga zvisina kubata. dembwetembwe 5 .
+zimai renyuchi 	DKK KDD 	21 	z 		zimai renyuchi DKK KDD z 21 . Iri ndiro zinyuchi ziguru rinokandira mazai.
+zema 	D- 	21 	z 		zema D- z 21 . Zema mweya unonhuwa zvikuru unobva pamuviri wechinhu. Chidembo chine zema rinokachidza.
+zhenje 	D- 	21 	z 		zhenje D- z 21 . Zhenhje mwenje wezvinopfuta zvakanyanya, zvakaita seuswa kana mashanga.
+vachikomborere 	KDKKDK 	2a 	z 		vachikomborere KDKKDK z 2a . Vachikomborere munhu anoita kuti vanoshaya vapote vachiwanawo.
+vaganda 	KDD 	2a 	z 		vaganda KDD z 2a . sahwira 9 .
+vagota 	KDK 	2a 	z 		vagota KDK z 2a . Vagota mukadzi washe anozoroorwa mushure mewokutanga.
+vamasare 	KKKD 	2a 	z 		vamasare KKKD z 2a . Vamasare izwi rinoshandiswa pamunhu anotadza kuwirirana navamwe, munhu asinganzwisisi. Ngatichibva pano pasvika vamasare.
+vambuya 	KDD 	2a 	z 		vambuya KDD z 2a . ambuya 1a .
+zambamba 	DKK 	21 	z 		zambamba DKK z 21 . Zambamba zimba rakakurisisa. Takavaka zambamba remba kumaruwa.
+zambara 	D- 	21 	z 		zambara D- z 21 . Zambara igonhi rinovhara musuwo wokupinda mumuzinda.
+zandangoma 	D- 	21 	z 		zandangoma D- z 21 . Iri zinhu rakakurisa kudarika mwero. Mombe iyi ine zandangoma romusoro.
+vambuyawasha 	KDDKD 	2a 	z 		vambuyawasha KDDKD z 2a . Ava ndimai vomudzimai wako. Uyu mudzimai wehanzvadzi yomudzimai wako.
+vanhiya 	KKD 	2a 	z 		vanhiya KKD z 2a . Vanhiya munhu anenge akaitirwa zvakashata asingazivi, zvokuti anenge ava kunzwisa urombo. Akangosvikovata, vanhiya vangu kana kumboziva kuti munin'ina afa.
+zavirira 	DKKD 	21 	z 		zavirira DKKD z 21 . Urwu ruzha rwavanhu vakawanda vanoimba kana kutaura nguva imwe cheteyo. Mumabhawa munogara muine zavirira roruzha.
+vatiya 	KKD 	2a 	z 		vatiya KKD z 2a . Vatiya munhu ane pfungwa dzisingatani kukanganwa. 

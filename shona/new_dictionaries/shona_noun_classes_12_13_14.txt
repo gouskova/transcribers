@@ -1,0 +1,455 @@
+kabayo 	D- 	12 	z 		kabayo D- z 12 . mabayo .
+kabhokisi 	DKDD 	12 	z 		kabhokisi DKDD z 12 . bhokisi 5 . chibhokisi 7 .
+kabisira 	D- 	12 	z 		kabisira D- z 12 . Kabisira idoro rinobikirwa vanhu vashoma kuti vanwe vachifara, risingatengeswi. Kana muchiita zvinhu kabisira munenge musingadi kuti voruzhinji vazvione kana kuzviziva, uye kazhinji zvinenge zvisina kururama.
+kaboko 	DKD 	12 	z 		kaboko DKD z 12 . Kaboko rudzi rwenzungu inoita mafuta akawanda.
+kabudura 	D- 	12 	z 		kabudura D- z 12 . Kabudura rudzi rwebhurugwa rine makumbo mapfupi asingapfuuri mabvi.
+kachasu 	DKD 	12 	z 		kachasu DKD z 12 . Kachasu idoro rinobikwa nesadza, mbiriso neshuga uye rinotora nguva diki kuti rivire. tototo 9 .
+kachemberebande 	DDDDDK 	12 	z 		kachemberebande DDDDDK z 12 . mbuyamuderere 9 . Uyu munhukadzi akwegura wemanyeponyepo, anonzi anojajadura nemazino ake marefu, uye anongotaurwa nezvake kuitira kutyisidzira vana vadiki vanenge vachinetsa. mukwegurubande 1 .
+kachikasi 	DDKD 	12 	z 		kachikasi DDKD z 12 . Uhu hwahwa hushoma hunongobikirwa murume nomukadzi wake. chikasi 7, mahwidi 6 .
+kadani 	DKD 	12 	z 		kadani DKD z 12 . Kadani chuma chinosungirirwa muhuro semucheno.
+kadeketye 	DKKK 	12 	z 		kadeketye DKKK z 12 . Kadeketye munhu anotaurisa, kazhinji mukadzi. chirosho 7 .
+kadendemafuta 	DKKDKK 	12 	z 		kadendemafuta DKKDKK z 12 . Iri isvosve guru rinobhururuka, rinobuda panotanga kunaya mvura, uye rinodyiwa. tsambaramafuta 9 .
+kadhakwa 	DDK 	12 	z 		kadhakwa DDK z 12 . Tudhakwa tumbuyu tunonyin'inyira turi pamusoro pedoro riri muhari kana mugate.
+kadhiidhii 	DKDKD 	12 	z 		kadhiidhii DKDKD z 12 . chidhiidhii 7 .
+kadimbu 	DKD 	12 	z 		kadimbu DKD z 12 . chidimbu 7 .
+kadodo 	D- 	12 	z 		kadodo D- z 12 . Kadodo kapoto kokubikira muriwo. chikadyana 7, hadyana 9 .
+kadonzvo 	DKD 	12 	z 		kadonzvo DKD z 12 . Kadonzvo kako mudikani wako wepamwoyo, kudai ari mukomana kana musikana. mudiwa 1, dhiya 1a .
+kadori 	DKD 	12 	z 		kadori DKD z 12 . chimvari 7 .
+kadzimu 	DKK 	12 	z 		kadzimu DKK z 12 . Kadzimu mweya womufi unoramba kunyaradzwa kana kuripirwa.
+kadzoran'ombe 	D- 	12 	z 		kadzoran'ombe D- z 12 . Iyi ishiri chena inodya tupuka tunowanikwa paganda remombe. kafudzamombe 12 .
+kaferefere 	D- 	12 	z 		kaferefere D- z 12 . Ichi chipfeko kana kuti jira rakareruka, zvokuti chero nguva yemadziya munhu unonzwa kufefeterwa.
+kafiramberi 	DKKDK 	12 	z 		kafiramberi DKKDK z 12 . Kuitwa kafiramberi kukuvadzwa kana kurohwa kwakanyanya kunoisa upenyu hwomunhu munjodzi, asi izvi hazvikurumidzi kuonekwa. Murume akarova mukadzi wake zvokutomuita kafiramberi chaiko.
+kafirifiti 	DKKKK 	12 	z 		kafirifiti DKKKK z 12 . firifiti 9 .
+kai 	DK 	12 	z 		kai DK z 12 . Kai izwi rinoshandiswa kuratidza kushomeka kana kudupuka kwezvinhu zviri kutaurwa, zvikuru sei kana zvinhu zvacho pasisina. Gore rakapera kwakatsva zvokuti hatina kumbokohwa kana kai zvako.
+kajongwe 	DDK 	12 	z 		kajongwe DDK z 12 . Kajongwe rudzi rwechimerwa chomusango, chinobumba pasi uye chinoita maruva anotaridzika semusoro wejongwe.
+kakirikiri 	D- 	12 	z 		kakirikiri D- z 12 . karikiriki 12 .
+kakukukaendera 	DKKKKDD 	12 	z 		kakukukaendera DKKKKDD z 12 . Iyi imhuka inotevera munhu wose wose. chiteveravashuzhi 7, nzenza 9 . Iyi inzira yokuba zvipfuwo muchitanga mambosanganisa matanga emombe maviri, mozoketa dzenyu muchitora nemombe yavamwe imwe chete panguva imwe chete.
+kakumbiramari 	DKKKDK 	12 	z 		kakumbiramari DKKKDK z 12 . Tukumbiramari tuvhudzi twushoma twunosiyiwa mumusoro womunhu, mushure nokunge agera rimwe vhudzi rose.
+kakuruo 	D- 	12 	z 		kakuruo D- z 12 . chimwamgo 7 .
+kakwembe 	DDK 	12 	z 		kakwembe DDK z 12 . Kakwembe munhuwi wakaipa unobva pamuviri womunhu.
+kamandigezerei 	DDKDDDK 	12 	z 		kamandigezerei DDKDDDK z 12 . kasiyanwa 12 . Uyu mucheka usina kunyatsonaka uye wakachipa.
+kamberembere 	D- 	12 	z 		kamberembere D- z 12 . Iri ibato rinovambirwa nokufambisirwa muchivande.
+kambiya 	DDK 	12 	z 		kambiya DDK z 12 . Aka kandiro kadiki kanopakurirwa muriwo. Kambiya chimedu chehari chinokangirwa maputi. chikango 7, rwainga 11 .
+kambuyu 	DDK 	12 	z 		kambuyu DDK z 12 . Tumbuyu tupuka twakadupuka zvakanyanyisisa, uye tunobhururuka twuchingoonekwa kuita zvokunyin'inyira kana twakawanda. Tumbuyu utwu tunonzi tudhakwa nokuti tunomomotera hari dzinenge dzine hwahwa.
+kamufarara 	D- 	12 	z 		kamufarara D- z 12 . Kana zvinhu zvichinzi zvakaita kamufarara zvinenge zviri zvidikidiki, zvakawandisisa, uye zvapakararira panzvimbo huru.
+kamuferefere 	D- 	12 	z 		kamuferefere D- z 12 . Aka kamhepo kanofefeta zvishoma. Iyi ihembe yakasonwa nomucheka mutete. Uyu mucheka mutete wokusonesa hembe. kaferefere 12 .
+kamukore 	DDKD 	12 	z 		kamukore DDKD z 12 . Kuita kamukore kupinganidza gumbo rako pane remumwe wauri kurwa naye, kuitira kuti iwe usadonha.
+kamukowoko 	DDKKD 	12 	z 		kamukowoko DDKKD z 12 . Kamukowoko kadimbu kadikidiki kenguva. chinguva 7, chinguvana 7 .
+kamutsa 	D- 	12 	z 		kamutsa D- z 12 . kamutsanedako 12 .
+kamutsanedako 	DDDKDD 	12 	z 		kamutsanedako DDDKDD z 12 . Aka kasadza kana kumwewo kudya kunobikirwa murume nomudzimai wake mangwanani-gwanani, zvikuru kana amuka aine bhabharasi ranezuro wacho. kamutsa 12, chimutsanedako 7, chimutsa 7, chimukaupfuregonzo 7 .
+kan'oto 	D- 	12 	z 		kan'oto kanyn'oto D- z 12 . kanyoto 12 .
+kanana 	DKK 	12 	z 		kanana DKK z 12 . Kanana kanhu kadikidiki kana kuti katsika kanoipisa kana kushoresa munhu kana kuti chinhu. Muroora wavo munhu akarurama, asina kana kanana zvako. kanongo 12 .
+kanongo 	DKK 	12 	z 		kanongo DKK z 12 . Kanongo kanhu kadiki kari pamunhu kanomuipisa. Akaroora mukadzi mudodo, asina kana nekanongo zvako.
+kanyama kanyama 	D- 	12 	z 		kanyama kanyama D- z 12 . Kana mhuka kana munhu ukaitwa kanyama kanyama unenge warwiswa nevavengi vazhinji, vakasiya vakubvambura-bvambura. Mhuka yakaitwa kanyama kanyama nembwa dzaKapito.
+kanyimambwa 	DKDK 	12 	z 		kanyimambwa DKDK z 12 . runyimambwa 11 .
+kanyimiramundiro 	DKKKDKK 	12 	z 		kanyimiramundiro DKKKDKK z 12 . Iyi itsika yokuomera nezvokudya, kana kuti kusada kupa vamwe zvokudya.
+kanyn'oto 	D- 	12 	z 		kanyn'oto kan'oto D- z 12 . kanyoto 12 .
+kanyoto 	D 	12 	z 		kanyoto kan'oto D z 12 . Kubata munhu kanyoto kumuisa musoro pakati poruoko rwakafonyorwa nepagokora, wakamumbandika zvokuti haapudzvunyuri. Patakanga tichiita mutsimba, ndakamubata kanyoto, mwana akati apfidza. kanyn'oto 12 .
+kanyungwe 	DKD 	12 	z 		kanyungwe DKD z 12 . Kanyungwe rudzi rwekakwenzi kanobereka mhiripiri inovava chaizvo. mutoronga 3 .
+kanyururahove 	DKKDKK 	12 	z 		kanyururahove DKKDKK z 12 . Urwu rumwe rudzi rweshiri inonyika muromo wayo mumvura, ichibata hove ichidya.
+kanzatu 	DKD 	12 	z 		kanzatu DKD z 12 . Kuita kanzatu kuunganidza mari kana zvimwewo zvinhu panhu pamwe, vanhu vachibetserana. Kana vanhu muchiwirirana, hazvinetsi kuita kanzatu kanzatu mukamisa chinhu chamunenge muchida.
+kapfarivari 	DKDKD 	12 	z 		kapfarivari DKDKD z 12 . chimvari 7 .
+kapira 	DKD 	12 	z 		kapira DKD z 12 . Kapira irabha rinoshandiswa kudzima zvakanyorwa.
+kapuka 	DDK 	12 	z 		kapuka DDK z 12 . Kapuka chisikwa chese chinofema, chine muviri mudikidiki, chinofamba nemakumbo kana kuti chinobhururuka.
+kapundu 	DKK 	12 	z 		kapundu DKK z 12 . Kapundu kanhu kakazvimba, kanoita paganda romuviri, kanowanzovavira kana kakwenywa. Ndikwenyei kapundu kari kumusana.
+kapupu 	D- 	12 	z 		kapupu D- z 12 . Aka kahuku kadiki kachiri kukura. mhupu 9, mhupumira 9 .
+karikiriki 	DKDKD 	12 	z 		karikiriki DKDKD z 12 . Karikiriki mushando unoitwa navanhu vakawanda vachikurumidza. Kana mvura yaturuka, vanhu vanenge voita karikiriki kurima nokukavira mbeu. kakirikiri 12 .
+karingazuva 	DKDKK 	12 	z 		karingazuva karingazuwa DKDKK z 12 . Urwu rumuti runodzimikwa muvhu muzuva, runoshandiswa kududzira nguva nebvute rawo. Kana kuine makore karingazuva korumuti hakasevenzi. wachi 9 . Uyu munhu anogara akaziva nokuchenjerera nguva paanoita zvinhu zvake.
+kariri 	DKD 	12 	z 		kariri DKD z 12 . Kariri usavi hunobikwa nembatata dzinoitwa zvokupwanywa kana dzaibva, kuita sebota gobvu.
+karombo 	DDK 	12 	z 		karombo DDK z 12 . kapuka 13 .
+karukuni 	DDKK 	12 	z 		karukuni DDKK z 12 . Urwu rudzi rwekanyoka kadiki kapfumbu, kanomonera pamuti kana kuti pahuni, zvokuti hakatombooneki.
+kasawaya 	D 	12 	z 		kasawaya D z 12 . Kasawaya imhando yenzungu diki, dzine rukanda ruchena, uye dzinokurumidza kukura kuzosvika pakudzikohwa.
+kasekera 	DDDK 	12 	z 		kasekera DDDK z 12 . Kasekera imhando yemuti mupfupi une minzwa mumhanda mawo, une kunze kuchena nomukati mutema, uye wakaoma chaizvo kuutema. mupangara 3 .
+kasemo 	D- 	12 	z 		kasemo chisemo D- z 12 . chisemo 7 .
+kaserima 	DKKD 	12 	z 		kaserima DKKD z 12 . Aka kapadza kapera kanowanzoshandiswa kufuka nyimo. Kaserima hakapedzi ndima. chikumo 7 .
+kasesepende 	DKKDK 	12 	z 		kasesepende DKKDK z 12 . Aka kasipo katetetete kanenge kapera nokushandiswa, zvokuti chinenge changosara kutoguka.
+kaseveramudama 	DDDDDKK 	12 	z 		kaseveramudama DDDDDKK z 12 . Uyu musuva wesadza unenge uine nhindi yenyama pakati, unoboverwa vamwe vasingaoni kuti mune nyama. Nyama yaparuzhinji inopera nokuitwa kaseveramudama.
+kashiye 	DKD 	12 	z 		kashiye DKD z 12 . rushiye 11 .
+kasiisii 	DKDKD 	12 	z 		kasiisii DKDKD z 12 . Aka kashiri kadiki kane tumakumbo tutsvuku, manhenga ebhuruu nomuromo mudikidiki mutsvuku, kanonyanyoda kugara mune makwenzi ane minzwa kana miti ine minzwa sezvitataunga. chidhiidhii 7 .
+kasipiti 	DKKK 	12 	z 		kasipiti DKKK z 12 . chisipiti 7 .
+katakwara 	D- 	12 	z 		katakwara D- z 12 . karavheta 9 .
+kateketeke 	D- 	12 	z 		kateketeke D- z 12 . Kuita kateketeke kufambisa miromo asi iwe usingatauri, sezvingaita munhu achiverenga. zevezeve 5 .
+kateredemu 	DKDKD 	12 	z 		kateredemu DKDKD z 12 . Urwu rudzi rweshiri inobata tupuka twainodya ichibhururuka, inonyanyowanikwa padyo nenzizi.
+katewetewe 	D- 	12 	z 		katewetewe D- z 12 . Aka kashiri kane tsvaratsvata refu nenzwara refu, zvinova zvinokabatsira kuti kakwanise kumhanya nepamusoro pamaruva omumvura, uye kanodya mhodzi notupuka twomumvura.
+katodzvo 	DDK 	12 	z 		katodzvo DDK z 12 . Katodzvo kashiri kane muromo murefu, mutete, wakajongamira pasi, unoita kuti kagone kumwa muto mukati memaruva. tsodzo 9 .
+katseta 	D- 	12 	z 		katseta D- z 12 . Katseta rundadzi rumwe chete chete rweshinda. Katseta kanhu kadikidiki, chero korudzi rupi zvarwo. kai 12 .
+katunzvi 	D- 	12 	z 		katunzvi D- z 12 . Katunzvi izita rinopiwa chero shiri diki hadzi.
+katurike 	DKDK 	12 	z 		katurike DKDK z 12 . Katurike imhosva isati yatongwa kana kuti isati yapera kutongwa. Munhu anonzi ane katurike anenge aine chaanotyira kuti angangobatwa, kana kuti chingangobudiswa pachena.
+kazevezeve 	D- 	12 	z 		kazevezeve kazeezee D- z 12 . Uku kutaurira pasi pasi, kazhinji kuri kuitira kuti musanzwikwa zvamuri kutaura. Gomba raiita kazevezeve nemukadzi wemunhu murimamo.
+kazhumu 	DDK 	12 	z 		kazhumu DDK z 12 . Kazhumu tuvhudzi tunosara pakanzvimbo kadiki, panogerwa munhu musoro.
+kazizimbori 	DDDDK 	12 	z 		kazizimbori DDDDK z 12 . Urwu rumwe rudzi rwezizi diki pamumhu waro. chimbori .
+tudyo 	DK 	12 	z 		tudyo DK z 12 . Tudyo svinhu zvekudya zvakasiyana-siyana, zvokungodyira kunakirwa, zvisiri zvokutsvaka kuguta.
+tumbare 	D- 	12 	z 		tumbare D- z 12 . Tumbare igonye rinozviputira nenamo yaro, rinorezuka pamuti wakaita semukarati.
+kadikwadikwa 	DKDKD 	13 	z 		kadikwadikwa DKDKD z 13 . chidikwadikwa 7 .
+kakodzi 	DKD 	13 	z 		kakodzi DKD z 13 . rukodzi 11 .
+kandondo 	DKK 	13 	z 		kandondo DKK z 13 . Kandondo idombo rinoshandiswa kurodza mapanga namatemo.
+kaudziudzi 	DKDKD 	13 	z 		kaudziudzi DKDKD z 13 . Urwu rumwewo rudzi rwekamuti kadiki. musvosvanyoka 3, mutandanyoka 3, mukundanyoka 3 .
+udyire 	DKD 	13 	z 		udyire DKD z 13 . undyire 14 .
+unga 	K- 	13 	z 		unga K- z 13 . Unga upfu hunogadzirwa nesimbi, hunopa mbumburu yepfuti simba rekutsva kana pfuti yaridzwa. Takapakira unga muhweda dzoruware, kuti rwutsemuke panozoputika unga hwapiswa nomoto. 
+bwadzira 	DKD 	14 	z 		bwadzira DKD z 14 . Bwadzira kunzwa mazino achiteta kutsenga mushure mokudya michero inovavira. Akatetena mandimu mambishi akanzwa bwadzira. ugugu 14 .
+bwamba 	DK 	14 	z 		bwamba DK z 14 . Bwamba muzasi memhuka munosanganisa dumbu rayo. hwamba 14 .
+bwambo 	D- 	14 	z 		bwambo D- z 14 . Bwambo chinhu chinoshandiswa kukwezva chimwe sezvakaita sehonye inoiswa pachirauro.
+bwana 	DK 	14 	z 		bwana DK z 14 . Bwana turimwa tunenge tuchiri tudiki tunogona kudyarururwa tuchidyarwa zvakare pane imwe nzvimbo.
+bwanamai 	DKDD 	14 	z 		bwanamai DKDD z 14 . Uhwu ukama huri pakati pevana vakazvarwa nemadzimai akaberekwa nababa vamwe. hwanamai 14 .
+bwanashupa 	DDKK 	14 	z 		bwanashupa DDKK z 14 . Urwu rudzi rwemuti mudukuduku.
+bwandadza 	D- 	14 	z 		bwandadza D- z 14 . matadza 6 .
+bwanyenze 	DKK 	14 	z 		bwanyenze bwanyanza DKK z 14 . Bwanyenze idivi remusana riri kumusoro kumafudzi.
+bwasha 	DK 	14 	z 		bwasha DK z 14 . Bwasha kufara kana upamhi hwechinhu. hwashu 14 .
+bwazvo 	D- 	14 	z 		bwazvo D- z 14 . Bwazvo chinhu chingashandiswa kukwezva chimwe chinenge chakateyiwa, sezvinoita gonye rinoshandiswa kukwezva hove pakuredza. dyiro 9, hwambo 14 .
+bwema 	D- 	14 	z 		bwema D- z 14 . Kana imbwa ichitevedza bwema inenge ichitevera pafamba nemhuka ichinzwa munhuwi wayo. hwema 14 .
+bwendedzo 	D- 	14 	z 		bwendedzo D- z 14 . Bwendedzo igwara rinonanga kune chimwe chinhu. Mwena une bwendedzo unosvika kuna majuru. hwendedzo 14 . Bwendedzo kuita chinhu zvekungoda kufadza asi usingarevesi. uminimini 14 .
+bweni 	D- 	14 	z 		bweni D- z 14 . Bweni kuva mutsva kana mushanyi panzvimbo. Rega ndiende kumba kwangu, ndine bweni. hweni 14 .
+bwenje 	DK 	14 	z 		bwenje DK z 14 . Bwenje idziva rinonyudza. hwenje 14 .
+bwerere 	DKD 	14 	z 		bwerere DKD z 14 . Bwerere ivhudzi remwana achangozvarwa kana remunhu anenge aine ropa shoma mumuviri.
+bweve 	DK 	14 	z 		bweve DK z 14 . Bweve inyama inosara yakanamira padehwe remhuka yavhiiwa. pfendu 9, ururu 14 .
+bwoni 	DK 	14 	z 		bwoni DK z 14 . Kuitira chinhu bwoni kuita chakaipa munhu achiziva kuti zvaari kuita zvakaipa. maune 6 .
+horera 	DKD 	14 	z 		horera DKD z 14 . Horera kanhu kanenge kamunzwa kane uturu, kanosiyiwa munyama nenyuchi painoruma munhu kana mhuka. mborera 9 .
+howa 	D- 	14 	z 		howa D- z 14 . hwowa 14 .
+hudzi 	K- 	14 	z 		hudzi K- z 14 . hwudzi 14 .
+hwahwa 	D- 	14 	z 		hwahwa D- z 14 . Hwahwa kunwa kunodhaka, kunonwirwa kufara kana kutandara. doro 5, mhamba 5 .
+hwana 	DK 	14 	z 		hwana DK z 14 . twana 13 . Hwana chirimwa chisati chakura sezvakaita nhondo dzemuriwo.
+hwanga 	D- 	14 	z 		hwanga bwanga D- z 14 . Hwanga mushonga wechivanhu.
+hwaro 	D- 	14 	z 		hwaro bwaro D- z 14 . Hwaro uriri hwedura hwakakwirira, hunochengeterwa mbesa.
+hwasha 	DK 	14 	z 		hwasha DK z 14 . Hwasha kufema kusina kunaka. Hwasha inzvimbo inobatira mazino munyama yomumuromo. Akajuja ropa nomuhwasha mushure mokukwesha mazino. Hwasha mupendero wepoto yevhu kana kuti hari.
+hwato 	DK 	14 	z 		hwato bwato DK z 14 . Hwato igwa rakavezwa kubva pahunde yomuti. mwadiya 3 .
+hwavhu-utete 	D- 	14 	z 		hwavhu-utete D- z 14 . Iri iganda nebvupa rokumusoro komukanwa.
+hwema 	D- 	14 	z 		hwema bwema D- z 14 . Hwema munhuhwi wemhuka kana womunhu unonzikwa nembwa nedzimwe mhuka, zvikuru pakuvhima kana kuvhimwa. Imbwa inovhima ichironda hwema hwemhuka kusvika yawana pairi.
+hwenda 	DK 	14 	z 		hwenda DK z 14 . Hwenda itsika yokugara vanhu vachifambidzana kana kushanyirana.
+hwendaenda 	D- 	14 	z 		hwendaenda D- z 14 . Aya maitiro ane gwara rakarurama rinoyemurika.
+hwendedzo 	D- 	14 	z 		hwendedzo bwendedzo D- z 14 . Hwendedzo urongwa hunokwanisa kukusvitsa pachinangwa chako.
+hwenderera 	D- 	14 	z 		hwenderera D- z 14 . Aya matanho anotorwa nemunhu kusvikra abudirira pane zvaanenge achiita.
+hweni 	D- 	14 	z 		hweni D- z 14 . Hweni maitiro anoratidza vagari venzvimbo kuti ari kutaurwa nezvake mutsva munzvimbo iyoyo. Hweni kugara wakashanyirwa nevanhu vasiri vepamba pako.
+hwenje 	DK 	14 	z 		hwenje bwenje DK z 14 . Hwenje idziva rakadzika, rinotyisa.
+hwenye 	D- 	14 	z 		hwenye D- z 14 . Hwenye mashoko, nyaya kana makuhwa anenge ichitaurwa nezvawo mazuva iwayo.
+hwira 	D- 	14 	z 		hwira D- z 14 . Hwira chikafu, mari kana zvimwewo zvaunopiwa asi zvisingakwanirani newe. Tapiwa shuga hwira, tikanwa putugadzike isinganaki.
+hwoni 	DK 	14 	z 		hwoni bwoni DK z 14 . Hwoni kuitira munhu utsinye uchimurwadzisa asi pasina chaanyanya kukutadzira. Kuita chinhu ne hwoni kuita zvisiri izvo iwe uchiziva kuti uri kutokanganisa.
+hwowa 	D- 	14 	z 		hwowa D- z 14 . Hwowa chidyiwa chinorimwa kana kumera choga musango, uye chine kadzindi kadiki, kumusoro kuchinge denga rakafukidza. Hwowa hwandinofarira ini izheveyambuya, asi vamwe vanoti firifiti ndiyo iri pamberi kunaka. howa 14 .
+hwudzi 	K- 	14 	z 		hwudzi K- z 14 . Hwudzi munhuwi unobva pamuviri. hunzi 14 .
+ubasa 	DDK 	14 	z 		ubasa DDK z 14 . Ubasa isimba nechido chokuita chose chose wakagwinya.
+ubatwa 	D- 	14 	z 		ubatwa D- z 14 . Ubatwa kuve pasi poumwe munhu zvine chisimba, zvokuti anoita zvaanoda newe.
+ubenzi 	DKK 	14 	z 		ubenzi upenzi DKK z 14 . Ubenzi kusakwana kana kupenga kunoita munhu.
+ubhanditi 	DDKK 	14 	z 		ubhanditi DDKK z 14 . Uku kuva musungwa zvekuti unenge uchipika jeri, uchishandiswa zvakaoma.
+ubhinya 	D- 	14 	z 		ubhinya D- z 14 . Ubhinya maitiro okuve munhu anobata vakadzi nokuvamanikidza kuti varare newe. Ubhinya itsika yekuponda kana kukuvadza vamwe.
+ubvana 	DDK 	14 	z 		ubvana DDK z 14 . Ubvana chinhanho chinenge chiine munhukadzi mudiki anenge akambozvara, uye achiri kukwanisa kubarazve. umvana 14 .
+ubvirinyinyi 	D- 	14 	z 		ubvirinyinyi D- z 14 . Izvi zvishinda zvitete zvinomira-mira pakaita sepajira rasakara kana risina.
+ubvurubvuru 	D- 	14 	z 		ubvurubvuru uvhuruvhuru, umvurumvuru D- z 14 . Izvi zvimabandi kana zvimafufu zvinosarira panochekwa nyama, chingwa nezvimwewo. ubvurunyunyu 14 .
+ubvururu 	D- 	14 	z 		ubvururu uvhururu D- z 14 . Ubvururu kumwararika kwezvinhu mumba, kana pane imwewo nzvimbo. Sei chingwa changova ubvururu patafura kudai?
+uchanja 	DDK 	14 	z 		uchanja DDK z 14 . Uchanja mudziyo usingaremi wokurarira, unogona kushandiswa kutakura nawo munhu akuvara.
+uchapupu 	DDKK 	14 	z 		uchapupu DDKK z 14 . Kupa uchapupu kutsigira kuti zvataurwa nomumwe wakazviona kana kuti unozviziva. ufakazi 14, umboo 14 .
+ucheche 	D- 	14 	z 		ucheche D- z 14 . Ucheche inguva yekunge munhu achiri mwana mudiki, mumazuva ake ekutanga achangozvarwa.
+uchembere 	D- 	14 	z 		uchembere D- z 14 . Iyi inguva yokunge munhukadzi akura chaizvo, akwegura.
+uchenjeri 	DKKD 	14 	z 		uchenjeri DKKD z 14 . Uku kupinza kwepfungwa kana kungwara kwemunhu. ungwaru 14 . ANTONYMS ufuza 14, urema 14.
+uchi 	DK 	14 	z 		uchi DK z 14 . Uchi kudya kunotapira kunogadzirwa nenyuchi, kunogona kudyiwa kwakadaro kana kuiswa pachikafu chakasiyana-siyana. Paunobura uchi haushayi nyuchi inokuruma.
+uchingi 	DKK 	14 	z 		uchingi DKK z 14 . Uchingi mubhadharo unopiwa mudzimai anenge agamuchira mwana paanozvarwa.
+uchiro 	KKD 	14 	z 		uchiro KKD z 14 . Uchiro mubhadharo unoita kuti mukuwasha achikwanisa kubvunza vatezvara upenyu.
+udekaro 	DKKD 	14 	z 		udekaro DKKD z 14 . Uku kugara zvakanaka.
+udendemaro 	DKKKD 	14 	z 		udendemaro DKKKD z 14 . Uhu upenyu hune rugare, runyararo nerudekaro.
+udhadha 	D- 	14 	z 		udhadha D- z 14 . Udhadha kuve munhu akapusa, asingakwanisi kuita kana kuzadzikisa zvanofanirwa kuita. ufuza 14, uduutuu 14, ututa 14 .
+udhiraivha 	DDKDD 	14 	z 		udhiraivha DDKDD z 14 . Iri ibasa rokuchaira motokari kana zvimwe zvinochairwa.
+udhokota 	DKDD 	14 	z 		udhokota DKDD z 14 . Iri ibasa rekuongorora vanorwara nokuvapa mishonga kana kuvanyorera mishonga ingavarape. Mwana wangu akadzidzira udhokota pachikoro chikuru chomuZimbabwe.
+udiki 	DKD 	14 	z 		udiki uduku DKD z 14 . Udiki inguva yokunge mwana asati ava munhu mukuru, anogona kuzviriritira.
+udobodobo 	D- 	14 	z 		udobodobo D- z 14 . Uku kuibvisa kwemuchero kunenge kwanyanyisa, kwava kunge kuora.
+udobori 	DKKK 	14 	z 		udobori DKKK z 14 . Uku kudya kunoisvonaka kwazvo.
+udodyo udodyo 	DDK KKD 	14 	z 		udodyo udodyo DDK KKD z 14 . Aya makomba anenge akawanda, ari panzvimbo kana pachinhu chimwe chete.
+udorongashwa 	DKKDK 	14 	z 		udorongashwa DKKDK z 14 . Iyi itsanangudzo yakatsetsenuka, ine udzamu.
+uduku 	DKD 	14 	z 		uduku udiki DKD z 14 . udiki 14 .
+udundwe 	D- 	14 	z 		udundwe D- z 14 . Udundwe kutadza kushandisa pfungwa zvakadzama, uchiita zvinhu kunge uri mwana mudiki.
+udununu 	D- 	14 	z 		udununu utununu D- z 14 . Udununu kuva munhu akavhiringika, anotadza kunyatsofunga pane zvaanofanirwa kuita. ufuza 14 .
+uduutuu 	D- 	14 	z 		uduutuu D- z 14 . Uku kuva munhu akapusa zvakanyanya.
+udyi 	DK 	14 	z 		udyi DK z 14 . Udyi imhuka kana shiri dzinoparadza mbeu dzichiri mumunda.
+udzamu 	D- 	14 	z 		udzamu udzami D- z 14 . Udzamu kudzika kwechinhu. Mashoko ane udzamu anenge ari mashoko kwawo kwawo.
+udzanga 	D- 	14 	z 		udzanga D- z 14 . Udzanga kuve munhu asina hanya nokushambidzika kwake. ufende 14, utsvina 14, uyanga 14 .
+udzenga 	D- 	14 	z 		udzenga D- z 14 . Udzenga itsika yekuita zvisingatarisirwi nguva zhinji. Udzenga hwake ndihwo hwakaita kuti arove amai.
+udzimba 	D- 	14 	z 		udzimba D- z 14 . Udzimba ruzivo pakuvhima.
+udzvinyiriri 	D- 	14 	z 		udzvinyiriri D- z 14 . Iyi itsika yekusaona vamwe vanhu sevanhu vakaenzana newe, uchigara uchivashandisa nekuvabata sevanhu vako, usingateereri zvavanodawo.
+ufakazi 	D- 	14 	z 		ufakazi D- z 14 . uchapupu 14 .
+ufende 	DDK 	14 	z 		ufende DDK z 14 . Ufende kushaya njere dzekugara munhu akatsvinda. udzanga 14, upfende 14 .
+ufeve 	D- 	14 	z 		ufeve D- z 14 . Ufeve magariro ekuti chero mukadzi kana murume wawaona worara naye. uhure 14, ujoki 14 .
+ufudzi 	D- 	14 	z 		ufudzi D- z 14 . Ufudzi imombe kana chimwewo chipo chinopiwa sekutenda kumunhu anokuchengetera kana akakuchengetera zvipfuyo. Sekuru pavakauraya mombe yavo ndakapiwa bandauko roufudzi.
+ufuro 	D- 	14 	z 		ufuro D- z 14 . Ufuro inzvimbo ine uswa hunodyiwa nezvipfuyo. Mazuvano ufuro hune uswa nokuti mvura yakanaya.
+ufuza 	D- 	14 	z 		ufuza D- z 14 . Kana munhu achiita zvo ufuza , anenge achiita zvakapusa kana kuti zvisina njere.
+ugamba 	D- 	14 	z 		ugamba D- z 14 . Ugamba kuita kunoratidza kusatya. Akazoona kuti kutiza chikoro uchinonwa doro hausi ugamba afoira. Ugamba ibudiriro pane zvinoda kuzvipira noushingi.
+ugariri 	D- 	14 	z 		ugariri D- z 14 . Iyi itsika yekuroora yaiitwa kare, murume achigara pamusha patezvara achivaitira basa, kuti vazomupa mwanasikana wavo.
+ugeben'a 	DDKD 	14 	z 		ugeben'a DDKD z 14 . Uku kuita zvinhu zvisina unhu, zvechitsotsi.
+ugevha 	DDK 	14 	z 		ugevha DDK z 14 . Ugevha maitiro echitsotsi ekuda kutora zvevamwe nekuvakorovhera. Ugevha hwaTendai hwakamuindisa kujeri. ujarijari 14 .
+ugombe 	D- 	14 	z 		ugombe D- z 14 . Ugombe kamudziyo kanoshandiswa kuteya shiri, zvokuti shiri yacho inoita zvekuzosungwa nekatambo.
+ugororo 	DDKD 	14 	z 		ugororo DDKD z 14 . Iyi itsika yekubira vanhu zvinhu zvavo.
+ugoveri 	D- 	14 	z 		ugoveri D- z 14 . Iri isimba rokuchengeta zvinhu zvawapiwa, nokuona kuti zvapiwa wakazvikodzera.
+ugovi 	D- 	14 	z 		ugovi D- z 14 . Ugovi idoro rinopiwa munhu, kuri kumutenda kupa vanhu doro kwaanga achiita. rupo 11, upi 14 .
+ugugu 	DDK 	14 	z 		ugugu DDK z 14 . Ugugu chiveve chemazino, chinoita kana munhu anyanya kudya magaka kana zvimwewo. uzeza 14, hwadzera 14, rwadzira 11 .
+ugwabvu 	DKK 	14 	z 		ugwabvu DKK z 14 . Ugwabvu maitiro ekuramba uchingozvikwenya zvakasimba.
+ugwiri 	D- 	14 	z 		ugwiri D- z 14 . Ugwiri kuzvionesera kunoitwa nemunhu akapfuma.
+uhedheni 	DKDD 	14 	z 		uhedheni DKDD z 14 . Uyu mugariro wekusava nei nezvechiKristu. MaKristu anoti uhedheni hunoita kuti uende kugomba romoto.
+uhurudza 	D- 	14 	z 		uhurudza D- z 14 . Uku kuva murimi akapfuma, anokohwera pakuru. Uhurudza hwakaita kuti awane mukadzi wepiri.
+uhwana 	DDK 	14 	z 		uhwana umwana DDK z 14 . Uhwana inguva yekunge munhu achiri mwanana. Kana munhu mukuru achinzi ari kuita uhwana anenge achiita zvinhu zvisina musoro, zvisiri zvezera rake.
+uibve 	DKK 	14 	z 		uibve uibvo DKK z 14 . Uibve kukwanisa kudyika komuchero wabva muumbishi, wasvika pakuti wotapira kana kubvira kudyiwa.
+uipi 	DKK 	14 	z 		uipi DKK z 14 . Uipi mamiriro kana tsika dzisina kunaka.
+ujarijari 	DDKDD 	14 	z 		ujarijari DDKDD z 14 . Aya maitiro emunhu asinganyatsotendeseki, uye asingabatiki paari chaipo.
+ujaya 	DDK 	14 	z 		ujaya ujaha DDK z 14 . Ujaya inguva inenge mwanakomana ayaruka zvokuti achiroora hake.
+ukadzi 	DKK 	14 	z 		ukadzi DKK z 14 . Ukadzi inguva yokuti munhukadzi anokwanisa kuita vana.
+ukama 	DKK 	14 	z 		ukama DKK z 14 . Ukama kuva vamwe chete nokusungana kunovapo pakati pevanhu veropa kana dzinza rimwe kana kuti vakaroorerana.
+ukamaruswa 	DKKDK 	14 	z 		ukamaruswa DKKDK z 14 . Uhwu hukama hwokure, hunoitwa zvekutotsvakiridzwa. ukamachibvi 14 .
+ukari 	DKK 	14 	z 		ukari DKK z 14 . Kuita ukari kukasika kushatirwa. ukasha 14 .
+ukariri 	D- 	14 	z 		ukariri D- z 14 . Uku kuve nechivimbo chekuti zvawakatarisira zvichaitika. chitarisiro 7 .
+ukasha 	DKK 	14 	z 		ukasha DKK z 14 . Ukasha maitiro ekushatirwa anoitwa nemunhu kana mhuka. ukari 14 .
+ukasvisvi 	DDKK 	14 	z 		ukasvisvi DDKK z 14 . Iri idziva rinenge rakanyanyodzika chose. hwenje 14, bwatiti 14, uivaiva 14 .
+ukata 	DKK 	14 	z 		ukata DKK z 14 . Uku kumbova wega panzvimbo. ushoma 14 . Ukata kunzwa usingadi kuita basa. unyope 14 usimbe 14 .
+ukatakata 	D- 	14 	z 		ukatakata D- z 14 . Uku kuwanda kwezvinhu zvinenge zvakashanyuka panzvimbo huru. Uku kurara kwemhuka kana vanhu vakawanda, panzvimbo imwe chete yakakura. Uku kukwira kunoita vanhu kana mhuka pakawandiwa.
+ukavaya 	D- 	14 	z 		ukavaya D- z 14 . Apa ndepokurara panenge pangogadzirwa chimbichimbi, asi pasina kunaka. hwanyanza 14 .
+ukobvu 	DDK 	14 	z 		ukobvu DDK z 14 . Ukobvu kufuta komuviri wemunhu, muti kana mhuka.
+ukochekoche 	D 	14 	z 		ukochekoche D z 14 . Uku kupindana-pindana nekubatana kunoita shinda, tambo kana zvimwewo.
+ukoma 	D- 	14 	z 		ukoma D- z 14 . Ukoma kuve mukuru pane vamwe vana.
+ukomba 	D- 	14 	z 		ukomba D- z 14 . Ukomba kutaridzika kunoyevedza kwemunhu anogona kuzvishambidza. runako 11 . Ukomba kugona kuita zvinhu nomazvo.
+ukorondondo 	D- 	14 	z 		ukorondondo D- z 14 . Uku kukwesa, kana kuti kukoma kana kusada kutumwa.
+ukosha 	D- 	14 	z 		ukosha D- z 14 . Ukosha kusanzwa zvakanaka kwomuviri womunhu. urwere 14, utenda 14 .
+ukotakota 	D- 	14 	z 		ukotakota D- z 14 . Uku kurerekera mberi kunoita vanhu pakusakura kana rimwe basa rinoda kukotama.
+ukristu 	DKD 	14 	z 		ukristu DKD z 14 . Ukristu mugariro wokutevedzera tsika dzechikristu, dzinotendera kuti Jesu akazvarwa, akafa nekuzomuka kuti aponese vanhu vese.
+ukukutu 	DKKK 	14 	z 		ukukutu DKKK z 14 . Uku kuoma kwepasi. Uku kuva nemuviri neutano hwakanaka. Sekuru vangu vaiva noukukutu hwokugona kufamba vasina mudonzvo, kusvika vave namakore makumi mapfumbamwe okuzvarwa. Uku kuva nemwoyo wakaomarara, wekusada kutsukunura mari.
+ukuri 	DDK 	14 	z 		ukuri DDK z 14 . Ukuri madziro omukati memba.
+ukuru 	DKK 	14 	z 		ukuru DKK z 14 . Ukuru chinhanho chekunge munhu ayaruka kubva muupwere, ava munhu anozvimirira ega. Mwana asvikirwa nemudzimu apihwa ukuru. Ukuru chinhanho chekuva nemakore akapfuura evamwe. Ukuru chinzvimbo chomunhu ari pamusoro pevamwe kubasa kana mumba. ANTONYMS uduku 14.
+ukweguru 	DKKD 	14 	z 		ukweguru DKKD z 14 . Uku kuve munhu akura chaizvo pazera.
+uma 	KD 	14 	z 		uma umi KD z 14 . Uma kamwe kakuchenuruka kekunze kakanyanya kanotadzisa kuona kure.
+umai 	DKD 	14 	z 		umai DKD z 14 . Umai kuva mubereki wechikadzi. Umai kuva netsika netsitsi, dzinotarisirwa kumadzimai anoremekedzwa muvanhu. Kana vakarera mwanasikana wavo zvine unhu, amai vanobvisirwa mombe yeumai paanoroorwa.
+umambara 	D- 	14 	z 		umambara D- z 14 . Uku kuita zvinhu zvisingafadzi vamwe, zvine unhubu mukati. Uku kuita zvaunonyatsoziva kuti hazvidiwi, nechinangwa chekuda kuona kuti unoitwa sei?
+umambo 	D- 	14 	z 		umambo D- z 14 . Umambo masimba anouya nechikundya chekutonga nyika nevanhu vayo.
+umbavarira 	DKKDK 	14 	z 		umbavarira DKKDK z 14 . Uku kushingirira mune zvaunoita. rusimbiriro 14 .
+umbavha 	DDK 	14 	z 		umbavha DDK z 14 . Umbavha itsika yokuba zvinhu zvavamwe nenzira dzakasiyana- siyana.
+umberevere 	D- 	14 	z 		umberevere umberembere D- z 14 . Uku kuita zvinhu usingadi kuzivikanwa kana kuonekwa navanhu.
+umbimbindoga 	DKKD 	14 	z 		umbimbindoga DKKD z 14 . Aya maitiro kana pfungwa yemunhu anoda kuita zvinhu zvake ega, uye achizviona seanoziva zvinhu zvose.
+umbirimi 	DKKD 	14 	z 		umbirimi DKKD z 14 . Uku kuzviita shasha kana nyanzvi pazvinhu zvakawanda.
+umbishi 	DKK 	14 	z 		umbishi DKK z 14 . Umbishi kusabvira kudyika kwemuchero kana chibikwa nokuti chinenge chisati chaibva. Kuva neumbishi kuve nounhu hwakaipa, hunoonekwa nokusanzwisisa kana kusada kuudzwa nevamwe. Mwana ane umbishi unomuona nokusamhoresa vakuru.
+umboo 	DDK 	14 	z 		umboo DDK z 14 . Kupa umboo kutaura kuti zviri kutaurwa nezvazvo wakazviona zvichitika. uchapupu 14 .
+umbozha 	D- 	14 	z 		umbozha D- z 14 . Umbozha magariro emunhu ane upfumi hwakawanda. Vanhu vakapiwa mabhonasi, vanonyepedzera umbozha kwenguva diki diki.
+umbururira 	D- 	14 	z 		umbururira D- z 14 . Ava vana vadiki vanenge vakawanda panzvimbo imwe chete.
+umbwa 	DK 	14 	z 		umbwa DK z 14 . Umbwa itsika yokuve une tsvina yakanyangara, kana yokuita zvinhu zvinonyadzisa, usina hanya nokuti vamwe vanotii nazvo.
+umbwende 	DKK 	14 	z 		umbwende DKK z 14 . Umbwende maitiro emunhu anotya zvakanyanya.
+umedu umedu 	DKD+ 	14 	z 		umedu umedu DKD+ z 14 . Izvi zvipandi zvakaita zvidiki, zvinosara panopunzwa zvinhu zvakaita sehari kana mabhotoro.
+umhandara 	D- 	14 	z 		umhandara D- z 14 . Iyi inguva inenge mwanasikana ayaruka zvokuti angachiwanikwa hake.
+umhandu 	DKK 	14 	z 		umhandu DKK z 14 . Umhandu mweya woruvengo, wokuda kurwadzisa vawaisiwirirana navo.
+umharadzi 	D- 	14 	z 		umharadzi D- z 14 . Uyu mweya wekupunza nokuda kukanganisa zvakazvinakira, kuri kuda kuti vanonzwanana vavengane.
+umhare 	DKK 	14 	z 		umhare DKK z 14 . Umhare maitiro ekusatya chii zvacho, kunyanya muhondo.
+umhengeramumba 	DKKKDK 	14 	z 		umhengeramumba DKKKDK z 14 . Uhwu unhu hwekungopopoterana nekusagarisana zvakanaka nevamwe.
+umhizha 	DDK 	14 	z 		umhizha DDK z 14 . Umhizha unyanzvi pabasa rokupfura simbi kuita matemo, mapfumo, mapadza nezvimwewo. Makarekare umhizha hwaipfumisa kana kwaita hondo yaida mapfumo, makano nemiseve.
+umhombwe 	D- 	14 	z 		umhombwe umhombo D- z 14 . Umhombwe chido chakapindiridza chekuda kusangana nevakadzi vakasiyana-siyana. Iyi itsika yekurara nomukadzi kana murume wose wose. uhure 14 .
+umhondi 	D- 	14 	z 		umhondi D- z 14 . Umhondi kuuraya munhu kana vanhu.
+umhuka 	DDK 	14 	z 		umhuka DDK z 14 . Umhuka kuve netsika dzakaipa, dzisina kana neunhu hwese.
+umhutu 	D- 	14 	z 		umhutu D- z 14 . Umhutu tombuyu tudikidiki tunosveta ropa revanhu, uye tunokonzera chirwere chemarariya kune dzimwe nzvimbo. utunga 14 .
+umunhu 	D- 	14 	z 		umunhu D- z 14 . unhu 14 .
+umvana 	DDK 	14 	z 		umvana DDK z 14 . Umvana inguva yokuti mukadzi achiri pazera rokuzvara, abva paumhandara. ubvana 14 .
+umwarakatira 	D- 	14 	z 		umwarakatira D- z 14 . Uku kurasa-rasa zvinhu zvakaita zvidiki kumativi ese. umwararira 14 .
+umwararira 	D- 	14 	z 		umwararira D- z 14 . umwarakatira .
+umwari 	DDK 	14 	z 		umwari DDK z 14 . Umwari kuve munhu akanyorovera, uye aine tsika dzakanaka.
+umwekumweku 	D- 	14 	z 		umwekumweku D- z 14 . Uku kugara munhu achinyemwerera.
+un'ain'ai 	D- 	14 	z 		un'ain'ai D- z 14 . Uhu unyirinyiri hwemagetsi, marambi kana nyenyedzi dzakawanda. Ukatarisa mudhorobha usiku, unoona magetsi huri un'ain'ai kupfuta.
+un'anga 	D- 	14 	z 		un'anga D- z 14 . Un'anga ruzivo rwemishonga, inorapa kana inokuvadza, zvese nekushopera.
+un'anyan'anya 	D- 	14 	z 		un'anyan'anya D- z 14 . Uku kukwira kwavanhu kana makudo pakakwirira.
+un'arin'ari 	DKKKD 	14 	z 		un'arin'ari DKKKD z 14 . Ichi chiedza chinopenya zvine simba, chinenge chichionekwa chichiti chikabatira chombodzima.
+unaki 	D- 	14 	z 		unaki D- z 14 . Unaki kuva netsika nezviito zvakarurama, zvinoyemurwa nemunhu wose.
+unaku 	DDK 	14 	z 		unaku DDK z 14 . Unaku kutaridzika zvinoyemurika kwechinhu. runako 11 .
+undandanda 	D- 	14 	z 		undandanda D- z 14 . Uku kumira kunenge kwakaita zvinhu zvakawanda zvakatevedzana.
+undere 	DDK 	14 	z 		undere DDK z 14 . Undere itsika yokugara munhu akachena, aine utsanana.
+underendere 	DDKDK 	14 	z 		underendere DDKDK z 14 . Uku kuramba uri padyo nemumwe munhu nekumutya kana kuti nekuti unomufarira.
+undingoveni 	DKDKK 	14 	z 		undingoveni DKDKK z 14 . Uku kuita kokusada kuona vamwe vanhu vachiwana zvinhu, asi kuti zvakanaka zvose zvive zvako wega. Undigoveni hunoshayisa shamwari. chindini 7 .
+undonda 	D- 	14 	z 		undonda D- z 14 . Undonda kuve munhu asina kusimba pamuviri, anodhererwa nezvirwere.
+undyari 	DKK 	14 	z 		undyari DKK z 14 . Undyari kuita zvinhu zvakaipa uchibudirira, mushure mekunyepera vamwe. ungarara 14, usvinu 14 .
+undyire 	DKD 	14 	z 		undyire DKD z 14 . Undyire kufarira kudya zvevamwe mahara. udyire 14 .
+ungarara 	D- 	14 	z 		ungarara D- z 14 . Aya maitiro echitsotsi ekuitira vamwe zveujarijari. usvinu 14, udyire 14 .
+ungonjongonjo 	D- 	14 	z 		ungonjongonjo D- z 14 . Izvi zvinhu zvakaita zvisimbi kana marata, zvinenge zvakangokandwa pasi. ugwendere-gwendere 14, ungwanjangwanja 14 .
+ungoringori 	DKDKD 	14 	z 		ungoringori DKDKD z 14 . Uku kupinda kwenyuchi kana vanhu mune imwe nzvimbo.
+ungwandangwanda 	D- 	14 	z 		ungwandangwanda D- z 14 . ungonjongonjo .
+ungwanjangwanja 	D- 	14 	z 		ungwanjangwanja D- z 14 . ungonjongonjo .
+ungwaru 	DDK 	14 	z 		ungwaru DDK z 14 . uchenjeri 14 .
+unhari 	DKK 	14 	z 		unhari DKK z 14 . Unhari kutaurisa komunhu, asingadi kupawo vamwe mukana wokutaura. Unhari kusada kuudzwa, kana kuti kukwesa kunoita munhu anonetsa.
+unhavatava 	D- 	14 	z 		unhavatava D- z 14 . Iyi itsika yokusabuda pachena mumafungiro ako uchiita zvinhu zvokunyepedzera.
+unherera 	D- 	14 	z 		unherera uterera D- z 14 . Uku kuve mwana akafirwa namai nababa.
+unhesva 	D- 	14 	z 		unhesva D- z 14 . Unhesva kutetepa nokupinza kwesimbi nechekwekupedzisira kwayo.
+unheva 	DKK 	14 	z 		unheva DKK z 14 . Unheva kushaya simba kwavana vadiki.
+unhinhi 	DDK 	14 	z 		unhinhi DDK z 14 . Unhinhi kutira kuya kwemunhu asingateti kana kurwadziwa nekurohwa. Unhinhi itsika yokusada kuita zvinhu uye yokusaterera, uchiita sokuti unoda kuona kuti unogoitwa sei.
+unhu 	D- 	14 	z 		unhu D- z 14 . Kuve ne unhu kuve netsika dzinoyemurika pose pose paunenge uri, uri chidadiso nomuenzaniso wakanaka.
+unhubu 	DKD 	14 	z 		unhubu DKD z 14 . Unhubu kuita mabasa anonyadzisa asi iwe zvichikufadza. Kuitira tsvina mutsime unhubu hwakanyangara chose.
+unhunzvatunzva 	DKDKD 	14 	z 		unhunzvatunzva DKDKD z 14 . Aya maitiro emunhu anoda kuzvimisa-misa pazvinhu zvese, achizviita ndiye muzivi, iye achitokanganisa zvinhu. Aya maitiro emunhu anongotevera vamwe kuita zvisina musoro, iye asingambozvivhunziwo kuti chii chaari kuita.
+unonwe 	DDK 	14 	z 		unonwe DDK z 14 . Unonwe inzvimbo, yakaita sebani, inogara ine mvura.
+unyai 	D- 	14 	z 		unyai D- z 14 . Unyai kuve iwe unofambisa mashoko pakati pevakuwasha nanatezvara, kunyanya pakuroora. Unyai mubairo unopiwa munhu anenge afambisa nyaya dzekuroorana kwevanhu.
+unyan'anya 	DDKD 	14 	z 		unyan'anya DDKD z 14 . Kana zvinhu zvakaita unyan'anya zvinenge zviri zvinhu zvakawanda, zvisina kunyatsorongwa zvakanaka, zvakangoti chimwe apo chimwe apo.
+unyanzvi 	DDK 	14 	z 		unyanzvi DDK z 14 . Unyanzvi ruzivo rwakakomba mune chimwe chinhu.
+unye 	D- 	14 	z 		unye D- z 14 . Unye tumvere tunoswinya, tunowanika pamichero inenge mapichisi.
+unyengedzi 	DKKD 	14 	z 		unyengedzi DKKD z 14 . Aya maitiro omunhu anoda kuwana zvinhu kuvanhu nenzira dzisina kururama.
+unyenye 	D- 	14 	z 		unyenye D- z 14 . Unyenye kuwanda kwezvinhu kana kuti vanhu.
+unyirinyiri 	DKKKK 	14 	z 		unyirinyiri DKKKK z 14 . Uku kutaima-taima kunokonzerwa nokupisisa kwezuva. manyirinyiri 6 .
+unyiriri 	DKKK 	14 	z 		unyiriri DKKK z 14 . Aka kakurwadzirira nekakuteta kanoita nhengo yemuviri yatsikirirwa kwechinguva. Urwu rudzi rekasvosve kadikidiki. Uku kupenya kunooneka nechapamusoro pevhu, kana kuchipisa zvikuru.
+unyope 	D- 	14 	z 		unyope D- z 14 . Unyope kusada kuita basa kana kusada kushandisa pfungwa. Farai ane unyope hwekutaura mhinduro mukirasi. usimbe 14, unungo 14, nungo 10 .
+unyoro 	DKK 	14 	z 		unyoro DKK z 14 . Unyoro kupfava kunokonzerwa nemvura. Kana pasi paine unyoro hwakanyanya, manzwi anoenda kure. ANTONYMS ukukutu 14. Unyoro kupfava nekunyarara kwakaita vamwe vanhu. Unyoro mwoyochena wokusada kuona anotambura ukasabatsira.
+unyumwanyumwa 	DDKDD 	14 	z 		unyumwanyumwa DDKDD z 14 . Aya maitiro ekunge munhu asina pfungwa dzakakwana, achiita zvinhu zvisina musoro.
+unyunyu 	DDK 	14 	z 		unyunyu DDK z 14 . Unyunyu tumbuyu tudikidiki tunowanzomhara pazvinhu zvaora kana pamiti. nin'inira 9 .
+unzanzanza 	DDKD 	14 	z 		unzanzanza DDKD z 14 . Uku kutaura kusina urongwa, komunhu anenge achiziva kuti akanganisa. Uku kuwanda kwezvinhu panzvimbo imwe chete. MuHarare munonetsa kutsvaga panogara munhu, nepamusana peunzanzanza hwedzimba.
+unzenza 	DKK 	14 	z 		unzenza DKK z 14 . Unzenza kuita zvinhu zvisina mwero, zvisingatarisirwi. Ndivanaani vari kuita zveunzenza, zvekungonyinura zvisina basa kuseri kwemba uko? Unzenza kurara nevanhu vakawanda-wanda kunoitwa nemunhurume kana munhukadzi.
+upambi 	DKK 	14 	z 		upambi DKK z 14 . Upambi kutorera munhu upenyu hwake kana upfumi hwake, pasina kutaurirana.
+upamhi 	DDK 	14 	z 		upamhi DDK z 14 . Upamhi kufara kana kutetepa kunenge kwakaita chinhu. Makumbo edhadha ane upamhi kupinda ehuku.
+upanga 	DKK 	14 	z 		upanga DKK z 14 . Upanga ndepanocheka pebanga, chisvo kana zvimwewo.
+upangupangu 	DKDKD 	14 	z 		upangupangu DKDKD z 14 . Uku kupakurira chikafu mundiro dzakasiyana-siyana.
+uparadzi 	D- 	14 	z 		uparadzi D- z 14 . Uku kukanganisa vanhu vanenge vachiwirirana, uchiita kuti vavengane.
+uparidzi 	DKKD 	14 	z 		uparidzi DKKD z 14 . Uku kuverenga bhaibheri nokududzira zvarinoreva.
+upengo 	DKK 	14 	z 		upengo DKK z 14 . Upengo ihasha dzinozvionesa nokupopota uye kuda kurwa zvakapindiridza.
+upenyu 	DDK 	14 	z 		upenyu DDK z 14 . Upenyu kurarama kwezvinofema. ANTONYMS rufu 11. Upenyu zvinhu zvaunoona nekusangana nazvo pakurarama kwako. Upenyu ikurauone chokwadi nokuti zvimwe zvinhu zvinoitikaka, zvinonetsa kutsanangura!
+upenzi 	DKK 	14 	z 		upenzi ubenzi DKK z 14 . Upenzi maitiro emunhu ane pfungwa dzisingatori zvakanaka. Upenzi maitiro ekusakwana kana kungozhangarika. Upenzi hwake hwakamuita kuti atukane naambuya akadhakwa.
+upepe 	DKK 	14 	z 		upepe DKK z 14 . Upepe ibvudzi kana minhenga yakarongwa, zvokuti inogona kurara yakatevedza musoro zvakanaka. Upepe indebvu dzinenge dzakareba zvikuru.
+upfakapfaka 	D- 	14 	z 		upfakapfaka D- z 14 . Uku kufamba kwavanhu vazhinji kana mhuka pamwe chete. Urwu ruzha runoitwa nemombe dzakawanda kana dzichifamba napauswa hwakaoma.
+upfu 	D- 	14 	z 		upfu ufu D- z 14 . Upfu chibage kana imwe mbeu inenge yakagayiwa, zvagayiwa zvacho zvozoshandiswa pakubika sadza, chingwa nezvimwewo.
+upfumi 	DK 	14 	z 		upfumi ufumi DK z 14 . Uku kuva nezvipfuyo, midziyo kana mari nezvimwewo zvakawanda. Upfumi hwenyika yeZimbabwe huri mumigodhi nomukurima. ANTONYMS urombo 14.
+upfunhambuya 	DDDKD 	14 	z 		upfunhambuya pfunhambuya DDDKD z 14 . Iyi imvura inonaya iri nhete inenge, isingaiti dzvotsvoma. madzihwaehuku 6 . ANTONYMS dzvotsvoma 5.
+upfururira 	DKKKK 	14 	z 		upfururira upfururiri DKKKK z 14 . Aya maitiro okuda kuparadza ushamwari pakati pavamwe.
+upfuto 	D- 	14 	z 		upfuto D- z 14 . Upfuto tumakonye tunodya miti kana mbeu kusvika zvaora.
+upofu 	D- 	14 	z 		upofu D- z 14 . Upofu kutadza kuona kwemaziso emunhu. Upofu urema hwekutadza kuona kana kuziva zvinoitika kwauri, izvo zviri pachena.
+upombwe 	D- 	14 	z 		upombwe D- z 14 . umhombwe 14 .
+uporofita 	DDDKD 	14 	z 		uporofita DDDKD z 14 . Uporofita kukwanisa kuziva zvakavanzika, zvakaitika, kana zvichaitika.
+upristi 	DKD 	14 	z 		upristi upriste DKD z 14 . Uku kuve mufundisi womusvondo.
+ura 	D- 	14 	z 		ura D- z 14 . Ura inhengo yomuviri iri mudumbu inenge chubhu, inofamba nekugayirwa chikafu.
+urakata urakata 	D- 	14 	z 		urakata urakata D- z 14 . Urwu ruzha rwuri pasi, runoitwa namashizha kana achidonha. Uku kumhanya kunoita mhuka dzakawanda.
+urakata-urakata 	D- 	14 	z 		urakata-urakata D- z 14 . Uku kurara kwavanhu kana mhuka zhinji.
+urakatira 	D- 	14 	z 		urakatira D- z 14 . urakata urakata 14 .
+uramu 	DKK 	14 	z 		uramu DKK z 14 . Uramu ukama huri pakati pemukadzi nevanin'ina nevakoma vemurume wake, kana murume nevanin'ina nevakoma vemukadzi wake.
+uranda 	D- 	14 	z 		uranda D- z 14 . Uranda kuva pasi pomumwe munhu anokushandisa nokukutonga zvaanoda, nokuti anenge akakutapa. ubatwa 14, utapwa 14 .
+urarami 	D- 	14 	z 		urarami D- z 14 . Uku kuve neupenyu.
+urarara 	D- 	14 	z 		urarara D- z 14 . Uku kurerekera divi rimwe chete zvikuru kunenge kwaita mbeu kana zvimwewo, zvavhuvhutwa nemhepo kana nemvura.
+uraro 	DKK 	14 	z 		uraro DKK z 14 . Uraro inzvimbo yekurara, inenge iri imba kana kuti chaipo pacho panorarwa mumba.
+uredzwa 	DDK 	14 	z 		uredzwa DDK z 14 . Uredzwa imombe kana chimwe chipfuyo chinobviswa nemunhu anenge achengetwa namai vasiri vake, achitenda nyakumuchengeta. Iyi imari inobviswa kupa munhu anenge akuchengetera mwana. chiredzwa 7 .
+urefu 	DDK 	14 	z 		urefu DDK z 14 . Urefu kureba kwechinhu chichienda mudenga kana mberi. ANTONYMS upfupi 14.
+urema 	DKK 	14 	z 		urema DKK z 14 . Urema kutadza kushandisa dzimwe nhengo dzomuviri dzakaita semaoko kana makumbo, pamusana pekuti akagonya, kana kuti haana kuumbwa zvakanaka. Urema kushaya njere kwemunhu. ufuza 14 .
+uremberembe 	D- 	14 	z 		uremberembe D- z 14 . Uku kuwa kunenge kwakaita michero yakawanda. Uku kuturika zvinhu zvakawanda pamutariko kana pamwewo.
+uremburembu 	D- 	14 	z 		uremburembu D- z 14 . Uku kubatana kunoita zvinorera seurimbo, namo kana derere.
+uremu 	DDK 	14 	z 		uremu DDK z 14 . Uremu kuwanda nekukura kwechinhu. Takatenga upfu hune uremu hwe50 kg.
+ureri 	D- 	14 	z 		ureri D- z 14 . Ureri mubairo kana mubhadharo unopiwa munhu sekumutenda kuti akarera mwana mudiki.
+urete 	DKK 	14 	z 		urete DKK z 14 . urume 14 .
+urevi 	DKK 	14 	z 		urevi DKK z 14 . Urevi kufarira kutaura makuhwa kana kutaura nhema pamusoro pemumwe munhu.
+urimbo 	D- 	14 	z 		urimbo D- z 14 . Urimbo muto wakachena somukaka asi uchinamira, unoshandiswa kubata shiri.
+urimi 	D- 	14 	z 		urimi D- z 14 . Urimi ruzivo rwekurima mbeu nekupfuya mhuka.
+urindo 	D- 	14 	z 		urindo D- z 14 . Urindo inzvimbo yokuzororera kana yokurara. Takavirirwa tiri munzira, tichibva takumbira urindo pane umwe musha watakangoonawo.
+uriri 	D- 	14 	z 		uriri D- z 14 . Uriri pasi pemba pakaroverwa, kana nzvimbo inodzurwa nendove yokupurira zviyo. Njiva dzinoteta makoto pauriri. ANTONYMS denga 9.
+uriri 	DDK 	14 	z 		uriri DDK z 14 . Uriri ndezvinobaya-baya, zvinowanikwa pamashizha akaita seechibage.
+urisi 	DKK 	14 	z 		urisi DKK z 14 . Urisi kufudza zvipfuyo.
+urisiro 	DKKD 	14 	z 		urisiro DKKD z 14 . Idzi inzvimbo dzinofudzirwa zvipfuyo.
+urodze 	DDK 	14 	z 		urodze DDK z 14 . Urodze ndokunocheka nako nebanga.
+uroja 	DKD 	14 	z 		uroja DKD z 14 . Uroja kugara mumba isiri yako, uchibhadhara rendi.
+urombe 	D- 	14 	z 		urombe D- z 14 . Urombe kusauka nekungotambura kunogona kukonzerwa nechimwe chikanganiso muupenyu. Urombe hwemurume uyu hwakatanga paakarova amai vake.
+urombo 	DDK 	14 	z 		urombo DDK z 14 . Urombo kutambudzika nokuda kokushaya muupenyu. Urombo itsitsi dzinonzwirwa munhu anenge ari pamatambudziko. Tine urombo nemunda wenyu waparadzwa nemombe.
+urongetedzwa 	DDKKD 	14 	z 		urongetedzwa DDKKD z 14 . Idzi inhengo dzemishini dzakawanda.
+urongo 	DKK 	14 	z 		urongo DKK z 14 . Urongo muto wakagwamba unobuda pamuti wakuvara.
+uronyo 	DDK 	14 	z 		uronyo DDK z 14 . Uronyo zvimvura zvichena zvinobuda musikarudzi yemurume, zvine mbeu inogona kuzvarisa mukadzi. urume 14 .
+uropi 	DDK 	14 	z 		uropi DDK z 14 . Uropi mutezo uri mumusoro, unotaridzika sezvifuta kana zvinyama zvichena zvakabumbana, unoita kuti munhu akwanise kufunga nekunzwa zvinhu zvakaita semarwadzo, musindo nezvimwewo. urozvi 14 .
+urovedzi 	DKKD 	14 	z 		urovedzi DKKD z 14 . Urovedzi kujairira zvimwe zvinhu. Ane urovedzi hwekugadzira motokari.
+uroyi 	D- 	14 	z 		uroyi D- z 14 . Uroyi kushandisa mishonga kana zvimwewo zvinokuvadza kana kuuraya. Uroyi mushonga unoshandiswa kukuvadza kana kuuraya munhu. Mambo wakaisirwa uroyi muhwahwa akafuma akafa.
+urozvi 	D- 	14 	z 		urozvi uruzvi D- z 14 . uropi 14 .
+urubvu 	DKD 	14 	z 		urubvu DKD z 14 . Urubvu zvimedu zvechokudya zvinenge zvadonhera pasi.
+urubvurubvu 	DKDKD 	14 	z 		urubvurubvu DKDKD z 14 . urubvu 14 .
+urukwa 	D- 	14 	z 		urukwa D- z 14 . Urukwa rudzi rweuswa hunomera mugomo, hunorukiswa zvitseme.
+urume 	DKK 	14 	z 		urume DKK z 14 . uronyo 14 .
+ururami 	D- 	14 	z 		ururami D- z 14 . Uku kuva neunhu netsika dzinoyemurika.
+urwa 	DK 	14 	z 		urwa DK z 14 . Urwa zvimvura zvichena zvakakora, zvinobuda mumaronda anenge ane utachiona.
+urwere 	DK 	14 	z 		urwere DK z 14 . Urwere kurwadza kwemuviri.
+usabhuku 	DKDD 	14 	z 		usabhuku DKDD z 14 . Usabhuku utungamiri hwemumusha, asi huri pasi paishe.
+usadombo 	DKK 	14 	z 		usadombo DKK z 14 . Usadombo kuva nechinzvimbo chokuva mutauri ari pakati pevanoroora nevanoroorerwa. unyai 14 .
+usadunhu 	DKDD 	14 	z 		usadunhu DKDD z 14 . Usadunhu kuva namasimba okutonga nzvimbo, ine misha yakawanda, asi uri pasi paishe.
+usahwira 	DKKD 	14 	z 		usahwira DKKD z 14 . Uhwu hushamwari hwemasaimba anonzwanana chaizvo, uye vanovigana pakufa. uganda 14, unyei 14 .
+usaki 	DKD 	14 	z 		usaki DKD z 14 . Usaki chirwere cheganda chinoita kuti rivave.
+usande 	DKK 	14 	z 		usande DKK z 14 . Usande kuva nemaitiro ekuva munhu mutsvene asina zvivi.
+usanza 	D- 	14 	z 		usanza D- z 14 . Usanza idendere reshiri rakagadzirwa netutanda.
+usavi 	DKK 	14 	z 		usavi DKK z 14 . Usavi inyama kana muriwo wekudyisa sadza. muriwo 3 .
+ushamwari 	DKKK 	14 	z 		ushamwari DKKK z 14 . Uku kuwirirana kuripo pakati pevanhu vasina ukama.
+ushasha 	D- 	14 	z 		ushasha D- z 14 . Ushasha kuva neruzivo rwakanyanya rwechimwe chinhu.
+ushe 	DK 	14 	z 		ushe DK z 14 . Ushe chinzvimbo chekuva mutungamiri kana mutongi wedunhu guru, rine masabhuku nemasadunhu aro.
+ushingi 	DKK 	14 	z 		ushingi DKK z 14 . Ushingi kutsungirira kuita chinhu chakaoma, kana kuva nemwoyo usingatyi nhando. umhare 14 .
+ushunga 	D- 	14 	z 		ushunga D- z 14 . Ushunga mushonga wokuchengetedza dura, kana mbeu dziri mumunda, kuti dzisatorwe nevanoshandisa mishonga.
+ushungu 	D- 	14 	z 		ushungu D- z 14 . Ushungu kuva nemaitiro ekushatirwa zvekuda kukuvadza vamwe.
+ushwashwashwa 	D- 	14 	z 		ushwashwashwa D- z 14 . Urwu ruzha runoitwa kana munhu achifamba achitsika mashizha akaoma.
+ushwindi 	DDK 	14 	z 		ushwindi DDK z 14 . Munhu ane ushwindi anenge asingatirimuki.
+usikana 	DKDK 	14 	z 		usikana DKDK z 14 . Iyi inguva inobvira munhukadzi ari mudiki kusvika aite imba yake. ANTONYMS ukomana 14. Iyi inguva iyo munhukadzi anenge asati aziva murume. ANTONYMS ukomana 14.
+usiku 	DKK 	14 	z 		usiku DKK z 14 . Usiku inguva inenge kwava nerima, zuva radoka. Varoyi vanofamba namazizi avo usiku, vamwe vanhu vose varere. ANTONYMS masikati 6. Usiku izwi rinoshandiswa kureva munhu asina zvaanoziva, kana kuti asina njere dzakapinza.
+usimbe 	D- 	14 	z 		usimbe D- z 14 . Usimbe kusada kuita basa. Ane usimbe hwokuti kana kuwacha hembe dzake haagoni. ANTONYMS ubasa 14.
+uso 	DK 	14 	z 		uso usu DK z 14 . Uso hwomunhu huri pamberi pomusoro, huchibva pachirebvu kusvika pahuma. chiso 7, hope 9 .
+usono 	DDK 	14 	z 		usono DDK z 14 . Usono imhodzi yenzungu kana yeshomhwe.
+usopo 	D- 	14 	z 		usopo D- z 14 . Usopo indebvu dzepamuromo, dzinomera pakati pemhuno nemuromo wepamusoro. Vane usopo urefu havanwidzanwi navo hwahwa.
+usundiranwa 	DDKKD 	14 	z 		usundiranwa DDKKD z 14 . Uku kurambirana mhosva, mumwe nemumwe achitendeka mumwe kuti ndiye azviita. Uku kuregererana kuita basa, mumwe nemumwe achifunga kuti mumwewo ndiye achariita.
+usungwa 	DKD 	14 	z 		usungwa DKD z 14 . Usungwa kuva munhu akachengetedzwa, mushure mokunge wapara mhosva.
+usvasvi 	DDK 	14 	z 		usvasvi DDK z 14 . Usvasvi mambure anoshandiswa kubata hove. rusvisvi 11, rumbure 11 .
+usvinu 	DDK 	14 	z 		usvinu DDK z 14 . ungarara 14 .
+usvisva 	D- 	14 	z 		usvisva D- z 14 . Usvisva idziva rakadzika zvikuru.
+usvisvi 	DDK 	14 	z 		usvisvi DDK z 14 . Usvisvi idziva rakasvibirira, rakadzika, rine mvura inoita seisingaereri. Muna Save mune usvisvi hwamadziva engwena nenjuzu. hwenje 14 .
+usvusvu 	DDK 	14 	z 		usvusvu DDK z 14 . Usvusvu ibota dete. Usvusvu muto mutete.
+uswa 	DK 	14 	z 		uswa DK z 14 . Uswa tumerwa twunobuda twega muvhu twakasvibirira, twunowanzofurwa nemhuka, kana kusakurwa nevanhu muminda kana muzvivanzi zvavo. bundo 5, sora 5 .
+uta 	DK 	14 	z 		uta DK z 14 . Uta chombo chakagadzirwa nemuti wakakombama nerwodzi, chinoshandiswa kupotseresa museve.
+utachiona 	DDKD 	14 	z 		utachiona DDKD z 14 . Utwu tupuka tudikidiki tusingaoneki, tunokonzera zvirwere.
+utaitai 	D- 	14 	z 		utaitai D- z 14 . Utaitai moto unenge wakawanda, uchipenya uchidzima, uchipenyazve. Utaitai kupenya kwechinhu.
+utano 	DKK 	14 	z 		utano DKK z 14 . Utano mamiriro akaita muviri wechisikwa, nemanzwiro achinoita kusimba kwacho. Kuva ne utano kuva munhu akagwinya asina zvinomurwadza.
+utapi 	DKK 	14 	z 		utapi DKK z 14 . Utapi kutora vanhu uchivaisa muusungwa.
+utapitapi 	DKDKD 	14 	z 		utapitapi DKDKD z 14 . Uku kunaka kwakanyanyisa kwechinhu chakaita seshuga kana uchi.
+utapuri 	DKKD 	14 	z 		utapuri DKKD z 14 . Uku kuita zvekudenha, uchitsvaga kutsamwisa vamwe.
+utapwa 	DKD 	14 	z 		utapwa DKD z 14 . uranda 14 .
+utara 	DKK 	14 	z 		utara DKK z 14 . Utara kuva nemaziso anenge ava kuonera pedyo. Sekuru vakura zvokuti maziso avo ava neutara. rutara 11 .
+utaratara 	D- 	14 	z 		utaratara D- z 14 . Iyi mitaro yakawanda inenge iri panhu. Mipanye yembambaira yaita utaratara mumunda.
+utare 	DKD 	14 	z 		utare DKD z 14 . simbi 9 .
+utata 	DKD 	14 	z 		utata DKD z 14 . Utata rudzi rwechimbuyu chinoruma nokunanaira zvinovava, chinowanzowanikwa pahuku. uzanguku 14 .
+utatsvatatsva 	D- 	14 	z 		utatsvatatsva D- z 14 . Uku kupararira kunoita mvura kana chimwewo chinhu chinochururuka, chinenge charasikira pauriri.
+utema 	DDK 	14 	z 		utema DDK z 14 . Utema hwemunhu masvibiro eganda rake.
+utenda 	DKK 	14 	z 		utenda DKK z 14 . Utenda kurwara kunenge kuchiita munhu.
+utenderi 	D- 	14 	z 		utenderi D- z 14 . Utenderi kuva munhu anobvumira pane chimwe chinhu, kunyanya zvechechi. Utenderi hwokunamata hahwupindirani nokupira midzimu.
+utepa 	DDK 	14 	z 		utepa DDK z 14 . Utepa chirwere chese chese chinenge chisangarapiki.
+utepe 	DKK 	14 	z 		utepe DKK z 14 . Utepe munhu munaku, mutete, akanyatsotsvinda. Vasikana vaimumhanyira nokuti paiva noutepe hwejaya.
+utepfetepfe 	D- 	14 	z 		utepfetepfe utepfutepfu D- z 14 . Uku kupfava kwemidziyo yakaita semubhedha kana sofa.
+utera 	DKD 	14 	z 		utera DKD z 14 . Utera kuita basa rokusona hembe.
+utera 	DKK 	14 	z 		utera DKK z 14 . Utera kusakura zvakanaka kwemwana mudiki, anenge achiita seasina kukwana, kana kuti asingakwanisi zvinoita vamwe vezera rake.
+uterera 	D- 	14 	z 		uterera D- z 14 . unherera 14 .
+utesva 	D- 	14 	z 		utesva D- z 14 . Utesva ndepakadzikadzika penzvimbo inenge ine madhaka.
+utesve 	DKD 	14 	z 		utesve DKD z 14 . Utesve mberi kwemuseve kwakapinza.
+utete 	D- 	14 	z 		utete D- z 14 . Uku kuondoroka kwomunhu kana chimwewo chinhu. ANTONYMS ukobvu 14.
+utete 	DDK 	14 	z 		utete DDK z 14 . Utete chinzvimbo chinopihwa kuhanzvadzi yababa mumhuri.
+utiyo 	DKD 	14 	z 		utiyo DKD z 14 . Utiyo tuvana twehuku tuchangochochonywa. nhiyo 9 .
+utogo 	DKD 	14 	z 		utogo DKD z 14 . Utogo kusimuka kweutsi kana huruva, kubva pasi ichikwira mudenga.
+utonga 	DKK 	14 	z 		utonga DKK z 14 . Utonga kutsvuka kunoita kunze pakubuda nokuvira kwezuva. Mhembwe dzinofura utonga hwotsvuka. utunga 14 .
+utsanana 	D- 	14 	z 		utsanana D- z 14 . Uku kushambidzika kwomuviri nepaunogara, uye zvokudya zvaunodya. Chimangowe chinoutsanana hwokugeza kumeso nokufusira tsvina yacho.
+utsanzi 	DKK 	14 	z 		utsanzi usanzi DKK z 14 . Utsanzi kuva neungwaru pakuita zvimwe zvinhu. Muzukuru uyu ane utsanzi hwekugadzira tswanda.
+utsaru 	DKD 	14 	z 		utsaru usharu DKD z 14 . Kana chinhu chava ne utsaru chinenge chava nenguva yakareba chichishanda, chava kusakara. Hembe iyi ine maburi ekuratidza utsaru hwayo.
+utsi 	DK 	14 	z 		utsi DK z 14 . Utsi mweya muchena unopwititika panobvira moto. Takaona utsi kutogoka mudenga, tikaziva kuti pane kwapiswa nemheni. Utsi munhu asina chaanoziva pamusoro pezvinenge zvichiitika, kana nyaya inenge ichitaurwa.
+utsinye 	D- 	14 	z 		utsinye D- z 14 . Utsinye mwoyo wakaipa, unofarira kurwadzisa vamwe. Wandiitira utsinye pawanditorera mari yangu yandakashandira mwedzi wose.
+utsonyera 	DKKK 	14 	z 		utsonyera DKKK z 14 . Izvi zvimvura zvinobuda mumaziso emhembwe.
+utsungarari 	DKKKD 	14 	z 		utsungarari DKKKD z 14 . Uku kushinga mumwoyo nokusatya.
+utsuro 	DKK 	14 	z 		utsuro DKK z 14 . Kana munhu ane utsuro anenge ari nherera, asina chaanacho.
+utsuta 	DKD 	14 	z 		utsuta DKD z 14 . Utsuta kuomera munhu asingadi kushandisa zvinhu zvake, ingava mari kana chii chaainacho. Munhu ane utsuta anofa nenzara homwe dzizere mari. rutsuta 11 .
+utsva 	DK 	14 	z 		utsva DK z 14 . Utsva inzvimbo yemuviri inenge yatsva nemoto kana mvura inovira, panosvotoka ganda. Utsva hwechinhu kureva kuti chinenge chisati chamboshandiswa.
+utsvene 	DDK 	14 	z 		utsvene DDK z 14 . Utsvene mugariro wokuzvibata pazviito nokusatsaudzira pamabasa. usande 14 . Utsvene kuita mugariro wekusaita zvivi nezvakaipa. Mambo Jesu akafa ane utsvene. usande 14 .
+utsvuku 	DDK 	14 	z 		utsvuku DDK z 14 . Utsvuku kuve neganda risina kusviba, asi rakati kangavirei kuita ruvara rwakati njenjemerei.
+utukwa 	DKD 	14 	z 		utukwa DKD z 14 . Utukwa ukama huri pakati pamasahwira, vanotaura vachitukirirana, asi riri jee.
+utunga 	DKK 	14 	z 		utunga DKK z 14 . Utunga utwu twupuka twudikidiki twunogara mumvura isingaereri, twunobhururuka twuchiruma vanhu, zvinoitisa mapundu uye zvinokonzera marariya kune dzimwe nzvimbo. umhutu 14 . utonga 14 .
+utununu 	D- 	14 	z 		utununu D- z 14 . udununu 14 .
+uturu 	DKK 	14 	z 		uturu DKK z 14 . Uturu mate enyoka anokuvadza. Uturu ihasha dzakakomba dzinoitwa nemunhu.
+-ututa 	D 	14 	z 		-ututa D z 14 . Kana munhu achiita zvo ututa anenge achiita zvakapusa.
+utuvhatuvha 	DKDKD 	14 	z 		utuvhatuvha DKDKD z 14 . Aya mafambiro ekuti munhu anenge achitomuka-tomuka.
+uvaki 	DKK 	14 	z 		uvaki DKK z 14 . Uvaki kuva nechido chekuti vanhu vawirirane pakugarisana. Uvaki kuva nechido chekupa vamwe mazano.
+uvando 	DKK 	14 	z 		uvando DKK z 14 . Uvando inzvimbo inotizira vanhu kana pane zvavanetsa. Uvando hwedu muhondo raiva bako.
+uvaravara 	D- 	14 	z 		uvaravara D- z 14 . Ichi chipfeko chinenge chakagadzirwa nematehwe ane mavara akasiyana-siyana.
+uvato 	DKK 	14 	z 		uvato DKK z 14 . Uvato ndepanorara vanhu.
+uvhe-evhe-e 	DKK 	14 	z 		uvhe-evhe-e DKK z 14 . Uvhe-evhe-e kupesana-pesana kunenge kuchiita zvinhu zvakawanda, zvichienda mativi akasiyana. Motokari dzinoita uvhe-evhe-e mudhorobha.
+uvhevhe 	D- 	14 	z 		uvhevhe D- z 14 . Uvhevhe kuva munhu anotora zvinhu zvavanhu usingadzosi.
+uvheyevheye 	DKDKD 	14 	z 		uvheyevheye DKDKD z 14 . Uvheyevheye kuzunungutswa nemhepo kwehembe dzakayanikwa, kana michero iri mumuti.
+uvhiyo 	DKD 	14 	z 		uvhiyo DKD z 14 . Uvhiyo kuva netsika dzisina kutsiga.
+uvhururu 	D- 	14 	z 		uvhururu D- z 14 . Uvhururu zvimedu zvechokudya zvinenge zvichiwira pasi.
+uvhuruvhuru 	D- 	14 	z 		uvhuruvhuru D- z 14 . Uvhuruvhuru hwechibage zvivhudzi zvinorembera kumuromo wacho chisati chaibva. uvhururu 14 .
+uviri 	DDK 	14 	z 		uviri DDK z 14 . Uviri zvinoreva kuita chinhu vanhu vari vaviri.
+uvirimi 	DKKD 	14 	z 		uvirimi DKKD z 14 . Uvirimi kuva munhu anofarira kutaura nezvekubudirira kwake pana vamwe.
+uwachawacha 	D 	14 	z 		uwachawacha D z 14 . Uku kurira kwezvinhu zvakawanda zvakaita semari, kana zvichirovana.
+uwakatira 	D- 	14 	z 		uwakatira D- z 14 . Uwakatira kudonha kwemari yesimbi kana zvimwewo zvakadaro.
+uwakawaka 	D- 	14 	z 		uwakawaka D- z 14 . Urwu ruzha runoitwa panotsikwa kana panopepereka mashizha akaoma.
+uwandu 	D- 	14 	z 		uwandu D- z 14 . Uwandu mashomekero kana makuriro anenge akaita zvinhu.
+uwarakata 	D- 	14 	z 		uwarakata D- z 14 . uwakatira 14 .
+uwarawara 	D- 	14 	z 		uwarawara D- z 14 . Utwu tumvura tusina kusimba, twunonanaya kwenguva pfupi. tupfunhambuya 13 .
+uwayawaya 	D- 	14 	z 		uwayawaya D- z 14 . Utwu twunhu tunenge twakaraswa-raswa pasi panzvimbo imwe chete.
+uyanano 	D- 	14 	z 		uyanano D- z 14 . Uku kuva vanhu vanenge vachishandira pamwe, pasina kupokana.
+uyanga 	DKK 	14 	z 		uyanga DKK z 14 . Uyanga kubata zvinhu zvine utsvina mukati. Mukadzi ane uyanga haatsvaire mumba.
+uyeni 	D- 	14 	z 		uyeni D- z 14 . Uyeni kuva munhu anenge ashanya panzvimbo.
+uzanguku 	DDKK 	14 	z 		uzanguku DDKK z 14 . Urwu rudzi rwetumbuyu tunoruma huku. utata 14 .
+uze-eze-e 	DKK 	14 	z 		uze-eze-e DKK z 14 . Uze-eze-e kutenderera-tenderera kwezvinhu zvakawanda mudenga. Kana koda kunaya, mashori anoita uze-eze-e mudenga.
+uzengeya 	DKKD 	14 	z 		uzengeya DKKD z 14 . Uku kushaya kuzvibata, munhu achingoita chero zvaafunga, asingatarise kuti pane vanyarikani here.
+uzhinji 	DKK 	14 	z 		uzhinji DKK z 14 . Uzhinji hwezvinhu ndihwo uwandu hwazvo.
+uzima 	D- 	14 	z 		uzima D- z 14 . Pa uzima zvinoreva kuti iye munhu pachake.
+uzivi 	DKK 	14 	z 		uzivi DKK z 14 . Munhu anonzi ane uzivi , kana ari munhu anofunga kuti anoziva zvose.
+uzukuru 	DKKD 	14 	z 		uzukuru DKKD z 14 . Uhwu ukama huri pakati pambuya kana sekuru nemwana wemwana wavo. Uhwu ukama huri pakati patete nemwana wehanzvadzi yavo. Uhwu ukama huri pakati pasekuru nemwana wavatete kana wehanzvadzisikana.
+uzuru 	DKD 	14 	z 		uzuru DKD z 14 . Ku uzuru zvinoreva kumusoro.

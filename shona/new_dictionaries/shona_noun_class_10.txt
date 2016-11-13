@@ -1,0 +1,51 @@
+dzamachechetere 	KKKDDD 	10 	z 		dzamachechetere KKKDDD z 10 . Aya maitiro ejongwe okuzarura bapiro raro, richirinzvenzveresa pagumbo richitenderera sheche kana mhambo.
+hanganwa 	KDK 	10 	z 		hanganwa KDK z 10 . Hanganwa ipfungwa dzemunhu asingakwanisi kurangarira zvaanenge adzidza, kurayirwa, kuona kana kutumwa. Vamwe vanhu vane hanganwa dzokusvika pakutsvaka chinhu chavakabata mumaoko.
+hasha 	K- 	10 	z 		hasha K- z 10 . Hasha ishungu dzinoitisa kuti munhu agare achipopota kana kuda kurwa kana kurova vamwe. Ukava munhu wehasha unogara uine mbonje dzokurohwa. ukungu 14, nharo 10 .
+hope 	K- 	10 	z 		hope K- z 10 . Hope kunzwa kuda kukotsira kunoita munhu kana oda kuzorodza pfungwa nomuviri.
+hova 	D- 	10 	z 		hova D- z 10 . Hova migero kana nzizi diki dzinoerera mvura ichindopinda munzizi huru. nzizi 10, ndwizi 10 .
+hukwe 	KD 	10 	z 		hukwe KD z 10 . Hukwe itsanga dzakatsemurwa dzikabatanidzwa nemikosi, dzinozoshandiswa pakuwaridza kuti vanhu vagare kana kurara. mhasa 10, maponde 6 .
+hwusha 	K- 	10 	z 		hwusha K- z 10 . Hwusha chipfeko chomukati chomukadzi chinotenderedza chakabata zvakasimba muchiuno. rukusha 11 .
+kechemu 	KKD 	10 	z 		kechemu KKD z 10 . Kechemu icheni dzinokiyiwa, dzinosevenzeswa nemapurisa kusunga maoko evabatwa. simbi 10 .
+mbatya 	D- 	10 	z 		mbatya D- z 10 . Mbatya ihembe dzekupfeka. hanzu 10 .
+mbesa 	KD 	10 	z 		mbesa mbeswa KD z 10 . Izvi zvirimwa zvakasiyana-siyana. Kana mvura ikanaya, mbesa dzinoita kwazvo. mbesanwa 10, mbeu 9 .
+mbesanwa 	K- 	10 	z 		mbesanwa K- z 10 . mbesa 10 .
+mbiradzakondo 	DDKDD 	10 	z 		mbiradzakondo DDKDD z 10 . Uku kusungwa kunoitwa munhu makumbo nemaoko, zvekuti anenge asisagone kana kutsukunyuka.
+mbovha 	D- 	10 	z 		mbovha D- z 10 . Mbovha masiriri anobuda mumuromo wakavata, anochena kana aoma. Geza kumeso, kune mbovha. mbowowo 10 .
+mbowowo 	DKD 	10 	z 		mbowowo DKD z 10 . mbovha 10 .
+mhupu 	DK 	10 	z 		mhupu DK z 10 . Mhupu kutaura kana kuita zvinenge zvauya mupfungwa, usina kunyatsozvizeya.
+ndeke 	DK 	10 	z 		ndeke DK z 10 . manyepo 6 .
+ndimi 	K- 	10 	z 		ndimi K- z 10 . Ndimi mitauro yakasiyana-siyana yemarudzi akasiyana-siyana.
+ndira 	DK 	10 	z 		ndira DK z 10 . Ndira tupuka tutema tunoonekwa twakawanda mumwedzi waNdira, twakafanana nenyungururwi.
+ndudzi 	D- 	10 	z 		ndudzi D- z 10 . Ndudzi izwi rinoreva mapoka akasiyana-siyana evanhu, mhuka, mitauro kana zvimwewo zvinowanikwa panyika. mhando 9, marudzi 6 .
+ndurumwa 	K- 	10 	z 		ndurumwa K- z 10 . ndungurira 9 .
+ndutswe 	D- 	10 	z 		ndutswe D- z 10 . Ndutswe kutsemuka nemapuri anenge ari muchidziro chemba. mitswi 4 .
+ndware 	DK 	10 	z 		ndware DK z 10 . Ndware matombo akati sandarara panopurirwa mbesa. ngware 10, ruware 11 .
+ndwiyo 	DK 	10 	z 		ndwiyo DK z 10 . nziyo 10 .
+ndwizi 	DK 	10 	z 		ndwizi DK z 10 . nzizi 10 .
+ndyo 	K 	10 	z 		ndyo K z 10 . Ndyo makaro anoita kuti munhu ade kudya achikasika, kuti iye adye zvakati wandei kupfuura vamwe.
+ngoni 	D- 	10 	z 		ngoni D- z 10 . Ngoni mwoyo wakanaka unoda kubatsira vamwe vanhu, kazhinji vanotambudzika. tsitsi 9, nyasha 9, mutsa 9 .
+ngware 	DK 	10 	z 		ngware DK z 10 . ruware 11 .
+nheketerwa 	KKDK 	10 	z 		nheketerwa KKDK z 10 . Urwu rudzi rwenhetembo dzina mashoko okushoropodza, nokutsutsumwa komunhu anenge achishushwa kunyanya, asi iye asingatauri akanangana newaari kureva.
+nhema 	DK 	10 	z 		nhema DK z 10 . Nhema zvinhu zvinotaurwa zvisiri zvechokwadi. manyepo 6 .
+nhetema 	DKD 	10 	z 		nhetema DKD z 10 . nhetemwa 10 .
+nhetemwa 	DKD 	10 	z 		nhetemwa DKD z 10 . Nhetemwa kudedera kana kubvundisa maoko kunoitwa nemunhu anenge achembera kana kuti achirwara, zvekuti akabata kapu anoita seachaipunza.
+nhetenerwa 	KKDK 	10 	z 		nhetenerwa KKDK z 10 . mutetenerwa 3 .
+nhodzerwa 	KDK 	10 	z 		nhodzerwa nhodzera KDK z 10 . Nhodzerwa kufanana kunoita mwana anenge azvarwa nemumwe munhu kana chinhu chaigara chakaonekwa namai vake mwana iyeye asati azvarwa. Mumwe mukomana akasekesa vanhu, padare paakaramba mwana wake waainge akafanana naye zvikuru, achiti inhodzerwa.
+nhudyutudyu 	DKDD 	10 	z 		nhudyutudyu DKDD z 10 . Ichi chikafu chakaita semupunga kana manyuchu, chinenge chisina kunyatsoibva, chiine dzimwe tsanga dzakaoma mukati.
+nhukutuku 	D- 	10 	z 		nhukutuku D- z 10 . Nhukutuku kuwanda kwezvitutu zvezvinhu panzvimbo imwe chete. Nhukutuku kuzvimba kwenzvimbo yomuviri inenge yarumwa nenyuchi kana mago.
+njere 	K- 	10 	z 		njere njero K- z 10 . Njere kukwanisa kufunga zvakadzama, kana kuti kupinza kwepfungwa zvakadzama. nzero 10 .
+nungo 	D- 	10 	z 		nungo D- z 10 . Nungo kunzwa kusada kuita basa, usina panorwadza kana chimwe chikonzero. usimbe 14 .
+nyadzi 	K- 	10 	z 		nyadzi nyadzo K- z 10 . Kana munhu aine nyadzi anenge achinzwa kunyara pamusana pechimwe chinhu chisina kunaka, kazhinji ari iye anenge achiita. Nyadzi dzinokunda rufu.
+nyasha 	D- 	10 	z 		nyasha D- z 10 . tsitsi 10 .
+nzero 	K- 	10 	z 		nzero K- z 10 . njere 9 .
+nzwiriko 	DKK 	10 	z 		nzwiriko DKK z 10 . ukwiriko 14 .
+nzwiyo 	DK 	10 	z 		nzwiyo nziyo DK z 10 . rwiyo 11 .
+nzwizi 	DK 	10 	z 		nzwizi nzizi DK z 10 . rwizi 11 .
+pfari 	DK 	10 	z 		pfari DK z 10 . tsviyo 10 .
+pfocho 	D- 	10 	z 		pfocho D- z 10 . Kana munhu achitaura pfocho anenge achitaura zvisina maturo, kana kuti zvinoshatirisa vaari kutaura navo.
+setswa 	DK 	10 	z 		setswa DK z 10 . Munhu ane setswa anokurumidza kuseka, uye anowana zvinomusetsa vamwe vasingaoni zvinosetsa pazviri.
+shosha 	DK 	10 	z 		shosha DK z 10 . Shosha kupinda mukati kunoita vhudzi. mapfeka 6 .
+tsetswa 	DK 	10 	z 		tsetswa DK z 10 . Tsetswa kugara munhu achingoda kuseka, kunyange panzvimbo inoda rutsigo. setswa 10 .
+tsinye 	D- 	10 	z 		tsinye D- z 10 . Tsinye kuva nechidakadaka chokuita zvinokuvadza kana kurwadzisa vamwe. bwoni 14 .
+tsitsi 	DK 	10 	z 		tsitsi DK z 10 . Tsitsi kuregerera mumwe pane zvaakukanganisira, asi asingakodzeri kuregererwa. nyasha 10, ngoni 10 . Tsitsi kurwadzirwa mumwe zvakanyanya, pakunetseka kana kushaiwa kwake. nyasha 10, ngoni 10 .
+tsvingo 	D- 	10 	z 		tsvingo D- z 10 . Tsvingo inzvimbo ine dzimba dzakavakwa nemabwe. masvingo 6 .

@@ -1,0 +1,392 @@
+mabadu 	D 	6 	z 		mabadu D z 6 . Mabadu chiitikwa chinofadza, chakanaka. Kumutambo kwaFadzi kwakanga kuri kumabadu. madambu 6, makuwerere 6 .
+mabande 	D- 	6 	z 		mabande mabandi D- z 6 . Mabande chibage chakapamurwa-pamurwa muchigayo kana muduri. mabandurwa 6 .
+mabandu 	DDK 	6 	z 		mabandu mabandi DDK z 6 . mabande 6 .
+mabandurwa 	DDKD 	6 	z 		mabandurwa DDKD z 6 . Ichi chibage kana zvimwe zvirimwa zvakatswiwa kana kugaiwa zvisina kutsetseka. mbadzwa 10 .
+mabatiro 	DKKK 	6 	z 		mabatiro DKKK z 6 . Aya mashandiro kana maitiro anoita munhu zvinhu.
+mabayo 	D- 	6 	z 		mabayo D- z 6 . Mabayo kurwadza kunoita muviri, kunyanya pachipfuva kana kumativi, uchinzwa kunge uri kudyungwa-dyungwa. Muroora akabayiwa namabayo haakwanisi kutakura mugomo wemvura. chibayo 7 .
+maberekerwo 	DDKKK 	6 	z 		maberekerwo DDKKK z 6 . Iyi inzira inozvarwa nayo vanhu, zvipuka kana michero. mazvarirwo 6 . Iyi itsika kana maitiro emunhu.
+mabhindauko 	D- 	6 	z 		mabhindauko D- z 6 . Kuita mabhindauko kugona kushandisa pfungwa mukuita zvinhu zvinovaka kana kuponesa mhuri. mhindu 10 . Idzi injere kana unyanzvi hokukwanisa kuita zvinhu zvinoita kuti munhu akwanise kubuda panenge pakashata. Akashandisa mabhindauko ake kuti apunyuke vavengi. mhindumupindu 10 .
+mabhuyo 	D- 	6 	z 		mabhuyo mabhuya D- z 6 . Mabhuyo inyaya dzinenge dzichitauriranwa pakati pevanhu.
+mabikiro 	DDKK 	6 	z 		mabikiro DDKK z 6 . Iyi inzira yokuibvisa nayo chibikwa nemoto.
+mabiko 	D- 	6 	z 		mabiko D- z 6 . mutambo 3 .
+mabikwa 	DDK 	6 	z 		mabikwa DDK z 6 . Mabikwa kurwadza kunozonzwika kwapera nguva munhu akuvara.
+mabori 	DDK 	6 	z 		mabori DDK z 6 . Mabori itsvina inobuda mumaziso semisodzi kana munhu akavata. mangava 6, maranga 6, mapwapwatire 6 .
+mabucha 	D- 	6 	z 		mabucha D- z 6 . Mabucha kusangana kwevanhu vaviri kwekubonderana. Mabucha mamiriro ezvinhu asingakwanisiki kushandurwa.
+mabudazuva 	DKDKK 	6 	z 		mabudazuva DKDKK z 6 . Iri idivi rinobuda naro zuva mangwanani. mabvazuva 6, mabvirazuva 6 .
+mabukira 	DDKK 	6 	z 		mabukira DDKK z 6 . nhungirwa 10 .
+maburo 	D- 	6 	z 		maburo D- z 6 . Maburo chinwiwa chinobikwa nemvura nemumera zvakafashaidzwa. masvusvu 6 .
+mabvakure 	D- 	6 	z 		mabvakure D- z 6 . Ava vanhu vanobva kune dzimwe nzvimbo kana nyika dziri kunze kweyenyu.
+mabvazuva 	DDKK 	6 	z 		mabvazuva DDKK z 6 . mabudazuva 6 .
+mabvirazuva 	DDDKK 	6 	z 		mabvirazuva DDDKK z 6 . mabudazuva 6 .
+mabviriro 	DDKK 	6 	z 		mabviriro DDKK z 6 . Aya matangiro anoita zvinhu. Mabviriro ekuba ruchiva. mviromviro 10 . Aya maitiro anoita munhu kana achibva pane vanhu. Mabviriro aakaita pabhawa aiva ekunzvenga, nekuti aisada kutenga hwahwa. bviro 5, mabviro 6 .
+mabviro 	DDK 	6 	z 		mabviro DDK z 6 . mabviriro 6 .
+mabvumamhosva 	DDDKD 	6 	z 		mabvumamhosva DDDKD z 6 . Uyu mubhadharo unobviswa neanenge apara mhaka, sechiratidzo chekuti atenda kana kubvuma kuti akanganisa. mabvumamuranda 6 .
+mabvumamurandu 	DDDDKK 	6 	z 		mabvumamurandu DDDDKK z 6 . mabvumamhosva 6 .
+mabvumira 	D- 	6 	z 		mabvumira D- z 6 . Uku kuimba kunoita vashauri nevanenge vachivadavira kana kubvumira mazwi avo achipindurana.
+mabvumirahuura 	D- 	6 	z 		mabvumirahuura D- z 6 . Uku kukoneswa kana kutenda kana kuzongowirirana nezvinhu zvawanga usingadi, pasisina maitiro.
+mabvumwa 	DDK 	6 	z 		mabvumwa DDK z 6 . Kana munhu ane mabvumwa anenge achinzi ane ruoko rwakanaka rwekukurisa zvinhu zvakaita semaruva kana manhanga.
+mabvuururo 	D- 	6 	z 		mabvuururo D- z 6 . Uku kusakura zvakare kechipiri kana kechitatu, munda wakambosakurwa kare. mabvuo 6 .
+mabweretete 	D- 	6 	z 		mabweretete mabweredhedhe D- z 6 . Iyi itsvina yemunhu kana mhuka nhetenhete, seiya inoitwa nemunhu ane mudumbu. manyoka 6 .
+machachacha 	D- 	6 	z 		machachacha D- z 6 . Iyi imvura yakawanda, inonaya kwenguva refu isingamire. bvopfopfo 5 .
+machachacha 	DDKD 	6 	z 		machachacha DDKD z 6 . Iyi inyama yemombe yakakora, yakabikwa yakawanda.
+machafa 	D- 	6 	z 		machafa machapfa D- z 6 . Machafa inyama ine mafuta akawanda chaizvo, yakabikwa zvakanaka chose.
+machakachaka 	D- 	6 	z 		machakachaka D- z 6 . Uku kudya kwakawanda kwakanaka chaizvo. machikichori 6 .
+machakata 	D- 	6 	z 		machakata D- z 6 . Iyi miti mihombe yemichakata yakawanda.
+machakwi 	DDK 	6 	z 		machakwi machahwi, majahwi DDK z 6 . Machakwi inzvimbo inowanikwa mubani kana muguvi inenge ine mvura.
+machanja 	D- 	6 	z 		machanja D- z 6 . Machanja matanda marefu anoshandiswa kuti munhu akwanise kukwira mudenga kana achipfirira imba. danhiko 5 . Machanja mazino emhembwe.
+machemashiri 	DKKKD 	6 	z 		machemashiri DKKKD z 6 . Machemashiri inguva inorira shiri mambakwedza.
+machikichori 	DKKDK 	6 	z 		machikichori DKKDK z 6 . Izvi ndezvekudya zvinonaka zvikuru, uye zvinenge zvakawanda. machapfa 6 .
+machikinywa 	DDKD 	6 	z 		machikinywa madzakinywa DDKD z 6 . madzakinywa 6 .
+machirichiti 	D- 	6 	z 		machirichiti D- z 6 . Uku kujatwa kwevanhu mumota inenge ichikwira mukwidza nekudzika kumateru. mabhambo 6 .
+machiti 	D- 	6 	z 		machiti D- z 6 . masungiro 6 .
+machivachiva 	DKKDK 	6 	z 		machivachiva DKKDK z 6 . Aya maitiro emunhu anokara chaizvo, anongoda zvese zvese. Uku kuita kwemunhu asingagoni kusarudza zvaanoda kuita. rutsikatsika 11 .
+machururu 	DKKK 	6 	z 		machururu DKKK z 6 . Uku kuvapo kwezvinhu zvakaita semvura zvakawanda chaizvo. jakachaka 5 .
+madambu 	DKD 	6 	z 		madambu DKD z 6 . Kana zvichinzi nhasi ku madambu zvinenge zvichireva kuti musi iwoyo hakuna chakanaka, vanhu vachanakidzwa zvekuti huya hande. makwishu 6 .
+madango 	D- 	6 	z 		madango D- z 6 . Madango ndezvinoitwa kuvanziridza kukanganisa kwemunhu kana zvaanenge achifunga.
+madanha 	DKK 	6 	z 		madanha DKK z 6 . Madanha kunzwa kuda chimwe chinhu zvakanyanya. Madanha emugudza madetembo anodetembererwa varume nevakadzi vavo pauriri.
+madarikanhumbi 	DKKKDK 	6 	z 		madarikanhumbi DKKKDK z 6 . Uku kurara kunoita mukomana nemusikana vadanana asi vasati varoorana, mukomana achiita nharo dzekuti kurara tese ndicho chiratidzo chokuti unondida.
+madeko 	DKD 	6 	z 		madeko DKD z 6 . Madeko inguva inenge kunze kwasviba. Ari kusvika madeko. manheru 6 . Madeko usiku hwapfuura. Akasvika madeko. manheru 6 .
+madekwana 	DKDK 	6 	z 		madekwana DKDK z 6 . Iyi inguva inenge zuva roda kudoka kana kuti richangovira. Bhazi richasvika madekwana. manheru 6, manhoko 6 .
+madembetedzo 	DKKKD 	6 	z 		madembetedzo DKKKD z 6 . madetembedzo 6 .
+madendere 	DDDK 	6 	z 		madendere DDDK z 6 . Uku kuneta kana kunyara mushure mokunge munhu aita basa rinorwadza, kana kufamba kwenguva refu. maneto 6, manyaro 6 .
+madetembedzo 	DKKKD 	6 	z 		madetembedzo DKKKD z 6 . Aya mazita kana nhetembo dzokurumbidza dzinza. madembetedzo 6 .
+madeukazuva 	DKKDKK 	6 	z 		madeukazuva DKKDKK z 6 . Iyi inguva yezuva rarereka, roda kuvira. mavirazuva 6 .
+madhambitanana 	DDKDDD 	6 	z 		madhambitanana DDKDDD z 6 . Izvi zvinhu zvinoitwa nemunhu zvinoshamisa, uye zvisina musoro. mahumbwe 6, matakanana 6 .
+madhodhodho 	DKKK 	6 	z 		madhodhodho DKKK z 6 . Aya mavara anoimbwa kana vanu muchitanga kudzidziswa manotsi erwuyo, rwuyo rwacho musati morwuimba namazwi acho.
+madhunamutuna 	DDDDKK 	6 	z 		madhunamutuna DDDDKK z 6 . Aya manyongori anoitika pakati pevanhu munyika, nekuda kwekuti vatongi vanenge vachitonga nyika zvisingafadzi vamwe.
+madimbu 	DDK 	6 	z 		madimbu DDK z 6 . Madimbu kusangana nezvinonaka kana zvinofadza zvawanga usingafungiri.
+madirano 	D- 	6 	z 		madirano madirirano D- z 6 . Iyi inzvimbo inosangana nzizi. madiro 6 .
+madiro 	D- 	6 	z 		madiro D- z 6 . madirano 6 .
+madiro 	DKK 	6 	z 		madiro DKK z 6 . Kuita madiro kuita zvaunoda, zvinofadza mwoyo wako. Mombe ye madiro imombe inourayiwa naambuya, vachipemberera mombe dzavo dzeumai dzinenge dzawanda.
+madirwa 	DDK 	6 	z 		madirwa DDK z 6 . Madirwa masvusvu nemhanga zvakavhenganiswa, zvisingadhaki nekuti zvinenge zvisati zvavira.
+madokera 	DKKD 	6 	z 		madokera DKKD z 6 . Iri idivi rinonyurira zuva. mavirira 6 .
+madongoro 	DKKK 	6 	z 		madongoro DKKK z 6 . mukanwa 3 .
+madororo 	D- 	6 	z 		madororo D- z 6 . Iyi itsvina yeshiri, kusanganisira nedzinopfuyiwa dzakaita sehuku kana madhadha.
+madududu 	DKKK 	6 	z 		madududu DKKK z 6 . Madududu kufamba uchidzokera kumashure. pfundamutete 9, nhendeshure 9 .
+madunhurirwa 	DKKDK 	6 	z 		madunhurirwa DKKDK z 6 . Iri izita rinopihwa munhu richikudziridza zviito zvake. mukatirwa 3 .
+madurungundu 	DKKKK 	6 	z 		madurungundu DKKKK z 6 . Ichi chinwiwa kana chidyiwa chinovava semunyu.
+madyangwe 	D- 	6 	z 		madyangwe D- z 6 . Aya maitiro kana kutaura kunoita kuti vanhu vaseke. muyembe 3 .
+madyo 	DK 	6 	z 		madyo DK z 6 . Madyo mutambo unenge une zvekudya zvakawanda chaizvo. mabiko 6 . Madyo kudya uchikurumidza, sezvinoita munhu anokara. makaro 6 .
+madzanambwa 	DDDK 	6 	z 		madzanambwa DDDK z 6 . Madzanambwa ibasa rakakanywa, risina musoro.
+madzanambwanana 	DDDKDK 	6 	z 		madzanambwanana DDDKDK z 6 . Izvi zvinhu zvisina nemusoro wese.
+madzatsatsa 	D- 	6 	z 		madzatsatsa matsatsatsa D- z 6 . Uhwu ura hwetsuro kana tumwe tupuka tudiki.
+madzengere 	D- 	6 	z 		madzengere madzengerere D- z 6 . Uku kusanyatsoona zvakanaka kunokonzerwa nekuti kunze kunenge kwasviba, kana kuti kune mhute kana utsi. madzerere 6 .
+madzerere 	D- 	6 	z 		madzerere D- z 6 . madzengere 6 .
+madzihwa 	D- 	6 	z 		madzihwa D- z 6 . Madzihwa zvimvura zvakakorera, zvichena, zvinobuda mumhuno.
+madzikinywa 	DDKK 	6 	z 		madzikinywa machikinywa DDKK z 6 . Aya mazidovi anoponorwa kubva paguyo kana dovi chairo rabviswa.
+madzimo 	DKK 	6 	z 		madzimo DKK z 6 . Aya matavi emiti manyoro kana chimwe chinhu chinoshandiswa kudzima moto wemudondo.
+madzinganyadzi 	DKDKK 	6 	z 		madzinganyadzi DKDKK z 6 . Aya maitiro ekuvanza, kunyara kana kusvoda. matandanyadzi 6 .
+madziro 	D- 	6 	z 		madziro D- z 6 . Madziro mudhuri kana chimwe chinhu chinovharidzira kuti zviri mukati zvisaonekwe. Madziro emba yake matetetete, zvekuti unotonzwa zvinenge zvichitaurwa nevanenge vari mune imwe kamuri.
+madziurachando 	D- 	6 	z 		madziurachando D- z 6 . Iyi imvura inonaya kana chando chava kuda kutanga.
+madziuranzeve 	DDDDDK 	6 	z 		madziuranzeve DDDDDK z 6 . Iyi inguva iyo mukadzi anenge asununguka, yekuti mukadzi nemurume vanokwanisa kuchisangana mushure mekunge vamborega, vachinzi vanodziura mwana nzeve.
+madziya 	DKD 	6 	z 		madziya DKD z 6 . Madziya inguva yezuva inenge kunze kwava kupisirira, munguva yechando.
+maedzera 	D- 	6 	z 		maedzera D- z 6 . Maedzera kuona mifananidzo yezvinhu kana chinhu mudenga, kusina nekakore kose, kuchipisa. chadzera 7 .
+maenza 	DDK 	6 	z 		maenza DDK z 6 . Iyi inguva inonaya mvura, mbesa dziri pasi. zhizha 5 .
+maererano 	D- 	6 	z 		maererano D- z 6 . Uku kuenderana kunoita zvinhu, sezvakaita mibairo ingapihwa vana vechikoro, zvichienderana nekugona kwavanenge vaita zvidzidzo zvavo. Sevanhu vemaricho kudai, tinongobhadharwawo maererano nekushanda kwatinenge taita musi iwoyo.
+mafadzahanzvadzi 	DKDDKD 	6 	z 		mafadzahanzvadzi DKDDKD z 6 . Aya maitiro okungofadza mumwe munhu pasina chokwadi chauri kureva kana kuita.
+mafaki 	DKD 	6 	z 		mafaki DKD z 6 . Uyu mupunga kana chibage zvakaiswa dovi ndokumonwa. mashagada 6, mashakada 6 .
+mafararira 	D- 	6 	z 		mafararira mufararira D- z 6 . Ava vanhu kana mhuka dzakawanda chaizvo, dzakazadza nzvimbo. rufararira 11 .
+mafaro 	DKD 	6 	z 		mafaro DKD z 6 . Mafaro kunakidzwa kukuru kana kuti kuva muchiitiko chinonakidza kana kufadza zvikuru.
+mafashafasha 	D- 	6 	z 		mafashafasha D- z 6 . Uku kuzara kwemvura inoerera murwizi kana pamwewo zvapo, mushure mekunaya kwemvura zhinji. guve 5 .
+mafashufashu 	DKDKD 	6 	z 		mafashufashu DKDKD z 6 . Uku kuwandisa kwezvinhu zvakaita semvura kana mbesa.
+mafemo 	D- 	6 	z 		mafemo D- z 6 . Uku kufema kunoitwa nemunhu mushure mokunge aita chinhu chinonetesa, kana kuti achirangarira matambudziko.
+mafi 	DK 	6 	z 		mafi DK z 6 . Mafi kugara uchinzwa kuvenga mumwe munhu. daka 5, chigumbu 7, bundu 5, rutodo 11 .
+mafo 	DK 	6 	z 		mafo DK z 6 . Mafo ndekwekupedzisira kwenguva yechiitiko, kana kufa kwemunhu kana mhuka.
+mafoyo 	D- 	6 	z 		mafoyo D- z 6 . nhema 10 .
+mafufu 	DKD 	6 	z 		mafufu DKD z 6 . Mafufu umvurumvuru hunosara hwakangomwararika kubva pane zvamanga muchidya, zvakaita sechingwa. Mafufu makanda anoputira tsanga dzechibage kana kuti nzungu kana zvimwewo zvirimwa.
+mafundo 	D- 	6 	z 		mafundo D- z 6 . Mafundo kungobadarika-badarika kunoita munhu pakurara. mavato 6, mararo 6 .
+mafunga mafunga 	D-+ 	6 	z 		mafunga mafunga D-+ z 6 . Idzi indangariro dzakasiyana dzinenge dzawandira munhu nguva imwe chete.
+mafunga mafunga 	D- D- 	6 	z 		mafunga mafunga D- D- z 6 . Kuita mafunga mafunga kubatikana nendangariro.
+mafunzi 	DKD 	6 	z 		mafunzi mafunzu DKD z 6 . Iyi inamo inoita munzeve memunhu.
+mafuramhepo 	DKDKK 	6 	z 		mafuramhepo DKDKK z 6 . Iyi inzvimbo yakanyatsotambanuka, kumafaro kusina vanhu vakanyanya kuwanda. Iyi inguva pabasa apo mukuru webasa anenge asipo, zvekuti vashandi vanenge vachishanda pavanodira vasina anovati heyi.
+mafuro 	D- 	6 	z 		mafuro D- z 6 . Iyi inzvimbo inowana zvipfuyo uswa. ufuro 14 .
+mafururwa 	DDKD 	6 	z 		mafururwa DDKD z 6 . Mafururwa mashizha echibage kana muriwo wakaita semuboora.
+mafushe 	DKD 	6 	z 		mafushe DKD z 6 . Aya mabarwe manyoro akabikwa, ndokuomeswa pazuva dziri hupi. mumhare 3 .
+mafuta 	DKK 	6 	z 		mafuta DKK z 6 . Mafuta muto unosvinwa kubva muzvirimwa zvakaita senzungu, unoshandiswa pakubikisa. Mafuta ruomba runozorwa mumuviri kana munhu apedza kugeza. Mafuta idikitiki rinoiswa pasimbi dzezvinofamba kuti dzisakwesherana, dzinyatsofamba zvakanaka.
+magada 	D- 	6 	z 		magada D- z 6 . maheu 6 .
+magamuchidzanwa 	DDKKDK 	6 	z 		magamuchidzanwa DDKKDK z 6 . Iyi itsika inoitwa nevanhu, yavakawana iripo kubva kumadziteteguru avo. matambidzanwa 6 .
+maganzvo 	DKK 	6 	z 		maganzvo DKK z 6 . Maganzvo ibira rekukumbira mvura kuvadzimu. mukwerera 3, chipwa 7, marenje 6, mutoro 3 .
+magaramwoyo 	D- 	6 	z 		magaramwoyo D- z 6 . Aya mazwi anorwadza nekukododzvora zvikuru. Paakadzingwa basa, akasiya audza vanhu vepabasa pake magaramwoyo.
+magariro 	DDKK 	6 	z 		magariro mugariro DDKK z 6 . Iyi itsika inowanzoitwa nemunhu nguva zhinji. maitiro 6 .
+magaro 	D- 	6 	z 		magaro D- z 6 . Magaro inhengo dzomuviri dziri pazasi pomusana uye pamusoro pezvidya dzatinogara pasi nadzo. magadziko 6, matako 6 .
+magazhurwa 	DKDK 	6 	z 		magazhurwa DKDK z 6 . Uhwu upfu hwakakuyiwa kana kugayiwa, hukasara nemabande makuru akawanda. magangazhurwa 6 .
+magetsi 	DKD 	6 	z 		magetsi DKD z 6 . Magetsi moto unofamba nemuwaya, uchizopfuta kuita chiedza kana simba rinobikisa kana kufambisa michina.
+magirazi 	DDKD 	6 	z 		magirazi DDKD z 6 . Ichi chiwanikwa chinogadziriswa mahwindo kana mabhotoro. Izvi zvipfekwa zvokumaziso zvinobatsira pakuona kune avo vasinganyatsoona nemaziso avo, uye zvinoshandiswawo pakudzivirira zuva. magogorosi 6 .
+magobo 	DDK 	6 	z 		magobo DDK z 6 . Magobo ibasa rekutema miti nekubvisa zvigutswa zvemiti zvakasaririra mumunda unoda kurimwa.
+magogorosi 	DKDDD 	6 	z 		magogorosi DKDDD z 6 . Aya magirazi anopfekwa kudzivirira maziso, kunyanya kuzuva rinopenya.
+magome 	DKD 	6 	z 		magome DKD z 6 . Magome usimbe hwemunhu anenge achida zvekutuma-tuma vamwe kuti vamuitire basa.
+magovero 	DDKK 	6 	z 		magovero DDKK z 6 . Aya maitiro anoita munhu kana achipa vanhu zvinhu zvakaita sehembe dzemufi parufu. mapiro 6 .
+magufu 	D- 	6 	z 		magufu mafufu D- z 6 . mafufu 6 .
+magumiro 	DKKK 	6 	z 		magumiro DKKK z 6 . magumo 6 .
+magumo 	DKK 	6 	z 		magumo DKK z 6 . Magumo ndepanoperera nyaya kana nzvimbo.
+maguta 	DKD 	6 	z 		maguta magutwa DKD z 6 . Maguta kuvako kwezvirimwa nekudya zvakawanda chaizvo. ANTONYMS nzara 9.
+magwendere 	DKKK 	6 	z 		magwendere DKKK z 6 . Izvi ndezvinosungirwa patambo kuti zviite ruzha rwekudzinga shiri mumunda. muzerwe 3, muzengure 3 .
+magwinhi 	DKK 	6 	z 		magwinhi DKK z 6 . bere 5 .
+magwiriri 	D- 	6 	z 		magwiriri D- z 6 . Uku kufema kune kamhere mukati, kunoitika kazhinji kana munhu akarara zvisina kunaka, kana kuti akarara akadhakwa. ngonono 10 .
+mahakurimwi 	DDKDK 	6 	z 		mahakurimwi DDKDK z 6 . Iyi inguva inomborega vanhu kuita basa, mushure mekunge hama kana muvakidzani afa. chikaro 7 .
+mahakurimwi 	DDKKK 	6 	z 		mahakurimwi DDKKK z 6 . Uku kusawirirana kunotora nguva hombe kuchienderera mberi pakati pevakatadzirana.
+mahanya 	DKK 	6 	z 		mahanya DKK z 6 . Mahanya ihacha nyoro dzinodyiwa dzakatswiwa.
+mahapa 	DKK 	6 	z 		mahapa DKK z 6 . Mahapa mashizha mahombe anokura ari pamusoro pemvura.
+mahara 	DKD 	6 	z 		mahara DKD z 6 . Mahara kushandira pasina muripo. Mukomana uyu ndiye wekafambira mahara, asvika akawana musikana wake akatoroorwa nemumwewo. Mahara kuwana chinhu pachena. Mahara ndechinhu chisingakosheswi. Zvekudadira hama zvinhu zvemahara, nekuti rimwe zuva unozodzitsvaga ukadzishaya.
+maheu 	D- 	6 	z 		maheu D- z 6 . Maheu chinwiwa chinokanyiwa nesadza nemvura, chozoiswa mamera kuti chivire. magada 6 .
+mahohoho 	D- 	6 	z 		mahohoho hohoho D- z 6 . Uku kutaudzana zvikuru kune ruzha mukati. mheremhere 9 .
+mahon'era 	D- 	6 	z 		mahon'era D- z 6 . Uku kutaurira pasi zvisinganyatsonzwika, zvikuru kana munhu asina kugutsikana nezvataurwa. Aya mazwi akakorera anonzwika pakuimba.
+mahumbwe 	D- 	6 	z 		mahumbwe D- z 6 . Mahumbwe mutambo wevana vaduku, vati kurei, wavanenge vachitevedzera zvinowanzoitwa mudzimba nevakuru, sekuita baba naamai, vachibikirana sadza panguva yavanodzidza kubika zvinodyiwa chaizvo. matumba 6 . Mahumbwe zvinhu zvechipwere zvisina musoro kuvakuru. Vana pavakarwa pamusha, madzimai avo akavapopotera kuti varege zvemahumbwe zvavaiita. dambe 5 .
+mahwekwe 	DKK 	6 	z 		mahwekwe DKK z 6 . Mahwekwe kusangana nemunhu kana chinhu chawanga usingafungire kusangana nacho. Mbavha nemuridzi wemba zvakaita mahwekwe pamusuwo, pakamuka chitsvuku vorovana. mambunga 6, masanga 6 .
+mahwinya 	DKK 	6 	z 		mahwinya DKK z 6 . Mahwinya mamino ehembe ayakasonwa inawo. Akatenga hembe dziya dzemahwinya dziri mufashoni mazuva ano. Mahwinya zvimamino zvinokonzerwa nekuunyana kwehembe. Ndasangana naye akapfeka hembe yakaunyana, ine mahwinya anoita kunge yabuda mukanwa medhongi.
+maibveibve 	DKDKD 	6 	z 		maibveibve DKDKD z 6 . Uyu muchero wava kuda kusvika, unenge wotebvenyuka-tebvenyuka. Maibveibve emazhanje anoitisa hambe.
+majarini 	DDKD 	6 	z 		majarini majarinhi DDKD z 6 . Aya mafuta anobva muzvirimwa, anozorwa pachingwa kazhinji, kana kubikiswa.
+maji 	DK 	6 	z 		maji maja DK z 6 . Maji kurara kana kuzorora musana uri pasi, iwe wakatarisa mudenga. manhede 6 .
+makakatanwa 	DKKKK 	6 	z 		makakatanwa DKKKK z 6 . Uku kusawirirana kukuru pakati pevanhu, umwe noumwe wavo achiti zvaari kutaura iye ndizvozvo.
+makako 	DKD 	6 	z 		makako DKD z 6 . Makako mushini wekudhonzesa nawo waya kana kusimudzisa zvinorema. Hembe dzinotakurwa nechikepe dzinotutirwa nemakako. Makako imota inodhonzeswa dzimwe motokari.
+makanywa 	DDK 	6 	z 		makanywa DDK z 6 . Makanywa isadza rakamedurwa-medurwa, rikasanganiswa nemukaka kana chimwe chinhu chakaita mvura mvura.
+makanywa 	DKK 	6 	z 		makanywa DKK z 6 . Makanywa chingwa chinobikwa nefurawu yakasanganiswa neupfu.
+makarekare 	D- 	6 	z 		makarekare D- z 6 . Idzi inguva dzemadziteteguru dzakapfuura kudharadhara.
+makaro 	DKK 	6 	z 		makaro DKK z 6 . Makaro kunyanyoda zvekudya zvinopfuura mwero. madyo 6, mbayo 9 .
+makarukaru 	D- 	6 	z 		makarukaru D- z 6 . Uku kuratidza kutya kuya kwemunhu ane mhosva.
+makasi 	D- 	6 	z 		makasi D- z 6 . Makasi makadhi ekutambisa mutambo wenjuga. Makasi mutambo wenjuga. Makasi mamiriro ezvinhu asingazivikanwi maperero awo. Amai vangu vaigara vachititaurira kuti upenyu makasa, saka tinofanira kugara takagadzirira nekuti hatizivi zvinoitika mangwana.
+makata 	D- 	6 	z 		makata D- z 6 . Makata inzvimbo yakakwirira inokwidza nenzira ichibva kumateru. Mota dzasakara dzinonetsa pakukwira makata. mukwidza 3 . ANTONYMS materu 6.
+makei 	DKD 	6 	z 		makei DKD z 6 . Makei igore rakapera kana kuti gore rinouya. Makei izwi rinoshandiswa nevechidiki kureva kuti munhu akura kana kuti ava mudhara.
+makodzero 	DDKK 	6 	z 		makodzero DDKK z 6 . Iyi inzira yekupa mombe kana dzimwe mhuka zvekudya nechinangwa chekuti dzikure.
+makokotere 	DKKDK 	6 	z 		makokotere DKKDK z 6 . Uku kudya kwakatsviririra kunosaririra muhari yabikirwa kudya kwakaita serupiza kana nhopi. Idzi inhengo dzemombe yauraiwa dzisingabikwi pamwe neimwe nyama.
+makomberwa 	DDKD 	6 	z 		makomberwa DDKD z 6 . Iri idoro riya raunochengeta panhimbe, uchiti ukagashidzwa mukombe wodira mugaba rako, wozoenda naro kumba rawanda.
+makomu 	DKD 	6 	z 		makomu DKD z 6 . Makomu inzvimbo inoperera muforo, uko kunodzokera mombe kana dzichirima mumunda.
+makope 	DKK 	6 	z 		makope DKK z 6 . Makope kunzwa kuda kurara zvakanyanya. Makope kukasira kurara kana munhu angotsirama.
+makorokoto 	DKKKK 	6 	z 		makorokoto DKKKK z 6 . Kuita munhu makorokoto kumupembedza pane zvaanenge aita zvakanaka zvekubudirira, zvakaita sekubatsirwa mwana kana kubudirira mubvunzo kana kupona mutsaona.
+makorosibhandi 	D- 	6 	z 		makorosibhandi makurusibhandi D- z 6 . Iyi micheka inopfuura nepamapipito, inobata masiketi kana mabhurukwa asingasungwe nebhandi kuti asadonha.
+makoto 	DKK 	6 	z 		makoto DKK z 6 . Makoto marara anosara panopurwa rukweza, anogona kuzopurwazve kuti turukweza twunenge twasara twudonhe.
+makuku 	DKK 	6 	z 		makuku DKK z 6 . Makuku muripo unobhadharwa nemunhu anenge achiratidza rukudzo kumunhu waanenge akanganisira. Joramu akabatiswa makuku natezvara vake mushure mekunge arova mukadzi wake.
+makukumira 	D- 	6 	z 		makukumira D- z 6 . Aya mapundu anoita pachirebvu anokonzerwa nekubvisa ndebvu. Izvi zvitsitsi zvendebvu zvinobaya-baya.
+makunakuna 	D- 	6 	z 		makunakuna D- z 6 . Kana munhu akaita makunakuna anenge aroorana nemunhukadzi kana munhurume wepaukama. Uku kusangana kwomunhukadzi nemunhurume vane ukama huri pedyo, sezvakaita baba nemwanasikana wavo.
+makundano 	DKKD 	6 	z 		makundano DKKD z 6 . Uku kumhanya kana kuita chimwe chinhu makawanda, nechinangwa chekuda kuona anogona kudarika vamwe vose. makwikwi 6, mapitse 6 .
+makushamhuru 	DKKDK 	6 	z 		makushamhuru DKKDK z 6 . Urwu rundebvu runotanga kumera pachirebvu kana pamatama emunhurume.
+makutukutu 	D- 	6 	z 		makutukutu D- z 6 . Izvi zvinhu zvakawanda chaizvo. Baba ava vakaripisa mukuwasha wavo makutukutu emazimari paakaroora mwana wavo ane dgigirii.
+makuwerere 	DKKKK 	6 	z 		makuwerere DKKKK z 6 . Iyi imheremhere yekufara kwevanhu. Nhasi kumba kwedu kune makuwerere nekuti mukoma wangu ari kuchata. mabadu 6 .
+makwa 	D- 	6 	z 		makwa D- z 6 . Makwa kuuchira kunoita vanhu, vachifarira kana kukurudzira zvinenge zvichiitwa kuti zvipfumbire.
+makwati 	DDK 	6 	z 		makwati DDK z 6 . Makwati makanda anowanikwa pamiti. Makwati makanda akaomarara chaizvo, anodzivirira tupuka tune makanda matete twakaita sekamba. mari 9 . Makwati ndeimwe yemari inobviswa nemunhu kana achida kuroora nenzira yekukumbira.
+makwato 	D- 	6 	z 		makwato D- z 6 . Makwato kudya kumba kusiri kwako, iwe usina kukokwa. maruwo 6 .
+makwenu 	DKK 	6 	z 		makwenu makwene DKK z 6 . Makwenu tukoko tuchena turi mumusoro, tunokonzerwa nekufa kweganda remusoro, tunozokwaturwa nekamu kana munhu achikama.
+makwikwi 	DKK 	6 	z 		makwikwi DKK z 6 . makundano 6 .
+mambakwedza 	DKKK 	6 	z 		mambakwedza marambakuedza DKKK z 6 . Iyi inguva inenge kunze kwava kuda kuzotanga kuchena.
+mambunga 	DKD 	6 	z 		mambunga DKD z 6 . mahwekwe 6 .
+mambure 	DKD 	6 	z 		mambure DKD z 6 . Mambure mikosi yakasimba yakarukaniswa, inoshandiswa kubata hove kana mhuka. Kana mukadzi apinda mu mambure anenge achata muchato uya wekupfeka hembe chena.
+mamera 	D- 	6 	z 		mamera D- z 6 . Mamera zviyo zvakanyikwa mumvura zvikamera, zvinobikiswa doro kana kuvirisa maheu. chimera 7 .
+mamhanzu 	DDK 	6 	z 		mamhanzu DDK z 6 . Mamhanzu upfu hune zvimedu zvakawanda zvechibage kana zvechimwe chinhu zvisina kutsetseka. mabande 6 . Mamhanzu zvipitsi zverukweza kana chimwe chirimwa, zvinowira pasi kana munhu achikuya paguyo. mabande 6 .
+mamhepo 	DKK 	6 	z 		mamhepo DKK z 6 . Mamhepo chirwere chinonzi chinokonzerwa nekuroyiwa, chinoita kuti munhu apenge kana kurasa njere. mhepo 9, mweya 3 . Mamhepo kuita zvisina musoro, zvisingatarisirwi nevamwe. Mamhepo chaiwo kuona mwana achituka amai vake.
+mamheya 	DKD 	6 	z 		mamheya DKD z 6 . Kana munhu aine mamheya anenge ane makumbo akakombera mukati, achiita mumwe mutsikiro unoteedzera zvakaita makumbo ake. mateya 6 .
+mamhororodzi 	DKKDK 	6 	z 		mamhororodzi mamhorodzi DKKDK z 6 . Aya mavara anoonekwa panoerera nekuomera mvura kana misodzi.
+maminimini 	D- 	6 	z 		maminimini D- z 6 . Ichi chiititiko chinoshamisa chaizvo. Pakauya vachena muZimbabwe, ziteteguru revaShona, Chaminuka, rinonzi rakaita maminimini risingafi pavaiedza kuriuraya.
+mamiriro 	DKKK 	6 	z 		mamiriro DKKK z 6 . Aya maumbirwo kana mataridzikiro anoita chinhu kana wakachitarisa.
+mamutsamwoyo 	D- 	6 	z 		mamutsamwoyo D- z 6 . Ichi chinwiwa chinodhaka, chinonwiwa magwanani nemunhu akarara akadhakwa, anenge ane bhabharasi.
+mamvaranyanya 	D- 	6 	z 		mamvaranyanya mamvirinyinyi D- z 6 . Kana zvinhu zvakaita mamvaranyanya zvinenge zvakangozara- zara kwese kwese zvakati bvururu.
+mamvura 	DKK 	6 	z 		mamvura DKK z 6 . Mamvura munhu anoturikira pakati pevanhu vapenyu nevadzimu. svikiro 5 .
+mamvuri 	DKD 	6 	z 		mamvuri DKD z 6 . Mamvuri mweya yakaipa inokonzera urwere, kana kuti anorwara anyanyise kurwara.
+man'an'a 	DKK 	6 	z 		man'an'a DKK z 6 . Man'an'a makomba makomba nekakukweshera kanogona kuita pamudziyo wakaita sebwe rekukweshesa muviri.
+manainai 	D- 	6 	z 		manainai D- z 6 . Iyi itsika inotaridza kushaya rukudzo chaizvo. Aya maitikiro echinhu nenzira inoshamisa.
+manana 	DKK 	6 	z 		manana DKK z 6 . Manana chiitiko chidiki, chinoshamisa dzimwe nguva, chinonzi nevakuru chinoshuridzira kuti zvimwe zvinhu zvikuru zvinoshamisa zviitike mberi. mashura 6 . Kana munhu akakuitira manana anenge akuitira zvimwe zvinhu zvinokutsamwisa, zvichikushaisa chekutaura.
+mandionekwe 	DKKKK 	6 	z 		mandionekwe DKKKK z 6 . Uku kuita zvinhu kuti vanhu vagokurumbidza kuti uri shasha. chindionei 7 .
+mandiriri 	DKKK 	6 	z 		mandiriri DKKK z 6 . Uku kuita chimwe chinhu zvakanyanya chaizvo, kusvika kwekupedzisira. Pamuchato vanhu vakanga vakachena zvemandiriri.
+mandodyachipi 	DKDKD 	6 	z 		mandodyachipi DKDKD z 6 . Uku kuvapo kwezvekudya zvakawanda, zvemhando dzakawanda zvekuti vanhu vanenge vachitoita saruraude.
+mandorokwati 	DDDKD 	6 	z 		mandorokwati DDDKD z 6 . Ichi chinhu chaichoicho chisiri chekunyepera.
+maneka 	DKD 	6 	z 		maneka DKD z 6 . Kana munhu akakubatisa maneka anenge akuitira zvinhu zvekukuwanzira, zvinokudhina kana kuti zvichakupengesa.
+manengeza 	DKKD 	6 	z 		manengeza DKKD z 6 . Ku manengeza ndiko kumucheto kunoperera davi remuti rava kunotepuka.
+manera 	DKD 	6 	z 		manera DKD z 6 . Manera zvimiti zvirefu zvakaroverwa pamwe, zvinoita kuti munhu akwanise kukwira pamusoro, zvakaita sepakupfirira imba.
+maneto 	D- 	6 	z 		maneto D- z 6 . Maneto kurwadziwa nenhengo dzemuviri mushure mekushanda zvakaomarara. manyaro 6, madendere 6 .
+mangai 	DKD 	6 	z 		mangai DKD z 6 . Mangai chibage chakaoma chakatokonorwa chikabikwa. mungai 3, manjewere 6 .
+mangamanga 	D- 	6 	z 		mangamanga mhangamhanga D- z 6 . Chinhu che mangamanga chinhu chisina maturo. Paainge ataura zvinhu zvemangamanga, vanhu vazhinji vakabva vasimuka pamusangano ndokuenda.
+mangange 	DDK 	6 	z 		mangange DDK z 6 . Kana vanhu vakaita mangange pamakundano vanenge vabuda vakaenzana. jenje 5 .
+mangisi 	DKD 	6 	z 		mangisi DKD z 6 . Mangisi idoro richangodirwa rinenge richiri kutapira.
+mango 	DK 	6 	z 		mango DK z 6 . mukanwa 3 .
+mangondo 	D- 	6 	z 		mangondo D- z 6 . Mangondo inzvimbo inowanika murwizi, ine matombo panopopoma mvura.
+mangoromera 	D- 	6 	z 		mangoromera D- z 6 . Uyu mushonga unoshandiswa kupa munhu simba rekuti akwanise kurwa chaizvo nekurova zvibhakera zvinorwadza.
+mangwana 	DKD 	6 	z 		mangwana mangwani DKD z 6 . Iri izuva rinotevera nhasi. Mangwana inguva ipi zvayo ichazotevera. Shamwari, ini handidi zvinhu zvinozondinetsa mangwana.
+mangwanangwana 	DKKKK 	6 	z 		mangwanangwana mangwananingwanani DKKKK z 6 . Idzi inguva dzemakuseniseni zuva risati rambobuda.
+mangwanani 	D- 	6 	z 		mangwanani D- z 6 . Idzi inguva dzekutanga kwezuva kusvika panozotangawo masikati. Izwi rinoshandiswa kumhoresa vanhu munguva dzekunze kuchangoedza.
+mangwanjangwanja 	D- 	6 	z 		mangwanjangwanja ungwanjangwanja D- z 6 . Iyi midziyo yasakara inenge yakangoti bvururu pasi yakaita semasimbi emotokari.
+mangwanudya 	DKKD 	6 	z 		mangwanudya DKKD z 6 . Iri izuva rinotevera kusweramangwana.
+manhede 	DKD 	6 	z 		manhede DKD z 6 . maji 6 . manhendeshure 6 .
+manhedzwa 	DDK 	6 	z 		manhedzwa DDK z 6 . Manhedzwa mushonga unopiwa kuvarwi vehondo, kuti nyere kana mabara zvitsvedze, varege kupfurwa.
+manhenda 	DDK 	6 	z 		manhenda DDK z 6 . Iri izwi rinoratidza kuti hapana tarisiro yekuti chinhu chichaitika asi kuti ndechokutotenda chaitika. Mombe tsiru manhenda waikama.
+manhendashure 	DDKKD 	6 	z 		manhendashure manhendeshure DDKKD z 6 . Uku kufamba munhu achidzokera shure kwawakafuratira. madududu 6, manhede 6 .
+manheru 	DDK 	6 	z 		manheru DDK z 6 . Manheru inguva dzinotevera masikati apo zuva rinenge ranyura, kwava kusviba kana kuti kwatosviba. Manheru izwi rinoshandiswa pakumhoresa vanhu nguva dzekunze kwasviba. madekwana 6 . Manheru usiku hwapfuura. madeko 6 .
+manhikauka 	D- 	6 	z 		manhikauka D- z 6 . Uku kuisa zvinhu munzvimbo zvisina kuenzanirana. Uku kufamba munhu kana mhuka ichisvetuka-svetuka, ichihwanda, ichinzvenga kubatwa.
+manhuchu 	DKD 	6 	z 		manhuchu manyuchu DKD z 6 . Manhuchu chibage chinotswiwa, chozobikwa, chomonwa nedovi, chinodyiwa sesadza kana kunwiswa tii.
+manhungetunge 	DKDKD 	6 	z 		manhungetunge DKDKD z 6 . Uku kurwadza kunoita mudumbu, kana munhu adya zvinhu zvakaita sechibage asingatsengi zvakanaka. manhungirwa 6 .
+manhungirwa 	DDKK 	6 	z 		manhungirwa DDKK z 6 . Izvi zvirimwa zvakaita semuriwo kana chibage zvinomera pane zvimwe. Ndinoda manhungirwa emuriwo uyu, kuti ndigodyarawo wangu.
+manja 	D- 	6 	z 		manja mandya D- z 6 . Manja kuuchira kunoita munhu kana achiremekedza waanenge achitaura naye, kana kutenda.
+manjenjenje 	D- 	6 	z 		manjenjenje D- z 6 . Uku kujeka-jeka zvikuru kweruvara. Aya mazirimi emoto anoenda kure.
+mano 	D- 	6 	z 		mano D- z 6 . Mano imhangwa kana pfungwa dzinobatsira. mazano 6 . Mano uchenjeri pakuita zvinhu. Kana munhu ane mano anenge ane chitsotsi chekunyengedza kuti atorere vamwe zvinhu zvavo.
+manomano 	D- 	6 	z 		manomano D- z 6 . Aya manyepo anorukwa nemunhu kuti awane zvaanoda, vanhu vachiti ichokwadi. mano 6 .
+manyaro 	D- 	6 	z 		manyaro D- z 6 . Manyaro kuneta kunonzwa munhu mumuviri mushure mekushanda kana kufamba zvakanyanya. maneto 6, madendere 6 .
+manyatera 	D- 	6 	z 		manyatera D- z 6 . Izvi zvipfekwa zvemutsoka zvinowanzogadzirwa nematayi emota asakara.
+manyaunyau 	D- 	6 	z 		manyaunyau D- z 6 . Uku kumiramira kunoita bvudzi mumusoro pamusana pekutya. manyau 6 .
+manyautsamukanwa 	D- 	6 	z 		manyautsamukanwa D- z 6 . Uku kudya kunoita kuti, kana wakunzwa, unzwe kuda kumwe kudya zvakanyanya.
+manyaviri 	DDDK 	6 	z 		manyaviri DDDK z 6 . mapatya 6 .
+manyawi 	DDK 	6 	z 		manyawi DDK z 6 . manyemwe 6 . Kana munhu achiita manyawi nekugona kwake, anenge achiratidza kufara kwake nezvaanokwanisa kuita.
+manyemwe 	D- 	6 	z 		manyemwe D- z 6 . Manyemwe kuita kwemunhu anoda kuonererwa. manyawi 6 . Manyemwe kuita zvinhu zvekufarisa. Kuita manyemwe kudenha mumwe, uchimuitira zvinosvota.
+manyepo 	D- 	6 	z 		manyepo D- z 6 . Manyepo kutaura zvinhu zvisiri zvechokwadi. nhema 10 .
+manyerekete 	DKKKK 	6 	z 		manyerekete DKKKK z 6 . Aya mavara mavara anenge ari pahembe. manyezu 6, manyezunyerekete 6 .
+manyezu 	DKD 	6 	z 		manyezu DKD z 6 . manyerekete 6 .
+manyezunyakata 	DKDDDD 	6 	z 		manyezunyakata DKDDDD z 6 . Aya mamino anenge ari panguo yechikadzi.
+manyirinyiri 	D- 	6 	z 		manyirinyiri D- z 6 . Uku kupenyapenya kunoonekwa pamusana pezuva rinenge richipisa. unyirinyiri 14 .
+manyoka 	DKK 	6 	z 		manyoka DKK z 6 . Manyoka itsvina yakatetepa kuita mvura, inoburitswa nemunhu anenge achirwadziwa nemudumbu.
+manyongori 	DDDK 	6 	z 		manyongori DDDK z 6 . Uku kusawirirana pakati pevanhu vakawanda kunokonzera ruvengo.
+manyowa 	D- 	6 	z 		manyowa manowa D- z 6 . Manyowa indove yemhuka kana masora anoiswa mumunda kuti mbeu dzikure zvakanaka. mupfudze 3, mufudze 3 .
+manyuchi 	DDK 	6 	z 		manyuchi DDK z 6 . Manyuchi hutapitapi hunowanikwa panoburwa uchi. Manyuchi chirwere chekununa, chinowanzowanikwa parukweza kana kuchipisa, uye mvura isinganayi. Manyuchi kudya kunotapira kunopihwa kumombe.
+manyuko 	D- 	6 	z 		manyuko D- z 6 . Manyuko ndipo panzvimbo panotangira rwizi.
+manyumwa 	DDK 	6 	z 		manyumwa DDK z 6 . Uku kuva nefungidziro yezvinoda kuitika, fungidziro iyi itori chokwadi.
+manyurududu 	DKKKK 	6 	z 		manyurududu DKKKK z 6 . chamunyurududu 7 .
+manzvinzvi 	D- 	6 	z 		manzvinzvi D- z 6 . Manzvinzvi chikafu chisina kupera kuzeyiwa, chinowanikwa muura hwemhuka yaurayiwa. mazvizvi 6, matsetsemwa 6 .
+manzwira 	DKD 	6 	z 		manzwira mahwira DKD z 6 . Uku kunzwa nyaya iri kutaurwawo nevamwe vanhu, iwe usina chokwadi nezvawanzwa. Kana munhu achiita manzwira anenge achinzwa kunge pane munhu ari kutaura naye kana kudeedzera, ipo pasina.
+maodzamwoyo 	D- 	6 	z 		maodzamwoyo D- z 6 . Aya mazwi anosvota anoita kuti munhu apere shungu kana chido mune zvaanga achida kuita.
+maodzanyemba 	D- 	6 	z 		maodzanyemba D- z 6 . Iri idivi rekuruboshwe kwemunhu kana akatarisa kunovirira zuva.
+maorera 	D- 	6 	z 		maorera D- z 6 . Aya mashizha, uswa nemarara zvinenge zvakaunganidzwa kuti zvizoshandiswa semupfudze kana zvaorera. manyowa 6, kombositi 9 . Uyu munhu anongotora zvinhu zvose asingasarudzi.
+maorera 	DDKD 	6 	z 		maorera DDKD z 6 . Uyu munhu akapfava pazviito, asingadi zvekutaudzana nevanhu.
+maoresa 	D- 	6 	z 		maoresa D- z 6 . Uku kuita chinhu chakanaka chaizvo zvinotoshamisa nekukudzwa nevamwe vese.
+mapangiro 	DDKK 	6 	z 		mapangiro DDKK z 6 . Aya mashuwiro kana kudisisa kwaunoita chinhu chawakagumisira kudya kana kuona karekare.
+mapatya 	D- 	6 	z 		mapatya D- z 6 . Mapatya vana vaviri vanozvarwa nguva imwe namai vamwe chete. manyaviri 6, manyambiri 6 .
+mapere 	D- 	6 	z 		mapere D- z 6 . Mapere chirwere chinokonzera maronda anongobuda ropa zvisina magumo. maperembudzi 6 .
+maperembudzi 	DDDKK 	6 	z 		maperembudzi DDDKK z 6 . mapere 6 .
+mapeto 	D- 	6 	z 		mapeto D- z 6 . Mapeto ndekwekupedzesera kwemunda kana nyika. magumo 6 . Mapeto ndekwakagumira chinhu chero chese chese. magumo 6 .
+mapezi 	DDK 	6 	z 		mapezi DDK z 6 . Mapezi chirwere chemhezi.
+mapfeka 	D- 	6 	z 		mapfeka D- z 6 . Mapfeka kupera kwevhudzi mumativi emusoro.
+mapise 	DKD 	6 	z 		mapise DKD z 6 . Iri idoro rechivanhu rakwatiswa kechipiri. muhwiko 3 .
+mapitse 	DDK 	6 	z 		mapitse DDK z 6 . makundano 6 .
+mapopo 	D- 	6 	z 		mapopo D- z 6 . mapopoma 6 .
+mapopopoma 	D- 	6 	z 		mapopopoma D- z 6 . Iyi imvura inoerera ichibva pakakwirira ichiwira pakadzikira. Mapopoma eVictoria Falls ane mukurumbira chaizvo pasi rose. mapopo 6 .
+mapudege 	DKDK 	6 	z 		mapudege DKDK z 6 . Uku kudya kunonaka chaizvo. magiribidi 6 .
+maputi 	DKD 	6 	z 		maputi DKD z 6 . Maputi chibage chakaoma, chakakangwa kana kuputitswa.
+mapwapwapwa 	D- 	6 	z 		mapwapwapwa D- z 6 . Urwu ruzha runobuda panenge pachitsva miti kana sora risina kuoma.
+maradzwa 	DKD 	6 	z 		maradzwa muradzwa DKD z 6 . Maradzwa isadza ratonhora rakasara usiku. munya 3 .
+marambadoro 	D- 	6 	z 		marambadoro D- z 6 . Uku kushusha kana kunetsa kunoitwa nemunhu kana anwa doro, zvaasingaite kana achinge asina kunwa.
+marambakutya 	DDDDK 	6 	z 		marambakutya DDDDK z 6 . Uku kuratidza kwaunoita waunoda kurwa naye kuti haumutyi. Simba akapa Ringi kabhakera kadiki kemarambakutya.
+maramwa 	DDK 	6 	z 		maramwa DDK z 6 . Maramwa itsika yekuti mumwe munhu kana akangotsamwa oramba chikafu kana kutaura. chiramwa 7 .
+maranga 	D- 	6 	z 		maranga D- z 6 . Maranga zvichena zvinobuda pamativi emaziso kana munhu akavata, kana kuti maziso achirwadza. mabori 6 .
+marara 	D- 	6 	z 		marara D- z 6 . Marara zvinhu zvinoraswa nekuti hazvisisina basa. tsvina 9 . Marara mashoko asina maturo. tsvina 9 .
+mararo 	DKK 	6 	z 		mararo DKK z 6 . Mararo kupinduka-pinduka kunoita munhu akarara, zvichikonzera kuti abve panzvimbo yaanga akarara pakutanga. mavato 6, mafundo 6 .
+marasha 	D- 	6 	z 		marasha marishe D- z 6 . Marasha mazimbe emoto anoshandiswa kudziya kana kuchisa mbatya.
+marata 	DKD 	6 	z 		marata DKD z 6 . Marata masimbi anoshandiswa kupfiririsa dzimba, zvikuru dzekona. mazen'e 6 .
+mare 	D- 	6 	z 		mare D- z 6 . Mare chinhu chinoitwa zvakanaka kana zvakashata zvakapfuurikidza. Mukomana uya akashura mare paakatuka amai vake. marere 6 .
+marehwarehwa 	DKKDK 	6 	z 		marehwarehwa DKKDK z 6 . Aya mashoko kana nyaya dzinenge dzichifambiswa muchivande. hwenya 9 .
+marenje 	DKK 	6 	z 		marenje DKK z 6 . mukwerera 3 .
+marere 	D- 	6 	z 		marere D- z 6 . mare 6 .
+marero 	D- 	6 	z 		marero D- z 6 . Marero chipo chinopihwa munhu anenge arera mwana wemumwe kwemakore. chiredzwa 7 .
+marevo 	DKK 	6 	z 		marevo DKK z 6 . Marevo mazwi akaipa anotaurwa nemunhu kune umwe munhu.
+mareyamhuru 	DKKDK 	6 	z 		mareyamhuru DKKDK z 6 . Uku kuchinjika kunoita mwana ari mudumbu ramai vake, zvinogona kukonzera njodzi. Ichi chipo chinopiwa nyamukuta anenge abatsira pakusununguka kwemudzimai, zvikuru kana pane zvanga zvichinetsa pabasa racho.
+maricho 	DKK 	6 	z 		maricho DKK z 6 . Maricho kushanda kuya kokuti unobva wangipihwa basa rokuti ukaripedza wotobhadharwawo ipapo, asi iwe usiri musevenzi wemazuva ose panzvimbo pacho.
+maridzambira 	D- 	6 	z 		maridzambira D- z 6 . Uyu munhu anorova kana kutekenya mbira zvakaoma. gwenyambira 1a .
+mariketi 	DKDD 	6 	z 		mariketi DKDD z 6 . Mariketi inzvimbo inotengeserwa mombe kana zvimwewo zvinhu. mareketi 6 .
+marimba 	D- 	6 	z 		marimba D- z 6 . Marimba magaba anogadzirwa nemutoo wekuti anoridzika mimhanzi inonakidza. Marimba zviridzwa zvinogadzirwa nezvitanda zvakarongwa zvakachinjika, zvinoti kana zvikarohwa netumiti, maungira acho okudziridzwa nezvakaita zvitende zviri pazasi.
+marimwezuro 	D- 	6 	z 		marimwezuro D- z 6 . Iri izuva riri pashure perazuro.
+mariro 	D- 	6 	z 		mariro D- z 6 . Mariro inguva yekuchema mufi. rufu 11 .
+marongero 	DDKK 	6 	z 		marongero DDKK z 6 . Iyi inzira inoita nayo munhu zvinhu.
+maroro 	D- 	6 	z 		maroro D- z 6 . Iyi inzvimbo inonzi inoenda vanhu kunotsvaga mishonga yakasimba, yekushandisa kuvavengi vavo.
+marubvurubvu 	DKDKD 	6 	z 		marubvurubvu urubvurubvu DKDKD z 6 . Kana chingwa chakaita marubvurubvu chinenge chakamwararika chisina kunyatsochekwa.
+marukusa 	D- 	6 	z 		marukusa D- z 6 . Idzi ihembe dzinotengwa dzakambopfekwa. mazitye 6, mukambo 3 .
+marute 	DDK 	6 	z 		marute DDK z 6 . masiriri 6 .
+marutsi 	DKD 	6 	z 		marutsi marutse DKD z 6 . Marutsi ndezvinosemesa zvinobuda nemumuromo zvichibva mudumbu mushure mekunge zvambodyiwa.
+masairira 	D- 	6 	z 		masairira D- z 6 . masaisai 6 .
+masaisai 	D- 	6 	z 		masaisai D- z 6 . Uku kufamba kunoita mvura mudziva kana mhepo ichivhuvhuta kana kuti makandwa ibwe. masairira 6 .
+masakadzwa 	DDKD 	6 	z 		masakadzwa DDKD z 6 . Iyi itsika yokukasira kubvarura hembe.
+masamba 	D- 	6 	z 		masamba D- z 6 . Masamba mashizha manyoro kana akaomeswa, anoiswa mumvura inovira kuti iite putugadzike.
+masanga 	DDK 	6 	z 		masanga DDK z 6 . Masanga kuerekana waona munhu kana chinhu chawanga usina fungidziro yekuti uchaona. mahwekwe 6, mambunga 6 .
+masanganiswa 	DDKKD 	6 	z 		masanganiswa DDKKD z 6 . Iri idoro rinowanikwa kana masvusvu nemhanga zvavhenganiswa.
+masero 	D- 	6 	z 		masero D- z 6 . chisero 7 .
+masese 	D- 	6 	z 		masese D- z 6 . Masese magufu anosara panosvinwa doro. Masese magufu emaheu anosaririra muhari. Masese idoro rechivanhu, kazhinji kana richienzaniswa neremumabhotoro pakutaura.
+masetswa 	DDK 	6 	z 		masetswa DDK z 6 . setswa 10 .
+mashakada 	DDKD 	6 	z 		mashakada mushagada DDKD z 6 . manhuchu 6 . Ichi chibage chakaoma, chakabikwa chikaiswa munyu. mangai 6, mungai 3 .
+mashambanzou 	D- 	6 	z 		mashambanzou mashambazhou D- z 6 . Iyi inguva yemangwanani-ngwanani, zuva risati rabuda.
+mashangurapata 	DDKDDD 	6 	z 		mashangurapata DDKDDD z 6 . Urwu rwendo runofamba munhu osvikoshaya zvaanga afambira.
+mashazhare 	D- 	6 	z 		mashazhare D- z 6 . mashakada 6 .
+mashe 	D- 	6 	z 		mashe D- z 6 . Mashe mashizha kana mauswa anowanikwa mumwena wembeva. marishe 6, marise 6 .
+mashiri 	D- 	6 	z 		mashiri D- z 6 . Mashiri imombe inourayiwa parufu kuti vanhu vawane muriwo.
+mashiriapungana 	DDDKDDD 	6 	z 		mashiriapungana DDDKDDD z 6 . Kana mukaita mashiriapungana munenge masvikowana vanhu vane basa ravari kuita, imi mobva matobatsiranawo navo.
+mashopeshope 	D- 	6 	z 		mashopeshope D- z 6 . Kuenda ku mashopeshope kuenda kun'anga kunobvunzira chikonzero chinenge chauraya mufi. gata 6 .
+mashwashwa 	D- 	6 	z 		mashwashwa D- z 6 . Mashwashwa itsinga dzinobatanidza mapfundo emuviri.
+masikati 	DKKD 	6 	z 		masikati DKKD z 6 . Iyi inguva iri pakati pemangwanani nemanheru kana zuva rorova nhongonya. Iri izwi rekukwazisa naro vanhu munguva inenge zuva rakwira kusati kwavira.
+masiriri 	DKKK 	6 	z 		masiriri DKKK z 6 . Aya mate anoerera pamuromo kana paine chinhu chinonaka chinenge chaonekwa, kana kuti unenge ungori mugariro wemunhu wacho, zvikuru pwere. marute 6 .
+masowe 	DDK 	6 	z 		masowe DDK z 6 . Masowe inzvimbo isingagarwi nevanhu kunoenda vatenderi vechipositori kunonamata.
+masukauta 	DDDDK 	6 	z 		masukauta DDDDK z 6 . Iyi inhaka yaunopihwa kana kuti yaunofanira kupihwa, semuzukuru kunyanya. Uyu munin'ina kana mwanasikana wehanzvadzi yomudzimai, anopihwa murume watete semukadzi mudiki kana iye aguma kubereka.
+masungiro 	DKKD 	6 	z 		masungiro DKKD z 6 . Ichi chirango chinoitwa nemukuwasha paanoendesa mudzimai wake kumusha kuna amai vake, kuti anosunungukira ikoko mwana wekutanga.
+masunungurahomwe 	DKKKDKK 	6 	z 		masunungurahomwe DKKKDKK z 6 . Iyi imari inopihwa kuna baba vemusikana nemunyai kuti achivhura homwe yake yemari pakuroora.
+masuo 	DKD 	6 	z 		masuo DKD z 6 . Masuo mushonga unopiwa mudzimai ava kuda kupona kuti apone zvisina ngozi.
+masutso 	DKK 	6 	z 		masutso matsutso DKK z 6 . Masutso inguva yegore apo zvirimwa zvinenge zvava kuda kudyiwa.
+masuvanzombe 	DDDKK 	6 	z 		masuvanzombe DDDKK z 6 . Iri zidimbu resadza rinoumbwa nemunhu pakudya, achiita seanotya kupedzerwa. musovanzombe 3 .
+masvinwa 	DDK 	6 	z 		masvinwa DDK z 6 . Masvinwa idoro rava kupera kubikwa, rasanganiswa nemasvusvu.
+masvisvinwa 	DKKK 	6 	z 		masvisvinwa DKKK z 6 . Aya makanda kana mhodzi dzinosvipwa kana munhu achidya zvinosvisvinwa muto. Aya magufu kana mafufu anosaririra mukanwa kana munhu achinge anwa masvusvu kana maheu.
+masvosva 	D- 	6 	z 		masvosva D- z 6 . mviromviro 10 .
+masvukumbwandara 	D- 	6 	z 		masvukumbwandara D- z 6 . Uyu mukwasha akapfava kuvabereki vemukadzi wake.
+masvusvu 	DDK 	6 	z 		masvusvu DDK z 6 . Masvusvu ndeanobikwa nemvura yakafashaidzwa nemamera akakuyiwa.
+matadza 	D- 	6 	z 		matadza D- z 6 . Matadza ndepanomera mazino ekumashure.
+matafanirwa 	D- 	6 	z 		matafanirwa D- z 6 . Iyi imari kana chimwewo chinhu chinopihwa muridzi wechipfeko chinenge chapfekwa nemumwewo munhu, kana chamugara zvekuti anenge ochida iye, saka zvine anenge opa muridzi wechipfeko chimwewo chinhu chekubata.
+matakadyakare 	DDKDDD 	6 	z 		matakadyakare DDKDDD z 6 . Iri izwi rinoshandiswa kutaurira munhu kuti zvaakakuitira zvakatopfuura nenguva yazvo, saka haafaniri kuramba achingotarisira kutendwa kana kuitirwawo chimwe chinhu. Matakadyakare haanyaradze mwana.
+matakanana 	D- 	6 	z 		matakanana matakanyanya D- z 6 . Aya matambiro anoita vana vachiri vadikidiki vachiteedzera zvinowanzoitwa mudzimba nevakuru, sezvakaita kubika vachitamba nemavhu nemvura. Iri ibasa risina kuita zvakanaka, rinenge raitwa nemunhu mukuru, zvoita kunge dambe repwere.
+matakanyadzana 	DDKKDD 	6 	z 		matakanyadzana DDKKDD z 6 . Uku kutsivana kuya kwekubva vanhu mese mashaya anowana chamanga muchinetserana kana kukwikwidzirana. shaisano 9 .
+matandanyadzi 	DKDKK 	6 	z 		matandanyadzi DKDKK z 6 . Izvi ndezvinoitwa nemunhu zvekunatsidzira kuti azviburitse mukunyara.
+matanho 	D- 	6 	z 		matanho D- z 6 . Matanho urongwa hwezvitevedzwa zvinotorwa kuenzanisa kana kugadzirisa zvinhu.
+matapi 	DKK 	6 	z 		matapi DKK z 6 . Matapi idoro rinonwiwa kuti munhu abvise bhabharasi. mamutsamoyo 6 .
+matapudzirwa 	DKKDK 	6 	z 		matapudzirwa DKKDK z 6 . Aya mabota anobviswa mupoto iri kubikirwa sadza kuti azoshandiswa kudiramo kana richinge raita dete.
+mate 	DK 	6 	z 		mate DK z 6 . Mate imvura inogara mukanwa yatinosvipa.
+matekenyandebvu 	D- 	6 	z 		matekenyandebvu D- z 6 . Iyi imari inobvisiswa nemukuwasha pakuroora, yekuripa kuti musikana aitamba nendebvu dzababa achiri mudiki.
+matekeshe 	D- 	6 	z 		matekeshe D- z 6 . Uku kupararira kunenge kwakaita vanhu kana mombe panzvimbo hombe. dekeshe 5, dekeshera 5 .
+matemahuni 	DKKKK 	6 	z 		matemahuni DKKKK z 6 . Iri idoro rinopiwa kuvanhu vanenge vatsvaga huni dzekubikisa doro racho.
+matemhe 	DDK 	6 	z 		matemhe DDK z 6 . Matemhe zvimedu zvinoputsika kubva padende kana damba rakazara.
+matenganagudo 	DKKKKD 	6 	z 		matenganagudo DKKKKD z 6 . Ichi chibvumirano pakati pevaviri kuti vanozopanana chii, kana mumwe nemumwe aitira mumwe wacho chimwe chinhu. Chipo naSofi vakaitirana mutenganagudo apo Chipo akati aizopa Sofi hembe kana Sofi amuwachira. mupananawegudo 3 .
+materekeshe 	D- 	6 	z 		materekeshe D- z 6 . Uhwu uwandu hwezvinhu munzvimbo kana panzvimbo.
+materera 	D- 	6 	z 		materera D- z 6 . Kana wapiwa materera unenge wasarudzwa kuti ndiwe unochengeta vana vomufi. sarapavana 1a . Kana uchitonga materera unenge uri munhu ambofanoiswa pachinzvimbo chamambo afa, kusvikira nguva ichazogadzwa mambo mutsva.
+materu 	DKD 	6 	z 		materu DKD z 6 . Materu inzvimbo yakatenukira zasi. ANTONYMS mukwidza 3.
+matewo 	D- 	6 	z 		matewo D- z 6 . Matewo kugadzikana kwezvinhu zvese zvichinyatsofamba zvakanaka. Akabvunzwa naambuya vake kuti kuuya kwake aive matewo here, akati hongu paive pasina chakashata kumusha.
+mateya 	D- 	6 	z 		mateya D- z 6 . mamheya 6 .
+matinji 	DKK 	6 	z 		matinji matinjwi DKK z 6 . Matinji inhengo dzinowanikwa kuzasi kwemukadzi dziri pamativi epanobuda neweti.
+matoto 	D- 	6 	z 		matoto D- z 6 . madororo 6 .
+matotoutare 	DKKDKD 	6 	z 		matotoutare DKKDKD z 6 . Iyi imhangura nyoro inenge yakadonha pasi.
+matsakadzwa 	DDKD 	6 	z 		matsakadzwa DDKD z 6 . musakanzwa 3 .
+matsenganzungu 	DKKDK 	6 	z 		matsenganzungu DKKDK z 6 . Apa ndepanosangana shaya yepamusoro neyepazasi.
+matsetsemwa 	D- 	6 	z 		matsetsemwa D- z 6 . Ichi chikafu chisina kugayiwa, chinowanikwa mudumbu remombe kana yaurayiwa. manzvinzvi 6 .
+matsewe 	DKK 	6 	z 		matsewe DKK z 6 . Iri ibindu rinorimwa muchirimo. doro 5 .
+matsive 	DDK 	6 	z 		matsive DDK z 6 . Kuita matsive kuda kudzorera zvinhu zvakaipa zvaunenge waitirwa.
+matsotso 	DKK 	6 	z 		matsotso madzotso DKK z 6 . Matsotso mazihuni akangozara-zara asina neshumo yese. Matsotso inzvimbo yakahwanda uye iri kure.
+matsunetsune 	D- 	6 	z 		matsunetsune D- z 6 . Uku kuita chinhu uchiziva kuti zvinozoitika ndezvipi. Uku kudonha nemusoro.
+matukano 	DKKD 	6 	z 		matukano DKKD z 6 . Uku kuudzana mashoko akaipa kana zviya vanhu vamutsana.
+matuku matuku 	D- 	6 	z 		matuku matuku matukutuku D- z 6 . Izvi zvinhu zvakawanda zvikuru.
+matumba 	D- 	6 	z 		matumba D- z 6 . mahumbwe 6 .
+matumbu 	D- 	6 	z 		matumbu D- z 6 . Matumbu ura hwemhuka. Matumbu emombe anonaka chaizvo kana akazanganiswa neguru nemuriwo. dumbu 5 .
+matumburira 	D- 	6 	z 		matumburira D- z 6 . Ichi chikamu chedumbu chiri pasi peguvhu. Uku kuburitsa hove mumvura yakabayiwa nepadumbu nechiredzo, kana zviya muchiraura.
+matunduru 	D- 	6 	z 		matunduru madunduru D- z 6 . Aya maitiro ekugara mumwe pachipfuva kana muchirwa.
+maturo 	DKK 	6 	z 		maturo DKK z 6 . Zvinhu zvine maturo zvinenge zvakanaka, kana kuti zvichiyemurika, kana kuti zvichibatsira. Zvawakaita, zvekusiya vana vari vega iwe uchienda kumafaro, ndizvo zvinonzi zvisina maturo chaizvo.
+matyira 	DKD 	6 	z 		matyira DKD z 6 . Munhu ane matyira munhu ane rukudzo, anoziva zvaanokwanisa kuita nezvaasingakwanise kuita, uye nevanhu vaanozviitira.
+matyo 	DK 	6 	z 		matyo DK z 6 . Matyo kuratidza ugwara. Jona ane matyo ukafamba naye usiku. umbwende 14 .
+maundo 	DKK 	6 	z 		maundo DKK z 6 . Maundo kurimwa kunoitwa minda muchirimo, vanhu vachigadzirira kuzorimazve minda iyoyo muzhizha.
+maune 	DKD 	6 	z 		maune maone, mambune DKD z 6 . Maune kuita kwemunhu chinhu chaanoziva kuti chakaipa.
+maungira 	DKDK 	6 	z 		maungira DKDK z 6 . Uku kunzwika kunoita kurira kwemhepo kana mota. Ndadaidzira ndiri mugomo, pakabuda maungira.
+mauro 	DDK 	6 	z 		mauro DDK z 6 . manheru 6 .
+mauta 	DKD 	6 	z 		mauta DKD z 6 . Mauta kukura kunoita dumbu remhuka hadzi kana yoda kuzobereka. matsoko 6 .
+mavambo 	D- 	6 	z 		mavambo D- z 6 . Apa ndepanotangira zvinhu. ANTONYMS magumo 6.
+mavato 	DKK 	6 	z 		mavato DKK z 6 . mararo 6 .
+mavhu nemarara 	DK KKDD 	6 	z 		mavhu nemarara DK KKDD z 6 . Kana zvinhu zvakaita mavhu nemarara zvinenge zvakawanda zvakanyanyisa. fararira 9 .
+maviri 	DDK 	6 	z 		maviri DDK z 6 . mapatya 6 .
+mavirira 	DKKD 	6 	z 		mavirira DKKD z 6 . Uku ndekunonyura nako zuva. madokero 6 .
+mawara 	D- 	6 	z 		mawara D- z 6 . Kana munhu achinzi ane mawara anenge achiita zvinhu zvekupaparika achionererwa. manyemwe 6, dzungu 5 .
+mawere 	DKD 	6 	z 		mawere DKD z 6 . Mawere ndekunodzikira kwegomo kana mukwidza.
+mawiramombe 	D- 	6 	z 		mawiramombe D- z 6 . Uku kudonha kwevanhu pamwe, sekuti kana vanhu vachirwa.
+mawiraunga 	DDDDK 	6 	z 		mawiraunga DDDDK z 6 . Kana ukaita mukadzi mawiraunga unenge waita zvokumukurumidzira kumuisa, iye asati ava kuda.
+mawire 	D- 	6 	z 		mawire D- z 6 . Mawire itsika yekumbundikirana pakumhoresana.
+mawirirano 	D- 	6 	z 		mawirirano D- z 6 . Uku kupindirana kana kunzwanana kunoita vanhu. Pane mawirirano pakati pemukomana nemusikana.
+mazangwa 	DKD 	6 	z 		mazangwa DKD z 6 . Iri idende rinotaura, seriya rinoshandiswa nen'anga.
+mazarirwa 	DKDD 	6 	z 		mazarirwa mazaridzwa DKDD z 6 . Kana munhu ane mazarirwa anenge ane chirwere chekutadza kunyatsofema, achifemera pamusoro dzimwe nguva.
+mazauone 	DKDDD 	6 	z 		mazauone DKDDD z 6 . Uyu mutambo kana zvinhu zvinofadza kuona. Muchato wangu waiva mazauone matindigoma kunakidza. mahuyauone 6 .
+mazaya 	DDK 	6 	z 		mazaya DDK z 6 . Mazaya chando chakagwamba. Mubani mafuma mune mazaya echando.
+mazembera 	D- 	6 	z 		mazembera D- z 6 . Uku kutaura nezwi gobvu kunonzwika nemunhu ari kune imwe nzvimbo. Ndanzwa mazembera mumba, ndikaziva kuti baba vauya. maziriri 6 . Mazembera mashoko ekuzvirumbidza kana kutyisidzira, anotaurwa muchisika nyimo. nzvipurira 10 .
+mazeva 	D- 	6 	z 		mazeva D- z 6 . matadza 6 .
+mazheke 	DDK 	6 	z 		mazheke DDK z 6 . Mazheke kuwanda kwezvokudya zvakabikwa. Pamutambo paiva namazheke enyama.
+mazisoenyoka 	DKKKDD 	6 	z 		mazisoenyoka mesoenyoka DKKKDD z 6 . Utwu tubage tudikidiki tusati twakora.
+mazitye 	DKD 	6 	z 		mazitye DKD z 6 . mukambo 3 .
+mazorodze 	DKDK 	6 	z 		mazorodze DKDK z 6 . Ichi chinhu chinounza runyararo mushure mematambudziko.
+mazuruzuru 	D- 	6 	z 		mazuruzuru D- z 6 . Uku kutya kunoita munhu anoziva kuti akapara mhosva.
+mazvimbiswa 	DKDK 	6 	z 		mazvimbiswa DKDK z 6 . Uku kukasira kana kunyanya kufutunuka kwepakuvara kana kurumwa. Arumwa ziso neigo rikavharika nokuda kwemazvimbiswa.
+mazvirokwazvo 	DDDKD 	6 	z 		mazvirokwazvo DDDKD z 6 . Zve mazvirokwazvo ndezvazviri chaizvo, pasina kunyepa. Mai vauya zvemazvirokwazvo. chokwadi 7, zvomene 8 .
+mazvizvi 	D- 	6 	z 		mazvizvi D- z 6 . manzvinzvi 6 .
+mazvokuda 	DDKD 	6 	z 		mazvokuda DDKD z 6 . madiro 6 .
+mechisi 	D- 	6 	z 		mechisi mechisa, muchisa D- z 6 . Mechisi tutanda tune misoro mitsvuku tunogadzirwa kuti twugoshandiswa kukwenywa kuti tubvirise moto.
+mesomeso 	KDDK 	6 	z 		mesomeso KDDK z 6 . Kuita mesomeso kuchiva vakadzi vakawanda kunoita varume, nekuchiva varume vakawanda kunoita vakadzi. ruchiva 11 .
+mutsakwani 	D- 	6 	z 		mutsakwani matsakwani D- z 6 . Uyu mupfudze wemasora nemashizha, zvinenge zvakadonhera zvega pasi. murakani 3 . Aya mauswa kana mashizha akaorera, anoiswa pazvirimwa semanyowa. murakani 3, hwakwani 9 .

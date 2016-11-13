@@ -1,0 +1,1532 @@
+bahwe 	KD 	5 	z 		bahwe KD z 5 . chibage 7 .
+barwe 	KD 	5 	z 		barwe KD z 5 . chibage 7 .
+beferere 	D- 	5 	z 		beferere D- z 5 . Kana mbeswa iri beferere inenge ichitefa kuratidza kuti haina kunyatsa kusvika.
+bembenene 	D- 	5 	z 		bembenene D- z 5 . Urwu rudzi rwechimbuyu chine mapapiro makuru,chinogona kuva mamavara mavara dzimwe nguva.
+bembwe 	D- 	5 	z 		bembwe D- z 5 . mhembwe 9 .
+bemhe 	DK 	5>6 	z 		bemhe DK z 5>6 . Bemhe muswe wehwai wakakora nemafuta.
+benemene 	K- 		ny 		benemene K- ny . Kuti benemene kuchena kwedenga risina kana kakore.
+bepe 	D- 	5 	z 		bepe D- z 5 . Bepe indebvu dzakareba.
+berepere 	D- 	5 	z 		berepere D- z 5 . Kana hembe ichinzi yakaita berepere inenge iine ruvara rwakasvibira.
+berevere 	DKKD 	5 	z 		berevere DKKD z 5 . buka 5 .
+betete 	D- 		ny 		betete D- ny . Kuti betete kugara zvakanaka wakazorora zvizere, sekuzorora uko tinoita takagara pasofa.
+bheke 	KD 	5 	z 		bheke KD z 5 . Bheke ihomwe hombe yokutakurira zvinhu.
+bhenemene 	K- 		ny 		bhenemene K- ny . ngwerewere .
+bherere 	D- 		ny 		bherere D- ny . Kuti bherere kuchema kwemakwai.
+bheshe 	D- 		ny 		bheshe D- ny . Kuti bheshe ruzha runoitwa nemunhu ari kufamba mujecha. zhwau .
+bhizautare 	DKDKD 	5 	z 		bhizautare DKDKD z 5 . bhasikoro 5 .
+bikakamwe 	DDKK 	5 	z 		bikakamwe DDKK z 5 . Ichi ndechokunwa chinobikwa nezviyo chakaita sedoro asi chichitapira uye chisingadhakisi. bumhe 5 .
+bindepinde 	KKDD 	5 	z 		bindepinde KKDD z 5 . Iyi itambo inenge yakarukwa ndandi dzichipesana-pesana.
+bise 	KD 	5 	z 		bise KD z 5 . Bise isora rinokonzera kuti mbeu dzitsve.
+biyepiye 	KDKD 	5 	z 		biyepiye KDKD z 5 . Ava vanhu vakawanda vanenge vachidzimaidzika.
+boche 	D- 		ny 		boche D- ny . Kuti boche kugamuchira zvaunenge uchipihwa uchiratidza kusatenda. Kuti boche kuuya pamwe chete kwevanhu vakawanda. unga unga .
+boche-e 	KD 		ny 		boche-e KD ny . Kuti boche-e kunyenyeredza pane vanhu kuti vasakuone. Akati boche-e neseri kwedanga kuti asaonekwa nevaiva pachivanze.
+bonde 	DK 	5 	z 		bonde DK z 5 . Bonde itsanga dzakatsemurwa dzakabatanidzwa nemikosi kugadzira chihukwe chekugarira kana chekurarira. rukukwe 11 .
+bondwe 	D- 	5 	z 		bondwe D- z 5 . chigadzamapfihwa 7 . Bondwe mukadzi wechipiri anenge ari munin'ina wemukadzi wekutanga.
+bonje 	D- 	5 	z 		bonje D- z 5 . Bonje inzvimbo ine ronda kana yaimbove neronda senge rekurohwa. mbonje 5 . Bonje mucherechedzo unosara pakakwatuka kana kuchecheneka pamudziyo wedhaka. vanga 5 .
+bonongwe 	DKD 	5 	z 		bonongwe DKD z 5 . Bonongwe ibundo rinodyiwa semuriwo, rine mashizha akatenderera, rinotsvukuruka pasi kana pamusoro uye rinowanzomera pamatanga. mowa 5, mbowa 5 .
+bope 	D- 	5 	z 		bope D- z 5 . Bope ruzha runoitika vanhu vachipopotedzana pachida kurwiwa.
+borombe 	DKD 	5 	z 		borombe DKD z 5 . Borombe imombe hadzi ichiri diki isati yazvara. tsiru 5 .
+boterere 	KKDD 	5 	z 		boterere KKDD z 5 . Apa panzvimbo panoungana mvura ichitenderera isati yapfuurira ichiyerera.
+bove 	D- 		ny 		bove D- ny . Kuti bove kuisa kunoita munhu chidimbu chezvokudya mumukanwa panguva imwe.
+bumbe 	KD 	5 	z 		bumbe KD z 5 . Bumbe kudya kunogadzirwa nemhodzi dzemanhanga dzinenge dzagayiwa.
+bune 	D- 	5 	z 		bune D- z 5 . Bune muchero unoberekwa nemuti unonzi mubune.
+bunguzeze 	D- 	5 	z 		bunguzeze D- z 5 . Idzi inyuchi dzakaungana pamwe chete. Usaende nepapa pane bunguzeze renyuchi. Iyi imheremhere yakanyanya.
+bupwe 	KD 	5 	z 		bupwe KD z 5 . Bupwe muti une mashizha anobikwa kuita derere.
+bure 	D- 	5 	z 		bure D- z 5 . mbodza 9 .
+buretete 	D- 	5 	z 		buretete D- z 5 . Uku kufamba kwezvinhu zvakawanda panhu pamwe, sezvinoita nyuchi.
+burishashike 	DKDDD 	5 	z 		burishashike DKDDD z 5 . Uku kusevenza kusina zororo.
+burunzeve 	KKDK 	5 	z 		burunzeve KKDK z 5 . Uyu munhu ane nzeve dzisinganzwi. matsi 9 .
+burushashike 	DKDDD 	5 	z 		burushashike DKDDD z 5 . Iyi ibvongamupopoto hombe.
+buse 	K- 	5 	z 		buse K- z 5 . besu 5 .
+butepute 	D- 	5 	z 		butepute D- z 5 . Ichi chinhu chisina kupetwa kana kupfekwa zvakanaka.
+butepute 	DKDD 	5 	z 		butepute DKDD z 5 . Uku kuputa fodya munhu asingazvipi mukana wekuzorora, achingoti akapedza iyi otanga imwe.
+bve 	K 		ny 		bve K ny . Kana chinhu chichinzi chati bve chinenge chabva pane imwe nzvimbo nekukasika.
+bvekepfeke 	D- 	5 	z 		bvekepfeke D- z 5 . bvekechera 5 .
+bvembere 	KDD 		ny 		bvembere KDD ny . Kuti bvembere kutiza-tiza kana kunzvenga-nzvenga kuti usabatwe kana kuonekwa.
+bvere 	D- 		ny 		bvere bveru D- ny . Kuti bvere kugara munhu achiratidza kudekara kana kuti kugadzikana.
+bveve 	D- 	5 	z 		bveve D- z 5 . bvee .
+bveverere 	D- 	5 	z 		bveverere D- z 5 . runyerekupe 11 .
+bvuche 	D- 	5 	z 		bvuche D- z 5 . Bvuche ironda rinorwadza, rinoita kazhinji murutsoka.
+bvungepfunge 	DDKK 	5 	z 		bvungepfunge DDKK z 5 . Uyu mutambo unoitwa nepwere vachitsvaka kuona kuti anenge asura pane vamwe ndiani. bhunyupunyu 5 .
+bvunzandibvume 	DKKKD 	1a 	z 		bvunzandibvume DKKKD z 1a . Uyu munhu anongobvuma zvose zvose. dzvetera 5 .
+bvure 	D- 		ny 		bvure D- ny . Kuti bvure kugara kunoita vanhu vazhinji vakanyarara sezvinoitwa pakafiwa. bvurere .
+bvurunyenye 	D- 	5 	z 		bvurunyenye D- z 5 . Urwu rutambo rwunenge rwabva patambo kana gumbeze rasakara.
+bvute 	D- 	5 	z 		bvute bvure D- z 5 . Bvute irima rinokonzerwa nokudzikatirwa kwezuva kana mwenje.
+bwanyanhekwe 	D- 	5 	z 		bwanyanhekwe D- z 5 . Iri ibasa rinorema zvikuru.
+bwanyenze 	DKK 	14 	z 		bwanyenze bwanyanza DKK z 14 . Bwanyenze idivi remusana riri kumusoro kumafudzi.
+bwe 	K 		ny 		bwe K ny . Kuti bwe kutya.
+bwedere bwedere 	KKK KDD 		ny 		bwedere bwedere KKK KDD ny . Kuti bwedere bwedere kutaura zvisina maturo. Usati bwedere bwedere uri padyo neni. Ndinokudira tsvimbo.
+bwenanguruve 	D- 	5 	z 		bwenanguruve D- z 5 . Urwu rudzi rwegwenzi rinokura richitandira mimwe miti. gwenanguruve 5 .
+bwenge 	DK 		ny 		bwenge DK ny . Zvokudya kana zvokunwa zvikati bwenge zvinenge zvakawanda.
+bweshe 	D- 		ny 		bweshe D- ny . bwerekeshe .
+bweshepweshe 	D- 	5 	z 		bweshepweshe D- z 5 . Uku kugara pasi kwemunhu akaneta kana akatsamwa. Izvi zvinhu zvakaita madhaka.
+bwetete 	DKD 	5 	z 		bwetete DKD z 5 . Bwetete zvinhu zvinenge zvakaita madhaka. Bwetete kurohwa kwemunhu mumwe nevanhu vakawanda.
+chahuvhe 	DKD 	7 	z 		chahuvhe DKD z 7 . chakuvhe 7 .
+chamhembe 	DKK 	7 	z 		chamhembe DKK z 7 . Ku chamhembe kwenyika kudivi riri kwakapesana nokumaodzanyemba, uye kunenge kuri kurudyi kana munhu akatarisa kumabvazuva.
+chamumire-mumire 	KKKKKDD 	7 	z 		chamumire-mumire KKKKKDD z 7 . Iyi imvura inoyerera ichiita karuzha.
+chamunhupe 	KDKD 	7 	z 		chamunhupe KDKD z 7 . chamunhube 7 .
+chamushunye mushunye 	DDKK DKK 	7 	z 		chamushunye mushunye DDKK DKK z 7 . Uyu mutambo wokutsunyana nenzara kana nezvigunwe.
+chamuswinye-muswinye 	KKDKDDD 	7 	z 		chamuswinye-muswinye KKDKDDD z 7 . chamushunye-mushunye .
+chamuvherere 	KDKDD 	7 	z 		chamuvherere KDKDD z 7 . chamuzerere .
+changatire 	D- 	7 	z 		changatire changatira D- z 7 . Uku kuyevedzwa nezvimwe zvinhu zvokuti unobva wakanganwa kuti pane chauri kuita.
+change 	D- 	7 	z 		change D- z 7 . Change imhuka huru inogara pedo nemvura uye iri yemhuri yemharapara nebimha. dhumukwa 5, chuzu 9 .
+chapande 	D- 	7 	z 		chapande D- z 7 . Chapande chikamu chechidziro cheimba.
+che che che 	K- 		ny 		che che che K- ny . Kuti che che che kuita ruzha rwuri pamusoro-soro kunoitwa neshiri kana tumwe tupukanana twakaungana.
+cheche 	DK 		ny 		cheche DK ny . Kuti cheche kuenzana kwezvinhu pakukura kana pauwandu. gwedegwe, kweche .
+chechene 	KKD 		ny 		chechene KKD ny . Kuti chechene kubvisa chinhu uchiita zvokucheka kana kupara nebanga. seseu, checheu .
+checherere 	D- 		ny 		checherere D- ny . Kuti chechere kumisa nokukasira basikoro ranga richimhanya chaizvo.
+chechete 	DDK 	9>10 	z 		chechete DDK z 9>10 . Chechete muchero unodyiwa wakafanana neshumha asi muti wacho unomera pachuru.
+chekausiye 	KKKKD 	9>10 	z 		chekausiye KKKKD z 9>10 . Iyi imhando yehove inofungirwa kuti munhu wose anouya akacheka nyama yaanoda akangoisiya yakadaro. jekawacheka 5 .
+cheke cheke 	D- 		ny 		cheke cheke D- ny . cheke .
+chekeche 	DDK 		ny 		chekeche DDK ny . cheke .
+chenjereke 	KKDD 	1a 	z 		chenjereke KKDD z 1a . Uyu munhu akangwarisa zvakapfurikidza chipimo.
+chenze 	D- 	7 	z 		chenze D- z 7 . zenze 5 .
+chere 	D- 		bvunz 		chere D- bvunz . here .
+cherechere 	DKDD 	9>10 	z 		cherechere DKDD z 9>10 . mbikiza 9 .
+cherenje 	DDK 	5 	z 		cherenje DDK z 5 . Cherenje inhokwara dzomuti unonzi mucherenje.
+chese 	K- 	9>10 	z 		chese K- z 9>10 . Chese ibanga, badza kana sanhu risina mubato. Banga chese rinonetsa kuchekesa zviyo nokuti rinorwadza kubata.
+chibage 	DDK 	7>6 	z 		chibage DDK z 7>6 . Chibage imbeu inorimwa ichiita vana vane tsanga dzinogaiwa kuita upfu hunobikisa sadza. Baba vakarima chibage choga. magwere 6, mabarwe 6 .
+chibanze 	DKD 	7 	z 		chibanze DKD z 7 . Chibanze ihari yedoro kana zvimwewo zvinosiyirwa muvakidzani.
+Chibarirwe 	DKKK 	7 	z 		Chibarirwe DKKK z 7 . Iyi ikereke yechitema inotendera zvose kupira midzimu nechiKristu.
+chibatapamwe 	DKKDDK 	7 	z 		chibatapamwe DKKDDK z 7 . chibatanwa 6 .
+chibatirapamwe 	DKKDKK 	7 	z 		chibatirapamwe DKKDKK z 7 . chibatanwa 7 .
+chibayamahure 	DDDDKD 	7 	z 		chibayamahure DDDDKD z 7 . chidhongi 7 .
+chibhebhe 	D- 	7 	z 		chibhebhe D- z 7 . Chibhebhe mwana akachenjera. Chibhebhe musikana unoyevedza kuona. Manu unodanana nechibhebhe chokwaMugaisi.
+chibhende 	D- 	7 	z 		chibhende D- z 7 . Chibhende mutauro wokupesedzera kuti vamwe vasaziva zvinorehwa. Takamunyeya nechibhende aripo.
+chiboshwe 	DDK 	7 	z 		chiboshwe DDK z 7 . Iyi itsika yokunyanya kushandisa ruoko rweruboshwe. chimhindiboshwe 7, nyamanzere 1a .
+chibvukebvuke 	DKDKD 	7 	z 		chibvukebvuke DKDKD z 7 . chipakirwa 7 .
+chibvuwere 	DKKK 	7 	z 		chibvuwere DKKK z 7 . Aka kasadza kanobikirwa baba makuseni kakakora.
+chibwe 	D- 	7 	z 		chibwe D- z 7 . Chibwe idombo diki rinokwanisa kusumudzika.
+chidaurangende 	DKKKKK 	7 	z 		chidaurangende DKKKKK z 7 . Iyi isiketi inonyatsoendarana nemunhu akaipfeka.
+chidhaurangende 	DKKKKK 	7 	z 		chidhaurangende DKKKKK z 7 . Iyi isiketi inenge ichinyatsa kukwana muridzi wayo.
+chidyashe 	DKD 	7 	z 		chidyashe DKD z 7 . Chidyashe idoro shoma rinopiwa sabhuku panenge pachinwiwa doro.
+chidzemwe 	DDK 	7 	z 		chidzemwe DDK z 7 . Uyu munhu asina tsika dzinofarirwa.
+chifefe 	D- 	7 	z 		chifefe D- z 7 . Chifefe rudzi rwepfuti inobuda bara rimwe chete panguva.
+chigaramunhembe 	DDDDDK 	7 	z 		chigaramunhembe DDDDDK z 7 . Uyu munhu ane maitire anenge omunhukadzi.
+chigare 	DDK 	7 	z 		chigare DDK z 7 . Chigare itsika yokupandukira vari padyo newe, vangaita vabereki, vaunoshandira, kana vamwewo.
+chigezamusoronebwe 	DDDDKKDK 	7 	z 		chigezamusoronebwe DDDDKKDK z 7 . Uyu musikana anenge achionekwa seasingazivi zvokuzvishambidza zvinoenderana nenguva yacho. chitiburahuruva 7, chigezanemugovera 7, chigeza 7 .
+chigumamandere 	D- 	7 	z 		chigumamandere D- z 7 . Uyu munhu anenge asina kunyatsa kungwara.
+chigumegume 	DKDKD 	7 	z 		chigumegume DKDKD z 7 . Ichi chinhu chinoitwa chichibva chakasika kupera.
+chigumwe 	D- 	7 	z 		chigumwe D- z 7 . chigunwe 7 .
+chigunwe 	D- 	7 	z 		chigunwe D- z 7 . Chigunwe chimwe chete chezvipatsanurwa zvishanu zviri kumberi kwetsoka kwakapatsanuka.
+chigware 	D- 	7 	z 		chigware D- z 7 . chikumbaridzo 7 .
+chigwayambanje 	DDKDK 	7 	z 		chigwayambanje DDKDK z 7 . chikwayambanje 7 .
+chigwende 	D- 	7 	z 		chigwende D- z 7 . Chigwende mutevedzeri womumwe pabasa.
+chigwenhure 	DDKD 	7 	z 		chigwenhure DDKD z 7 . gwenhure 5 .
+chigweve 	DKD 	7 	z 		chigweve DKD z 7 . chigwesha 7 .
+chihwe 	D- 	7 	z 		chihwe D- z 7 . chishwe 7 .
+chihwehwe 	DDK 	7 	z 		chihwehwe DDK z 7 . chihwenga 7 .
+chijongwe 	DDK 	7 	z 		chijongwe DDK z 7 . Chijongwe ishiri hono yakati kurei.
+chikakaumbe 	D- 	7 	z 		chikakaumbe D- z 7 . chigwa 7 .
+chikende 	DDK 	7 	z 		chikende DDK z 7 . Chikende igomba rinocherwa kuiswa mbambo dzinotara muganhu womunda.
+chikondohwe 	DDKD 	7 	z 		chikondohwe DDKD z 7 . Iyi imbudzi honho inenge isina kuchekwa.
+chiKorekore 	D- 	7 	z 		chiKorekore D- z 7 . Iri nderimwe remazita anonzi ndiwo marudzi evaShona, vanhu vacho vachigara kumatunhu ekumaodzanyemba kwaanaChipuriro, Dharuweni neMutoko.
+chikwaire 	DKDK 	7 	z 		chikwaire DKDK z 7 . Uyu munhu mupfupi anoratidza kudya achiguta. mbozha 9, njonda 9 .
+chikwape 	D- 	7 	z 		chikwape D- z 7 . Chikwape rudzi rwemakwai ane misoro mitema.
+chikwe-e 	DKD 	7 	z 		chikwe-e DKD z 7 . Uku kuseka kanoitwa munhu achidaidzira kanowanzoitwa navasikana namadzimai. chikuwe 7 .
+chikwembe 	DKD 	7 	z 		chikwembe DKD z 7 . Chikwembe kamweya kakashata kanowanzoitwa nevanhu kana mbudzi. gwembe 5 .
+chimhare 	DDK 	7 	z 		chimhare DDK z 7 . Chimhare inzvimbo inenge iine ivhu rakaita chidhaka chakatsetseka.
+chimvuramabwe 	DKKKD 	7 	z 		chimvuramabwe chimvuramahwe DKKKD z 7 . Iyi imvura yakagwamba kuita chando inenge ichinaya.
+chinamwe 	DKD 	7 	z 		chinamwe DKD z 7 . Chinamwe ivhu dete rinokwanisa kunama.
+chindarumebwe 	DDKDD 	7 	z 		chindarumebwe DDKDD z 7 . Urwu rumwewo rudzi rwenyoka. chindarumabwe 7, chimanzi 7 .
+chingure 	DKD 	7 	z 		chingure DKD z 7 . Chingure izwi rinenge riri pamusoro kana vanhu vachikayanisa izwi pakuimba. chigure 7, magure 6 .
+chinyakamwe 	DDKK 	7 	z 		chinyakamwe DDKK z 7 . Uku kubatanidza zvaungaite nguva dzakasiyana-siyana, wongozviita panguva imwe chete. mukamwe 3 .
+chinyakasheche 	DDDKD 	7 	z 		chinyakasheche DDDKD z 7 . Urwu rudzi hwehowa hunowanza kumera muvhu rakaita musheche, hunowanzofushwa.
+chinyamande 	D- 	7 	z 		chinyamande D- z 7 . Urwu rudzi rwenhanga.
+chinyange 	DDK 	7 	z 		chinyange DDK z 7 . Chinyange kuumbiridza zvakaita sesadza kana ivhu, zvichiurungana kuita misuva kana tubhora. gube .
+chinyararire 	DKKDK 	7 	z 		chinyararire DKKDK z 7 . chimhukutira 7 .
+chinyerere 	DKKK 	1a 	z 		chinyerere DKKK z 1a . Chinyerere munhu asingawanzofariri zvokutaura. sinyerere 1a .
+chinzve-enzve-e 	DKK 	7 	z 		chinzve-enzve-e DKK z 7 . Uku kupfuura-pfuura kunenge kuchiita zvinhu zvaunoona nepamberi pako.
+chiokomhende 	DKKDK 	7 	z 		chiokomhende DKKDK z 7 . Uyu munhu anenge ane ruoko rwakaremara.
+chiome 	DKD 	7 	z 		chiome chiwome DKD z 7 . Chiome munhu asingapi nhando zvaanenge anazvo. chin'ogoro 7, mupazvaora 7 .
+chipavhurire 	DKKDK 	7 	z 		chipavhurire mapavhurire DKKDK z 7 . Uyu munhu akasununguka kupa zvinhu kune vamwe vanhu.
+chipembere 	D- 	7 	z 		chipembere D- z 7 . Iyi imhuka huru ine runyanga rumwe rurefu nechapamusoro pemhino yayo. Chipembere chinonzi chinopenga kana chadya mukonde. nhema 9 .
+chipepe 	DKK 	7 	z 		chipepe DKK z 7 . kepisi 9 .
+chipere 	D- 	7 	z 		chipere D- z 7 . Chipere ibere rine mavara-mavara. svitsi 9 .
+chipfumbamwe 	D- 	7 	z 		chipfumbamwe D- z 7 . Iri izita rinoreva chiverengwa chiri pakati pesere negumi.
+chipukandipemwenje 	DDKKDDD 	7 	z 		chipukandipemwenje DDKKDDD z 7 . Uyu munhu akashata kumeso zvakanyanya.
+chirahwe 	DKD 	7 	z 		chirahwe chirabwe DKD z 7 . chipari 7 .
+chirevereve 	DKDKD 	7 	z 		chirevereve DKDKD z 7 . Iyi inhetembo inodetembwa nomurume kutenda mukadzi pakumubata zvakanaka mugudza. madanha 6 .
+chirwirangwe 	D- 	7 	z 		chirwirangwe D- z 7 . Chirwirangwe kukutsirana kurova munhu mumwe chete. Chirwirangwe kuita muonerapamwe pabasa kana kudzivirira tsaona. mushandirapamwe 3 .
+chisere 	DKK 	7 	z 		chisere DKK z 7 . Iri izita rinoreva chiverengwa chinotevera mushure mechinomwe.
+chisimbachebere 	DDK DKD 	7 	z 		chisimbachebere DDK DKD z 7 . Uku kushereketa kuita basa kwenguva diki zvobva zvapera.
+chitsere 	D- 	7 	z 		chitsere chisere D- z 7 . Chitsere kamhuka kane musana muchena nomunhumbu mutema, kane mbiri yokudya uchi.
+chitsvare 	DDK 	7 	z 		chitsvare DDK z 7 . chitsveru 7 .
+chitumbuzenene 	DDDKKK 	7 	z 		chitumbuzenene DDDKKK z 7 . tagutapadare 1a .
+chivakashure 	DKDKD 	7 	z 		chivakashure DKDKD z 7 . Ichi chivakiso chinoiswa kunotangira shoko chichiwedzera zvarinoreva. Dzinde rokuti -komana raiswa chivakashure mu- pakabuda izwi rokuti mukomana.
+chivande 	DKD 	7 	z 		chivande DKD z 7 . Chivande kuita zvinhu pasina mumwe anozviziva. Mufundisi vakaenda kun'anga kundoshopera muchivande. chihwande 7, chirevere 7 .
+chivanze 	DKD 	7 	z 		chivanze DKD z 7 . Chivanze inhandare inoratidza panogumira musha. Imbwa haifaniri kuruma munhu ari kunze kwechivanze. ruvanze 11, ruvazhe 11 .
+chivavane 	DKKD 	7 	z 		chivavane chivavani DKKD z 7 . Iri ivhu rinenge richivavira munyu, rinofarirwa kunanzvwa nen'ombe kana nembudzi.
+chiverere 	D- 	7 	z 		chiverere D- z 7 . chiverevere 7 .
+chivhuramahwe 	DKKKD 	7 	z 		chivhuramahwe DKKKD z 7 . chimvuramabwe 7 .
+chiwareware 	D- 	7 	z 		chiwareware D- z 7 . Uku kupararana kweboka ravanhu kana mhuka. Pakaputika bhomba pakati peguta, vanhu vakaita chiwareware kutiza vose. chimwandamwanda 7 .
+chose 	K- 		dc 		chose K- dc . Iri izwi rinoshandiswa kuratidza kupererera kwechiito, richitsinhiridza zvachinenge chichireva. Mukomana uyu anofara chose. fani .
+dandare 	D- 	5>6 	z 		dandare D- z 5>6 . Dandare inzvimbo isina zvimwe zvinhu zviri pairi asi pari pamusha, uye inoitisiwa zvakasiyana-siyana. ruvazhe 11 . Dandare kanzvimbo kadiki kakakomberedzwa mumunda, kanosiyirwa kazhinji kuti kagorimwa fodya.
+dande 	KD 	5 	z 		dande KD z 5 . Dande inzvimbo inotevedzana negomo inenge yakareburuka. Dande rudzi rwemhunga ine tsanga dzakakura kudarika dzemamwe marudzi.
+dangwe 	KD 	5 	z 		dangwe KD z 5 . Dangwe mwana anotanga kuzvarwa mumhuri. Dangwe rinotarisirwa kupa vamwe vana muenzaniso wokugara zvakanaka.
+dare 	KD 	5>6 	z 		dare KD z 5>6 . Dare isimbi unoridzwa kutaridza kupera kana kutanga kwenguva inenge yakatarwa. Mangwanani ogaoga tinomira pamutsetse kana dare richinge rarira. bhero 5 . Dare rudzi rwehowa hunokura kudarika mamwe marudzi ose ehowa. Mai vakanga vakabata dare rakakura senzeve yenzou.
+dasvemutasve 	KDDKD 	5 	z 		dasvemutasve KDDKD z 5 . Urwu rudzi rwemuti unokura uchimonera imwe miti yakasimba.
+de 	K 		bat 		de K bat . dai .
+de 	K 		ny 		de K ny . Kuti de kutema munhu netsvimbo uchibva warova chaipo paunoda. Karikoga kakati Benyumundiro de netsvimbo pabvi.
+debwe 	D- 	5>6 	z 		debwe D- z 5>6 . dehwe 5 .
+demahope 	KDKK 	5 	z 		demahope KDKK z 5 . Uyu musoro unorwadza uchiita zvokutema nechokumusorosoro kwemhino. chomusoro 5 .
+demhe 	DK 	5>6 	z 		demhe DK z 5>6 . Demhe chimedu chinobva panenge paputsika dende kana damba. Vana vadiki vanoshandisa matemhe amatamba kubikira matakanana. Demhe iganda rakaomarara redende, munoiswa mbira. deze 5 .
+dende 	K- 	5>6 	z 		dende K- z 5>6 . Dende mudziyo uogadzirwa nemanhanga akaoma, unogona kuchereswa mvura kana kuchengeterwa mukaka.
+dendere 	K- 		ny 		dendere K- ny . Munhu akati dendere nenzira anofamba achingotevedza iyo chete asingatsauki. Mai pavakaona mwana odziya muviri, vakamubereka ndokuti dendere nenzira yokuchipatara.
+denhe 	DK 		ny 		denhe DK ny . denhu .
+denhe 	K- 	5>6 	z 		denhe K- z 5>6 . Denhe mudziyo mukuru unochengeterwa upfu.
+denhere 	D- 	5>6 	z 		denhere D- z 5>6 . Denhere inzvimbo ine miti neuswa zvakabatana chaizvo, zvokuti zvinonetsa kupindamo.
+dete 	KD 	5 	z 		dete KD z 5 . Dete inzvimbo yakazara miti mitete kana tsanga.
+dhege 	DK 		ny 		dhege bhege DK ny . Kuti dhege kuwira pasi kwechinhu chinorema chichiputsika kuita zvipandi. Kuti dhege kubika kudya kwakawanda zvikuru.
+dhende 	D- 	5 	z 		dhende D- z 5 . Dhende inhumbi yabvaruka, isisapfekwi.
+dhumbe 	KD 	5 	z 		dhumbe KD z 5 . Dhumbe chirimwa chinoberekera pasi chakada kuita sembambaira.
+dhungetunge 	DDKK 	5 	z 		dhungetunge dungetunge DDKK z 5 . Aya masonero anoitwa shinda dzichitaranganiswa, kuitira kukasika kupedza kusona.
+dhuve 	KD 	9 	z 		dhuve KD z 9 . mbizi 9 .
+dome 	DK 	5 	z 		dome DK z 5 . Kuenda dome kurasika gwara rezvinofanira kuitwa.
+donje 	D- 	5 	z 		donje D- z 5 . Donje chirimwa chinoita zvibhora zvichena zveshinda, chisingaremi, chinogadzirisa micheka. tonje 9, shinda 9, kotoni 9 .
+dore 	D- 	5>6 	z 		dore D- z 5>6 . Dore in'ombe yakwegura zvokuti inenge yonetseka nokufamba. gwachara 5 .
+duche 	KD 	5 	z 		duche KD z 5 . Duche imhunga ichangobva mukuchekwa mumunda.
+dumbetumbe 	D- 	5 	z 		dumbetumbe D- z 5 . Uku kupinda vanhu vachitevedzana, vakakotamisa misana kuti vakwane.
+dyorahope 	DDKK 	5 	z 		dyorahope DDKK z 5 . Uku kudya kwamangwanani kunopiwa vanhu vachangomuka.
+dywedywe 	KD 	5 	z 		dywedywe KD z 5 . Dywedywe rudzi rweshiri inodya tupukanana, inoonekwa ichifamba pasi nedzimwe dzayo ichitsvaka chokudya. jese 5, zhogozhogo 5 .
+dzamachechetere 	KKKDDD 	10 	z 		dzamachechetere KKKDDD z 10 . Aya maitiro ejongwe okuzarura bapiro raro, richirinzvenzveresa pagumbo richitenderera sheche kana mhambo.
+dzande 	D 	5 	z 		dzande D z 5 . Dzande rudzi rwenzungu yakaita diki.
+dze dze dze 	D- 		ny 		dze dze dze D- ny . Kuti dze dze dze kutadza kufamba zvakanaka komunhu anenge akatakura zvinhu zvinorema.
+dzepfunde 	KDD 	9 	z 		dzepfunde KDD z 9 . Kana munhu achiteerera ngano, anopota achidavira achiti dzepfunde .
+dzere 	D- 	5 	z 		dzere D- z 5 . dacha 5 .
+dzetse 	DK 	5 	z 		dzetse DK z 5 . Dzetse idafi guru kupinda mamwe ose.
+dzinde 	KD 	5 	z 		dzinde KD z 5 . Dzinde ndechinomera muvhu chichireba, mapazi nemashizha achizomerawo kubva pachiri.
+dzoke 	DK 		bat 		dzoke dzokei DK bat . Izwi iri rinoshandiswa kuratidza zvinozotevera mumashure. Akabvunzurudzwa nemapurisa, dzoke ofushunura zvose zvavaimboita nevamwe vake. dzokono, dzokonoko, ndokubva .
+dzoran'ombe 	D- 	5 	z 		dzoran'ombe D- z 5 . fudzamombe 5 .
+dzuramombe 	D- 	5 	z 		dzuramombe D- z 5 . Urwu rudzi rwetsuro hombe. shurodanda 9 .
+dzvatarume 	D- 	5 	z 		dzvatarume D- z 5 . jaya 5 .
+-dzvene 	DK 		pr 		-dzvene DK pr . Ichi chipauro chemupanda chinoreva chinhu chakanaka. -tsvene .
+dzvuketsvuke 	DKDD 	5 	z 		dzvuketsvuke DKDD z 5 . Urwu rudzi rwehwowa hunodyiwa, hune nzeve tsvuku. tsvuketsvuke 9 .
+e 	K 	1a\9 	vm 		e K vm 1a\9 . Iri ivaramwana rinodaidzwa richinzi e-e riri pakati pa dhi na efu mubumbiro remavara anoshandiswa kunyora rurimi rweChiShona.
+e-e-e 	K- 		kanu 		e-e-e K- kanu . Tinoshandisa e-e-e kuratidza kuti hatibvumirani nezvinhu zvinenge zvava kuda kuitwa nemumwe munhu. E-e-e, ini zvekuteedzerwa vasikana handizvide. Tinoshandisa e-e-e kuratidza kukatyamara.
+ee 	DK 		kanu 		ee DK kanu . Tinoshandisa ee kubvuma zvinenge zvavhunzwa.
+eezve 	D- 		kanu 		eezve D- kanu . eeka .
+ehe 	DK 		kanu 		ehe DK kanu . Tinoshandisa ehe kubvumirana nezvinenge zvichitaurwa kana kuvhunzwa. Tinoshandisa ehe kana tichigutsurira nekukurudzira kuti munhu aenderere mberi nenyaya.
+ehunde 	DKD 		kanu 		ehunde DKD kanu . Tinoshandisa ehunde kubvumirana nezvinenge zvichivhunzwa kana kutaurwa. hongu .
+ende 	D- 		bat 		ende D- bat . uyezve .
+ene 	KD 		bat 		ene KD bat . dai .
+fambe 	KD 		ny 		fambe fambei KD ny . Kana ukangoti fambe unenge waenda asi usati wasvika kure.
+fatye 	KD 	5 	z 		fatye KD z 5 . Fatye zihari kana kuti zigubhu zihombehombe rokuibvisa waini, rakakagadzirwa nemapuranga kana kuti rakarukirirwa nemakavi.
+fe fe 	D- 		ny 		fe fe D- ny . Kana munhu achisvuta fodya yebute nomumhino, kana kudzorera dzihwa mukati memhino, anoita ruzha rwokuti fe fe .
+fe-e 	D 		ny 		fe-e D ny . Kuti fe-e kudonha kunoita mvura zvishoma zvishoma.
+fe-e 	D- 		ny 		fe-e D- ny . Kuti fe-e kufuridza kunoita kamhepo kanenge kachitonhorera. Kuti fe-e kubuda kunoita mweya muvhiri.
+fe-e 	K 		ny 		fe-e K ny . Kana kamhepo kana mweya uchibuda pakamanikidzika, kunonzwika ruzha runoti fe-e . Kuti fe-e kufema.
+fekeshe fekeshe 	D- 		ny 		fekeshe fekeshe D- ny . Kana uchifamba mujecha unoita musindo unoti fekeshe fekeshe . zhaka zhaka .
+fenenge 	KKD 		ny 		fenenge KKD ny . Kuti fenenge kumira wakadzorera dumbu mukati, mushure mokufema uchiburitsa mweya unenge uri mumuviri. fetu .
+fere fere 	D- 		ny 		fere fere D- ny . Kana mhepo ichiti fere fere inenge ichifuridza zvishoma yombomira, yofuridza zvakare yombomira.
+ferendende 	D- 	5 	z 		ferendende D- z 5 . Izvi zvinhu zvinofema zvakawanda, zvinenge zviri panzvimbo imwe chete.
+ferere 	K- 		ny 		ferere K- ny . Kuti ferere ruzha runoita mweya une simba, kana kuti mhepo ichipfuura kana kubuda pamudziyo wakashama, sezvakaita mugomo.
+fetete 	K- 		ny 		fetete K- ny . Kuti fetete kuridza muridzo wekambo kakanyorovera.
+fofoongwe 	D- 	9>10 	z 		fofoongwe D- z 9>10 . Uyu munhu akafuta chaizvo uye aine muviri muhombe. hofori 9 .
+fudzamombe 	D- 	5 	z 		fudzamombe fudzan'ombe D- z 5 . Fudzamombe ishiri chena inoswera nemombe ichidya zvitota zvadzinenge dzichibhururutsa padzinenge dzichifura. dzoran'ombe 9 .
+fufute 	K- 	9 	z 		fufute K- z 9 . nhururu 9 .
+funye 	KD 	9 	z 		funye KD z 9 . kuwe 1a/9 .
+funze 	DK 	5 	z 		funze DK z 5 . vhunze 5 .
+fuve 	KD 	9 	z 		fuve KD z 9 . Fuve kapembenene kanenge ndere kanodyiwawo uye kanowanzowanikwa pamuti womushuku.
+gadhe 	KD 	5 	z 		gadhe gadhi KD z 5 . Gadhe inzvimbo inorimwa muriwo. bindu 5, gadheni 5/9 .
+gakandye 	D- 	5 	z 		gakandye gangadye D- z 5 . gakanje .
+gandure 	DKD 	5 	z 		gandure ngandure DKD z 5 . Gandure idoro rinonaka chaizvo uye rinodhaka zvakanyanya.
+gangarahwe 	DKDD 	5 	z 		gangarahwe gangarabwe DKDD z 5 . rukangarahwe 11 .
+gangwe 	KD 	5 	z 		gangwe KD z 5 . garwe 5 .
+ganje 	DK 	5 	z 		ganje DK z 5 . Ganje chimai chekii inoshandiswa kukiya mikova. kii 9 .
+gapuravazvere 	DDDDKK 	5 	z 		gapuravazvere DDDDKK z 5 . Uku kugeza muviri usinganyatsocheni, kazhinji nekutya kugeza mvura inotonhora.
+gare gare 	DK+ 		ny 		gare gare DK+ ny . Kuti gare gare kureva kanguva kadikidiki mushure mechimwe chiitiko. Mvura yanaya tangoti gare gare vaenda.
+gatare 	DKD 	5 	z 		gatare DKD z 5 . gitare .
+gate 	KD 	5 	z 		gate KD z 5 . Gate ihari yakakura inoshandiswa pakubika doro. mhirimo 9, mbizira 9, rukambe 11 .
+gebe 	D- 	5 	z 		gebe D- z 5 . mwiwa 5 .
+gede 	DK 				gede gedye DK . Kana chinhu chati gede chinenge chanyatsokwana pachinenge chichipinzwa.
+gede gede 	DK+ 		ny 		gede gede DK+ ny . gede .
+gedhe 	KD 	5 	z 		gedhe KD z 5 . gedhi 5 .
+geje 	DK 		ny 		geje gedye DK ny . gede .
+genen'ene 	K- 		ny 		genen'ene K- ny . Kuti genen'ene kuuya kwechiedza nokukasika panzvimbo pambenge pasina chiedza. Zuva zvarati genen'ene chinikai chimera.
+go tende 	K DD 		ny 		go tende K DD ny . Kuti go tende kugara kwekunyatsodekara chaiko.
+goche 	D- 	5 	z 		goche D- z 5 . Goche rudzi rwesora rinotambarara sefeso.
+gombe 	DK 	5 	z 		gombe DK z 5 . Gombe munhu muhombe kana akakosha. Gombe risati rasvika hapana zvinoitwa.
+gombekombe 	D- 	5 	z 		gombekombe D- z 5 . hombekombe 9 .
+gonamombe 	D- 		kanu 		gonamombe D- kanu . Kana vavhimi vachiti gonamombe vanenge vachitaurirana kuti vaona mhuka yakarara vava kuda kutanga kuitandanisa.
+gonan'ombe 	D- 				gonan'ombe D- . gonamombe 5 .
+gondohwe 	DKD 	5 	z 		gondohwe hondohwe DKD z 5 . Gondohwe ihwai hono.
+gonje 	DK 	5 	z 		gonje DK z 5 . Gonje chishizha chinoti chikapondwa-pondwa chinoburitsa faibha.
+gonye 	D- 	5>6mak 	z 		gonye D- z 5>6mak . Gonye chipembenene chidiki chinodya nyama, mashizha, miti kana ivhu. honye 9 .
+gope 	K- 	5 	z 		gope K- z 5 . Gope chirwere chinoita kuti munhu anzwe kuda kungorara nguva dzose.
+gore 	DK 	5 	z 		gore DK z 5 . Gore inguva inoita mwedzi gumi nemiviri. Gore chiratidzo chiri mudenga, chinodzivirira zuva nemwedzi kuti zvisapa chiedza chakawanda panyika, uyewo gore rinonaisa mvura.
+goremucheche 	DKKKD 	1a 	z 		goremucheche DKKKD z 1a . Uyu murume akura asi ari munhu anotaridzika kuva mudiki.
+gotwe 	DK 	5 	z 		gotwe DK z 5 . Gotwe mwana anenge apedzisira kuzvarwa mumhuri. rugotwe 11, chigumisirwa 7 .
+gube 	D- 	5 	z 		gube D- z 5 . Gube munhu anoita basa rokutsotsa vamwe.
+gubwe 	D- 	5 	z 		gubwe guhwe D- z 5 . Gubwe rudzi rwetsuro tsvuku.
+gude 	D- 		ny 		gude D- ny . Kana munhu achizviti gude anenge achizvifukidza muviri wose negumbeze kana nejira.
+gudzamudungwe 	KKKKD 	5 	z 		gudzamudungwe KKKKD z 5 . gudzadungwe 5 .
+guhwe 	D- 	5 	z 		guhwe D- z 5 . Guhwe rudzi rwetsuro huru inogara mumakomo. guba 5 .
+gukurume 	KKKD 	5 	z 		gukurume KKKD z 5 . Iyi ihuku huru. jongwe 5 .
+gumbekumbe 	D- 	5 	z 		gumbekumbe D- z 5 . Uyu munhu anongotora zvese zvese nezvimwe zvisina basa.
+gumbeze 	DKK 	5 	z 		gumbeze gumbezu DKK z 5 . Gumbeze ndiro rinofugwa nevanhu pakurara. jira 5, gudza 5, gumbezi 5 .
+gumbikumwe 	DDKK 	5 	z 		gumbikumwe DDKK z 5 . Iyi itsika yokungotevedzera zvaitwa nevamwe.
+gumbonditakure 	DDKDKD 	5 	z 		gumbonditakure DDKDKD z 5 . Uku kutiza kwemunhu ari kutya. chitsokandibereke 7 .
+gumwe 	D- 	5 	z 		gumwe D- z 5 . gunwe 5 .
+gunde 	KD 	5 	z 		gunde KD z 5 . Gunde idzinde nyoro rechibage kana nzimbe.
+gundekunde 	D- 	5 	z 		gundekunde D- z 5 . Uku kuunganidza gundi rezvinhu zvinenge zvichipurwa.
+gundumure 	D- 	1a 	z 		gundumure D- z 1a . Uyu munhu anenge aine musoro mukuru.
+gunere 	K- 	5 	z 		gunere K- z 5 . Gunere isadza rezviyo rinodyiwa namambo ari ega.
+gunje 	DK 	5 	z 		gunje DK z 5 . Gunje idzinde rechibage kana mhunga rinenge riri nyoro kana rakaoma. Magunje anochengeterwa zvipfuyo vanhu vapedza kukohwa. shanga 5, gunde 5 .
+gunyere 	D- 	5 	z 		gunyere D- z 5 . Gunyere ndezvokudya zvinenge zvaendeserwa murume kudare. gunere 5 .
+gure 	DK 	5 	z 		gure DK z 5 . Gure ndicho chinoiswa mberi kwemoto chinouvharira, kazhinji kuitira kuti vana vasatsva.
+gurene 	D- 	5 	z 		gurene D- z 5 . gurwe 5 .
+gurumazeve 	DDKDK 	1a 	z 		gurumazeve DDKDK z 1a . Uyu munhu ane mazinzeve makuru.
+gushe 	KD 	5>6 	z 		gushe KD z 5>6 . Gushe imbava riri pamuviri wemhuka. Makushe amakwai anogadziriswa mabhachi akanaka. mvere 9 .
+gute 	KD 	5 	z 		gute KD z 5 . Gute inzvimbo ine mvura yakawanda pasi, inomera miti inonzi mikute.
+gutsire 	DKD 	1a 	z 		gutsire DKD z 1a . Gutsire munhu anogara achingorara pese pese, kana kuti anoita zvinhu zvakapusa.
+guvamombe 	KKKD 	1a 	z 		guvamombe KKKD z 1a . Uyu murume murombo, asina kana mombe yokuti aroorere mwanakomana wake mukadzi. murombomunhu 1a .
+guve 	K- 	5 	z 		guve K- z 5 . Guwe ishiri pfumbu ine zhumu pamusoro payo, inowanzodya michero netupuka tudiki, uye inowanzowanikwa munzvimbo dzakaoma. funye 9, kuwe 1a/9 .
+guwe 	K- 	5 	z 		guwe K- z 5 . kuwe 1a/9 .
+guwende 	K- 	5 	z 		guwende K- z 5 . Guwende imhomho yevanhu vanenge vakamirira chimwe chinhu.
+gwamuramakwande 	DDDDDK 	5 	z 		gwamuramakwande DDDDDK z 5 . Iyi ishiri hombe ine muromo wakakombamira mukati, uye inofarira kugara pamatanga napamiti yakaoma painodya zvipuka zvinogara mumakwande emiti yakaoma. Aya mapembenene akasviburuka anogara pamatombo nepamatanda akaoma.
+gwande 	DK 	5 	z 		gwande DK z 5 . Gwande ibandi reganda romuti rakaoma. Zvinyavada zvinogara mumakwande. gwati 5, gekenya 5 . Gwande ideko rakadzivira ganda remamwe marudzi ehove, kana kuti muviri wehaka, ngwena netumwewo tupuka. gekenya 5 .
+gwe-e 	K 	5 	z 		gwe-e K z 5 . Gwe-e kamhuka kakaita setsuro asi kaine nzeve huru dzakamira mudenga, kaine maziso mahombe nemuswe murefu, kanofamba usiku. gwee 5, chinhavira 7 .
+gwebede gwebede 	DDK+ 		ny 		gwebede gwebede DDK+ ny . gweba gweba. .
+gwede gwede 	DK+ 		ny 		gwede gwede DK+ ny . Kuti gwede gwede kuita ruzha serwengoro kana ichifamba. Kuti gwede gwede kuzungunutsa zvakaita sebango rakasimwa pane imwe nzvimbo, kuti ritubuke. Akatanga ati bango gwede gwede, ndokubva aribvisa nyore nyore.
+gwedere gwedere 	D- 		ny 		gwedere gwedere D- ny . Kuti gwedere gwedere kufamba zvishoma zvishoma zvinoratidza kushaya simba.
+gwee 	KD 	5 	z 		gwee KD z 5 . Gwee imhuka yemusango, yorudzi rwekatsi, ine maziso mahombe nezimuswe zihombe, inogara mumuti uye ichifamba usiku. gwe-e 5, chinhavira 7 .
+gweje 	DK 		ny 		gweje DK ny . Kuti gweje kunyatsopindana kwezvinhu kunyanya zviri zvesimbi. gedye .
+gweme 	K- 	5 	z 		gweme K- z 5 . Gweme imbudzi hono isina kuchekwa. mbocho 9 . Gweme mweya unonhuwa unobva pamuviri wemhuka kana munhu. chikwembe 7 .
+gwenen'wene 	K- 		ny 		gwenen'wene K- ny . gwanan'wana . Kana denga rakati gwenen'wene rinenge risina kana kakore zvako, zuva richivaima.
+gwengwendere 	K- 		ny 		gwengwendere K- ny . Kuti gwengwendere ruzha runoitwa nemudziyo wesimbi unenge wadonhera pasi. Ndanzwa ndiro kuti gwengwendere mumba.
+gwenjere 	K- 		ny 		gwenjere K- ny . gwengwendere. .
+gwerede gwerede 	DDK+ 		ny 		gwerede gwerede DDK+ ny . Kuti gwerede gwerede kukuya paguyo zvishoma zvishoma zvine usimbe mukati.
+gwerekwere 	D- 	5 	z 		gwerekwere D- z 5 . hwerekwere 9 .
+gwerekwete 	D- 	5 	z 		gwerekwete D- z 5 . hwiribidi 9 .
+gwerengwe 	D- 	1a 	z 		gwerengwe D- z 1a . Gwerengwe izita rokutsvinya rinopuwa munhu akapusa. Ukapusa zvokukwesha musoro nebwe, unonzi uri gwerengwe chairo.
+gwereveshe 	D- 	5>6 	z 		gwereveshe D- z 5>6 . gwavava 5 .
+gwese 	DK 	5 	z 		gwese gweshe DK z 5 . Gwese ibanga rerata risingapinzi, rinogadzirwa nokurova rata. Takakoniwa kuvhiya mbudzi tapiwa gwese rebanga.
+gwite 	D- 	5 	z 		gwite D- z 5 . Gwite imhando yembeva ine matadza akakura chose, uye inofarira kuchera mwena wayo pazvuru.
+hambakachere 	K- 	9 	z 		hambakachere K- z 9 . Iyi imhando yederere rinomera mumunda, rinodyiwa mashizha pamwe nemidzi yaro.
+hambautare 	KKDKD 	9>10 	z 		hambautare KKDKD z 9>10 . motokari 9 .
+handizvo here 	KDK DK 		bvunzi 		handizvo here KDK DK bvunzi . handiti .
+he 	D 		karu 		he D karu . Izwi iri rinoshandiswa kutaridza kuwirirana nezviri kutaurwa nezvazvo. ehe, ehunde .
+hombekombe 	D- 	5 	z 		hombekombe D- z 5 . Uku kumucheto kwerwizi, dziva kana gungwa. jinga 5 .
+homwe 	K- 	9>10 	z 		homwe K- z 9>10 . Homwe isamba kana kuti bhegi rokuisira zvinhu. hombodo 9, mbudu 9 . Homwe munhu anosvikirwa nomudzimu. svikiro 5 .
+hondohwe 	KKD 	9>10 	z 		hondohwe KKD z 9>10 . Hondohwe ihwai hono isina kuchekwa. gondohwe 5 .
+honye 	D- 	9>10 	z 		honye D- z 9>10 . gonye 5 .
+hope 	K- 	10 	z 		hope K- z 10 . Hope kunzwa kuda kukotsira kunoita munhu kana oda kuzorodza pfungwa nomuviri.
+hore 	DK 	9>6 	z 		hore DK z 9>6 . Hore rudzi rwegore rinenge rakasvibira, rinonayisa mvura.
+horidhe 	KDD 	9>6 	z 		horidhe KDD z 9>6 . Horidhe inguva inozorora vanhu vazhinji munyika, vasingaendi kubasa kana kuchikoro. zororo 5 .
+horwe 	DK 	9>10 	z 		horwe DK z 9>10 . Horwe ishiri yakafanana nehuku, uye inofarira kufamba muboka redzimwe dzayo mumahombekombe enzizi.
+hove 	K- 	9>10 	z 		hove K- z 9>10 . Hove chisikwa chinogara mumvura, chinodyiwa, uye chine mabhonzo anenge minzwa nemakwati pamuviri.
+hube 	KD 	9 	z 		hube KD z 9 . Hube mutambo wevana wavanotamba vachimhanya vakachonjomara. njude 9 .
+humwe 	KD 	9 	z 		humwe KD z 9 . hoka 9 .
+hunguruhwe 	KKKD 	9>10 	z 		hunguruhwe hungurubwe KKKD z 9>10 . Iri idombo guru rine mucheto wakaita dendenedzwa.
+hure 	KD 	5 	z 		hure KD z 5 . Hure munhu anoda kurara navarume kana vakadzi vose vose kana kuti achivabhadharisa mari. pfambi 9 .
+hute 	KD 	9>10 	z 		hute KD z 9>10 . Hute muchero unoberekwa nomuti womukute.
+hwavhu-utete 	D- 	14 	z 		hwavhu-utete D- z 14 . Iri iganda nebvupa rokumusoro komukanwa.
+hwe-e 	K 		kanu 		hwe-e K kanu . Tinoshandisa hwe-e pakudeedzera, kuratidza kuti wanzwa kuti uri kusheedzwa.
+hwende 	K- 	9 	z 		hwende K- z 9 . Hwende munhu kana mhuka ine mutumbi mukuru. mukwandai 3 .
+hwenje 	DK 	14 	z 		hwenje bwenje DK z 14 . Hwenje idziva rakadzika, rinotyisa.
+hwerekwere 	D- 	9>10 	z 		hwerekwere D- z 9>10 . Iyi ishiri yakafanana nehuku uye inokandirira mazai ayo pasi.
+hwize 	KD 	9>10 	z 		hwize KD z 9>10 . Hwize chishongo chinopfekwa nashe somucherechedzo weushe hwake. huze 9, wachi 9 .
+ibwe 	D- 	5 	z 		ibwe D- z 5 . Ibwe ndechakaomarara chekuti chikapfupfunyuka chinogadzira ivhu. Zvinonetsa kuchera tsime pana mabwe. buwe 5, dombo 5 .
+ihwe 	D- 	5>6 	z 		ihwe D- z 5>6 . ibwe .
+ije 	DK 	5 	z 		ije DK z 5 . jee .
+indye 	D- 	9 	z 		indye D- z 9 . Indye ibudzi rinovava kana chimwewo chingavava zvokuti hachizosadyiwi. Indye ikabikwa namapudzi kwawo zvose zvinovava.
+ishe 	DK 	1a 	z 		ishe DK z 1a . Ishe ndiye munhu anenge achitonga dunhu guru, aine masadunhu nemasabhuku pasi pake. Ishe wedu anotonga nyaya zvinogutsa munhu wese.
+iwewe 	DKK 		saz 		iwewe DKK saz . Ichi chisazita chokutsinhira chinomirira nyakutaurirwa. Iwewe unenge uchifanira kupota uchifambirawo hama dzako.
+iye 	KD 		saz 		iye KD saz . Ichi chisazita chinomirira nyakutaurwa kana ari munhu mumwe chete. Pawasvika iye anga achiitei?
+iyewe 	KDK 		saz 		iyewe KDK saz . iwewe .
+je 	D 		ny 		je D ny . Kuti je kucheka uchishandisa banga rinopinza zvikuru.
+je je je 	D- 		ny 		je je je D- ny . Kuti je je je kumenywa kunoitwa nzungu namaoko.
+je-e 	D- 		ny 		je-e D- ny . Kana kunze kwakati je-e zuva rinenge richipisa, kusina makore mudenga.
+jee 	K- 	5 	z 		jee K- z 5 . Jee kutamba kunoitwa nevanhu vachitukirirana mukufara.
+jeje 	DK 		ny 		jeje DK ny . Kana vanhu vakati jeje vanenge vakaenzana pazera, paurefu kana pamhumhu.
+jekecheke 	D- 	5 	z 		jekecheke D- z 5 . Iyi itsika yekufarira kudya asi munhu asingadi kushandira zvokudya zvacho navamwe.
+jekenye 	D- 		ny 		jekenye D- ny . Kuti jekenye hunge uri parunyararo, pfungwa dzakanyatsogadzikana zvakanaka.
+jembere 	D- 	5 	z 		jembere D- z 5 . Jembere munhu kana mhuka inenge yakura.
+jende 	D- 	5>6 	z 		jende D- z 5>6 . Jende inhengo yemuviri wechirume, yakaita tumabhora tuviri twakarembera, munova ndimo munobuda urume.
+juro mombe 	D- 	5 	z 		juro mombe D- z 5 . Urwu rudzi rwetsuro yemusango hombe. tsuro danda 9 .
+kachemberebande 	DDDDDK 	12 	z 		kachemberebande DDDDDK z 12 . mbuyamuderere 9 . Uyu munhukadzi akwegura wemanyeponyepo, anonzi anojajadura nemazino ake marefu, uye anongotaurwa nezvake kuitira kutyisidzira vana vadiki vanenge vachinetsa. mukwegurubande 1 .
+kadonongore 	DKKDK 	1a 	z 		kadonongore DKKDK z 1a . Uyu munhu anotaura zvakatsetseka, asingakakami. Mudzidzisi uyu ndikadonongore pachirungu.
+kadorongoshe 	DKKKK 	1a 	z 		kadorongoshe DKKKK z 1a . kadonongore 12 .
+kajongwe 	DDK 	12 	z 		kajongwe DDK z 12 . Kajongwe rudzi rwechimerwa chomusango, chinobumba pasi uye chinoita maruva anotaridzika semusoro wejongwe.
+kakwembe 	DDK 	12 	z 		kakwembe DDK z 12 . Kakwembe munhuwi wakaipa unobva pamuviri womunhu.
+kamukore 	DDKD 	12 	z 		kamukore DDKD z 12 . Kuita kamukore kupinganidza gumbo rako pane remumwe wauri kurwa naye, kuitira kuti iwe usadonha.
+kanyungwe 	DKD 	12 	z 		kanyungwe DKD z 12 . Kanyungwe rudzi rwekakwenzi kanobereka mhiripiri inovava chaizvo. mutoronga 3 .
+kanyururahove 	DKKDKK 	12 	z 		kanyururahove DKKDKK z 12 . Urwu rumwe rudzi rweshiri inonyika muromo wayo mumvura, ichibata hove ichidya.
+kase 	D- 		ny 		kase D- ny . Kuti kase kuburitsa mweya unonhuwa. Unonzwa kuti kase, kana munhu asingagezi akapfuura napamberi pako.
+kashiye 	DKD 	12 	z 		kashiye DKD z 12 . rushiye 11 .
+kateketeke 	D- 	12 	z 		kateketeke D- z 12 . Kuita kateketeke kufambisa miromo asi iwe usingatauri, sezvingaita munhu achiverenga. zevezeve 5 .
+katewetewe 	D- 	12 	z 		katewetewe D- z 12 . Aka kashiri kane tsvaratsvata refu nenzwara refu, zvinova zvinokabatsira kuti kakwanise kumhanya nepamusoro pamaruva omumvura, uye kanodya mhodzi notupuka twomumvura.
+ke 	D 		ny 		ke D ny . Kuti ke kurira kunoita mucheka kana kuti jira, richitsemuka zvishomanene kana kubvaruka.
+ke ke ke-e 	D- 		ny 		ke ke ke-e D- ny . Kuti ke ke ke-e kutsemuka kunoita jira, richienderera zvishoma nezvishoma.
+ke ke ke-e 	K- 		ny 		ke ke ke-e K- ny . Kana munhu achinzi ati ke ke ke-e anenge aseka kwechinguvana nezwi riri pamusoro, sezviya zvinoitika pachikwee. ka ka ka-a .
+keke-e 	K- 		ny 		keke-e K- ny . ke ke ke-e .
+kekerere 	K- 		ny 		kekerere K- ny . Kuti kekerere kukweva chinhu chakareruka chisingaremi chichiita ruzha runongwaudza. kukururu .
+kereke 	DKD 	9 	z 		kereke DKD z 9 . Kereke chiunga chavanhu chinoumba svondo. kirike 9, chechi 9 .
+kiye 	KD 		ny 		kiye KD ny . Kuti kiye kutenderedza kamwana kesimbi yokuvharisa muna mai vako kuti musuo usavhurike. ANTONYMS kiyinu.
+-kombwe 	D 		ny 		-kombwe D ny . Kana chinhu chakati kombwe chinenge chakatenderera, asi chisina kuzoita denderedzwa rakazara.
+kunge 	KD 		dc 		kunge KD dc . Kana munhu achiti chinhu chakaita kunge chimwewo chinhu, anenge achireva kuti zvinhu zviviri izvi zvakafanana. Mwana uyu akaita kunge amai vake pachimiro chake. sa- .
+kunze kunze 	DK KD 	17 	z 		kunze kunze DK KD z 17 . Kunze kunze kunhu kunenge kuri kurekure nepanenge pachitaurwa. Pandakagerwa musoro, ambuya vangu vakandiudza kuti ndirasire vhudzi rangu kunze kunze, kwarisingaonekwi nevaroyi.
+kure kure 	D- 	17 	z 		kure kure D- z 17 . Kure kure kunhu kunenge kuine mufambo mukuru chaizvo kubva pane munhu anenge achitaura.
+Kurume 	DKK 	1a 	z 		Kurume DKK z 1a . Uyu mwedzi wechitatu mugore. Machi 1a .
+kuzhe 	DK 	17 	z 		kuzhe DK z 17 . kunze 17 .
+kwe 	D 		ny 		kwe D ny . Kuti kwe kurovanisa chitanda chemechisa nebhokisi racho uchikasira, uchida kuti mechisi yacho ibvire.
+kwe-e 	D 		ny 		kwe-e D ny . Kuti kwe-e kubata chinhu wobva watanga kuchizvuva pakarepo.
+kwebede kwebede 	D- 		ny 		kwebede kwebede D- ny . Kuti kwebede kwebede kufamba kunoita munhu achiratidza kuti aneta. Paakanga obva kumunda, aifamba achiti kwebede kwebede. kweba kweba .
+kweche kweche 	D- 		ny 		kweche kweche D- ny . Kuti kweche kweche kurira kunoita hosho.
+kwede 	K- 		ny 		kwede K- ny . Uku kupindirana kungaite zvinhu, chimwe chichipinda mune chimwe. Bhaudhi rataifunga kuti rakakurisa rakasvikoti kwede paburi regeja.
+kwerendende 	D- 		ny 		kwerendende D- ny . Kuti kwerendende kufamba kunoitwa nevanhu kana mhuka, zvakaungana pamwe zvichienda kumwe chete.
+kweshe kweshe 	D- 		ny 		kweshe kweshe D- ny . Kuti kweshe kweshe ruzha runoitika kana munhu achikwizira simbi pakaomarara. Bheura raiti kweshe kweshe richirodzerwa paruware.
+mabande 	D- 	6 	z 		mabande mabandi D- z 6 . Mabande chibage chakapamurwa-pamurwa muchigayo kana muduri. mabandurwa 6 .
+maboshwe 	DDK 	1a 	z 		maboshwe DDK z 1a . Maboshwe munhu anoshandisa ruoko rweruboshwe, pachinzvimbo cherudyi, pakuita zvinhu zvakasiyana-siyana, zvakaita sekunyora kana kubika. chimhindiboshwe 7 .
+mabvakure 	D- 	6 	z 		mabvakure D- z 6 . Ava vanhu vanobva kune dzimwe nzvimbo kana nyika dziri kunze kweyenyu.
+mabvuche 	D- 	1a 	z 		mabvuche D- z 1a . Mabvuche munhu asingagoni kuvanza zvaanenge audzwa, chero zvakakosha sei. Mabvuche chidyiwa kana chinwiwa chisinganyanyi kunaka.
+mabvure 	DKD 	1a 	z 		mabvure DKD z 1a . Mabvure munhu anongara achingoreva nhema nguva dzose. chimwayange 1a .
+mabwazhamure 	DKKDK 	1a 	z 		mabwazhamure DKKDK z 1a . Mabwazhamure munhu anongorotomuka kutaura zvinenge zvauya mupfungwa dzake.
+machewe 	DKD 	1a 	z 		machewe mwachewe, matyewe DKD z 1a . Machewe izita rinoshandiswa kusheedza munhu mudiki kwauri, kana munhu waunowirirana naye.
+madendere 	DDDK 	6 	z 		madendere DDDK z 6 . Uku kuneta kana kunyara mushure mokunge munhu aita basa rinorwadza, kana kufamba kwenguva refu. maneto 6, manyaro 6 .
+madhegemure 	DKKKK 	1a 	z 		madhegemure DKKKK z 1a . Uyu munhu anowanzodonhesa chaanenge akabata pamusana pokuvarairwa.
+madzerere 	D- 	6 	z 		madzerere D- z 6 . madzengere 6 .
+madziuranzeve 	DDDDDK 	6 	z 		madziuranzeve DDDDDK z 6 . Iyi inguva iyo mukadzi anenge asununguka, yekuti mukadzi nemurume vanokwanisa kuchisangana mushure mekunge vamborega, vachinzi vanodziura mwana nzeve.
+mafushanise 	DKKDK 	1a 	z 		mafushanise DKKDK z 1a . mafuruse 1a .
+mafushe 	DKD 	6 	z 		mafushe DKD z 6 . Aya mabarwe manyoro akabikwa, ndokuomeswa pazuva dziri hupi. mumhare 3 .
+magangaidze 	DKKDK 	1a 	z 		magangaidze makangaidze DKKDK z 1a . Uyu munhu anotaura zvinhu zvisina kunyatsotwasanuka, zvekuvhara-vhara zvisinganyatsoburitsa chokwadi pachena.
+mahwekwe 	DKK 	6 	z 		mahwekwe DKK z 6 . Mahwekwe kusangana nemunhu kana chinhu chawanga usingafungire kusangana nacho. Mbavha nemuridzi wemba zvakaita mahwekwe pamusuwo, pakamuka chitsvuku vorovana. mambunga 6, masanga 6 .
+maibveibve 	DKDKD 	6 	z 		maibveibve DKDKD z 6 . Uyu muchero wava kuda kusvika, unenge wotebvenyuka-tebvenyuka. Maibveibve emazhanje anoitisa hambe.
+maiwe-e 	K- 		kanu 		maiwe-e K- kanu . Maiwe-e izwi rinoshandiswa pakukanuka kana kukatyamara, mushure mekutaurwa kana kuonekwa kwezvinoshamisa, kana kuti zvinogumbura.
+makarekare 	D- 	6 	z 		makarekare D- z 6 . Idzi inguva dzemadziteteguru dzakapfuura kudharadhara.
+makokotere 	DKKKK 	1a 	z 		makokotere DKKKK z 1a . Uyu munhu ane ruzivo rwakakwana maererano nebasa raanoita. chikwapuro 7 .
+makumbe 	D- 	1a 	z 		makumbe D- z 1a . Makumbe munhu anongofamba achingotora chose chaanokwanisa kuwana, zvisina basa kuti anoda kuchishandisa here kana kuti kwete.
+makuwerere 	DKKKK 	6 	z 		makuwerere DKKKK z 6 . Iyi imheremhere yekufara kwevanhu. Nhasi kumba kwedu kune makuwerere nekuti mukoma wangu ari kuchata. mabadu 6 .
+manhendashure 	DDKKD 	6 	z 		manhendashure manhendeshure DDKKD z 6 . Uku kufamba munhu achidzokera shure kwawakafuratira. madududu 6, manhede 6 .
+manhungetunge 	DKDKD 	6 	z 		manhungetunge DKDKD z 6 . Uku kurwadza kunoita mudumbu, kana munhu adya zvinhu zvakaita sechibage asingatsengi zvakanaka. manhungirwa 6 .
+manunure 	D- 	1a 	z 		manunure D- z 1a . Iri izwi kana zita rinopiwa munhu kana chinhu chinenge chaburitsa vanhu mupfumvu. Kazhinji mvura iya inouya vanhu vanzwa nenzara ndimanunure chaiye, nekuti inounza kudya.
+manzvarike 	DKDK 	1a 	z 		manzvarike DKDK z 1a . Uyu munhu anonyengedza.
+mapakatsine 	DKKKK 	1a 	z 		mapakatsine DKKKK z 1a . Uyu munhu anotyisa chose nokuda kwetsika dzake dzeumhondi. gandanga 5 .
+mapereke 	DKDK 	1a 	z 		mapereke DKDK z 1a . Uyu munhu anopa chaizvo kune avo vanokumbira.
+mapise 	DKD 	6 	z 		mapise DKD z 6 . Iri idoro rechivanhu rakwatiswa kechipiri. muhwiko 3 .
+mapitse 	DDK 	6 	z 		mapitse DDK z 6 . makundano 6 .
+mapudege 	DKDK 	6 	z 		mapudege DKDK z 6 . Uku kudya kunonaka chaizvo. magiribidi 6 .
+marenje 	DKK 	6 	z 		marenje DKK z 6 . mukwerera 3 .
+marute 	DDK 	6 	z 		marute DDK z 6 . masiriri 6 .
+masasire 	D- 	1a 	z 		masasire D- z 1a . Uyu munhu anogona kutsvetera vamwe kuti vamuitire zvaanoda. dzvetera 5 .
+mashazhare 	D- 	6 	z 		mashazhare D- z 6 . mashakada 6 .
+masunungurahomwe 	DKKKDKK 	6 	z 		masunungurahomwe DKKKDKK z 6 . Iyi imari inopihwa kuna baba vemusikana nemunyai kuti achivhura homwe yake yemari pakuroora.
+masuvanzombe 	DDDKK 	6 	z 		masuvanzombe DDDKK z 6 . Iri zidimbu resadza rinoumbwa nemunhu pakudya, achiita seanotya kupedzerwa. musovanzombe 3 .
+matakadyakare 	DDKDDD 	6 	z 		matakadyakare DDKDDD z 6 . Iri izwi rinoshandiswa kutaurira munhu kuti zvaakakuitira zvakatopfuura nenguva yazvo, saka haafaniri kuramba achingotarisira kutendwa kana kuitirwawo chimwe chinhu. Matakadyakare haanyaradze mwana.
+matakanure 	DKKKK 	1a 	z 		matakanure DKKKK z 1a . Uyu munhu anobatsira vanhu mumatambudziko, ovagutsa nezvavanenge vachishuwa kuwana. manunure 6 .
+materekeshe 	D- 	6 	z 		materekeshe D- z 6 . Uhwu uwandu hwezvinhu munzvimbo kana panzvimbo.
+matoonore 	D- 	1a 	z 		matoonore D- z 1a . Uyu munhu anokwanisa kudzikamisa kana kupfuvisa munhu asinganzwi.
+matsive 	DDK 	6 	z 		matsive DDK z 6 . Kuita matsive kuda kudzorera zvinhu zvakaipa zvaunenge waitirwa.
+matsunetsune 	D- 	6 	z 		matsunetsune D- z 6 . Uku kuita chinhu uchiziva kuti zvinozoitika ndezvipi. Uku kudonha nemusoro.
+maunganidze 	DKKDK 	1a 	z 		maunganidze DKKDK z 1a . Uyu munhu ane mwoyo munyoro, anofarira munhu wose kuti auye pamba pake.
+mawedzere 	D- 	1a 	z 		mawedzere D- z 1a . Uyu munhu anotaurisa achiisa netumwe tusiri munyaya.
+mawere 	DKD 	6 	z 		mawere DKD z 6 . Mawere ndekunodzikira kwegomo kana mukwidza.
+mazauone 	DKDDD 	6 	z 		mazauone DKDDD z 6 . Uyu mutambo kana zvinhu zvinofadza kuona. Muchato wangu waiva mazauone matindigoma kunakidza. mahuyauone 6 .
+mazhambe 	DKD 	1a 	z 		mazhambe DKD z 1a . Mazhambe munhu anogarochema kana kudaidzira pasina nemhaka yose.
+mazheke 	DDK 	6 	z 		mazheke DDK z 6 . Mazheke kuwanda kwezvokudya zvakabikwa. Pamutambo paiva namazheke enyama.
+mazitye 	DKD 	6 	z 		mazitye DKD z 6 . mukambo 3 .
+mazvambure 	DKDK 	1a 	z 		mazvambure DKDK z 1a . Uyu munhu anogarorova vamwe zvakasimba.
+mbambarize 	DDDK 	9<10 	z 		mbambarize mhambarize DDDK z 9 <10 . Ichi chipuka chinowanzogara mumakwati ematanda nepasi pemabwe, chinoruma nemuswe wacho.
+mbanje 	DK 	9 	z 		mbanje DK z 9 . Mbanje ifodya inodhaka zvikuru, zvekuti inogona kukanganisa pfungwa dzemunhu.
+mbatamunwe 	KKKD 	9<10 	z 		mbatamunwe KKKD z 9 <10 . Ichi chinhu chinopfekwa mumunwe, chinoratidza kuti munhu akaroorwa kana kuti chinongopfekerwa mucheno. mhete 9 .
+mbe-e 	D 		ny 		mbe-e D ny . Kana kunze kwava kuti mbe-e kunenge kwava kuchena. Kana munhu ane mwoyo wakati mbe-e anenge ane mwoyo wakanaka, munyoro.
+mbende 	K- 	9<10 	z 		mbende K- z 9 <10 . Mbende rudzi rwembeva inosvetuka-svetuka. banya 5 .
+mbenene mbenene 	KKK DDD 	9 	z 		mbenene mbenene KKK DDD z 9 . Uku kupfuvisa munhu anga achifara.
+mberevere 	D- 	9 	z 		mberevere D- z 9 . Aka kamoto kadiki kasinganyanyi kupfuta. Mberevere yakapisa matanda makuru.
+mbonje 	D- 	9<10 	z 		mbonje D- z 9 <10 . Kana munhu akatemwa mbonje anenge aita ronda mushure mekurohwa kana kutemwa. vanga 5 .
+mburetete 	KDDD 		ny 		mburetete KDDD ny . Kana chinhu chakaita sendiro chakachena zvekuti mburetete chinenge chisisina kana nekatsvina kasaririra, chava kupenya.
+mbuyamuderere 	KDDDDK 	9 	z 		mbuyamuderere ambuyamuderere KDDDDK z 9 . Aka kapuka kane makumbo marefu, kanobhururuka nekudyawo tumwe tupuka. mbuyambuya 9 .
+mbwende 	K- 	9<10 	z 		mbwende K- z 9 <10 . Mbwende munhu anotya, asina kushinga. gwara 5 .
+mbwerekeshe 	D- 		ny 		mbwerekeshe D- ny . bwerekeshe .
+mbwetete 	D- 				mbwetete D- . beche 5 .
+mbwirembwire 	KDKD 	9 	z 		mbwirembwire KDKD z 9 . Iyi imhunga kana chibage chinokangwa, chokuyiwa kuita upfu hunodyiwa hwakadaro.
+me-e 	K 		ny 		me-e K ny . Kuti me-e kuchema kunoita mbudzi.
+memetere 	D- 		ny 		memetere D- ny . Kuti memetere kuzadza zviyo kana chibage mumudziyo, sekuti ngoro, mugomo kana saga.
+mhakure 	K- 	9>10 	z 		mhakure K- z 9>10 . Mhakure rudzi rwenyoka inozivikanwa nekusimudza musoro zvenhando, uye nekumhanya zvikuru kwainoita.
+mhande 	DK 	9 	z 		mhande DK z 9 . Mhande chidimbu chembeu chapamurwa, sekuti chipenga chetsanga yechibage.
+mhandire 	DKD 	9>10 	z 		mhandire DKD z 9>10 . Mhandire muguri wechibage chakaoma, chinowanzokangwa. Mhandire chibage chava kuda kuoma, chinowanzogochwa.
+mhandwe 	D- 	9 	z 		mhandwe D- z 9 . Mhandwe kamuti kanoita mwana anenge hanyanisi nemaruva matsvuku, kanoti kana kokukumuka kachikunguruka, vakuru vanobva vati koda kunaya zvino.
+mhanje 	KD 	9>10 	z 		mhanje KD z 9>10 . Mhanje imhuka hadzi isingabereki. ramba 9, tsote 9 .
+mharadzavagere 	DDDDKK 	9 	z 		mharadzavagere DDDDKK z 9 . Uyu munhu anosvikokanganisa kana kufurufusha vanhu panzvimbo pavanga vari pasina chinetso.
+mhashu mapfunde 	DD DKK 	9>10 	z 		mhashu mapfunde DD DKK z 9>10 . Urwu rudzi rwemhashu inofarira kugara mumunda wezvirimwa, semumunda wemapfunde. hwiza mapfunde 9 .
+mheche 	K- 	9<10 	z 		mheche K- z 9 <10 . Mheche inhengo yemuviri yemunhukadzi inobuda nayo nemwana neweti. beche 5 .
+mhembere 	D- 	9 	z 		mhembere D- z 9 . Mhembere imhepo inobva kuchamhembe ichienda kumaodzanyemba.
+mhembwe 	D- 	9>10 	z 		mhembwe bembwe, mhengwe D- z 9>10 . Iyi imhuka yemusango yakafanana nembudzi inowanzofamba usiku.
+mhere 	D- 	9>10 	z 		mhere D- z 9>10 . Mhere kudaidzira nezwi riri pamusoro kunoita munhu anochema. Ndanzwa mhere ndikaziva kuti sekuru vokurwara vashaika.
+mheremhere 	D- 	9 	z 		mheremhere D- z 9 . Urwu ruzha rwakanyanya.
+mhete 	DK 	9>10 	z 		mhete DK z 9>10 . Mhete chishongo chemucheno chinopfekwa nemadzimai panzeve. Mhete chishongo chinopfekwa pamunwe chinogona kunge chichitaridza kuti munhu uyu akachata, ava mudzimai kana murume wemunhu.
+mheziyemunwe 	DKDKD 	9<10 	z 		mheziyemunwe DKDKD z 9 <10 . Uyu mwana mumwe chete anenge akaberekwa ari ega, kana kuti akararama mushure mekunge vamwe vakafa mumhuri. zindoga 1a .
+mhingepinge 	KDKD 	9 	z 		mhingepinge KDKD z 9 . Uku kupindana-pindana nekumonerana-monerana kunowanikwa musango remiti, rine miti mirefu yakatsinhana. mhiyepiye 9 .
+mhombwe 	D- 	9>10 	z 		mhombwe mhombo D- z 9>10 . Mhombwe murume anoita zvechihure, achirara nevakadzi vasiri vake.
+mire mire 	KD+ 		ny 		mire mire KD+ ny . Kuti mire mire kumirira munhu kwenguva diki, wobva waoenda nekuti anenge akunonokera.
+momote 	D- 		ny 		momote D- ny . Kuti momote kuenda pachinhu nokuchifudiga.
+monere 	KDK 		ny 		monere KDK ny . Kuti monere kutenderedza shinda pachimuti kana pachibhobhiri. Kuti monere kuenda nenzira inotendereka panzvimbo yauri kuda kusvika.
+mubare 	DKD 	1 	z 		mubare DKD z 1 . Mubare munhu waunonzwanana naye nekufarira kuva naye. Anogara achifamba nemubare wake nguva dzose dzose. shamwari 9 .
+mubatirapamwe 	DKKDKK 	3 	z 		mubatirapamwe DKKDKK z 3 . Uku kusevenza pamwe chete kwevanhu vakawanda, pamabasa akaita sekurima nekusona. mushandirapamwe 3, humwe 9, hoka 9 .
+mubhemhe 	DKK 	3 	z 		mubhemhe DKK z 3 . mbongoro 9 .
+mucheche 	D- 	1 	z 		mucheche D- z 1 . Mucheche mwana achangosunungukwa.
+muchechete 	D- 	3 	z 		muchechete D- z 3 . Uyu muti unowanzomera pachuru, mumakomo nemunzizi, unoita muchero unonzi chechete dzine ruvara rwemondo yemazai.
+muchembere 	D- 	1 	z 		muchembere D- z 1 . Uyu mudzimai akwegura.
+muchenje 	D- 	3 	z 		muchenje D- z 3 . Muchenje tumajuru tudiki tune dumbu jena, tunowanzodya uswa, miti nezvimwewo. mujuru 3 .
+mucherechese 	DDDKK 	3 	z 		mucherechese mucherekese, mutserekese DDDKK z 3 . Uyu muti murefu unobereka vana vanoshandiswa pakuredzesa hove.
+mudhende 	DDK 	3 	z 		mudhende dhende DDK z 3 . mudune 3 .
+mudunge mudunge 	DKD+ 	3 	z 		mudunge mudunge DKD+ z 3 . Kuita mudunge mudunge kuramba munhu achingomedza kudya pasina zororo.
+mudungwe 	DKD 	3 	z 		mudungwe dungwe DKD z 3 . Uyu mutsara wevanhu kana mhuka. Nzou dzinofamba dzakaita mudungwe kana dzichiyambuka mugwagwa. rundaza 11, mutsetse 3 .
+mudyandirere 	DKKDK 	3 	z 		mudyandirere DKKDK z 3 . mudyandigere 3 .
+mudyapfunde 	DKDD 	3 	z 		mudyapfunde mudyabvunde DKDD z 3 . Iyi imhando yemapfunde anobudisa muto unotapirira. mudyakwose 3 .
+mudzimundione 	DKKKDK 	3 	z 		mudzimundione DKKKDK z 3 . mudzimundiripe 3 .
+mufake 	DKD 	3 	z 		mufake DKD z 3 . Mufake mupunga wakaiswa dovi. mashakada 6 .
+mufere 	D- 	3 	z 		mufere D- z 3 . Mufere muti unodyarwa uchikura wakatambarara, unokubereka vana vanonzi mashamba, vanobikiswa nhopi kana kupihwa mombe. mushamba 3 .
+mufote 	DKD 	3 	z 		mufote DKD z 3 . Mufote inyimo dzakabikwa kuita mutakura, unoitwa mbuva.
+mufudze 	DKD 	3 	z 		mufudze mupfudze DKD z 3 . mupfudze 3 .
+mufuramhembwe 	D- 	3 	z 		mufuramhembwe D- z 3 . Iri igwenzi rine midzi inorapa chikosoro, rine mashizha anofarirwa nemhembwe.
+mugarahorwe 	DDDKD 	3 	z 		mugarahorwe DDDKD z 3 . Iyi imhando yemuti inowanikwa munzvimbo dzakakwirira. mutsatsati 3, mugarahungwe 3 .
+mugaranguruve 	D- 	3 	z 		mugaranguruve D- z 3 . Iyi imhando yemuti, unoita minzwa inotandikira, unowanzowanikwa munzvimbo dzinonaya mvura yakawanda. garura 5 .
+mugaranyenze 	DDDKK 	3 	z 		mugaranyenze DDDKK z 3 . Iyi imhando yemuti une ganda rine man'aran'azha. muriranyenze 3, mudyahacha 3 .
+mugumachembere 	D- 	3 	z 		mugumachembere D- z 3 . Iri iderere rinomera kumakura.
+mugumegume 	DKDKD 	3 	z 		mugumegume DKDKD z 3 . Ichi chiitiko chekupedzisira paurongwa hwose hwunenge huripo. vharamusasa 9, mhedziso 9 .
+mukare 	DDK 	1 	z 		mukare DDK z 1 . Mukare munhu akanga aripo panguva yepasichigare. Mufemberi Chaminuka mukare.
+mukate 	DKD 	3 	z 		mukate DKD z 3 . Mukate ihari huru inobikirwa sadza. tsambakodzi 9, tsaiya 9 .
+mukume 	DKD 	3 	z 		mukume DKD z 3 . Mukume zviupfu ndezvinoonekwa pamuchekechera wechibage kana mhunga, zvinozoberekesa maruva acho.
+mukuyadenhe 	DDDKK 	3 	z 		mukuyadenhe DDDKK z 3 . Aka kambeva kadiki kasingadyiwi.
+mukuze 	DKD 	3 	z 		mukuze DKD z 3 . Mukuze idutu renyuchi. bumha 5 .
+mumashure 	DDKD 	18 	z 		mumashure DDKD z 18 . shure 17a .
+munetakamwe 	DDDDK 	3 	z 		munetakamwe DDDDK z 3 . Uku kuti kana uine mabasa akawanda aunoda kuita, wobva waaita ese nguva imwe kuti ugozozorora wapedza basa racho rese.
+munhurume 	D- 	1 	z 		munhurume D- z 1 . murume 1 .
+munwe 	D 	3 	z 		munwe mumwe D z 3 . Munwe inhengo yeruoko inoshandiswa pakubata chinhu kana kupfumbatira muchanza.
+mupande 	DKD 	3 	z 		mupande DKD z 3 . Mupande kutinhira kune simba kunoitika kana kunze kwava kuda kunaya, kana kuti kuchitonaya. bhanan'ana 5 .
+mupembere 	DDDK 	3 	z 		mupembere DDDK z 3 . Uyu muti unoita mashizha akapfava, nekutanga kuita maruva usati waita mashizha aya. mugodo 3, mupakamabwe 3 .
+mupfudze 	DKD 	3 	z 		mupfudze mufudze DKD z 3 . Mupfudze manyowa emombe anobva mundove yacho. mupfumbwe 3 .
+mupfumbwe 	DKD 	3 	z 		mupfumbwe DKD z 3 . mupfudze 3 .
+mupwere 	DKK 	1 	z 		mupwere DKK z 1 . Mupwere mwana wezera rechidiki.
+muremberembe 	D- 	3 	z 		muremberembe D- z 3 . Uyu muti une vana vanorembera vari varefurefu. murumanyama 3, musatanyoko 3 .
+murirakamwe 	DDDKK 	3 	z 		murirakamwe DDDKK z 3 . Iyi inguva inorira huku kekutanga usiku hwega hwega.
+muromopote 	DDDKD 	3 	z 		muromopote DDDKD z 3 . Iyi ihove inorema zvikuru.
+murove 	DDK 	3 	z 		murove DDK z 3 . Murove kuwandisa kwemvura inonaya, kunoita kuti minda izare nemvura inyudze, uye dzimba dzinyorove pasi nemadziro.
+murwandirere 	DKKDK 	1 	z 		murwandirere DKKDK z 1 . Uyu munhu anoshandisa mushonga wekukuvadza vamwe.
+musandizeze 	DKKKD 	3 	z 		musandizeze DKKKD z 3 . Iyi ihembe yechikadzi pfupi, kana kuti inonjenjemera ichiratidza zviri mukati mayo.
+mushapeshape 	D- 	3 	z 		mushapeshape D- z 3 . Uku kunwa mvura kana doro nechimbichimbi.
+mushate 	D- 	3 	z 		mushate D- z 3 . Mushate ibota dete dete rinodyiwa risina shuga kana munyu.
+mushenjere 	D- 	3 	z 		mushenjere D- z 3 . Urwu rudzi rweuswa hunoreba nekuita mapazi semuti, hwakasimba zvekuti, unoitiswa nhungo, uye hunoshandiswa kurukisa mabhasikiti nezvimwewo. musengere 3 .
+musheshe 	DKK 	3 	z 		musheshe DKK z 3 . musvo 3 .
+mushore 	DDK 	1 	z 		mushore DDK z 1 . shuramurove 5 .
+mushure 	DKD 	18 	z 		mushure DKD z 18 . shure 17a .
+musoro bande 	DKK DK 	3 	z 		musoro bande DKK DK z 3 . Uku kutemwa nemusoro zvinorwadza zvikuru.
+muswe 	DK 	3 	z 		muswe musve DK z 3 . Muswe inhengo yemuviri wemhuka inomera kumagumo emusana inopinimidza kana kurembera kumashure. muchira 3 . Muswe munhu anosaririra shure pakuita zvinhu.
+muswere 	DDK 	3 	z 		muswere muswero DDK z 3 . Iri izuva rose, kubva mangwanani kusvika zuva radoka. Mashaya mombe, manga muchiitei muswere wese wezuva?
+mutakuramombe 	D- 	1 	z 		mutakuramombe D- z 1 . muswinyamombe 1 .
+mutambaratende 	DDDDKD 	3 	z 		mutambaratende DDDDKD z 3 . mutambarakede 3 .
+mutate 	DKK 	1 	z 		mutate DKK z 1 . mudhara 1 .
+muteketeke 	D- 	3 	z 		muteketeke D- z 3 . Iyi inyama yakabikwa, inotengeswa panzvimbo inenge yakaungana vanwi vedoro.
+mutembwende 	D- 	3 	z 		mutembwende D- z 3 . Uyu mucheka murefu unomonerwa nevarume unosvika mumabvi. mukofo 3, mutevera 3 .
+mutengate 	DDKD 	3 	z 		mutengate DDKD z 3 . mutekateka 3 .
+mutohwe 	DKD 	3 	z 		mutohwe mutobwe DKD z 3 . Mutohwe muti unobereka muchero une mbai dzinonunira kana dzaibva, dzichirera kana munhu achitsenga. mugururu 3 .
+mutovakamwe 	DDDDK\DDDKK 	3 	z 		mutovakamwe DDDDK\DDDKK z 3 . Ichi chiitiko chinoitika kamwe asi chichishamisa. ziitikakamwe 21 .
+mutsetse 	DKD 	3 	z 		mutsetse DKD z 3 . mutsara 3 .
+muvengahonye 	DKKKD 	3 	z 		muvengahonye DKKKD z 3 . Aka karudzi kemuti kasingakuri kuenda mudenga zvakanyanya. munyingahanyi 3 .
+muyembe 	DKK 	3 	z 		muyembe DKK z 3 . Muyembe kutyisidzira kune kutamba mukati. musara 3 .
+muzemberere 	DKKDD 	3 	z 		muzemberere DKKDD z 3 . mudzuwerere 3 .
+muzvare 	DKK 	1 	z 		muzvare DKK z 1 . Muzvare munhukadzi asati aroorwa. Muzvare Shava ndivo chiremba wemhuri yedu. mukunda 1 .
+muzvezve 	DKD\D- 	3 	z 		muzvezve DKD\D- z 3 . Muzvezve mutsara unosara panenge pafamba nenyoka kana chireyi. muzvezverere 3, muhwezva 3, mwezha 3 .
+mvengemvenge 	DKDD 	9 	z 		mvengemvenge DKDD z 9 . Ava vanhu kana zvinhu zvinenge zvakangosangana. Musangoita mvengemvenge, mirai vasikana kwavo, vakomana kwavo.
+mvongwe 	DK 	5 	z 		mvongwe DK z 5 . Mvongwe imvura yakabvongodzeka, yava netsvina.
+mvuve 	D- 	9>10 	z 		mvuve D- z 9>10 . Mvuve ihari isina huro inoshandiswa kubikira manhanga.
+mvuwe 	DK 	9>10 	z 		mvuwe DK z 9>10 . Mvuwe mupunga wakanyikwa mumvura unodyiwa usina kubikwa.
+-mwe 	K 		pr 		-mwe K pr . -mwe chipauro chinoratidza munhu kana chinhu chinenge chiri chega. Mwana mumwe ndiye adya, vamwe vachiri kugezeswa.
+mwene 	DK 	1 	z 		mwene DK z 1 . Kana munhu achinzi mwene wechinhu, zvinoreva kuti chinhu ichocho ndechake. muridzi 3 .
+mwenje 	D- 	3 	z 		mwenje D- z 3 . Mwenje moto unotungidzwa kuti ujekese murima. chivheneko 7 .
+mwere 	D- 		bat 		mwere D- bat . chero .
+mwerere 	D- 	3 	z 		mwerere D- z 3 . Mwerere ibvudzi remwana achangozvarwa, rakaita zerere.
+n'angaureure 	DDKKKD 	9>10 	z 		n'angaureure DDKKKD z 9>10 . n'angaure 9 .
+n'e-e 	D 		ny 		n'e-e D ny . Kuti n'e-e kutsemuka kunoita jira riri kubvarurwa. mwe-e .
+nane 	D- 		dc 		nane nani D- dc . nani .
+ndambarukuse 	DDDKD 	9>10 	z 		ndambarukuse DDDKD z 9>10 . Ichi chipuka chisina makushe.
+nde-e 	K- 		ny 		nde-e K- ny . Kuti nde-e kutarisa pachinhu chimwe kwenguva refu chaizvo.
+ndege 	KD 	9>10 	z 		ndege KD z 9>10 . Ndege muchina unobhururuka, unotakura vanhu, mhuka nezvimwewo. furaimachini 9 .
+ndeke 	DK 	10 	z 		ndeke DK z 10 . manyepo 6 .
+ndendere ndendere 	KDD+ 				ndendere ndendere KDD+ . Kuti ndendere ndendere kudhonza munhu kana mhuka inenge ichiramba kuenda kwaunenge uchida kuti iende.
+ndenderere 	K- 		ny 		ndenderere K- ny . ndendere ndendere .
+ndenene 	K- 	9 	z 		ndenene K- z 9 . Ndenene imhando yemhunga. Ndenene inharo dzinopedzwa nokurwa chete.
+ndere 	DK 	9 	z 		ndere DK z 9 . Ndere munhu asingadi zvetsvina anogara akachena.
+nderendere 	DKDK 		ny 		nderendere DKDK ny . Kuti nderendere kufamba uri mumashure memunhu kana chimwewo chifambiso, asi usiri kuchiteverera. nderere .
+ndeve 	K- 	9>10 	z 		ndeve K- z 9>10 . Ndeve mushonga wemaraki unenge wakaputirwa mumucheka.
+ndibvinyn'e 	DDK 		kanu 		ndibvinyn'e DDK kanu . ndibvire .
+ndinde 	DK 	9 	z 		ndinde DK z 9 . Ndinde kusapera kwechinhu, sezvakaita urwere kana mvura inoramba ichinaya. Mvura yegore rino indinde, zvekuti kune maguta.
+ndirendire 	DKDD 	9>10 	z 		ndirendire DKDD z 9>10 . Urwu rwumwe rudzi rweshiri diki inodya mbeu mumunda. tindiri 1a .
+ndongwe 	KD 	9>10 	z 		ndongwe KD z 9>10 . Ndongwe tupuka tunobhururuka, tunowanzofamba twakawanda, tunodya mbeu uye twunodyiwa nevanhu. hwiza 9 .
+ndonye 	D- 		ny 		ndonye D- ny . Kuti ndonye kuzadza chikafu mumukanwa usina hanya nekuti uri kudya sei. Kuti ndonye kuchonya kunoita munhu ziso achikasika.
+ndowe 	D- 		ny 		ndowe D- ny . ndonye .
+ndure 	D- 		ny 		ndure D- ny . Kuti ndure kuruma kunoita nyuchi kana igo. Kuti ndure kudonha kunoita vanhu vaviri kana vakawanda panguva imwe.
+ndute 	D- 		ny 		ndute D- ny . Kuti ndute kuruma munhu kana mhuka zvirorwadza. Akasvikoti ndute kuruma dama repfambi yaifamba nemurume wake.
+ndutswe 	D- 	10 	z 		ndutswe D- z 10 . Ndutswe kutsemuka nemapuri anenge ari muchidziro chemba. mitswi 4 .
+ndwe 	K 		ny 		ndwe K ny . Kuti ndwe kubaya nemuseve wakagomara kana kuti une chumusoro chedanda.
+ndwise 	DK 	9>10 	z 		ndwise DK z 9>10 . Ndwise munhu ane unhubu hwekufarira kurwisanisa vanhu.
+ndye 	D 	9 	z 		ndye D z 9 . Ndye ibudzi rinovava zvekuti haridyike. indye 9 .
+ndyirendyire 	KDKD 	9 	z 		ndyirendyire KDKD z 9 . mesomeso 6 .
+nekeshe 	D- 				nekeshe D- . Kuti nekeshe kupararira kunoita chinhu chanyangadika semafuta kana uchi.
+nemangwe 	DKD 	9<10 	z 		nemangwe DKD z 9 <10 . kiti 9 .
+nengete 	K- 		ny 		nengete K- ny . Kuti nengete kuneta kunoita munhu.
+ngandure 	DKD 	9 	z 		ngandure DKD z 9 . Ngandure idoro rinodhaka zvekuti dhu.
+ngare 	KD 	5 	z 		ngare KD z 5 . Ngare karuva kanoita pamuriwo wemanhanga.
+nge 	K 				nge K . Kuti nge kurova simbi uchishandisa kasimbi kadiki.
+ngendye 	DK 		ny 		ngendye ngenje DK ny . Kuti ngendye ruzha rwunoitwa nekiyi paunenge uchikiya. keche .
+ngenje 	DK 		ny 		ngenje DK ny . ngendye .
+ngerengere 	K- 	5 	z 		ngerengere K- z 5 . Iyi isimbi inoshanda sevhiri rebhasikoro kana yabatanidzwa netayi, inotambiswa navana vachivhiriridzwa. chingerere 7, jejerere 5 .
+ngome 	DK 	9 	z 		ngome DK z 9 . ndari 9 .
+ngororombe 	KKKD 	9 	z 		ngororombe KKKD z 9 . Uku kudzana muchitenderera, pachiridzwa kanyonge kana tserere.
+nguruzeze 	D- 		ny 		nguruzeze D- ny . Kuti nguruzeze kurembera nokuda kwekurwara kana kuneta.
+ngurwe 	D- 	9>10 	z 		ngurwe D- z 9>10 . nguruve 9 .
+ngware 	DK 	10 	z 		ngware DK z 10 . ruware 11 .
+ngwendere 	K- 		ny 		ngwendere K- ny . Kuti ngwendere kurira kunoita mudziyo wesimbi kana wawira pasi.
+ngwengwendere 	K- 		ny 		ngwengwendere K- ny . Kuti ngwengwendere ruzha rwunoitwa nendiro kana mumwewo mudziyo wesimbi paunowira pasi.
+ngwere 	DK 	9>10 	z 		ngwere DK z 9>10 . Kana munhu akanzi ane ngwere anenge achinetsa nekushaisa vamwe vanhu mufaro.
+ngwerewere 	K- 	9 	z 		ngwerewere K- z 9 . Ngwerewere upfu hwechibage hwakagayiwa hukaita uchenachena.
+nhambetambe 	KDKD 	9 	z 		nhambetambe KDKD z 9 . Kuita nhambetambe kufara muchinakidwa nezvinhu zvinozoguma zvakupinzai mumatambudziko.
+nhandare 	D- 	9>10 	z 		nhandare D- z 9>10 . Nhandare inzvimbo yakakurwa, yakagadzirwa zvakanaka, yokutambira mitambo yakaita senhabvu. Nhandare inzvimbo inomhara ndege.
+nhangaruvanze 	K- 	1a 	z 		nhangaruvanze K- z 1a . Uyu muroora wokutanga mumhuri.
+nhare 	D- 	9>10 	z 		nhare D- z 9>10 . Nhare inzvimbo inokwanisika kuti vanhu vahwande kubva kuvavengi, kana kuti mhuka dzihwande vavhimi.
+nhede 	KD 	5 	z 		nhede KD z 5 . manhede 6 .
+nhehwe 	D- 	5/9>6 	z 		nhehwe D- z 5/9>6 . Nhehwe iganda rinosara panenge pavhiyiwa mhuka, rinozosukwa kugadzira tambo kana pokugarira mumba.
+nhemeteme 	KDKD 	9>6 	z 		nhemeteme dhemeteme KDKD z 9>6 . Ma nhemeteme rudzi rwemakonye akasvibira anodyiwa, anowanikwa mumusasa kana munhondo.
+nhendeshure 	DKDD 	9 	z 		nhendeshure DKDD z 9 . madudu 6 .
+nhendesure 	DKDD 	9 	z 		nhendesure DKDD z 9 . madudu 6 .
+nhere 	K- 	9>10 	z 		nhere K- z 9>10 . Nhere inhumbi yevarume yemukati. Nhere izwi rinoshandiswa kureva nhengo yevarume inoita basa rekusika rudzi.
+nhete 	D- 		pr 		nhete D- pr . Kana poriji iri nhete inenge isina kukora, zvokuti hainetsi kumedza.
+nheve 	D- 	9 	z 		nheve D- z 9 . nhanga 9 .
+nhimbetimbe 	KDKD 	9>10 	z 		nhimbetimbe KDKD z 9>10 . Uku kungotimba asi zvisina urongwa hunoonekera kuti uri kutimbirei, uye wakananga kupi.
+nhimuramuswe 	KKKDK 	9 	z 		nhimuramuswe KKKDK z 9 . Iyi yaiva nzira yaishandiswa nevarungu kuti vatapudze zvipfuyo zvevanhu vatema, apo vaidimbura miswe yedzimwe mombe kuti vagoziva kuti dzavachasiya padanga rimwe nerimwe ndedzipi.
+nhinganikire 	DKKKK 	1a 	z 		nhinganikire DKKKK z 1a . nhingi 1a .
+nhokwe 	KD 	9 	z 		nhokwe KD z 9 . Nhokwe ibundo rinowanikwa murwizi, rinoshandiswa pakurukisa mhasa kana mameti.
+nhonje 	DK 	9>10 	z 		nhonje DK z 9>10 . Nhonje muto wedobwe.
+nhope 	D- 	9>10 	z 		nhope D- z 9>10 . Nhope madhaka akawanda panzvimbo imwe chete.
+nhowetowe 	DKDD 	9>10 	z 		nhowetowe DKDD z 9>10 . Iyi ishiri chena ine makumbo marefu.
+nhundetunde 	DKDD 	9 	z 		nhundetunde DKDD z 9 . Uku kunzwa kuda kuenda kunoita weti kakawanda panguva diki.
+nhundumuture 	KKDKK 	9 	z 		nhundumuture KKDKK z 9 . Iri idambudziko rinenge rawira vanhu vose munyika, sezvakaita hondo.
+nhundutwe 	KKD 	9 	z 		nhundutwe KKD z 9 . Nhundutwe idutu ramadota kana kuti madota ari mugomba ramarara.
+nhururadare 	KKKKD 	9 	z 		nhururadare KKKKD z 9 . Uyu muripo unobviswa nemunhu anenge azomhan'ara mhosva kudare kuti itongwe. mushamhu 3, gwiro 5 .
+nhutetute 	KDKD 	9 	z 		nhutetute KDKD z 9 . Uku kumhanyamhanya kubvisa midziyo kana nhumbi padzanga dziri uchidziendesa kune imwe nzvimbo. Kana vanhu vachinge vakohwa, marori anoita zvirimwa nhutetute kuendesa kwazvinotengeswa.
+njanjare 	DDK 	9>10 	z 		njanjare DDK z 9>10 . Njanjare munhu ane mazino anobudikira kunze. man'oo 6 .
+njanjenjanje 	D- 	9>10 	z 		njanjenjanje D- z 9>10 . Iri igonye rinodyiwa rinowanikwa mumuti wemuzhanje.
+nje-e 	D 		ny 		nje-e D ny . Kuti nje-e kuhwinya kana kupenya kwechinhu. Kuti nje-e kufamba kwemunhu asina kugatsikana mumwoyo.
+njengenjenge 	DKDK 		ny 		njengenjenge DKDK ny . Kuti njengenjenge kudonha kwechinhu chakaomarara, asi chiri mubutiro rakapfava.
+njenjeke 	D- 		ny 		njenjeke D- ny . Kuti njenjeke kuisa midziyo kudivi rimwe chete, asi zvisingaratidzi kuva nehanya nemidziyo yacho. njokoto .
+njere 	K- 	10 	z 		njere njero K- z 10 . Njere kukwanisa kufunga zvakadzama, kana kuti kupinza kwepfungwa zvakadzama. nzero 10 .
+njerere 	K- 		ny 		njerere K- ny . Kuti njerere ruzha runoitwa neshiri kana makurwe.
+njikenjike 	KDKD 	9>10 	z 		njikenjike KDKD z 9>10 . Urwu rudzi rweshiri ine huro yakatsvukuruka.
+njude 	KD 	9 	z 		njude KD z 9 . Njude mutambo wevana wavanomhanyirana vakachonjomara.
+njurwe 	KD 	5 	z 		njurwe KD z 5 . gurwe 5 .
+nomwe 	DK 		pr 		nomwe DK pr . Zvinhu zvi nomwe ndezvinenge zvasara zvitatu kuti zvisvike gumi.
+nonge 	KD 		ny 		nonge KD ny . Kuti nonge kutora chinhu chinenge chiri pasi nokukasika.
+nyagukunye 	DKKK 	9 	z 		nyagukunye DKKK z 9 . nyoka rukuni 9 .
+nyakasheche 	DDKD 	9 	z 		nyakasheche nyakashesha DDKD z 9 . Uhwu hwowa huduku hune ruvara rutsvuku, hunodyiwa navanhu.
+nyakatonje 	D- 	1a 	z 		nyakatonje D- z 1a . Uyu munhu anoturikira zvinotaurwa nesvikiro. nechombo 1a .
+nyakuvuche 	DDKD 	1a 	z 		nyakuvuche DDKD z 1a . bandamusoro 1a .
+nyamafene 	D- 	9 	z 		nyamafene D- z 9 . nyamapfeni 9 .
+nyamasase 	DDKD 	9 	z 		nyamasase DDKD z 9 . nyamatsatsi 9 . Iyi ihove ino mutumbi wakadarika womuramba, nomusoro muduku sowenyoka, unochekwa wokandwa mudziva kana ichinge yabatwa.
+nyamavende 	D- 	1a 	z 		nyamavende nyamaende D- z 1a . Uyu munhu asina mamwe mazino epamberi. samavende 1a .
+nyambare 	DDK 	9 	z 		nyambare DDK z 9 . Kutamba nyambare kutamba kunonetesa kunoitwa nevasikana.
+nyamutsunhetsunhe 	DDDKDK 	1a 	z 		nyamutsunhetsunhe DDDKDK z 1a . Uyu mutambo wevana vadiki wokushunyana. chamutsunyamutsunya 7 .
+nyangwe 	D- 		kanu 		nyangwe D- kanu . Kuti nyangwe kuramba kana kupikisa. bodo .
+nyanye 	D- 		ny 		nyanye D- ny . Kuti nyanye kuita chinhu chinopfurikidza panosvika vamwe. Mukoma wake anodada, asi munin'ina wake ndiye nyanye.
+nyare 	D- 		ny 		nyare D- ny . Kuti nyare kusunga zvinyoronyoro zvisinganetsi kusungunura.
+nyasire 	KDK 	9>10 	z 		nyasire KDK z 9>10 . Nyasire munhu anofarira kuita zvisingafadzi vamwe, zveundururani. Tsime rakaitirwa tsvina nenyasire.
+nyemwe 	D- 	5 	z 		nyemwe D- z 5 . nyawi 5 .
+nyenjere 	DKK 	9>10 	z 		nyenjere DKK z 9>10 . zhenjere 5 .
+nyenye 	K 	9>10 	z 		nyenye K z 9>10 . hwayana 9 .
+nyenyenye 	D- 		ny 		nyenyenye D- ny . Kana chinhu chichiti nyenyenye chinenge chichingaima.
+nyere 	D- 	9>10 	z 		nyere D- z 9>10 . Nyere kadende kanosara panodhuuka bara repfuti. Nyere chikasha chinochengeterwa fodya. nhekwe 9 .
+nyerekete 	K- 	5 	z 		nyerekete K- z 5 . Iri ivara rinenge riri pamucheka une mamwe mavara. Ndaona imbwa chena ine nyerekete dema.
+nyerenyete 	K- 	5 	z 		nyerenyete K- z 5 . nyerekete 5 .
+nyeve 	DD 		ny 		nyeve DD ny . Kuti nyeve kuudza munhu mashoko angangomubatsira pane zvimwe zvinhu.
+nyewe 	K- 	5 	z 		nyewe K- z 5 . Nyewe igoronga rinoitwa nemvura inonaya ichiyerera nemunzvimbo dzinevhu rinokukurika kana kudyika nemvura.
+nyika mutome 	DD DDK 	9>10 	z 		nyika mutome DD DDK z 9>10 . nyika mukanza 9 .
+nyina mombe 	D- 	9>10 	z 		nyina mombe D- z 9>10 . Uyu mwana wenyati. nyina n'ombe 9 .
+nyore 	DK 		dc 		nyore DK dc . Kana zvinhu zviri nyore zvinenge zvisinganetsi kuita.
+nzembe 	DK 	9>10 	z 		nzembe dzembe DK z 9>10 . Nzembe rudzi rwenjiva diki ine besu refu. njiva bomho 9 .
+nzombe 	K- 	9>10 	z 		nzombe K- z 9>10 . Nzombe imhuka hono.
+nzope 	K- 	9>10 	z 		nzope K- z 9>10 . Nzope isimbi inoshandiswa pakuchera asi iri papfumo. suso 9 .
+nzvarakamwe 	K- 	9>10 	z 		nzvarakamwe K- z 9>10 . Uyu munhukadzi kana mhuka hadzi inenge yangoita mwana kamwe chete.
+nzve-e 	K 		ny 		nzve-e K ny . Kuti nzve-e kuenda nepadivi kuti usaonekwe, kana kubatwa, kana kuitwa zvimwewo neanenge achida kukudaro.
+ombe 	D- 		ny 		ombe D- ny . Kuti ombe kuisa jira kana chimwe chinhu mumvura kwenguva yakareba.
+onde 	DK 	5 	z 		onde wonde DK z 5 . Onde muchero unoberekwa nemuonde, wakanyorovera uine tumhodzi tudikidiki, unoibva uri mutsvuku kana yero.
+pamhene 	DKK 	16 	z 		pamhene DKK z 16 . Pamhene panzvimbo isina zvinhu zvakawanda zvakaita semiti kana zvivakwa, zvokuti kana pane chinoitikapo, vanhu vanonyatsochiona pasina kuvharidzirwa.
+pamwe 	K- 		dc 		pamwe K- dc . Kana vanhu vachiita zvinhu pamwe vanenge vachiita vachibatsirana vose.
+panze 	K- 	16 	z 		panze pazhe K- z 16 it . Kana chinhu chisiri mukati mechimwewo chinhu chinonzi chiri panze .
+paramende 	KDDD 	9>10 	z 		paramende KDDD z 9>10 . Paramende igungano renhengo dzinomirira matunhu akasiyana- siyana, rine basa rokugadzira nokuchinja mitemo yenyika.
+pazhe 	DK 	16 	z 		pazhe DK z 16 . panze 16 .
+pekare 	DKD 		dc 		pekare DKD dc . pakare .
+pendeke 	DKD 	1a 	z 		pendeke DKD z 1a . hure 5 .
+pepere 	KKD 		ny 		pepere KKD ny . Kuti pepere kubva munhu aenda zvachose.
+peperere 	D- 		ny 		peperere D- ny . pepere pepere .
+pfe 	K 		ny 		pfe K ny . Kana chinhu chati pfe chinenge chapinda pamwe panhu.
+pfekeche pfekeche 	D- 		ny 		pfekeche pfekeche D- ny . Kuti pfekeche pfekeche ruzha runoitika kana munhu achifamba pane mashizha akaoma.
+pfende 	DK 	9>10 	z 		pfende DK z 9>10 . Pfende rudzi rweuswa hunomera mumatoro hunoita, kamudzi kanodyiwa.
+pfere 	D- 	9>10 	z 		pfere D- z 9>10 . Kana munhu aine pfere anenge achitadza kuwanikwa kana kuwana.
+pfetse 	D- 		ny 		pfetse D- ny . Kana munhu ati pfetse anenge angopatika asvika.
+pfumandiwe 	KKDD 		kanu 		pfumandiwe KKDD kanu . Pfumandiwe izwi rinoshandiswa nomunhu anotengesa, kuratidza mutengi kuti awana chinhu nemutengo wakaderera.
+pfumbamwe 	D- 		pr 		pfumbamwe D- pr . Pazvinhu gumi tikabvisa chimwe zvinosara zvava zvi pfumbamwe . pfemba .
+pfundamutete 	KKDKK 	9>10 	z 		pfundamutete KKDKK z 9>10 . Uku kuzvipeta kuita kadikidiki kunoita munhu anenge achitya chimwe chinhu.
+pfundepfunde 	D- 	9>10 	z 		pfundepfunde D- z 9>10 . Pfundepfunde vanhu kana zvipfuwo zvinenge zvakaita dutu.
+pfundepfunde 	DKDD 	9>10 	z 		pfundepfunde DKDD z 9>10 . pfundipfundi 9 .
+pfunge 	D- 		ny 		pfunge D- ny . Kuti pfunge kunhuwa zvikuru.
+pfunye 	KD 	9>10 	z 		pfunye funye KD z 9>10 . Pfunye ishiri ine zhumu, inodya tupuka nemichero.
+pfunze 	K- 	9>10 	z 		pfunze K- z 9>10 . Pfunze rudzi rwembeva inochera mwena, yogara muvhu. nhuta 9 .
+pirimbwe 	KKD 		ny 		pirimbwe KKD ny . Kuti pirimbwe kuvhiringidzika mupfungwa nezvinhu zvaunenge usinganyatsi kunzwisisa.
+piye 	KD 		ny 		piye KD ny . Kana chinhu chati piye chinenge chachinjikira pamwe panhu.
+pote 	KD 		ny 		pote KD ny . Kana chinhu chati pote chinenge chafamba chikaenda kuseri.
+putumende 	KDDD 	9>10 	z 		putumende KDDD z 9>10 . Aka katundu kana kuti kapasuru kadiki kokutakura.
+pwere 	KD 	9 	z 		pwere KD z 9 . Pwere mwana mudiki asati ava kugona kuzvifungira kana kuzviitira zvinhu zvose.
+rebwede 	D- 		ny 		rebwede D- ny . Kana munhu akati rebwede anenge asina simba mumuviri wake. rembwede, rengwende .
+renge 	K- 	5 	z 		renge K- z 5 . Renge ishiri inokandira mazai pasi yakaenzana nehorwe, inodya tumbuyu nemhodzi nemichero. gaudya 5, gumbwi 5, gunja 5 . Renge muriwo unomera mubani, wakada kufanana nefodya painenge ichiri diki.
+rengwende rengwende 	D- 		ny 		rengwende rengwende D- ny . Kuti rengwende rengwende kufamba usina simba.
+rove rove 	D- 		ny 		rove rove D- ny . Kuti rove rove kupinda nokukwana sezvingaita vanhu mumba, nyoka, mumwena kana mombe mudanga.
+rudziyakamwe 	DKKDK 	11 	z 		rudziyakamwe DKKDK z 11 . Iyi inguva yamangwanani, zuva parinenge rava kutanga kunyatsopisa. madziyamushana 6, madziyazuva 8 .
+rufudzamombe 	D- 	11 	z 		rufudzamombe D- z 11 . fudzamombe 5 .
+rufuramhebwe 	D- 	11 	z 		rufuramhebwe D- z 11 . Iyi inguva yezuva richangovira, kwava kutanga kusviba.
+rugotwe 	DDK 	11>6 	z 		rugotwe DDK z 11>6 . Rugotwe mwana anopedzisira kuzvarwa mumhuri. gotwe 5 . ANTONYMS dangwe.
+rukangarabwe 	DKKDD 	11 	z 		rukangarabwe DKKDD z 11 . Iyi inzvimbo ine ivhu rakasangana notutombo. Ukafamba naparukangarabwe kuchitonhora, usina shangu, unorwadziwa narwo pasi petsoka.
+rukukwe 	DKD 	11>10 	z 		rukukwe DKD z 11>10 . Rukukwe chimeti chakarukwa nenhokwe kana netsanga, chinoshandiswa kugarira kana kurara.
+rukushe 	DKD 	11 	z 		rukushe DKD z 11 . makushe 6 .
+ruman'ombe 	KKKD 	5 	z 		ruman'ombe KKKD z 5 . Urwu rudzi rweigo rakaita dema, uye riri hombe kune mamwe marudzi emago. gon'ombe 5 .
+rume 	K- 	5 	z 		rume K- z 5 . Rume munhu wechirume ane muviri wakakura.
+rumveemvee 	DKDK 	11 	z 		rumveemvee DKDK z 11 . Uku kufamba-famba kwezvinhu zvichipesana zvisingaonekwi pazvakananga. Pakaputika bhambo, mishoni yakaita rumveemvee vanhu vachitiza.
+runhare 	DKD 	11 	z 		runhare DKD z 11 . foni 9 .
+runyerekupe 	D- 	11 	z 		runyerekupe D- z 11 . Aya mashoko anotaurwa, asina chokwadi chati chabuda. Pane runyerekupe rwekuti Kudzai ndiye akaba hembe dzavo.
+rupute 	DDK 	11 	z 		rupute DDK z 11 . Rupute iguruva rakawanda, kana chiutsi chinenge chichipwititika kuenda mudenga.
+rushiye 	DKD 	11 	z 		rushiye DKD z 11 . rusvava 11 .
+ruwareware 	D- 	11 	z 		ruwareware D- z 11 . Uku kurongedzwa kwezvinhu zvichienzana. Tafura yose yarongedzwa. Mabhuku ava ruwareware.
+sakaramende 	DDDKD 	5 	z 		sakaramende DDDKD z 5 . Ichi chikomborero chaunopiwa nomupurisite kana nomubhishopu. NeSvondo Nyemwe naKuda vakapiwa sakaramende romuchato.
+samare 	DKD 		dc 		samare DKD dc . Samare izwi rinotaridza mherevedzo yechiito, kunyanya pazvinhu zvakanaka zvinoshamisa. Mai vakatibikira keke rainaka samare.
+samende 	DKD 	9 	z 		samende DKD z 9 . simende 9 .
+sande 	KD 		pr 		sande KD pr . Sande inzwi rinoreva zvinhu zvine utsvene. Ngirozi mweya musande. tsvene .
+saruraude 	DKKDD 	9 	z 		saruraude DKKDD z 9 . Uku kuwanda kwezvinhu, zvokuti chose chaunenge uchida unogona kuchiwana. -sharaude 9 .
+save 	DK 		bat 		save DK bat . Save chibatanidzo chinoreva kuti ndizvo zvakonzera.
+sekunge 	DKK 		bat 		sekunge sokunge DKK bat . Sekunge izwi rinoreva zvinhu zvakada kutoredzerana pamataridzikiro nepamamiriro. Kunotaridzika sekunge gore rino vanhu vachakohwa fani. senge, fanika .
+sekwe 	DK 	5 	z 		sekwe DK z 5 . Sekwe idhadha romudondo rinogara murwizi.
+sengende 	K- 	5 	z 		sengende K- z 5 . Sengende idengu rakarukirwa padanda, rinoshandiswa kutakura zvinhu richikwehwa nen'ombe. sandanga 5, sangada 5 .
+sere 	K- 		pr 		sere K- pr . Sere uwandu hwezvinhu zviri pakati pezvinomwe nezvipfumbamwe.
+shambare 	KKD 	9>10 	z 		shambare KKD z 9>10 . Shambare igonye guru rine ruvara rwemashizha, rinodyiwa semadora. tsambare 9, sinini 5 .
+shanje 	D- 	9>10 	z 		shanje D- z 9>10 . Shanje kurwadziwa moyo pamusana pezvinhu zvinenge zvine mumwe munhu, uchikungura kuti dei akasava nazvo. godo 5 .
+sharaude 	DKDD 	9 	z 		sharaude DKDD z 9 . saruraude 9 .
+she 	K 	1a 	z 		she K z 1a . She munhu anotonga dunhu rakakura, rinenge rine masadunhu ari pasi pake.
+sheche 	D- 	9>10 	z 		sheche D- z 9>10 . Sheche ihuku kana mbudzi hadzi yava kuda kusvika pazera rokubereka.
+shoche 	D- 		ny 		shoche D- ny . Kuti shoche kupisa munhu kana mhuka nechinhu chinopisa, chakaita sesimbi kana dombo.
+shomhwe 	DK 	9>10 	z 		shomhwe DK z 9>10 . Shomhwe imhodzi dzechakata kana dzemapfura, dzinodyiwa.
+shuramurove 	DDKKK 	5 	z 		shuramurove DDKKK z 5 . shohori 5 .
+shure 	KD 	17a 	z 		shure KD z 17a . sure 17a .
+shwape 	D- 		ny 		shwape D- ny . Kuti shwape kurira kunoita chiwepu kana kuti tyava. tuche .
+simbe 	D- 	5 	z 		simbe D- z 5 . Simbe munhu asingadi kushanda, anofarira kungogara chete. Simbe dzinoshuzha kwakanaya. nyope 9, shomvu 9 .
+sine 	DK 	9>10 	z 		sine DK z 9>10 . tsine 9 .
+sinyerere 	DKKK 	1a 	z 		sinyerere DKKK z 1a . Uyu munhu asingadi zvokutaura-taura navanhu. zinyerere 9 .
+siye 	KD 	9>10 	z 		siye KD z 9>10 . tsiye 9 .
+sokunge 	DKD 		bat 		sokunge DKD bat . senge .
+sunde 	D- 		ny 		sunde D- ny . Kuti sunde kungoregera chinhu chawanga wakabata kana kuchengeta. Mwana akangonzi kuchikoro sunde, asina kumbodya chinhu. suku, supfu .
+supe 	D- 	5 	z 		supe D- z 5 . sope 5 .
+sure 	K- 	17a 	z 		sure K- z 17a . Sure inzvimbo yawafuratira, kana kuti kwawabva. shure 17a .
+suzwe 	DK 	1a 	z 		suzwe DK z 1a . Suzwe munhu asingafariri basa zvachose.
+sve-e 	D- 		ny 		sve-e D- ny . Kana uchiti sve-e unenge uchisveta chinwiwa.
+sveerere 	D- 		ny 		sveerere sveverere D- ny . Kuti sveerere kuzongoona munhu aenda nokukasika, asina kuoneka.
+swerahope 	DKDD 	1a 	z 		swerahope DKDD z 1a . Uyu munhu akakotsira, anoita seasina pfungwa dzakakwana. gutsire 5 .
+tasve 	D- 		ny 		tasve D- ny . Kuti tasve kukwira uchienda seri kwechawakwira pachiri.
+tede 	DK 		ny 		tede DK ny . Kuti tede kunyura kwechinhu chinenge chichipinda pakanyorovera. Museve wakati tede mudumbu regudo.
+tedede 	K- 		ny 		tedede K- ny . Kuti tedede kunyura mumvura uchienda pasi pasi.
+tendere 	KDD 		ny 		tendere KDD ny . Kuti tendere kuzeya uchipoterera pamwe panhu.
+tendeshere 	D- 		ny 		tendeshere D- ny . Kuti tendereshe kungogara chero pawada, zvisinei nokuti wagara pane munhu here kana kwete.
+tendezhere 	D- 		ny 		tendezhere D- ny . Kuti tendezhere kuwira mumvura iwe usigadi.
+tenhe 	DK 		ny 		tenhe DK ny . Kuti tenhe kuzungunusa mukoko kana davi rakamomoterwa nenyuchi, idzo dzichitanga kubhururukira kwese kwese.
+testamende 	KDKD 	9 	z 		testamende KDKD z 9 . Ichi chikwata chamabhuku emubhaibheri akanyorwa Jesu asati azvarwa neakanyorwa afa.
+tete 	DK 	1a 	z 		tete DK z 1a . Tete ihanzvadzi yababa vako. vatete 2a .
+tetere 	D- 		ny 		tetere D- ny . Kuti tetere kutiza kana kuenda zvachose kwemunhu kana kwemhuka.
+tetete 	DKD 		ny 		tetete DKD ny . Kuti tetete kubvunda-bvunda kunenge kuchita chinhu chiri kuzununguswa.
+tonje 	D- 	5/9>10 	z 		tonje donje D- z 5/9>10 . Tonje chirimwa chinotumbuka kuita mabhora eshinda machena, anozogadziriswa micheka. Tonje mabhora eshinda anoshandiswa mabasa akasiyana sezvakaita muzvipatara.
+-tsere 	K 		pr 		-tsere K pr . Zvinhu zvi tsere ndezvine uwandu hunosiya zviviri kuita gumi. sere .
+tsime 	KD 	5 	z 		tsime KD z 5 . Tsime igomba rinochererwa kushandisa mvura inobuda mariri.
+tsinye 	D- 	10 	z 		tsinye D- z 10 . Tsinye kuva nechidakadaka chokuita zvinokuvadza kana kurwadzisa vamwe. bwoni 14 .
+tsire 	KD 	9 	z 		tsire KD z 9 . Tsire mutambo wokumira nomusoro.
+tsve 	K 		ny 		tsve K ny . Kuti tsve kuisa chawakabata pasi. tsverekete .
+tsve-e 	K- 		ny 		tsve-e K- ny . Kuti tsve-e kuridza pembe.
+tsvemere 	D- 		ny 		tsvemere D- ny . Kuti tsvemere kuva pedo napedo kweari kudzingirirwa neari kudzingirira.
+tsvene 	DK 		pr 		tsvene DK pr . Chinhu chi tsvene ndechakanaka kana kururama, zvokuti hapana chinoshoreka pachiri. Vatsvene chete ndivo vanoenda kudenga kana vafa.
+tsverere 	K- 		ny 		tsverere K- ny . Kuti tsverere kuridza pembe.
+tsvetsverere 	D- 		ny 		tsvetsverere D- ny . Kuti tsvetsverere kuzvuva chinhu pasi uchifamba nacho. Kuti tsvetsverere kuwa nokutsvedzemuka kunoita atsika panotsvedza.
+tsvimborume 	KDKD 	9>10 	z 		tsvimborume svumborume KDKD z 9>10 . Tsvimborume murume adarika zero rokuroora asina mukadzi. tsvukachin'ai 9 .
+tsvurwe 	KD 	9>10 	z 		tsvurwe KD z 9>10 . jende 5 .
+tunge 	D- 		ny 		tunge D- ny . Kuti tunge kubatidza moto nemechisa kana nezvimwewo pachibva pangobuda murazvu. tugu .
+tye 	K 		ny 		tye K ny . Kuti tye kutsemura kamuti, sezvinoita munhu anenge achigadzira maruka etswanda.
+ucheche 	D- 	14 	z 		ucheche D- z 14 . Ucheche inguva yekunge munhu achiri mwana mudiki, mumazuva ake ekutanga achangozvarwa.
+udangwe 	DKD 				udangwe DKD . Udangwe kuva wokutanga kuzvarwa mumhuri. Udangwe hwakaita kuti atore mombe dzose pakufa kwababa vake. ANTONYMS ugotwe 14.
+udundwe 	D- 	14 	z 		udundwe D- z 14 . Udundwe kutadza kushandisa pfungwa zvakadzama, uchiita zvinhu kunge uri mwana mudiki.
+ufeve 	D- 	14 	z 		ufeve D- z 14 . Ufeve magariro ekuti chero mukadzi kana murume wawaona worara naye. uhure 14, ujoki 14 .
+ugombe 	D- 	14 	z 		ugombe D- z 14 . Ugombe kamudziyo kanoshandiswa kuteya shiri, zvokuti shiri yacho inoita zvekuzosungwa nekatambo.
+ukochekoche 	D 	14 	z 		ukochekoche D z 14 . Uku kupindana-pindana nekubatana kunoita shinda, tambo kana zvimwewo.
+umbwende 	DKK 	14 	z 		umbwende DKK z 14 . Umbwende maitiro emunhu anotya zvakanyanya.
+umhare 	DKK 	14 	z 		umhare DKK z 14 . Umhare maitiro ekusatya chii zvacho, kunyanya muhondo.
+umhombwe 	D- 	14 	z 		umhombwe umhombo D- z 14 . Umhombwe chido chakapindiridza chekuda kusangana nevakadzi vakasiyana-siyana. Iyi itsika yekurara nomukadzi kana murume wose wose. uhure 14 .
+undere 	DDK 	14 	z 		undere DDK z 14 . Undere itsika yokugara munhu akachena, aine utsanana.
+undyire 	DKD 	14 	z 		undyire DKD z 14 . Undyire kufarira kudya zvevamwe mahara. udyire 14 .
+unonwe 	DDK 	14 	z 		unonwe DDK z 14 . Unonwe inzvimbo, yakaita sebani, inogara ine mvura.
+unye 	D- 	14 	z 		unye D- z 14 . Unye tumvere tunoswinya, tunowanika pamichero inenge mapichisi.
+unyenye 	D- 	14 	z 		unyenye D- z 14 . Unyenye kuwanda kwezvinhu kana kuti vanhu.
+unyope 	D- 	14 	z 		unyope D- z 14 . Unyope kusada kuita basa kana kusada kushandisa pfungwa. Farai ane unyope hwekutaura mhinduro mukirasi. usimbe 14, unungo 14, nungo 10 .
+upombwe 	D- 	14 	z 		upombwe D- z 14 . umhombwe 14 .
+uremberembe 	D- 	14 	z 		uremberembe D- z 14 . Uku kuwa kunenge kwakaita michero yakawanda. Uku kuturika zvinhu zvakawanda pamutariko kana pamwewo.
+urete 	DKK 	14 	z 		urete DKK z 14 . urume 14 .
+urodze 	DDK 	14 	z 		urodze DDK z 14 . Urodze ndokunocheka nako nebanga.
+urume 	DKK 	14 	z 		urume DKK z 14 . uronyo 14 .
+usande 	DKK 	14 	z 		usande DKK z 14 . Usande kuva nemaitiro ekuva munhu mutsvene asina zvivi.
+ushe 	DK 	14 	z 		ushe DK z 14 . Ushe chinzvimbo chekuva mutungamiri kana mutongi wedunhu guru, rine masabhuku nemasadunhu aro.
+utepfetepfe 	D- 	14 	z 		utepfetepfe utepfutepfu D- z 14 . Uku kupfava kwemidziyo yakaita semubhedha kana sofa.
+utesve 	DKD 	14 	z 		utesve DKD z 14 . Utesve mberi kwemuseve kwakapinza.
+utete 	D- 	14 	z 		utete D- z 14 . Uku kuondoroka kwomunhu kana chimwewo chinhu. ANTONYMS ukobvu 14.
+utsinye 	D- 	14 	z 		utsinye D- z 14 . Utsinye mwoyo wakaipa, unofarira kurwadzisa vamwe. Wandiitira utsinye pawanditorera mari yangu yandakashandira mwedzi wose.
+uvhevhe 	D- 	14 	z 		uvhevhe D- z 14 . Uvhevhe kuva munhu anotora zvinhu zvavanhu usingadzosi.
+uye 	KD 		bat 		uye KD bat . zvakare .
+vamwene 	KDK 	2a 	z 		vamwene KDK z 2a . Vamwene ndimai vemurume wako.
+vembe 	DK 	5 	z 		vembe DK z 5 . Vembe munhu asingakwanise kuimba.
+vhunze 	DK 				vhunze bvunze DK . Ma vhunze zvidimbu zvehuni zvidiki zvinenge zvakatsvuka moto. zimbe 5, kara 5 .
+vune 	DK 	5 	z 		vune DK z 5 . maune 6 .
+ware 	D- 		ny 		ware D- ny . Kuti ware kutiza pakare pakarepo.
+wewerere 	K- 		ny 		wewerere K- ny . Kuti wewerere kuvhomora zibanga kana chimwe chinhu chakareba.
+wire-e 	D- 		ny 		wire-e D- ny . Kuti wire-e kumbundirana kunoita vanhu kana vasangana vachimhoresana. Mai nomwana vakati wire-e kumbundirana nomufaro.
+Yave 	DK 	1a 	z 		Yave DK z 1a . Yave ndinyakusika denga nepasi. Mwari 1a .
+yengerere 	D- 		ny 		yengerere D- ny . yangarara .
+yerere 	D- 		ny 		yerere D- ny . Kuti yerere kufamba kunoita mvura ichidzika nerwizi.
+yowe 	KD 		kanu 		yowe yuwi KD kanu . Yowe kuchema kwemunhu anenge arwadziwa zvakanyanya.
+zambanenje 	D- 	21 	z 		zambanenje D- z 21 . Urwu rudzi rwehove.
+zambune 	DKD 	5 	z 		zambune DKD z 5 . hoko 9 .
+zenze 	D- 	5 	z 		zenze D- z 5 . Zenze imvere dzinokura kupinda dzimwe dzose, dziri panyundwa yemhuka. Munhu anonzi ane zenze kana achiita zvokuonererwa kana manyemwe pane vamwe.
+zete 	D- 		ny 		zete D- ny . Kuti zete kutema kwekuti chauri kutemesa chacho chinodzika kana kunyura zvakanyanya.
+zhere 	D- 	5 	z 		zhere D- z 5 . Zhere zvinhu zvinenge zvichiitwa nemunhu zvekutamba hake. jee 5, muyembe 3 .
+zhonje 	DK 	5 	z 		zhonje DK z 5 . gunje 5 .
+zhumbwe 	D- 	5 	z 		zhumbwe D- z 5 . Zhumbwe munhu ane zimuviri ziguru. hofori 9 .
+zimbabwe 	DKD 	21 	z 		zimbabwe DKD z 21 . Zimbabwe dzimba dzakavakwa nemabwe pedyo neguta reMasvingo, dzinova ndidzo dzakatipa zita renyika yeZimbabwe.
+zimbe 	D- 	5 	z 		zimbe D- z 5 . Zimbe irasha remoto rinenge richipisa.
+zinyekenyeke 	D- 	21 	z 		zinyekenyeke D- z 21 . Kana munhu akasunga zinyekenyeke, anenge asunga zvisina kubata. dembwetembwe 5 .
+zvakare 	DKD 		dc 		zvakare DKD dc . Kana chinhu chichinzi chinoitwa zvakare zvinoreva chichadzokororwa kana kuitwa kechipiri. -zve, zve .
+zve 	K 		dc 		zve K dc . zvekare .
+-zve 	K 		vm 		-zve K vm . -zve chivakamberi chinoreva kuti zviri kurehwa nechiito zvinenge zvichiitwa kechipiri.
+zvizere 	DKK 		dc 		zvizere DKK dc . Ukaita kana kutaura chinhu zvizere , unenge wanyatsochipedza pasina chawasiyirira.
+zvomene 	KDK 		dc 		zvomene KDK dc . type the example here. zvikuru .
+ahiwe 	DKD 		kanu 		ahiwe aiwe DKD kanu . Kana munhu ati ahiwe anenge achipa nyevero kuti munhu achenjerere zvaari kuita. Sekuru vakati ahiwe kumukadzi wavo akabva aziva kuti zvaaitaura zvaisavafadza.
+chibinge 	DKD 	7 	z 		chibinge DKD z 7 . Iyi imhosva inopiwa zvichitevera kukanganisa, kazhinji pakuroora.
+chiboorashomwe 	DDDDDK 	7 	z 		chiboorashomwe DDDDDK z 7 . Aka kamuti kadiki kasina kunyanyoreba.
+chikwande 	DDK 	7 	z 		chikwande DDK z 7 . Chikwande chidimbu chakaoma cheganda remuti rokunze. gwande 5, gwati 5 .
+chikwayambanje 	DDKDK 	7 	z 		chikwayambanje DDKDK z 7 . Ava vana vehove yegwaya vasati vanyatsa kukura.
+chikwekwe 	D- 	7 	z 		chikwekwe D- z 7 . Chikwekwe chirwere chembudzi chinoita kuti dzisvuuke dzichibva mambava. Chikwekwe kapuka kanobatirira pamhuka kachinwa ropa. chishambwe 7, gwekwe 5 .
+chikweshe 	D- 	7 	z 		chikweshe D- z 7 . Chikweshe iganda remhuka rinoomeswa rogadzirwa kuti rishandiswe pakugara kana kurara. chikumba 7 . Chikweshe imbatya isingapindi mvura inopfekwa kana kuchinaya. chikumba 7 .
+chifume 	DKK 	7 	z 		chifume DKK z 7 . Chifume ibasa rinoshevedzerwa vamwe kuti riitwe mangwanani. Nhasi kumba kwanga kune chifume chokutema huni.
+chimwayange 	DKKK 	1a 	z 		chimwayange DKKK z 1a . Uyu munhu anotaurisa uye achinyepa.
+chifeve 	D- 	7 	z 		chifeve D- z 7 . Chifeve munhukadzi anorara navarume kuti apuwe mubhadharo. Ukarara nechifebe unogona kubata mukondombera. pfambi 9 .
+chimhindiboshwe 	DKKDK 	7 	z 		chimhindiboshwe DKKDK z 7 . Uku kuita zvinhu nenzira inoenderana nokuti unenge uchishandisa ruoko rweruboshwe. Hanzvadzi yangu inoshandisa ruoko rwerudyi, saka inobika sadza chimhindiboshwe.
+che-e 	D- 		ny 		che-e D- ny . Kuti che-e kutambanudza rupasa kana chimwe chokuwaridza kuti vanhu vagare vakanyatsokwana. Ukaona vanhukadzi vakati rupasa che-e, wobva waziva kuti vari kuita makuhwa. Kuti che-e kucheka nokukasira nebanga rinopinza chaizvo. Ndakamuti che-e padama ndikasiya achijuja ropa.
+chechekunde 	K- 	9>10 	z 		chechekunde sheshekunde K- z 9>10 . Ichi chimera chine mudzi wakaita chibhora, unodyiwa.
+chingwerengwere 	DDKDD 	7 	z 		chingwerengwere DDKDD z 7 . Ichi chinhu chinenge chichiita ruzha runonzwikwa kurira sedare.
+chinhambwe 	D- 	7 	z 		chinhambwe D- z 7 . Chinhambwe inzvimbo isina kureba zvikuru kubva pauri, asi yaunofamba kwechinguva.
+chinomwe 	DDK 	7 	z 		chinomwe DDK z 7 . Chinomwe chiverengwa chinouya mushure mechitanhatu.
+chechetere 	D- 		ny 		chechetere D- ny . Kuti chechetere kuenzanirana kwezvinhu paurefu hwazvo. Misoro yavanhu yakati chechetere mubhazi.
+cheenene 	KDDD 		ny 		cheenene KDDD ny . Kuti cheenene kutarisa shure kwawakafuratira nokukasira, uye uchitaridza kuvhunduka. cheu . Kuti cheenene kurangarira chawambenge wakanganwa.
+chigufe 	DDK 	7 	z 		chigufe DDK z 7 . Chigufe idamba rakabviswa mhodzi, riine mwena mudiki unofuridzwa,richirira sepembe.
+chigure 	D- 	7 	z 		chigure D- z 7 . Chigure mutambo unotambwa navanhu vekuMalawi kana vokuZambia, kunyanya wavanotamba vakapfeka madhumbu uye vakazvivhara kumeso.
+chimimbamutekwe 	DKKKKD 	7 	z 		chimimbamutekwe DKKKKD z 7 . Uku kuita dumbu guru kwemunhukadzi vanhu vofungira kuti ane mimba iye asina. chimimbamutaku 7 .
+chimukanarimwe 	D- 	1a 	z 		chimukanarimwe D- z 1a . Uyu munhu anoti akataura izwi nhasi mangwana ofuma achinja.
+cheke 	DK 		ny 		cheke DK ny . Kuti cheke kurira-rira kwechinhu chinenge chazununguswa zvokuti chinenge chava kugumhira pane chiri pedo nacho.
+chekuche 	D- 		ny 		chekuche D- ny . Kuti chekuche kuedza kwekunze. Kunze kwati chekuche takangosvinura.
+chiguvare 	D- 	7 	z 		chiguvare D- z 7 . Ichi chipuranga chinoiswa chakachinjika nechokumusoro panogadzirwa gonhi.
+chigwe 	DK 	7 	z 		chigwe DK z 7 . Chigwe chimunhu chakura, chipfupi, chine nyama dzakaomarara.
+chigwenjere 	DKDK 	7 	z 		chigwenjere DKDK z 7 . Aya matambiro okuti munhu anenge achigiya pasi nechitsitsinho.
+chihambakwe 	DKKD 	7 	z 		chihambakwe DKKD z 7 . Iri idutu ramatombo anoiswa panzvimbo imwe chete navaenzi vanouya munzvimbo, senzira yokuzivisa ueni hwavo kumidzimu yenzvimbo iyoyo.
+chembere 	D- 	9>10 	z 		chembere D- z 9>10 . Chembere munhu ane muviri woratidza kuti ararama kwenguva refu. Chembere haigoni kuita basa rinorema. mukweguru 1, mutana 1 .
+chihuyane 	D- 	7 	z 		chihuyane D- z 7 . Kuita chihuyane kunge munhu aine basa raari kunyatsoita zvinyoronyoro.
+chihwandehwande 	DKDKD 	7 	z 		chihwandehwande DKDKD z 7 . Uyu mutambo wokuti mumwe munhu anohwanda vamwe vozotsvaka kuti ahwanda kupi.
+chihwerure 	DKDD 	7 	z 		chihwerure DKDD z 7 . Ichi chitemhe chakachekererwa, choboorwa maburi maviri anoiswa tambo nomukati, dzinozodhonzewa kunze mativi ose, wambomonya uchitambisa kuti vhiriri vhiriri. chivhiriri 7, chihoriro 7 . Iri ijee kana kuti musara kana kutsvinyirana kunoita vanhurume padoro, zvikurukuru pajakwara. Chihwerure hachiendi kumba.
+chibvukuche 	DKKK 	7 	z 		chibvukuche DKKK z 7 . Uku kutsvaga zvinhu zviri pasi pevhu uchichera.
+chenje 	DK 	9>10 	z 		chenje DK z 9>10 . Chenje musvo wechirimwa unenge wabviswa hundi kana maguri.
+chichese 	D- 	7 	z 		chichese D- z 7 . Chichese kuungana kwezvinhu panzvimbo imwe chete. chaunga 7 .
+chide 	DK 	7 	z 		chide DK z 7 . Chide mwena wegurwe kana mbeva unenge wakafutsirwa, wokuzobuda nawo kana zvapindirwa nomuvengi. Chide chinonetsa kuona pane dutu kana uchichera makurwe. mbudyo 7 .
+chikepe 	DKK 	7 	z 		chikepe DKK z 7 . Chikepe igwa kana kuti kangarava kadiki kanofambiswa pamusoro pemvura. igwa 5, ngarava 9 .
+chidenene 	DKKK 	7 	z 		chidenene DKKK z 7 . dumbuzenene 5 .
+chidhenene 	D- 	7 	z 		chidhenene D- z 7 . dumbuzenene 5 .
+chete 	KD 		dc 		chete KD dc . Tinoshandisa chete sedudzirachiito inoratidza kuti zvataurwa nezvazvo ndizvo zvokupedzisira, hakusisina zvimwe. Ndadya nyama chete pasina sadza. basi, badzi .
+cheupombwe 	DKDD 	7 	z 		cheupombwe DKDD z 7 . Iyi itsika yokurara nomukadzi kana murume asiri wako. MuchiKristu hamudiwi cheupombwe. choupombwe 7 .
+chevecheve 	DDKK 	9>10 	z 		chevecheve DDKK z 9>10 . jecha 6 .
+chikondekonde 	D- 	7 	z 		chikondekonde D- z 7 . Uyu muti unokumwa kuita urimbo, iwo uine tuminzwa nomukaka unobuda kana wachekwa. mukonde 3 .
+chidukutse 	DKDK 	7 	z 		chidukutse DKDK z 7 . Iri izai rezvibhururu rinenge riri pasi pevhu.
+chikonye 	D- 	7 	z 		chikonye D- z 7 . Chikonye rudzi rwegonye rinowanzowanikwa mumusoro megwai kana kuti mumhino men'ombe.
+chikore 	D- 	7 	z 		chikore D- z 7 . Chikore chitumbu chemichero padavi, sezvakaita chitumbu chemabhanana. Kana vanhu vachikohwa mabhanana havaiti zvokupfaura rimwe rimwe, asi kuti vanotema chikore chose. chisumbu 7, chimhiko 7 .
+chikukumbe 	DKKD 	7 	z 		chikukumbe DKKD z 7 . Ichi chirwere chinobatwa nenzungu nenyimo kana dzimwe mbesa, dzichibva dzaoma kana kuunyana mashizha. chikukuvere 7 .
+chidzere 	D- 	7 	z 		chidzere D- z 7 . churu 7 .
+chibambomuponje 	DDDDKD 	7 	z 		chibambomuponje DDDDKD z 7 . Iyi imhando yemhashu inodyiwa asi iri huru kudarika dzimwe dzose. bambomukota 5, bambamukota 5 .
+chibarwe 	DKD 	7 	z 		chibarwe DKD z 7 . chibage 7 .
+chibatebate 	DKKDK 	7 	z 		chibatebate DKKDK z 7 . Uyu munhu anogara achingoita twakawandawanda nguva dzose. Mwana wake chibatebate zvokuti atova nemusha nemotokari munguva pfupi.
+chikumbwe 	KD 	7 	z 		chikumbwe KD z 7 . Chikumbwe kapururu kanogara mumwena panzvimbo dzakanyorova.
+chikungurubwe 	DKKKD 	7 	z 		chikungurubwe DKKKD z 7 . Iri idombo kana kuti ibwe rakaurungana richitsvedzerera.
+chikuwe 	DKD 	7 	z 		chikuwe DKD z 7 . Chikuwe kuseka kunoita vanhukadzi pamwe chete vachidaidzira, zvikuru vasikana. chikwe-e 7 .
+chibechibe 	DKKD 	7 	z 		chibechibe DKKD z 7 . Iyi itsika yokuramba munhu achingoba. Ukajairira chibechibe, rimwe gore zvinozokuwana.
+chibende 	D- 	7 	z 		chibende D- z 7 . Urwu rudzi rwehove yegwaya ine chipfuva chitsvuku.
+chibere 	DDK 	7 	z 		chibere DDK z 7 . chibage 7 .
+chanje 	D- 	9 	z 		chanje D- z 9 . shanje .
+beche 	K- 	5>6 	z 		beche K- z 5>6 . Beche inhengo yemunhukadzi inobuda nemwana kana achizvarwa uyewo neweti. sikarudzi 9 .
+bendekete 	K- 	5>6 	z 		bendekete K- z 5>6 . Iyi inhengo yeruoko kubva pahuro kusvika panotangira ruoko.
+bepe 	D- 		ny 		bepe D- ny . Kuti bepe kunyatsowaridzwa kwezvakaita rukukwe kana gumbeze.
+bepepe 	D- 	5 	z 		bepepe D- z 5 . Bepepe indebvu dzepachirebvu dzakareba.
+bere 	KD 	5>6 	z 		bere KD z 5>6 . Bere imhuka ine tumavara tutema tudiki, ine makumbo emberi akareba kupinda ekumashure uye inofamba usiku nekudya nyama. Ukasavharira mbudzi dzinodyiwa nebere manheru. Kana mombe ichinzi ine bere inenge iine mwana mudumbu ichitarisira kuzobereka. zamu 5 .
+berere 	KKD 	5 	z 		berere KKD z 5 . berevere 5 .
+bve 	D 		ny 		bve D ny . Kuti bve kupfuta kunoita moto wakajeka. nyeku nyeku .
+bve bve bve 	K- 		ny 		bve bve bve K- ny . Kuti bve bve bve ruzha runoitika kana munhu achikuya.
+bvebve 	DK 	5 	z 		bvebve DK z 5 . Bvebve chipfeko chakabvaruka chava kunyadzisa kupfeka. mvemve 5 .
+bvee 	K- 	5 	z 		bvee K- z 5 . Bvee muchero usingadyiwi nevanhu unoberekwa nemuti unonzi mubvee. mveve 5 .
+bvembe 	KD 	5 	z 		bvembe KD z 5 . Bvembe chirimwa chakaita seshamba, chine muto wakawanda mukati unotapira kwazvo. nwiwa 5, vise 5 .
+bvenge 	DK 	9>10 	z 		bvenge DK z 9>10 . Bvenge vanhu vakaungana pamwe chete, vari varume nevakadzi, kana kuti vakuru nevadiki.
+chabe 	KD 	7 	z 		chabe KD z 7 . Chabe chinhu chisisina basa rachingashandiswa muupenyu.
+berevere 	K- 	5 	z 		berevere K- z 5 . Uku ndokunorembera denga reimba richisvika kupfuurira kubva pamudhuri. Jo uyo akagara mumumvuri weberevere remba. berere 5 .
+bete 	DK 	5>6 	z 		bete DK z 5>6 . Bete kapukanana kakatsvukuruka kanonetsa mudzimba nekunanaira pese pese kachitsvaga zvekudya.
+bvepfepfe 	D- 	5 	z 		bvepfepfe D- z 5 . Bvepfepfe ruzha runobuda kana vanhu vakawanda vachifamba nguva imwe. Bvepfepfe kupfeka-pfeka hembe zhinji panguva imwe chete.
+bvere 	D- 	5 	z 		bvere D- z 5 . Bvere ukushe hunowanikwa pamhuka dzakasiyana, dzakaita sembudzi kana hwai. mvere 9 .
+bveshefeshe 	D- 	5 	z 		bveshefeshe D- z 5 . Izvi zvinhu zvidiki zvakawanda.
+bvevepfeve 	D- 	5 	z 		bvevepfeve D- z 5 . Uku kupararira kunoita vanhu kana mhuka vachienda kunzvimbo dzakasiyana-siyana. Pazororo remagamba vanhu rinova bvevepfeve muZimbabwe.
+bveveve 	D 		ny 		bveveve D ny . Kuti bveveve kugara panzvimbo isingatarisirwi kuti munhu angagara. Akasvikoti bveveve paive pazere marara.
+bombwe 	D- 	5 	z 		bombwe D- z 5 . Bombwe mukadzi anomiririra kazhinji panoroorana vaviri. Bombwe rukweza rwakasvibira rune tsanga dzakakura. Bombwe chimera chinoita bundu pasi, chinoti chikatswanywa chikaiswa mumvura chinoita muchetura kuhove. chamutupatupa 7 .
+bvondwe 	DK 	5 	z 		bvondwe bvundwi DK z 5 . Ma bvondwe imvura yabvongodzwa ikasangana nemadhaka.
+bhanhire 	DKD 	5 	z 		bhanhire DKD z 5 . Bhanhire ihomwe dzakawanda dzakasonerwa pamwepo dzinowanzoshandiswa nemasoja.
+chahomwe 	KDD 	7 	z 		chahomwe KDD z 7 . Chahomwe idumbu rechina remhuka rainoti kana yadya bundo yozozeya kana yazorora.
+bhe 	D 		ny 		bhe D ny . Kana zvinhu zvichinzi zvaitwa zvokuti bhe zvinenge Øzvanyatsoitwa nemazvo.
+bhende 	D 	5 	z 		bhende D z 5 . Bhende mutauro wokupesedzera kuitira kuti asingafaniri kuziva zviri kutaurwa nezvazvo asazvinzwisisa. chibhende 7 .
+bonore 	D- 	5 	z 		bonore D- z 5 . Bonore chibage chavhuniwa kubva padzinde racho. muguri 3, bere 5 .
+bvubvurumbwe 	DKDD 	5 	z 		bvubvurumbwe DKDD z 5 . Urwu rudzi rwedombo rakapfava rinofufunyuka.
+bvuchebvuche 	D- 	5 	z 		bvuchebvuche D- z 5 . Uyu munhu asingakodzeri kuvimbwa naye nekuda kwezviito zvake zvakaipa.
+bvudze 	D- 	5 	z 		bvudze D- z 5 . Ma bvudze imhuka dzinenge dzakawanda zvikuru.
+chakamwe 	DKK 	7 	z 		chakamwe DKK z 7 . Chakamwe chinhu chinoitwa kamwe chichibva chapera. chinyakamwe 7 .
+bherengende 	K- 		ny 		bherengende K- ny . Kuti bherengende kuvhura musuo nokupinda munhu asina kumbomira.
+borongwe 	DDK 	5 	z 		borongwe DDK z 5 . Borongwe munhu anoruta anozvipa zvakawanda vamwe achipa zvishoma.
+bote 	D- 	5 	z 		bote D- z 5 . Bote itambo yakarukwa inoshandiswa pane zvakawanda zvakaita sekusunga mombe.
+chakuvhe 	DKD 	7 	z 		chakuvhe DKD z 7 . Chakuvhe rukoko runomera pachikafu kana chava kuora.
+chamakuwende 	K- 	1a 	z 		chamakuwende K- z 1a . Uyu munhu anozivikanwa zvikuru pamusana pezvakanaka zvaakaita kana zvaanoita. Jairosi Jiri ndichamakuwende akatangisa basa rokuchengeta zvirema nokuzvidzidzisa mabasa anobatsira muZimbabwe.
+bhindepinde 	DKDD 	5 	z 		bhindepinde bindepinde DKDD z 5 . Iyi itambo hobvu yakarukwa tutambo twacho tudiki tuchipesana-pesana. Uyu mutambo wevana wekuuruka tambo hobvu. Iyi inzvimbo inogona kupindwa nemunhu wose.
+bvumbe 	D- 	5 	z 		bvumbe D- z 5 . Bvumbe rudzi rwetsenza runa mashizha akareruka kwazvo. mhokora 9 .
+chamhungwe 	DKD 	7 	z 		chamhungwe DKD z 7 . Chamhungwe imhepo inovhuvhuta nokutenderera zvine simba. Chamhungwe chinowaranyura matenga edzimba pachinodarika napo. chamupupuri 7 .
+bvunde 	K- 	5 	z 		bvunde K- z 5 . Bvunde rudzi rwembeu, inokwanisa kurarama pasina mvura yakawanda, inoita vana pamichekechera semhunga.
+chamunhube 	KDKD 	7 	z 		chamunhube KDKD z 7 . Uku kudhidha muviri wose wakanyura mumvura. chamunyurududu 7 .
+bvupfuwere 	KDDD 	5 	z 		bvupfuwere KDDD z 5 . Iri igurumwandira ravanhu kana mhuka. gurusvusvu 5 .
+bvure bvure 	D- 		ny 		bvure bvure D- ny . Kuti bvure bvure kurara kunoita mhuka kana zvipfuyo zvakawanda zvabva kumafuro. Kuti bvure bvure kutaridza kuva nehope dzakasimba zvikuru. Akarara kupungwe, ndosaka maziso ake akati bvure bvure nehope.
+chamutsvare-mutsvare 	KKDKKDD 	7 	z 		chamutsvare-mutsvare KKDKKDD z 7 . Uyu mutambo wokuti munhu anonzvenzvera mumwe noruoko obva atiza, uye anzvenzverwa odzingirira umwe kuti aite zvimwe chetezvo. chitsvambe 7, chitsvare 7, chisvehu 7 .
+chamuvande-muvande 	KDKDDKD 	7 	z 		chamuvande-muvande chamuvandwa-muvandwa KDKDDKD z 7 . Uyu mutambo wokuti mumwe anovanda vamwe ivo vagomutsvaga kusvika vamuwana.
+changamire 	D- 	1a>2b 	z 		changamire D- z 1a>2b . Inzwi rokuremekedza zvikuru mambo kana ishe wechirume. mhanduwe 1a .
+bumhe 	DK 	5 	z 		bumhe DK z 5 . Bumhe chinwiwa chinogadzirwa kubva pamasvusvu anoviriswa nekuiswa mupumho. biti 5 . Bumhe idova kana kuti tumvura tunofuma turi pauswa munguva dzemangwanani.
+bvuve 	D- 		ny 		bvuve D- ny . Kuti bvuve kunyika chimwe chinhu kwenguva refu mumvura. Kuti bvuve kurova neshamhu.
+ambuyamuderere 	DKDDDDK 	9>2a 	z 		ambuyamuderere DKDDDDK z 9>2a . Ichi chibhururukwa chine makumbo marefu, chinobata tumwe tubhururukwa tudiki chichidya. mbuyamuderere 9, kambuyambuya 12, kachemberekede 12 .
+bhunyepfunye 	DKDD 	5 	z 		bhunyepfunye bvunyupunyu DKDD z 5 . Uyu mutambo wevana unotambwa vachipa mhosva kumunhu anenge aburitsa mweya.
+bungumupe-e 	KKDK 	5 	z 		bungumupe-e KKDK z 5 . Uyu munhu asina zvaanoyamura. bungumupinyi 5 .
+bunje 	KD 	5 	z 		bunje KD z 5 . Bunje vanhu kana mhuka dzinenge dzakaungana. banje 5 .
+atare 	KDD 	9>10 	z 		atare aritari KDD z 9>10 . Atare itebhuru inoshandiswa muchechi kupira muteuro kuna Mwari.
+burepure 	DKKD 	5 	z 		burepure DKKD z 5 . Uku kurova zvibhakera zvakawanda zvichitevedzana.
+buretete 	KDDD 	5 	z 		buretete KDDD z 5 . Uku kuunganirwa kunoitwa munhu mumwe nevanhu vakawanda vachimurova.
+bwe 	D 	5 	z 		bwe D z 5 . ibwe 5 .
+bwebwe 	K- 		ny 		bwebwe K- ny . Kuti bwebwe kutaura zvinogumbura mumwe.
+bande 	DK 	5 	z 		bande DK z 5 . Bande idivi rimwe rezvakaita senzungu kana nyimo zvakatsemurwa nepakati.
+Bandwe 	DK 	1a 	z 		Bandwe DK z 1a . Bandwe mwedzi wechishanu mugore. Kana uchitaura neChishona iti Bandwe, usati May.
+bute 	DK 	5 	z 		bute DK z 5 . Bute ifodya yakaita upfu, inoputwa munhu achiita yekufemba mumhuno. Bute zvinhu zvinenge zviri kubhururuka zvakawanda, sehwiza kana nyuchi.
+buwe 	D- 	5>6 	z 		buwe buve D- z 5>6 . Buwe idombo hombe.
+bwenje 	DK 	14 	z 		bwenje DK z 14 . Bwenje idziva rinonyudza. hwenje 14 .
+bwerebwete 	D- 	5 	z 		bwerebwete D- z 5 . Iyi itsvina yomunhu inenge iri nhetenhete.
+bwerekeshe 	D- 		ny 		bwerekeshe D- ny . Kuti bwerekeshe kugara pasi munhu achiratidza kupererwa nesimba kana mazano. Apinda mumba ndokuti bwerekeshe, asina kumbotaura nemunhu nekuda kwenzara.
+bwerere 	DKD 	14 	z 		bwerere DKD z 14 . Bwerere ivhudzi remwana achangozvarwa kana remunhu anenge aine ropa shoma mumuviri.
+bweve 	DK 	14 	z 		bweve DK z 14 . Bweve inyama inosara yakanamira padehwe remhuka yavhiiwa. pfendu 9, ururu 14 .
+feferere 	D- 	5 	z 		feferere D- z 5 . Feferere chinhu chisingaremi.
+fekeshe fekeshe 	D- 				fekeshe fekeshe D- . Kana uchifamba nomudondo mune mashizha nouswa unoita ruzha rwunoti fekeshe fekeshe . pfokocho .
+govere 	D- 	5 	z 		govere D- z 5 . Govere mutungamiriri wevaimbi kana vatambi.
+dzokonoke 	DKKD 				dzokonoke DKKD . dzoke .
+fende 	DK 	9 	z 		fende fendu DK z 9 . Fende munhu anoita zvinhu zveutsvina, zvisina utsanana. chapa .
+gangautare 	KKDKD 	5 	z 		gangautare KKDKD z 5 . Ichi chipfeko chesimbi chinoitirwa kuzvidzivirira kana kuti kutyisidzira pwere.
+gangemukange 	DDDKK 	5 	z 		gangemukange samukange DDDKK z 5 . Iri isvosve dema guru rinonhuhwa, rinoruma zvinorwadza chaizvo kana ukaritsikirira. nyarufurira 5 .
+dzuwe 	K 	5 	z 		dzuwe K z 5 . Dzuwe chinhu chokutambisa chine pokugara, chinoti chikasundwa chinoenda mberi nekudzoka shure. mudzuwe 3, muzerere 3 .
+dzvemete 	D- 	5 	z 		dzvemete dzvemetere D- z 5 . Dzvemete kusasiyana kana kuti kuva pamwe nguva dzose kwavanhu vanowirirana. Mukomana anogara akaita dzvemete nomusikana wake.
+dzvene 	DK 	5 	z 		dzvene DK z 5 . Kutsvaka dzvene kuda kuzviidza iwe wakanaka pakati pavaipi, kuti uitirwe zvakanaka.
+fere 	D- 	5 	z 		fere D- z 5 . shamba 5 . Fere rumwe rudzi rwenhanga rakati chechetere nechepamusoro paro. dindimanga 5 .
+ferendende 	K- 		ny 		ferendende K- ny . Kuti ferendende kubatikana nezvinhu zvaunenge uchiita zvinenge zvakuwandira. Kuti ferendende kupararira kwevanhu kana mhuka kunzvimbo dzakasiyana-siyana.
+garaiparukukwe 	DKKDDKD 	9 	z 		garaiparukukwe DKKDDKD z 9 . Iyi imari inobiswa nevakuwasha kuti vabvumirwe kugara mumba mavanotanga kupinda kwavatezvara.
+dzvetetsvete 	D- 	5 	z 		dzvetetsvete D- z 5 . Izvi zvinhu zvinosakisa kuti maziso ako asaona zvakanaka.
+fetete 	K- 	5 	z 		fetete K- z 5 . furanondo 9 .
+garwe 	KD 	5 	z 		garwe KD z 5 . Garwe imhuka inogara mumvura ine muviri une man'an'a, iine chimiro chedzvinyu, asi iyo iri hombe chaizvo zvekuti inokwanisa kubata vanhu, mombe kana dzimwe mhuka. gako 5, ngwena 9, nyakoko 9 .
+furete 	DKK 	9>10 	z 		furete DKK z 9>10 . Furete kamudziyo kemhanzi kanoridzwa nomuromo, uchiita zvokufuridza mweya.
+dzvukudende 	DKKD 	5 	z 		dzvukudende DKKD z 5 . Iri izita rokutsvinyira munhu ane ganda rine ushava hwakanyanyisa.
+gasekase 	D- 	5 	z 		gasekase D- z 5 . Uyu mweya unonhuwa zvakasimba unokurumidza kupararira panzvimbo.
+-e 	K/D 		vm 		-e K/D vm . -e ivaramwana rekupedzisira rinotevera madzitsi ezviito akasiyana-siyana. Ngaaende kumba nhasi.
+e-e 	K- 		kanu 		e-e K- kanu . Tinoshandisa e-e kana tichida kuratidza kusvora kana kuzvidza kunoita mumwe munhu pamaitiro ake. Tinoshandisa e-e kana tichishamisika nezvinenge zvaitika kana zvataurwa.
+e-ezve 	DK 		kanu 		e-ezve DK kanu . Kana munhu achiti e-ezve anenge achiratidza kushamisika nezvinenge zvichiitika kana zvinenge zvataurwa. Kana munhu achiti e-ezve anenge achibvumira zvinenge zvichitaurwa nemunhu waanenge achifunga kuti ari kurambobvunza zvaanoziva kana zviri pachena.
+ehede 	DKD 		kanu 		ehede DKD kanu . Kana munhu achiti ehede anenge achisekerera kufarira zvinenge zvichitaurwa, kana kuti anenge achisekera godo.
+gavhumende 	KDDD 	9 	z 		gavhumende KDDD z 9 . Ichi chikwata chavanhu chinotungamirira nyika. Gavhumende ichatorera vachena minda, yopiwa vatema. hurumende 9 .
+ge ge ge 	K- 		ny 		ge ge ge K- ny . Kuti ge ge ge kucheka zvakadzika nechinhu chakarodzeka, kuti panhu pashame. Kuti ge ge ge kuseka kwenguva refu, kazhinji zviri zvounzenza. Ndasvika patsime ndikanzwa kuti ge ge ge.
+fuse 	D- 		ny 		fuse D- ny . Kuti fuse kuvharidzira chimwe chinhu nokuisa ivhu pamusuwo pacho. fushi . Kuti fuse kuzvimba kunoita nhengo yomuviri inenge yakuvara.
+-genge 	D 				-genge -zenge D . Ichi chiitomwana chinoshandiswa kuratidza kuti zvazoitika zvanga zvisingafaniri kuitika. Wakagenge wobikireizve nyama yose?
+-gere 	K 				-gere K itik . Kana chinhu chichinzi chi gere chinenge chisati chaitika kana kuitwa. Mudzidzisi agere kumaka mabhuku.
+fofoorwe 	D- 	9 	z 		fofoorwe D- z 9 . fofoongwe 9 .
+fombwe 	D- 	9 	z 		fombwe D- z 9 . Fombwe chinhu chakagadzirwa chakaita zvokucherwa mukati macho, sezvakaita ndiro.
+gitare 	DKD 	5 	z 		gitare gatare DKD z 5 . Gitare mudziyo une danda newaya dzakapadzirwa kuti dzirire, uyo unoshandiswa pakuridza mhanzi.
+fove 	D- 		ny 		fove D- ny . Kana chinhu chati fove chinenge chawira mukati. Kuti fove kumedza zvokudya zvose panguva imwe.
+gombarume 	D- 	5 	z 		gombarume D- z 5 . Uyu murume anotora mukadzi womunhu. gomba 5 .
+gombe 	KD 		ny 		gombe KD ny . Kuti gombe kupera simba, kazhinji mumabvi.
+gombwe 	K- 	5 	z 		gombwe K- z 5 . svikiro 5 .
+gonamombe 	D- 	5 	z 		gonamombe D- z 5 . Iyi inyanga yemhuka huru inoshandiswa kuchengetera kana kusvutisa chimonera.
+gonde 	D- 	5 	z 		gonde D- z 5 . mukonde 3. .
+gakanje 	D- 	5 	z 		gakanje D- z 5 . Gakanje chipukanana chinogara mumvura, chine makumbo gumi nedemhe rakaomarara muviri wose, uye chinofamba norutivi. gambamukoikoi 5, gambamukoyokoyo 5 .
+gake 	KD 	5 	z 		gake gaka KD z 5 . gaka 5 .
+gone 	DK 	1a 	z 		gone DK z 1a . Gone imhuka kana munhu ane tsika yokukuruka vamwe. Gone ana gone wakewo.
+gonje 	KD 	5 	z 		gonje KD z 5 . Gonje chishanga chechibage, zviyo, mapfunde kana mhunga.
+gambe 	KD 	5 	z 		gambe KD z 5 . Gambe ihari yevhu yakakura, inoshandiswa kubikisa zvinhu zvakawanda, zvakaita sedoro kana chikafu chepamitambo. Gambe mwana anozvarwa akafa.
+gambwe 	D- 	5>6mak 	z 		gambwe D- z 5>6mak . Gambwe inhengo yegumbo iri paseri peibvi, inoti kana ikasungwa kana kugumhwa zvakasimba inorwadza chaizvo. Kana uchida kuti n'ombe isatiza unoisunga makambwe.
+fe fe 	K- 		ny 		fe fe K- ny . Kana uchiridza furete kana bhosvo, unenge uchifuridza mweya uchiti fe fe .
+fe-e 	D 		ny 		fe-e D ny . Kuti fe-e kufura dzihwa zvine simba. Kuti fe - e kufuridza kunoita kamhepo kanenge kachitonhorera. Kuti fe-e kubuda kunoita mweya muvhiri.
+fumandiwe 	KKDD 		kanu 		fumandiwe KKDD kanu . Iri izwi rinoshandiswa pamunenge muchitengeserana, kana uchireva kuti nyakutenga wacho wanyanya kumurerutsira zvokuti iwe ndiwe waruza. Ndakazongomutengesera tsiru racho nemari yaaiva nayo iyoyo, ndikati, "Fumandiwe. ". pfumandiwe .
+fume 	KD 		z 		fume KD z . Iri izwi rinoshandiswa kuratidza nguva yemangwanani pazuva rinotevera. Vakarara pano apa, fume vosimudzira rwendo rwavo, voenda zvavo.
+goridhe 	DKD 	5/9 	z 		goridhe goridhi DKD z 5/9 . Goridhe rudzi rwedombo rinokosha rinocherwa mumugodi richigadziriswa mari nezvimwe zvishongo. gorodhi 5 .
+dube 	D- 	5 	z 		dube D- z 5 . Dube munhu anonyepera kupusa achiitira kuvanza mashiripiti ake.
+duche 	DK 	5 	z 		duche DK z 5 . Duche munhu akapusa. dununu 5 .
+chiyambwe 	D- 	7 	z 		chiyambwe D- z 7 . Chiyambwe rudzi rwehwowa hwakada kuita sedifi, asi ihwo huchidyiwa huri unyoro. Vakomana vadya sadza nechiyambwe.
+chizeyezeye 	DKDKD 	7 	z 		chizeyezeye DKDKD z 7 . Ichi chirwere chehuku chinouraya nenguva diki, uye chinopararira nokukasira. chibhubhubhu 7, chibububu 7 . Uyu munhu ane tsika dzakaora.
+dzimbabwe 	D- 	5 	z 		dzimbabwe dzimbahwe D- z 5 . Dzimbabwe muzinda mukuru wamadzimambo akare waivakwa nematombo akavezwa sezvakaita Masvingo eZimbabwe. Dzimbabwe ramambo Mutota rinonzi rakanga riri kuDande.
+chombe 	D- 	7 	z 		chombe D- z 7 . Chombe munhu anofarira kumhan'arira vamwe kumuvengi, kazhinji kana muri mune zvematongerwo enyika. Kana anoziva kuti ndichombe ngaasauya kumusangano. mutengesi .
+choupombwe 	DKDD 	7 	z 		choupombwe DKDD z 7 . Uku kurara nomukadzi kana murume asiri wako. Mutemo wechinomwe womuBhaibheri unoti usaita choupombwe. cheopombwe 7 .
+chiraramhene 	DKKDK 	7 	z 		chiraramhene DKKDK z 7 . Uhwu uswa hwakaita utsvuku, hunomera mumapani, hunopfuririswa dzimba.
+dhe 	K 		ny 		dhe K ny . Kuti dhe kumuka mangwanani-ngwanani uchifamba rwendo. Muvhimi akafumoti dhe kuenda kunovhima musango. nhe . Kuti dhe kurova zvinokuvadza kana kuuraya chimwe chinhu. Kuti dhe kutarisa chinhu wakabudisa maziso zvakanyanya.
+dhende 	DK 	5 	z 		dhende DK z 5 . mudhende 3 .
+dumbuzenene 	DDKKK 	5>6 	z 		dumbuzenene DDKKK z 5>6 . Ichi chinanana chine zidumbu, napakati pomusoro nedumbu pakaomarara, chakada kuita segurwe. shuwishuwi 5, tutwa 1a, tagutapadare 5 .
+chireshe 	DKK 	7 	z 		chireshe DKK z 7 . chipukupuku 7 .
+dungwe 	KD 	5 	z 		dungwe KD z 5 . mudungwe 3 .
+dungwerungwe 	KKKD 	5 	z 		dungwerungwe KKKD z 5 . Aya makomo anenge akawanda akabatana. Makomo eNyanga idungwerungwe chairo kureba.
+chirombowe 	DDKD 		kanu 		chirombowe DDKD kanu . Iri izwi raunoshandisa kana kana uchidavira munhu, kuratidza kuti unomuremekedzwa.
+chirume 	DKK 	7 	z 		chirume DKK z 7 . Chirume maitiro evanhurume. Chirume kuita zvinhu wakashinga sezvinotarisirwa vanhurume. Chirume munhu anonyenga vasikana chaizvo.
+chirwere 	DKK 	7 	z 		chirwere DKK z 7 . Chirwere ihosha inokonzera kurwadza komuviri. denda 5 . Chirwere itsika yomunhu yakaipa inenge ichimukunda. Meneja uyu ane chirwere chokuda vakadzi.
+dambanepwere 	KKKDD 	1a 	z 		dambanepwere KKKDD z 1a . dambanavana .
+dambe 	KD 	5 	z 		dambe KD z 5 . Dambe maitiro kana matauriro anoitwa pakufara, asi anozviita achiita seanotorevesa. Ukanzwa harahwa ichiti inoda kupinda mumakwikwi okumanya nemajaya unogona kuzvitora sedambe.
+dambiramurove 	KKKKDK 	5 	z 		dambiramurove KKKKDK z 5 . Iyi ishiri inowanzouya munyika ino panguva dzokunaya kwemvura, ine muromo murefu neminhenga mitema nemichena. shohwari 5, shoreramurove 5, shohori 5 .
+dwe 	K 		ny 		dwe K ny . Kuti dwe kudonhedza donhwe rimwe chete. Mishonga yakawanda inongoita zvokunzi dwe kadonhwe kamwe.
+dyore dyore 	D- 		ny 		dyore dyore D- ny . Kuti dyore dyore kuunganidza zvinhu. Mukomana akati tutsotso dyore dyore ndokuvesa moto.
+dywechwe 	K- 	5 	z 		dywechwe K- z 5 . Dywechwe ruzha runoitwa neshiri dzakawanda kana vana vadiki vachichemedzana.
+chishwe 	D- 	7 	z 		chishwe D- z 7 . Chishwe inzira yokusunga nayo uchiita pfundo risingazosungunuki.
+dandemutande 	D- 	5 	z 		dandemutande D- z 5 . Ichi chipuka chinogadzira matandadzi, chine makumbo marefu masere. Mambure edandemutande anobata zvakaita senyuchi kana nzunzi.
+chisve-esve-e 	DKK 	7 	z 		chisve-esve-e DKK z 7 . Uku kuseka nokutsvinya kunogumbura kunenge kuchiitwa nevanhu vakawanda.
+dare 	D- 	5>6 	z 		dare D- z 5>6 . Dare inzvimbo inotongerwa nyaya pamuzinda waMambo kana mutongi. Dare vanhu vanenge vachitonga nyaya vachitungamirirwa namambo kana sadunhu. Dare harina kugutsikana neumboo hwakapiwa nechapupu.
+dzawe 	DK 	5 	z 		dzawe DK z 5 . Dzawe munda womunhurume anenge aine barika.
+dzedzerere 	D- 		ny 		dzedzerere D- ny . Kuti dzedzerere kufamba munhu achiita seachaputsika.
+dindingwe 	D- 	5 	z 		dindingwe D- z 5 . Dindingwe imhuka inomhanya kusiya dzimwe mhuka dzose yakada kufanana nembada.
+dzete 	DK 	9 	z 		dzete DK z 9 . Dzete inzvimbo inenge yaenda munhu isingazivikanwi uye munhu wacho asingadzoki. jete 5, mazivandadzoka 17a .
+de 	D 		ny 		de D ny . Kuti de kuregedzeka nokurereka, sekwemuti watemwa unenge wave kuda kuwa. dhe . Kuti de kusimuka uchitanga rwendo rungwanangwana. dhe, nhe .
+de de de 	D- 		ny 		de de de te te te D- ny . Munhu anoti de de de kuhuta nokutya kana kutonhorwa.
+dede 	DK 	5 	z 		dede DK z 5 . gudo 5 .
+chinyakare 	D- 	7 	z 		chinyakare D- z 7 . Idzi itsika nemagariro aiita madziteteguru edu makarekare. pasichigare 16 .
+chinyamugwenhure 	DDDDKD 	7 	z 		chinyamugwenhure DDDDKD z 7 . gwenhure 5 .
+chinyaride 	DDKD 	7 	z 		chinyaride DDKD z 7 . chinyanyavada 7 .
+chitsokandibereke 	DDDKDKD 	7 	z 		chitsokandibereke DDDKDKD z 7 . Uku kupukunyuka panenge pashata nyaya nokutiza.
+chitsvambe 	DDK 	7 	z 		chitsvambe DDK z 7 . Uku kutamba kokuti, kana vanhu voonekana, mumwe anotsvara mumwe zvokuti kana akasadzorera anoenda nechibodzwa. chitsveru 7 .
+dehwe 	D- 	5>6 	z 		dehwe debwe, nhehwe D- z 5>6 . Dehwe iganda remhuka rakavhiyiwa rikaomeswa.
+dekeshe 	D- 	5>6 	z 		dekeshe derekeshe D- z 5>6 . Dekeshe uwandu hwezvinhu, mhuka kana vanhu husingaverengeki.
+dobwe 	KD 	5 	z 		dobwe KD z 5 . dohwe 5 .
+chinyururahove 	DKKDKK 	7 	z 		chinyururahove DKKDKK z 7 . Urwu rudzi rweshiri inogara pane mvura uye inogona kubata hove iri mumvura.
+chioko muhomwe 	DKK DKK 	7 	z 		chioko muhomwe DKK DKK z 7 . Iyi imari inopiwa munhu zvisiri pamutemo, kuti agadzirire kana kuronga nerweseri zvinenge zvichidiwa nanyakubhadhara.
+chiomandikupfeke 	DKKKKDK 	7 	z 		chiomandikupfeke DKKKKDK z 7 . Iyi itsika yokuwacha hembe, womirira kuti dziome ugopfekazve dzimwe chete idzodzo, kazhinji zvichibva pakuti uri munhu anoshaya. gezandinamure 5 .
+chitundumutseremutsere 	DKKDDDDDD 	7 	z 		chitundumutseremutsere chitundumuseremusere DKKDDDDDD z 7 . Urwu rudzi rwendege inokwanisa kubhururuka yakananga mudenga chaimo, uye inokwanisa kundosvika kana kumwedzi chaiko. roketi 9 .
+dembe 	D- 		ny 		dembe D- ny . Tambo yakati dembe inenge yakadzikira nechepakati payo nokuda kokuti inenge isina kukakatwa.
+dembe 	DK 	5>6 	z 		dembe DK z 5>6 . Dembe ibenga renhumbi rinobvaruka roramba rakarembera pasi. Ndakabatirwa hembe newaya ikasara rangova dembe. Dembe kufara kunoita vanhu, vachitamba ngoma vachimwa doro.
+dembwetembwe 	D- 	5 	z 		dembwetembwe D- z 5 . Ichi chinhu chinenge chakaregedzeka pamamiriro acho, chisina kusimba. Kana sadza rakaita dembwetembwe rinenge risina kubatana zvakakwana. Sekuru vangu havadi sadza dembwetembwe. Vanoda rakajinya.
+dohwe 	KD 	5>6 	z 		dohwe KD z 5>6 . Dohwe muchero unotsemuka mbadzi dzakaenzana kana waibva. Ndakadya dohwe rakanga rakanuna ndikanzwa gotsi kuoma nokutapira kwaro.
+dombe 	D- 		ny 		dombe D- ny . Kuti dombe kupfavisa zvakaita semakavi nokuanyika mumvura.
+chipande 	DDK 	7 	z 		chipande DDK z 7 . Chipande inhova. Manyoka ane mwana uyu ndeechipande chete. Chipande inhova yemwana inenge yavhara. Chipande mushonga wenhova.
+chiverevere 	D- 	7 	z 		chiverevere D- z 7 . Uku kuita zvinhu muchihwande, vamwe vanhu vasingazivi. Mazuva ehondo vanhu vaiita chiverevere kuenda kuMozambique.
+chiveve 	D- 	7 	z 		chiveve D- z 7 . Chiveve kurwadza kunobaya nokupisa panyama dzomuviri kana munhu ambenge asina kugara zvakanaka.
+dendende 	DKD 	5 	z 		dendende DKD z 5 . Dendende kambuyu kano ruvara rwedota kanoitira uchi hwako pasi. Dendede raindiitira ruzha richida kutora namo yemunzeve. monga 9 . Urwu rudzi rweuchi hunogadzirwa nedendende. Uchi hwedendende hunoisvotapira kwazvo.
+dendere 	DDK 	5>6 	z 		dendere DDK z 5>6 . Dendere kanzvimbo kanovakwa neshiri neuswa kana kuti netumiti mainokandirira mazai ayo. Mukomana akavandira njiva ichivaka dendere rayo notumiti chete. Dendere chirukwa chikuru cheuswa chinogadzirirwa huku dzinokandira mazai kuti dzikandirirewo. Dendere mudziyo mukuru une maburi maburi, unoshandiswa pakutakurira huku parwendo.
+denge 	DK 		bat 		denge dene DK bat . dai .
+dondore 	DKD 	5>6 	z 		dondore DKD z 5>6 . Dondore muto unotapira unogadzirwa kubva mumashuku.
+dongamabwe 	KKKD 	5 	z 		dongamabwe KKKD z 5 . Iri idoro rinobikirwa vanhu vose vakabatsira pakuvigwa komufi kana mariro apera.
+donhwe 	DK 	5 	z 		donhwe domhwe DK z 5 . Donhwe chipundu chezvakaita semvura kana mafuta chinodonha kamwe chete. Donhwe imvura shoma shoma inenge yasara mayakachengeterwa. Donhwe remvura rasara mumukombe uyu harigoni kupedza nyota yangu.
+chipembenene 	D- 	7 	z 		chipembenene D- z 7 . Aka kapukanana kanobhururuka, kanowanzoita mavara anoyevedza, uye kanonwa muto wamaruva.
+chipembwe 	D- 	7 	z 		chipembwe chipwembwe D- z 7 . Chipembwe chikosoro chinowanzobata vana vadiki, vachiti kana vava kukosora vanotomboshaya mukana wokufema. Vana vanofanira kudzivirirwa chipebwe vachi vaduku.
+depfure 	DKD 	5 	z 		depfure DKD z 5 . Depfure hwahwa hunobikwa hwakawanda zvokuti hunopedza nguva refu huchinwiwa. Depfure kuwanda kwemabasa mumunda, kana kwechokudya chakabikwa. Depfure kugara kwakanaka uchiwana zvose zvaunenge uchida. mutambarakede 3 .
+derere 	DDK 	5 	z 		derere DDK z 5 . Derere muriwo unosiririka nokutsvedzerera, unowanzobikwa nesvoda. gusha 5 .
+dete 	D- 		pr 		dete D- pr . Dete chipauro chemupanda 5 chinotsanangudza zwi rinosevenzeswa kutsanangudza chinhu chinenge chisina chikora. Sadza rawabika nhasi haritimbika zvakanaka nokuti idete.
+dope 	D- 	5>6 	z 		dope D- z 5>6 . Dope rudhaka rutete runogona kudzudzurisa imba. Dope kunyorova kwepasi kunogonesa kuti vanhu varime. Baba vakati ngatichitorima dope iri risati raoma. munya 3, mutsava 3, dova 5 . weti 9 .
+kwasve 	KD 		ny 		kwasve KD ny . Kuti kwasve kusundira mvura iri pamativi echikepe kumashure, kuti chikepe chifambe.
+mbambune 	DKD 	5 	z 		mbambune DKD z 5 . Iyi imbeu inokura yega kubva pamhodzi dzakasaririra mumunda gore rapfuura. hoko 9 .
+mbare 	DK 	9 	z 		mbare DK z 9 . Mbare kudunduvira kunoita ropa, pachiita mavara matema nekuda kwekunyanya kudziya kwemoto.
+mbembe-e 	KD 		ny 		mbembe-e KD ny . Kana hembe yakati mbembe-e inenge yakachena chaizvo. Mapositori anga akati mbembe-e magemenzi.
+mahumbwe 	D- 	6 	z 		mahumbwe D- z 6 . Mahumbwe mutambo wevana vaduku, vati kurei, wavanenge vachitevedzera zvinowanzoitwa mudzimba nevakuru, sekuita baba naamai, vachibikirana sadza panguva yavanodzidza kubika zvinodyiwa chaizvo. matumba 6 . Mahumbwe zvinhu zvechipwere zvisina musoro kuvakuru. Vana pavakarwa pamusha, madzimai avo akavapopotera kuti varege zvemahumbwe zvavaiita. dambe 5 .
+mbenembe 	DKD 	9<10 	z 		mbenembe DKD z 9 <10 . Mbenembe musikana akanaka.
+mbenge 	KD 	9<10 	z 		mbenge KD z 9 <10 . Mbenge mudziyo wakanyanya kushama pamusoro, unowanzonwirwa mvura kana doro. Chimbodira doro mumbenge, ndimbonwa.
+mbeveve 	K- 	9<10 	z 		mbeveve K- z 9 <10 . Mbeveve munhu asingagoni kutaura. chimumumu 7 .
+makokotere 	DKKDK 	6 	z 		makokotere DKKDK z 6 . Uku kudya kwakatsviririra kunosaririra muhari yabikirwa kudya kwakaita serupiza kana nhopi. Idzi inhengo dzemombe yauraiwa dzisingabikwi pamwe neimwe nyama.
+makope 	DKK 	6 	z 		makope DKK z 6 . Makope kunzwa kuda kurara zvakanyanya. Makope kukasira kurara kana munhu angotsirama.
+kwe kwe kwe kwe 	K- 		kanu 		kwe kwe kwe kwe K- kanu . Kuti kwe kwe kwe kwe kuchema kunoita huku kana ichinge yavhundusirwa.
+kwe-e 	K 		ny 		kwe-e K ny . Kuti kwe-e kurira kana kuchema noruzha rukuru kunoita chitima, chava kuda kusvika kana kusimuka pachiteshi.
+mambure 	DKD 	6 	z 		mambure DKD z 6 . Mambure mikosi yakasimba yakarukaniswa, inoshandiswa kubata hove kana mhuka. Kana mukadzi apinda mu mambure anenge achata muchato uya wekupfeka hembe chena.
+kweche 	D- 		ny 		kweche D- ny . pfe . Kuti kweche kupinza bhora mugedhe. Pasina chinguva, timu yedu yebhora yakabva yati chimwe chibodzwa kweche mugedhe, nhandare yese ikaita kunge ichadhirika nevanhu vaipembera.
+kwede 	KD 		ny 		kwede KD ny . Kuti kwede kudonhera kungaite chinhu mune chimwe chinhu chakavhurika, chine buri, kana kuti mumwena. Pakati kabodzwa kechipiri kwede, takabva taziva kuti hapasisina chedu nokuti kwakanga kwasara nguva shomanene kuti mutambo upere.
+kwekwerere 	D- 		ny 		kwekwerere D- ny . kekerere .
+kare 	D- 		dc 		kare D- dc . Ichi chidudzirachiito chinotaura nguva yakapera kana kuti yakasoopfuura, isingadomwi kana kuti isingachanyatsozivikanwa. Mwana wamasiya akamira apa abva pano kare. Kava kare chaizvo kubva zvatakatamira kuZhombe tichibva kwaMutoko.
+mandionekwe 	DKKKK 	6 	z 		mandionekwe DKKKK z 6 . Uku kuita zvinhu kuti vanhu vagokurumbidza kuti uri shasha. chindionei 7 .
+kwerekweshe 	D- 		ny 		kwerekweshe D- ny . Kuti kwerekweshe kuita ruzha kwechinhu chinofamba chichizvuva dumbu. Dzvinyu rakati kwerekweshe paruware.
+kwesere 	K- 		ny 		kwesere K- ny . Kana mbambo yakati kwesere muburi mayo zvinoreva kuti zvinenge zvakanyatsoenzanirana. Kana munhu achinzi akazara kuti kwesere anenge akanyatsosvika, ari munhu kwaye kwaye. Handifungi kuti Paradzai akanyatsoti kwesere ini, nokuti zvaandiitira pazere vanhu ndanyara ndikashaya pokunyura.
+kwete 	KD 		kanu 		kwete KD kanu . Iri izwi rinoshandiswa nomunhu achiramba, kana kuti achida kuratidza kuti haasi kuda zviri kutaurwa, kana kuti haawirirani nazvo. Paakanzi aroorwe nedhara, akati kwete. Iri izwi rinoshandiswa nemunhu achigangaridza anenge achitaura kuti asaenderere mberi nenyaya. Pandakangoedza kuti nditi chakati, iye akabva angondigangaridza achingoti, "Kwete! Kwete! ".
+kase 	KD 		ny 		kase KD ny . Kuti kase kumira kunaya kwemvura.
+kasesepende 	DKKDK 	12 	z 		kasesepende DKKDK z 12 . Aka kasipo katetetete kanenge kapera nokushandiswa, zvokuti chinenge changosara kutoguka.
+mangange 	DDK 	6 	z 		mangange DDK z 6 . Kana vanhu vakaita mangange pamakundano vanenge vabuda vakaenzana. jenje 5 .
+manhede 	DKD 	6 	z 		manhede DKD z 6 . maji 6 . manhendeshure 6 .
+kasve kasve 	KD+ 		ny 		kasve kasve KD+ ny .
+kuche 	D- 		ny 		kuche D- ny . Kuti kuche kumwaya kana kudira zvinhu zvakawandisa mune chimwe chinhu. Mai Chorosi vakati munyu kuche mumuriwo wemurume wavo vachida kumukaurisa. Vakomana vemombe vakati mombe kuche mubindu ravaShaya, vachitsiva kutukwa kwavainge vavaita.
+manjenjenje 	D- 	6 	z 		manjenjenje D- z 6 . Uku kujeka-jeka zvikuru kweruvara. Aya mazirimi emoto anoenda kure.
+manyemwe 	D- 	6 	z 		manyemwe D- z 6 . Manyemwe kuita kwemunhu anoda kuonererwa. manyawi 6 . Manyemwe kuita zvinhu zvekufarisa. Kuita manyemwe kudenha mumwe, uchimuitira zvinosvota.
+manyerekete 	DKKKK 	6 	z 		manyerekete DKKKK z 6 . Aya mavara mavara anenge ari pahembe. manyezu 6, manyezunyerekete 6 .
+katurike 	DKDK 	12 	z 		katurike DKDK z 12 . Katurike imhosva isati yatongwa kana kuti isati yapera kutongwa. Munhu anonzi ane katurike anenge aine chaanotyira kuti angangobatwa, kana kuti chingangobudiswa pachena.
+kumazauone 	DDKDDD 	17 	z 		kumazauone DDKDDD z 17 . Kana munhu achiti kunhu kwaiva kumazauone , anenge achireva kuti zviitiko zvaiveko zvaive zvichifamba zvichinakidza. Pakauya bhendi rekuZaire kuRufaro, kwaiva kumazauone vanhu vachitamba kwasa kwasa.
+kumwe 	D- 		vereng 		kumwe D- vereng . -mwe .
+mapavhurire 	DKKDK 	1a 	z 		mapavhurire DKKDK z 1a . Uyu munhu ane mwoyo wekupa, asinganyimi, kazhinji zvekudya.
+mapere 	D- 	6 	z 		mapere D- z 6 . Mapere chirwere chinokonzera maronda anongobuda ropa zvisina magumo. maperembudzi 6 .
+mapinginure 	DKKDK 	1a 	z 		mapinginure DKKDK z 1a . Uyu munhu anokwanisa kushandura zvinhu zvaipa kuti zvinake. Uyu munhu anokwanisa kurapa munhu anenge aroyiwa.
+maponese 	DKDK 	1a 	z 		maponese DKDK z 1a . Uyu munhu kana chinhu chinopa upenyu.
+mabweretete 	D- 	6 	z 		mabweretete mabweredhedhe D- z 6 . Iyi itsvina yemunhu kana mhuka nhetenhete, seiya inoitwa nemunhu ane mudumbu. manyoka 6 .
+kazevezeve 	D- 	12 	z 		kazevezeve kazeezee D- z 12 . Uku kutaurira pasi pasi, kazhinji kuri kuitira kuti musanzwikwa zvamuri kutaura. Gomba raiita kazevezeve nemukadzi wemunhu murimamo.
+-ke 	K 		dz mwene 		-ke K dz mwene . Iri idzitsi rechirevamwene chomupanda wokutanga. Mukadzi wake anoshandawo pafemu ipapo.
+keche 	D-/DK 		ny 		keche D-/DK ny . Kuti keche kurira kwepfuti iri kukokwa, kana kuti kwebanga riri kuvharwa. Kuti keche kurira kunoita chimai chekiyi painokiyiwa. kede .
+kede 	DK 		ny 		kede DK ny . keche .
+kede 	KD 		ny 		kede KD ny . Kuti kede kupinda mukati nokukurumidza. keche, potyo .
+kunyangwe 	D- 		dc 		kunyangwe kunyange D- dc . Kana munhu akati kunyangwe anenge achireva, kuti kana zvakadaro izvozvo zviripo, zvinhu ngazvifambe chete. Kunyange kukanaya, tinongoenda kundosima mbeu kumunda. nyangwe, kunyangova .
+kunze 	DK 	17 	z 		kunze DK z 17 . Kunze ndiyo nyika yose nezvakaititenderedza pasi patinenge tigere. Nhasi kunze kwakaipirwa nemhepo nechando. Iri izwi rinosevenzeswa kutaridza anenge achisiyiwa pane zvinenge zvichitaurwa. Vamwe vese vanenge varipo pamba, kunze kwangu ini ndiri kuenda kuMhondoro. -siya, -banzi .
+mare 	D- 	6 	z 		mare D- z 6 . Mare chinhu chinoitwa zvakanaka kana zvakashata zvakapfuurikidza. Mukomana uya akashura mare paakatuka amai vake. marere 6 .
+marere 	D- 	6 	z 		marere D- z 6 . mare 6 .
+keheeheehe 	DKDKDK 				keheeheehe DKDKDK . Uyu ndiwo musindo unoitwa nemotokari painenge ichitanga kumutswa. Kana bhatiri rakanaka, motokari kwayo inongoti kamwe chete kehee-, yatomuka.
+keke 	KD 	5 	z 		keke KD z 5 . Keke chidyiwa chinobikwa nefurawu inobhekwa sechingwa nemabhanzi, asi iine tunoiswa mairi twakaita semazai neshuga yakawanda, nezvimwewo zvinoita kuti ibve yanyanya kunaka.
+kekerere 	D- 		ny 		kekerere D- ny . Kuti kekerere kukweva munhu kana chimwewo chinhu chinorema, uchienda nacho kure kwakadaro uko. Mudzidzisi akamuti kekerere achimuzvuzvurudzira kuhofisi kwake kundomurova. kukururu, kwekwerere .
+kere kere 	DK+ 		ny 		kere kere DK+ ny . Kana huku ichichema kuti kere kere inenge yava kuda kukandira mazai.
+kereketye 	DDDK 		ny 		kereketye DDDK ny . keche .
+kure 	D- 	17 	z 		kure D- z 17 . Kure inzvimbo inenge isiri padyo nepaunenge uri. Tinoenda kuchikoro nebhazi nokuti kure.
+masasirapwere 	DDDDKD 	1a 	z 		masasirapwere DDDDKD z 1a . Uyu munhu anoda kugara achirovana nepwere, iye achinyatsoziva kuti vadiki kwaari. masimbirakutete 1a .
+maserwe 	D- 	9>10 	z 		maserwe D- z 9>10 . Maserwe rwudzi rwenyoka inofamba nekukurumidza chaizvo, inodya madzvinyu nematafi.
+masese 	D- 	6 	z 		masese D- z 6 . Masese magufu anosara panosvinwa doro. Masese magufu emaheu anosaririra muhari. Masese idoro rechivanhu, kazhinji kana richienzaniswa neremumabhotoro pakutaura.
+mashe 	D- 	6 	z 		mashe D- z 6 . Mashe mashizha kana mauswa anowanikwa mumwena wembeva. marishe 6, marise 6 .
+mashopeshope 	D- 	6 	z 		mashopeshope D- z 6 . Kuenda ku mashopeshope kuenda kun'anga kunobvunzira chikonzero chinenge chauraya mufi. gata 6 .
+madongorere 	D- 	1a 	z 		madongorere D- z 1a . Uyu munhu anomanikidzira kuona zvaasina mvumo yokuona.
+madyangwe 	D- 	6 	z 		madyangwe D- z 6 . Aya maitiro kana kutaura kunoita kuti vanhu vaseke. muyembe 3 .
+madzengere 	D- 	6 	z 		madzengere madzengerere D- z 6 . Uku kusanyatsoona zvakanaka kunokonzerwa nekuti kunze kunenge kwasviba, kana kuti kune mhute kana utsi. madzerere 6 .
+kuwe 	KD 	9 	z 		kuwe KD z 9 . Kufe ishiri ine zhumu, inodya tupuka nemichero, inorira zvakafanana namadanirwo anoitwa zita rayo. funye 9, guwe 5 .
+masowe 	DDK 	6 	z 		masowe DDK z 6 . Masowe inzvimbo isingagarwi nevanhu kunoenda vatenderi vechipositori kunonamata.
+kirike 	KDK 	9 	z 		kirike KDK z 9 . kereke 9 .
+matatapure 	DKKDK 	1a 	z 		matatapure DKKDK z 1a . Uyu munhu anotsvaga mhaka zvinoita kuti vanhu varwe.
+mate 	DK 	6 	z 		mate DK z 6 . Mate imvura inogara mukanwa yatinosvipa.
+matekeshe 	D- 	6 	z 		matekeshe D- z 6 . Uku kupararira kunenge kwakaita vanhu kana mombe panzvimbo hombe. dekeshe 5, dekeshera 5 .
+matemhe 	DDK 	6 	z 		matemhe DDK z 6 . Matemhe zvimedu zvinoputsika kubva padende kana damba rakazara.
+mafuruse 	DKDK 	1a 	z 		mafuruse DKDK z 1a . Uyu munhu anokangaidza kana kubvorongodza zvinhu zvinonakidza, kana kuti vanhu vakazvidekarira zvavo. mabvongodze 1a, mafushanise 1a .
+mafushunure 	DKKDK 	1a 	z 		mafushunure DKKDK z 1a . Uyu munhu anotaura chero zvakavanzika zvisingafaniri kutaurwa.
+matotoutare 	DKKDKD 	6 	z 		matotoutare DKKDKD z 6 . Iyi imhangura nyoro inenge yakadonha pasi.
+matsewe 	DKK 	6 	z 		matsewe DKK z 6 . Iri ibindu rinorimwa muchirimo. doro 5 .
+maune 	DKD 	6 	z 		maune maone, mambune DKD z 6 . Maune kuita kwemunhu chinhu chaanoziva kuti chakaipa.
+magome 	DKD 	6 	z 		magome DKD z 6 . Magome usimbe hwemunhu anenge achida zvekutuma-tuma vamwe kuti vamuitire basa.
+magwendere 	DKKK 	6 	z 		magwendere DKKK z 6 . Izvi ndezvinosungirwa patambo kuti zviite ruzha rwekudzinga shiri mumunda. muzerwe 3, muzengure 3 .
+koche 	D- 		ny 		koche D- ny . Kuti koche kubatanidza uchiita zvokupfekera kana kusunganidza, sezvaungaita cheni.
+mawiramombe 	D- 	6 	z 		mawiramombe D- z 6 . Uku kudonha kwevanhu pamwe, sekuti kana vanhu vachirwa.
+mawire 	D- 	6 	z 		mawire D- z 6 . Mawire itsika yekumbundikirana pakumhoresana.
+mazhazhate 	DKDK 	1a 	z 		mazhazhate DKDK z 1a . Uyu munhu anonyanyotaurisa. chigaugau 7, mahohoho 6 .
+mazorodze 	DKDK 	6 	z 		mazorodze DKDK z 6 . Ichi chinhu chinounza runyararo mushure mematambudziko.
+gumwe 	KD 	5 	z 		gumwe KD z 5 . Gumwe chibvumirano chokushanda pamwe chete pabasa rokurima kana rimwewo basa, chinobatsira avo vanenge vabvumirana vacho. jangano 5 .
+gundikumwe 	DDKK 	5 	z 		gundikumwe DDKK z 5 . Iyi itsika yokungotevera vamwe usina chikonzero chokuenda kwavari kuenda.
+gwerendende 	D- 	5 	z 		gwerendende D- z 5 . Uku kudya kunenge kwakasanganiswa-sanganiswa kuchinge bota. Uku kufamba kwemhuka kana vanhu vakawanda vari pamwe chete.
+gweshekweshe 	D- 	5 	z 		gweshekweshe D- z 5 . Ava vanhu vakawanda kana mhuka zhinji dzinenge dzichifamba dziri pamwe chete. Amisa mota paasangana negweshekweshe rembudzi. Idzi imbesa dzinenge dzamera dzakawanda panzvimbo imwe chete. mhomho 9 .
+hurumende 	DDKK 	9>10 	z 		hurumende DDKK z 9>10 . Iri isangano guru revatongi venyika rinodzika mitemo, rine vatungamiri nemakurukota anomiririra mapazi nematunhu akasiyana. gavhumende 9 .
+hurungwe 	KKD 	9>10 	z 		hurungwe KKD z 9>10 . Hurungwe chinhu chakatenderera uye chinokwanisa kukunguruka, chakaita sebhora kana nhanga.
+huvhe 	KD 	9>10 	z 		huvhe KD z 9>10 . Huvhe rudzi rwehowa hunodyiwa, hune musoro mukuru nomudzi murefu.
+huyakwose 	DDKK 	9 	z 		huyakwose DDKK z 9 . Iri idombo diki rine mativi maviri akaserera, rinokuyiswa dovi kana zviyo. Uyu munhu anokonzera kusawirirana kana kurwa pakati pavanhu kana mapoka, nokuti anenge achifambisa mashoko okunyepa anozokonzera kusawirirana kwevanhu ava, asi iye achiidzwa munhu kwaye.
+kamuferefere 	D- 	12 	z 		kamuferefere D- z 12 . Aka kamhepo kanofefeta zvishoma. Iyi ihembe yakasonwa nomucheka mutete. Uyu mucheka mutete wokusonesa hembe. kaferefere 12 .
+kangaidze 	KKDD 		dc 		kangaidze KKDD dc . pamwe .
+gunwe 	D- 	5 	z 		gunwe D- z 5 . Gunwe ndechimwe chete chetumitezo tunomera mberi kwechanza choruoko, chinoshandiswa kubata zvinhu kana kunongedza. chigumwe 7, gumwe 5. . Tu gunwe tunhengo twetsoka turi nekumberi. chigumwe 7, gumwe 5 .
+gunzvenzve 	KDK 	1a 	z 		gunzvenzve KDK z 1a . Uyu munhu anonetsa kuona kana kuwana, nokuti haagari panzvimbo imwe chete kwenguva refu. Munhu asingabhadhari zvikwereti ndigunzvenzve, nokuti anogara achitiza vamwe.
+gure 	KD 	5 	z 		gure KD z 5 . Gure mutambo unotambwa nevanhu vechiMalawi kunyanya, vakapfeka zvinhu zvinovhara kumeso nomuviri wose. Panotambwa gure hapasvikwe nhando. nyau 9 .
+hwe 	K 		ny 		hwe K ny . Kana kunze kwati hwe zuva rinenge robuda. Kuti hwe kuva nepfungwa dzakanyatsojeka maererano nezvaunenge uchiita.
+hwehwerere 	K- 		ny 		hwehwerere K- ny . Kana kunze kwati hwehwerere kunenge kwachena. werekete, werewere .
+gurezeze 	D- 	5 	z 		gurezeze D- z 5 . Kuti gurezeze kuneta kunoita muriwo kana zvimwe zvirimwa masikati kana kwapisa, zvichitaridzika sezvoda kusvava.
+hwenjekwenje 	DDKK 	9>10 	z 		hwenjekwenje DDKK z 9>10 . Iyi imhashu huru inodyiwa, ine ruvara rwakapfumbuka uye inogara yoga.
+hwenye 	D- 	14 	z 		hwenye D- z 14 . Hwenye mashoko, nyaya kana makuhwa anenge ichitaurwa nezvawo mazuva iwayo.
+gurwe 	KD 	5 	z 		gurwe KD z 5 . Gurwe chipembenene chakati kurei kudarika hwiza chinoonekwa nguva yezhizha, chinogara mumwena wakavharirwa nekatutu kevhu uye chinofamba usiku chichirira.
+guse 	KD 	5 	z 		guse KD z 5 . gushe 5 .
+handakamwe 	DDKK 	9>10 	z 		handakamwe DDKK z 9>10 . Uyu mukadzi akazvara kamwe chete. Iri izita rinopiwa imbwa yakazvara chimbwanana chimwe chete.
+handizvo here 	KDK DK 		bvunz 		handizvo here KDK DK bvunz . handiti .
+gutse 	KD 	5 	z 		gutse KD z 5 . Gutse ibasa rinoitwa nevanhu vakawanda, vanenge vane zvinangwa zvimwe chete nepfungwa imwe chete. Chikoro ngachive chegutse kuitira kuti chipere kuvakwa nekukurumidza.
+gutumuseve 	DKKKD 	5 	z 		gutumuseve DKKKD z 5 . Iyi imhando yemakonye akaita semadora akakura aine mvere, asi isingadyiwi.
+gutuveze 	DDKK 	5 	z 		gutuveze DDKK z 5 . Kuita gutuveze kunhuhwa zvakanyanya kunenge kuchiita chimwe chinhu. gutukutu 5 .
+kadeketye 	DKKK 	12 	z 		kadeketye DKKK z 12 . Kadeketye munhu anotaurisa, kazhinji mukadzi. chirosho 7 .
+kadzoran'ombe 	D- 	12 	z 		kadzoran'ombe D- z 12 . Iyi ishiri chena inodya tupuka tunowanikwa paganda remombe. kafudzamombe 12 .
+guwe 	KD 	5 	z 		guwe KD z 5 . muzeerere 3, .
+guwekuwe 	KKKD 	5 	z 		guwekuwe KKKD z 5 . Urwu ruzha runoitwa nevanhu kana vachikuza chinhu pagungano.
+imbwa mukoore 	DK KDDD 	9>2a 	z 		imbwa mukoore DK KDDD z 9>2a . Uyu munhu murombo asina kana chaanacho.
+kaferefere 	D- 	12 	z 		kaferefere D- z 12 . Ichi chipfeko kana kuti jira rakareruka, zvokuti chero nguva yemadziya munhu unonzwa kufefeterwa.
+hembe 	KD 	9>10 	z 		hembe KD z 9>10 . Hembe chipfeko chinovhara kumusoro kwemuviri, kubva muchiuno, kusingasvikwi nebhurugwa. dhirezi .
+here 	DK 		bvunz 		here DK bvunz . Iri inzwi rinotaurwa kumagumo kwomubvunzo kazhinji richisimbisa zvavhunzwa. Wakamboona ndege yakamhara here?
+imbwa nzvere 	DK KK 	9 	z 		imbwa nzvere DK KK z 9 . Iyi imbwa hadzi inenge ichangobva kubereka vana.
+imbwe 	DK 	9 	z 		imbwe DK z 9 . tsoro 9 .
+inde-e 	KK 		kanu 		inde-e KK kanu . Izwi iri rinoshandiswa nomunhu achiratidza kuti anobvimirana nomunhu ari kutaura achisiririswazve nenyaya iri kutaurwa zvacho.
+hochekoche 	D- 	9 	z 		hochekoche D- z 9 . Uku kubatana-batana kwezvinoshandiswa pakusunga, sezvakaita ngetani.
+ingwe 	D- 	9 	z 		ingwe ngwe D- z 9 . Ingwe imhuka yesango, inenge katsi asi iyo iri huru, ine manyerekete machena nematema uye inouraya zvipfuwo nokutsunya nenzwara dzayo. Ingwe ine mavara anoyevedza. mbada 9 .
+hombarume 	D- 	1a 	z 		hombarume D- z 1a . Uyu muvhimi mukuru anoti akaenda musango haadzoki asina mhuka. muvhimi 3 .
+hombe 	DK 		pr 		hombe DK pr . Ichi chipauro chemipanda 5, 9 ne10 chinoratidza kuti chiri kutaurwa nezvacho chakakura. Shato inyoka hombe. Rori imotokari hombe. huru .
+kamberembere 	D- 	12 	z 		kamberembere D- z 12 . Iri ibato rinovambirwa nokufambisirwa muchivande.
+iwe 	DK 		saz 		iwe DK saz . Ichi chisazitasingwi chinomirira nyakutaurirwa mumwe chete chete. Nhai mwanangu, iwe wanga uchifungeiwo nenyaya iyi? iwewe .
+iyeye 	KDK 		saz 		iyeye KDK saz . Ichi chisazita chetsinhiro chinomirira nyakutaurwa.
+gudzadungwe 	KKKD 	5 	z 		gudzadungwe KKKD z 5 . Uyu munhu anongoteverera vamwe asinawo pfungwa dzekuita zvake oga. Musaita zvegudzadungwe zvokuti zvandataura ndizvozvo. Fungaiwo! gudzamudungwe 5 .
+gukumatsatse 	K- 	5 	z 		gukumatsatse K- z 5 . Iri isadza rinobikwa neupfu hwakasangana hwechibage nehwezviyo.
+gwe 	K 		ny 		gwe K ny . Kuti gwe kungokaruka vanhu vasangana pasina kufungidzira. Kuti gwe kugara pamusoro pechimwe chinhu. Gudo rakanga raguta zvaro kudya chibage rikabva rati gwe kugara pamusoro pedombo raiva mumunda. Kuti gwe kutema munhu, mhuka kana mudziyo uchishandisa dombo kana chimwe chinhu.
+gwede 	D- 		ny 		gwede gweje D- ny . Kuti gwede kunyatsopindana kwezvinhu zvinenge zvichibatanidzwa kunyanya simbi.
+gwede 	DK 		ny 		gwede DK ny . Kuti gwede kuisa misoro pamwe chete sezvinoita hando dzava kurwa. Hando mbiri dzakandosvikoti nyanga dzadzo gwede, ndokutanga kusundana.
+gumbakamwe 	DDDK 	5 	z 		gumbakamwe DDDK z 5 . Uku kuita chinhu kamwe chete. Iyi imhuka kana motokari inobvisa zvinoda kutakurwa panguva imwe chete.
+gumbire 	D- 	5 	z 		gumbire D- z 5 . Gumbire munhu ane tsika yokungokumbira zvose zvose.
+gwedzvede gwedzvede 	DDK+ 		ny 		gwedzvede gwedzvede DDK+ ny . Kuti gwedzvede gwedzvede kufamba kwekukweva makumbo nepamusana pekuneta.
+gwegwendere 	K- 		ny 		gwegwendere K- ny . Kuti gwengwendere kurira kunoita mudziyo wesimbi ukadonhera pasi pakaomarara. Amai vakanzwa ndiro kuti gwengwendere vakamhanyira padzaisukwa.
+gweje gweje 	DK+ 		ny 		gweje gweje DK+ ny . Kuti gweje gweje ruzha runoita ngoro kana motokari inenge yasakara, kunyanya kana ichifamba pane matombo.
+gwembe 	K- 	5 	z 		gwembe K- z 5 . Gwembe chirwere chemhezi chinobata mhuka, zvekuti inovaviva yotanga kukwenya, yozopedzisira isina makushe. Mazuvano gwembe rava shoma nokuti imbwa dzobayiwa majikiseni okudzivirira.
+hukwe 	KD 	10 	z 		hukwe KD z 10 . Hukwe itsanga dzakatsemurwa dzikabatanidzwa nemikosi, dzinozoshandiswa pakuwaridza kuti vanhu vagare kana kurara. mhasa 10, maponde 6 .
+humbwe 	KD 	9>10 	z 		humbwe KD z 9>10 . Humbwe mudziyo wekuridza wakagadzirwa netsanga inenge yakabatanidzwa nemhe redamba. Humbwa chimba chinovakwa nevana vachitamba mutambo unonzi mamhuza.
+hunde 	KD 		karu 		hunde KD karu . Tinoshandisa hunde kubvuma zvinenge zvataurwa kana kuvhunzwa. hon'o .
+hunde 	KD 	9>10 	z 		hunde KD z 9>10 . Hunde inhengo yomuti iri pakati pemidzi namapazi.
+gwendere gwendere 	KKK DDD 		ny 		gwendere gwendere KKK DDD ny . Kuti gwendere gwendere ruzha runoitwa nemidziyo ichibonderana-bonderana.
+gwenderegwendere 	KKKDDD 	5 	z 		gwenderegwendere KKKDDD z 5 . Uyu mutambo wavapwere wokuhwandana vachitsvagana. Gwenderegwendere inotambwa usiku munguva dzechirimo. muvande 9, chihwandehwande 7 .
+gwengwe 	D- 	5 	z 		gwengwe D- z 5 . Gwengwe ihove ine ruvara rwakafanana nepakati pezai, inonetsa kubata chaizvo.
+gwenhure 	DKD 	5 	z 		gwenhure DKD z 5 . Gwenhure ishiri inochema ichiita sokuti iri kuti, "Chisamugwenhure!".
+gwenjere 	K- 	5 	z 		gwenjere K- z 5 . Kuti gwenjere kuoma kunenge kwaita panhu pakange pari panyoro.
+gwere 	DK 	5 	z 		gwere DK z 5 . barwe 5 . Gwere idanda rinovhariswa rakachinjika pamukova wetsapi kana pamukova wedanga. Gwere kaimba kari mumba huru inogara vanhu, kanochengeterwa mhuri ichiri diki.
+hunguruhwe 	KKKD 	9>10 	z 		hunguruhwe hungurubwe KKKD z 9>10 . Iri idombo rakatsetseka rinoshandiswa pakuumba hari.
+hungwe 	DK 	9 	z 		hungwe DK z 9 . Hungwe ishiri yorudzi rwegondo, ino musoro muchena, uye inorarama nokunyurura hove ichidya.
+hunyakwose 	DDKK 	9 	z 		hunyakwose DDKK z 9 . Uyu mukombe une kaburi pamubato wawo. Uyu munhu anofambisa makuhwa, asi achinyepedzera kuva munhu kwaye kumativi maviri aari kufambisira mashoko akashata. hwenyakose 9 .
+hurekure 	D- 	9 	z 		hurekure D- z 9 . Uyu mutambo wekuda kuona anokanda zvinoenda kure kupinda vamwe.
+hurekure 	DKDD 	9>10 	z 		hurekure DKDD z 9>10 . Iyi ishiri ine makumbo marefu, nemavara machena nematema, inogara munzvimbo dzine mapani.
+je 	K 		ny 		je K ny . Kuti je kuvhura maziso wakatarisa chimwe chinhu.
+je je je 	K- 		ny 		je je je K- ny . Kuti je je je kurira kunoita shiri kana zvimwewo zvipukanana. Kana doro kana mvura ichiti je je je inenge ichitonhora chaizvo. Kana chigero chichiti je je je chinenge chichicheka mucheka kana bepa.
+jechetere 	D- 	5 	z 		jechetere D- z 5 . Uku kuenzana kwemiti inenge iri pamwe chete, kana kuti zvimwewo zvinhu zvinenge zvakaungana. Uku kufanana kana kuenzana kwekodzero dzevanhu vese pamutemo. Vanga vachikakavadzana nenyaya yejechetere pakati pevakadzi nevarume.
+ndove 	D- 	9 	z 		ndove D- z 9 . Ndove itsvina inoitwa nemombe. disa 9 . Ndove ivhu nyoro rinenge razara mvura uye rinonyudza.
+nhambwe 	D- 	9 	z 		nhambwe D- z 9 . Nhambwe inguva yokubva pane imwe kuenda pane imwe. Panhambwe yandakupai munofanira kupedza kunyora basa randakupai. nharu 9 . Nhambwe mufambo mupfupi unofambika zviri nyore. Nhambwe inzvimbo iri pakati pegumbo rakatsika pasi, nepanozotsika rinenge rasumudzwa kana munhu achifamba.
+nhangatare 	DDKD 	9>10 	z 		nhangatare DDKD z 9>10 . Iri ipfumo rakagadzirwa nesimbi chete.
+nhangemutange 	DKKDD 	9 	z 		nhangemutange DKKDD z 9 . Uku kukwikwidzana pakumhanya kana kuita chimwe chinhu, muchida kuona kuti anotanga kusvika kana kupedza ndiani.
+nyangwe 	D- 		bat 		nyangwe D- bat . Nyangwe izwi rinoshandiswa kuratidza kuti chinhu chinotoitika chete, pasinei nokuti zviri kutaridzika sei. Gombo iri ndinotoririma chete nyangwe zvodii! kunyange, chero .
+-mwe 	D 		vereng 		-mwe D vereng . -mwe chisazita cheverengo chinotaridza munhu akaita kana akaitirwa chinhu. 1. Mumwe mwana akahwina mota pamakwikwi. Mumba mune vana vaviri chete, vamwe vaenda kuchikoro.
+mwe mwe mwe 	D- 		ny 		mwe mwe mwe D- ny . Uku kusekerera munhu asingaratidze mazino. mweku mweku .
+ndumure 	K- 	9>10 	z 		ndumure K- z 9>10 . Ndumure mwana mudiki achangoregeswa kunwa mukaka.
+ndunje 	KD 	9>10 	z 		ndunje KD z 9>10 . Ndunje idoro rakasimba uye rinodhaka zvikuru. Vanoti ndakanwa ndunje ndikadhakwa zvokukanganwa zita rangu. fondohwe 9, chibhabhabha 7 .
+ndure ndure 	DK+ 		ny 		ndure ndure DK+ ny . Kuti ndure ndure kubuda kunoita vanhu mumba vakaita mudungwe.
+nyare 	KD 		ny 		nyare KD ny . Kuti nyare kunzwa, kunetsekana mupfungwa kunoita munhu achinge aita zvisina kukodzera. Mukuwasha akati nyare ataura shoko rinonyadzisira pana ambuya.
+nyarusere 	DDKK 				nyarusere DDKK . Iyi itambo inenge yakarukwa namauswa kana makavi.
+nyatene 	DKK 	1a 	z 		nyatene DKK z 1a . chikara 7 .
+ndware 	DK 	10 	z 		ndware DK z 10 . Ndware matombo akati sandarara panopurirwa mbesa. ngware 10, ruware 11 .
+njakenjake 	DKKD 				njakenjake DKKD . Uku kuita zvinhu pasina kuwrirana kana mushandirapamwe, umwe neumwe achiita zvaanoda.
+nhanikire 	DDKK 	1a 	z 		nhanikire DDKK z 1a . nhingi 1a .
+nharavanze 	DDKD 	9>10 	z 		nharavanze nharavazhe DDKD z 9>10 . Iyi nzvimbo yakasakurwa ikatsvairwa, kazhinji inenge yakatenderedza dzimba pamusha. ruvanze 11, ruvazhe 11 .
+nharire 	DKD 	9>10 	z 		nharire DKD z 9>10 . Nharire pamusorosoro penzvimbo yakakwirira. nharirire .
+nharirire 	DKDD 	9 	z 		nharirire DKDD z 9 . Uyu munhu kana mhuka inogara iri panzvimbo pakakwirira, yakatarisa vavengi. Makudo anenge aine nharirire pose paanenge ari, inoti ikaona muvengi yohomura kuudza mamwe kuti kwaipa.
+mwise 	DK 	3 	z 		mwise DK z 3 . muswe 3 . Munhu akanzi aita mwise , zvinoreva kuti ndiye anenge apedzisira kusvika kana kuita chimwe chinhu. muswe 3 .
+ndyire 	KD 	9>10 	z 		ndyire KD z 9>10 . Ndyire munhu asingavimbiki, anoita zvekutorera vanhu zvinhu zvavo nenzira dzekuvanyengedzera. nhavatava 9, ngarara 9 .
+nekeshe 	D- 		ny 		nekeshe D- ny . Kuti nekeshe kuneta kungaite munhu ashanda zvikuru uyezve achinzwa nzara.
+nekete 	D- 		ny 		nekete D- ny . Kuti nekete kunzwa usisina simba mumuviri mako musure mokunge wamboshanda zvine simba.
+nhekwe 	D- 	9>10 	z 		nhekwe D- z 9>10 . Nhekwe katende kanochengeterwa fodya yemumhuno.
+nhembe 	DK 	9>10 	z 		nhembe DK z 9>10 . Nhembe chipfeko chematehwe chaipfekwa nevakuru vedu vakare. Nhembe izita rave kushandiswa kureva hembe kana chese chese chingangopfekwa kuti munhu asimire.
+nheme 	DK 	9 	z 		nheme DK z 9 . Nheme kadimbu kedende kana tsanga, kanoiswa pachirauro kuti karatidze kana hove ichinge yabatwa. chituba 7 .
+n'angaure 	DDKD 	9>10 	z 		n'angaure nyangaure DDKD z 9>10 . Aka kapuka kane ganda rakaita serechitutamangoro, kanodya maonde kana tsamvi, kachionekwa nguva yezhizha. Pataifudza mombe taitamba nezvin'angaure takazvibaya kumashure, izvo zvichirira zvakati mapapiro pararara sezviri kubhururuka. nyangariro 9 .
+nje 	K 		ny 		nje K ny . Kuti nje kurova paunenge uchida chaipo, uchishandisa chibhakera kana chombo.
+nje nje nje 	D- 		ny 		nje nje nje D- ny . Kuti nje nje nje kuva nemavara akawanda, sezvakaita mbada. Kuti nje nje nje kubvunda nechando kana nekutya. Kuti nje nje nje kupenya zvishoma sezvinoita, zuva richingobuda.
+njee 	DK 	5 	z 		njee DK z 5 . Njee chivharo chebhotoro chinosungirirwa pambira kuti dzinyatsorira, kana kuti zvivharo zvinobatanidzwa zvosungirirwa mugumbo nevatambi vembira nengoma.
+njekenje 	DKD 	5 	z 		njekenje DKD z 5 . Njekenje igavhu rinenge raoma, rinogona kushandiswa sehosho.
+njenje 	K- 	9>10 	z 		njenje K- z 9>10 . Njenje imhando yegurwe.
+nhengure 	DKD 	9>10 	z 		nhengure DKD z 9>10 . Nhengure rudzi rweshiri nhema, inogadzira dendere rayo pamhandi yemiti.
+n'e-e 	K 		ny 		n'e-e K ny . Kuti n'e-e kuchema kunoita mwana mucheche.
+nete 	D- 		ny 		nete D- ny . Kuti nete kunzwa muviri uchishaya simba pamusana penzara, dambudziko kana kurwara.
+njenjenje 	D- 	5 	z 		njenjenje D- z 5 . Njenjenje idombo rinovaima.
+njerere 	DKD 	9>10 	z 		njerere DKD z 9>10 . Njerere rumwe rudzi rwegondo diki rine ruvara rupfumbu.
+njese 	K- 	9 	z 		njese K- z 9 . Njese ibanga kana sanhu rinenge risina chimubato. chese 7 .
+njike 	KD 	9 	z 		njike KD z 9 . Njike rudzi rwehwiza inodyiwa, asi inomboita imwe nguva yainomboshaika munyika nokuti inenge yambotama.
+nhimbe 	KD 	9>10 	z 		nhimbe KD z 9>10 . Nhimbe rudzi rwedoro rinonwiwa navanhu vemumusha, pavanenge vachibatsirana kuita basa pamba kana mumunda wemunhu anenge abika doro iri. humwe 14 .
+name 	D- 		ny 		name D- ny . Kuti name kuita kuti chimwe chinhu chibatane nechimwe. Kuti name kutevera munhu kana mhuka uri pedo pedo nayo. Kuti name kuvako kwemvura inonaya yakawanda. Pandakaona mvura yati name kumakomo, ndakaziva kuti zvakange zvisisaiti kuti ndiyanike mumera paruware.
+ngarengare 	KDKD 		ny 		ngarengare KDKD ny . Kuti ngarengare kumhanyisa-mhanyisa kunoita munhu meso, zvekuti unenge uchingoona ziso kuti vaivai.
+-nge 	D 		mw 		-nge D mw . Ichi chiitomwana chinoshandiswa pakutaura zvinhu zvatopfuura panguva inenge iri kutaurwa nezvayo nemutauri. Akange aenda kudhibha. Mukasvika manheru hamumuwani, nokuti achange aenda kubhawa. Ichi chiitomwana chinoratidza kufanana kwekuratidzika kana kwechiito. Anenge mukoma wake. Mafambiro ake anenge aneta.
+ngege 	KD 	9 	z 		ngege KD z 9 . Ngege kutuhwina wakatarira mudenga.
+nhinganike 	DKKK 	1a 	z 		nhinganike DKKK z 1a . nhingi 1a .
+nhingarikire 	DKKKK 	1a 	z 		nhingarikire DKKKK z 1a . nhingi 1a .
+nhinhe 	DK 	9>10 	z 		nhinhe DK z 9>10 . nhinhi 9 .
+nhire 	DK 	9>10 	z 		nhire DK z 9>10 . Nhire kamhuka kakaenzana netsuro, kane makumbo emberi mapfupi, kanofamba usiku kachisvetuka uye kanogara mumwena. gwete 5, gwizhu 5 . nhinhi 9 .
+ngende 	K- 		ny 		ngende K- ny . Kana bhera rikati ngende rinenge raridzwa kamwe chete.
+ngerere 	K- 				ngerere K- . Kuti ngerere kurira kwesimbi kana mari yesimbi inenge yadonhera pasi.
+nhone 	D- 	9 	z 		nhone D- z 9 . Nhone ivhu risingakwanisi kushandiswa pakurima mbesa.
+ndambirire 	D- 	9>10 	z 		ndambirire ndambirira D- z 9>10 . Kuita ndambirire kuramba uchingoti nanga nanga nenyaya, isingaperi pamusana penharo.
+ndande 	D- 	9 	z 		ndande D- z 9 . Ndande imhando yemapfunde ane ruvara rutema. bandara 5 .
+ngube 	KD 		ny 		ngube KD ny . Kuti ngube kupinda panhu nekuchimbidza.
+nyachide 	DKD 	1a 	z 		nyachide DKD z 1a . Nyachide mukadzi anodiwa kupinda vamwe vose pabarika. Pabarika sadza rinodyiwa nemurume kazhinji nderaVaNyachide. vachidyachidya 1a .
+nhore 	D- 				nhore D- . Nhore imhuka inenge yakura zvokutoonekwa kuti yachembera.
+ndare 	D- 	9 	z 		ndare D- z 9 . Ndare kupinga munhu nemakumbo kuti apunzike.
+nde 	K 		ny 		nde K ny . Kuti nde kupa mumwe munhu zvaunenge wakabata mumaoko. Akabva anzi nde mari yake yaaipopotera.
+ndekede 	KDK 	9>10 	z 		ndekede KDK z 9>10 . Ndekede muchero unowanikwa mumhenderekedzo dzenzizi.
+nguruve 	D- 	9>10 	z 		nguruve D- z 9>10 . Nguruve imhuka inopfuyiwa, ine muromo murefu wakapwashamara, nomuviri wakazara mafuta. hochi 9, humba 9 .
+nyakajongwe 	DDDK 	9 	z 		nyakajongwe DDDK z 9 . Urwu rudzi rweruva rinowanzotungira muzhizha, rinowanikwa pakati pamatombo.
+nyakanebve 	DDKD 	1a 	z 		nyakanebve DDKD z 1a . mbanda 9 .
+nhume 	K- 	9>10 	z 		nhume K- z 9>10 . Nhume munhu anotumwa nemashoko netsamba kana nemuromo. nhumwa 9, mutumwa 1 .
+nhundiramutsime 	D- 	9>10 	z 		nhundiramutsime D- z 9>10 . Uyu munhu anoita zvinhu zveutsinye kana zvemisikanzwa yeunhubu.
+ndendende 	K- 		ny 		ndendende K- ny . Kuti ndendende kusunga zvakasimba chaizvo. Kuti ndendende kugadzikana mupfungwa nemunyama kwemunhu anga achimbonetseka kana kurwara.
+ndenge ndenge 	D- 		ny 		ndenge ndenge D- ny . Kuti ndenge ndenge kuzungunuka kunenge kuchiita pasi kana kuti nyika, zvichikonzerwa nokusagadzikana kwayo.
+ndengende 	D- 		ny 		ndengende D- ny . Kuti ndengende kuzunguzika zvine simba, sezvinoita ivhu kana pasi kana nyika isina kugadzikana. Mahwindo edzimba akati ndengende pakatanga kudengenyeka kwenyika.
+ndere 	D- 	5 	z 		ndere D- z 5 . Ndere kapuka kakatsvukuruka, kane makumbo matanhatu, kanobhururuka uye kanodyiwa. Ndere idambudziko rinoitika muupenyu hwemunhu. nhamo 9 . Ndere munhu ane zvinangwa zvake zvaanotsungirira muupenyu.
+nyamanzere 	DDDK 	1a 	z 		nyamanzere DDDK z 1a . Uyu munhu anoshandisa ruoko rweruboshwe pakunyora, pamitambo nekuita mamwe mabasa. chiboshwe 7 .
+nhundurume 	K- 	9>10 	z 		nhundurume K- z 9>10 . svimborume 9 .
+nhungamakore 	DKKDK 	9>10 	z 		nhungamakore DKKDK z 9>10 . Iri igomo, imba, chivakwa kana chimwewo chinhu chakareba chaizvo. Ichi chitundumutsere, mutsere chinobva pasi chichienda mudengadenga kunzvimbo dzakaita semwedzi.
+ndibvire 	KDK 		kanu 		ndibvire KDK kanu . Iri zwi rinoshandiswa kudzinga munhu paunenge uri. Iri izwi rinoshandiswa kunyaradza kana kurambirana neanenge achitaura, zviine hasha mukati. Ndibvire pano, unotaura zvinotsverudza.
+ngwe 	D- 	9>10 	z 		ngwe D- z 9>10 . ingwe 9 .
+ngwe-e 	D 		ny 		ngwe-e D ny . Kana upfu kana kuti hembe yakati ngwe-e inenge yakachena, ruvara rwayo rwakanyatsobuda. Kana kunze kwati ngwe-e kunenge kwachena.
+nhureture 	KDKD 	9 	z 		nhureture KDKD z 9 . Uku kutakura zvinhu zvinorema, zvinoda kuti munhu apote achizorora.
+nhururamabhatye 	KKKDKD 	9>10 	z 		nhururamabhatye KKKDKD z 9>10 . Iyi ihari yokutanga yedoro, inopiwa vanhu vanenge vauya kuzoita basa panhimbe kana jakwara, basa racho risati ratanga kuitwa. chikumura 7 .
+ngwendere 	D- 	9 	z 		ngwendere D- z 9 . Ngwendere idambudziko guru rinonetsa vanhu. Ngwendere ibopoto rakaoma kwazvo. Ngwendere munhu asinganeti kuita chimwe chinhu, chakaita sebasa rakawanda kana kuti kunonota vamwe.
+ngwenjere 	K- 		ny 		ngwenjere K- ny . Kana mudziyo wesimbi kana kuti simbi ikati ngwenjere , inenge yaita ruzha nokuda kokudonhera pasi, kana kuti yabondereswa iyo pachayo.
+ngwere 	D- 	9>10 	z 		ngwere D- z 9>10 . Ngwere imhuka ine nyanga dzisina kusimba, kana kuti dzisina kumira zvakanaka.
+ngwere 	KD 		ny 		ngwere KD ny . Kuti ngwere kuchena kunenge kwakaita chinhu chakaita seupfu.
+ngwerengwere 	K- 		ny 		ngwerengwere K- ny . Kuti ngwerengwere kurira kwebhera kana kuti simbi inenge ichirohwa-rohwa.
+mvuwerere 	KKDK 	9>10 	z 		mvuwerere KKDK z 9>10 . Aka kagonye kakaita senyongorosi, kanotyirwa nevanhu kuti kanogona kupinda mumuviri nekuzasi vachigeza, sezvo iko kachigara pasi pemvura.
+mwanazvare 	DKDD 	1 	z 		mwanazvare mwanazvari DKDD z 1 . Uyu mwana wamambo.
+ndongamahwe 	D- 	9 	z 		ndongamahwe D- z 9 . Aya matambiro anoita vanhu pabira rekurova guva. pfudzatsoka 9 .
+ndonye 	KD 		ny 		ndonye KD ny . Kana ukati ndonye unenge wawira pasi uchiita zvokutanga nomusoro.
+nyange 	DK 		ny 		nyange DK ny . Kuti nyange kumwaya zvishomashoma. Mhiripiri inoda kungonzi nyange nokuti ikawandisa inovavisa chikafu. Kuti nyange kunanzva dovi kana bota kubva pamuromo pomucheche.
+-mene 	DK 		dz 		-mene DK dz . Iri idzzitsi rechidudzirazita rinoreva munhu anenge achitaura kana kutaurwa pachezvake. Ini ndomene ndini ndichatenga imba iyoyo yavanotaura. Nhasi auya omene. mbune .
+mudeme mudeme 	DKD+ 	3 	z 		mudeme mudeme DKD+ z 3 . Iyi inzira yokuunganidza zvinhu zvakaita sekudya kana zvokupfeka, vanhu vachibatsirana kunyanya panhamo. Mari yomudeme mudeme ndiyo yakazotengesa bhokisi rechitunha.
+mudhebhe 	D- 	3 	z 		mudhebhe D- z 3 . Mudhebhe chipfeko chine makumbo marefu chinotangira muchiuno chichidzika kutsoka. bhurukwa 5 .
+muzvere 	DKK 	1 	z 		muzvere DKK z 1 . Muzvere mudzimai achangobva kusununguka mwana.
+muzvezverere 	DKDDD\D- 	3 	z 		muzvezverere DKDDD\D- z 3 . muzvezve 3 .
+mvemve 	D- 	5 	z 		mvemve D- z 5 . Mvemve ijira kana kuti hembe yabvaruka chaizvo, isisina basa. rengenya 5, dzoto 5 . Mvemve munhu anowana zvaanoda kubva kuvanhu nenzira dzisina kururama, dzeupfambi.
+mhande 	KD 	9 	z 		mhande KD z 9 . Mhande mutambo panenge pachidzana vanhu vane mashave. Mhande kumucheto kwemucheka kwakapeterwa mukati kukasonwa. mupendero 3, rupandi 11 . Mhande chidimbu chejira. rupandi 11 .
+mhanduwe 	DKD 	1a 	z 		mhanduwe DKD z 1a . Mhanduwe izwi rekudeedza naro munhurume.
+mudune 	DDK 	3 	z 		mudune mutune DDK z 3 . Aka kambeva kanogara musango, kane muromo murefu nemakumbo ekumashure marefu, kanosvetuka zvikuru. mudhende 3 .
+mvenje 	K- 	5 	z 		mvenje K- z 5 . Mvenje izai rehwiza. utungwiza 14 .
+mvere 	D- 	9>10/6 	z 		mvere D- z 9>10/6 . Mvere ivhudzi rinomera pamuviri wemunhu kana wemhuka.
+mharapatsetsetse 	DDDKKK 	9>10 	z 		mharapatsetsetse DDDKKK z 9>10 . Uyu munhu anokanganisa runyararo kana kugarisana kwevanhu nekutaura makuhwa kana kuti netsika dzakaipa. Mukomana uyu imharapatsetsetse chaiyo nekuti anoita basa rekuteerena nevakadzi vevamwe.
+mudungwerungwe 	DKKKD 	3 	z 		mudungwerungwe DKKKD z 3 . Aya makomo akabatana-batana akatanda. KuNyanga kune mudungwerungwe wemakomo.
+mudyakuwe 	DKDD 	3 	z 		mudyakuwe DKDD z 3 . Uyu muti unoreba chaizvo, kunyanya kana uri pachidzere. mudyambira 3, mukavi 3, mudanhapfunye 3 .
+mudyamhembwe 	DKKD 	3 	z 		mudyamhembwe DKKD z 3 . Iyi imhando yemuti unobereka muchero unodyiwa nemhuka, uye uine mwoyo wavo wakatsvukuruka wakanaka kugadzirisa zvishongo. mutsonzowa 3, mutoto 3, mukuvazviyo 3, musamba 3 .
+mudyandigere 	DKKDK 	3 	z 		mudyandigere DKKDK z 3 . Uku kuda kunoita munhu kuguta asi iye asingadi kushanda, kana kungoda kupona nezvaasina kushandira. mudyandirere 1 . Iyi imari inozotambirwa nemunhu asisasevenzi nekukura, yaanenge anga achimbobatirwa achiri kushanda. penjeni 9, mudyandirere 1 .
+mutemarege 	DKKDK 	3 	z 		mutemarege DKKDK z 3 . Uku kuurayiwa kwezvinhu zvakawanda, asi zvisingadyiwe. Nyoka yakapinda muzumbu ikasiya yaita huku mutemarege. chiurayeuraye 7 .
+mhare 	K- 	9>10 	z 		mhare K- z 9>10 . Mhare munhu ane ungwaru, zvekuti chose chaanoita chinenge chichiratidza kuti chafungwa neungwaru. Mhare munhu ane ushingi.
+mhene 	DK 	9>10 	z 		mhene DK z 9>10 . Mhene imhuka yakafanana nemhembwe asi iyo yakati tsvukurukei, ichifarira kugara kusina miti kune maziuswa.
+mudzeerere 	DKKDD 	3 	z 		mudzeerere DKKDD z 3 . Apa ndepanotambira vana vachizeya kuenda mudenga nekudzoka, pavanenge vachidhaiwa vari pachigaro chakabatwa nemisungo miviri. mudzuwerere 3 .
+mudzepete 	DKDD 	3 	z 		mudzepete munzepete DKDD z 3 . Ichi chiruva chine mudzi unobumba pasi, une mvura inodhaka munhu zvekufa. Ukanwa mvura yekutanga yakafashaidzwa mudzepete unosiya nyemba.
+mudzimundiringe 	DKKKDK 	3 	z 		mudzimundiringe DKKKDK z 3 . Iri idambudziko rekuti hamheno munhu akabuda mariri, zvekuti anenge okumbira vadzimu kuti vamutarire kuti vamubatsire. mudzimundione 3 .
+mudzuwerere 	DKKDD 	3 	z 		mudzuwerere DKKDD z 3 . mudzeerere 3 .
+mutepe 	DKD 	3 	z 		mutepe DKD z 3 . Mutepe muti une midzi inoshandiswa semushonga wemusoro kana wemhepo, unomera munzizi kana munzvimbo dzine mvura. mupumha 3 .
+mufakamwe 	DKKK 	3 	z 		mufakamwe DKKK z 3 . Uku kushingirira kuita basa rakaoma rese nguva imwe, kuti zvibve zvangopera nguva iyoyo. Murimi akaita mufakamwe kurima zvese nekukavira, paakaona kuti mvura yakanga yazadza denga.
+murenje 	D- 	3 	z 		murenje D- z 3 . Murenje inhengo yetsoka inoshandiswa kutsika pasi. Murenje wangu wairwadza zvokuti ndikatsika pasi waibaya-baya. mukumbo 18 .
+mhindepinde 	DKDD 	9>10 	z 		mhindepinde DKDD z 9>10 . Uku kungoenda mumba kana pane imwe nzvimbo zvisina tsarukano, zvekuti vanhu vanenge vachiti ava vaenda, ava vadzoka. pindawapinda 9 .
+mufenje 	DKK 	3 	z 		mufenje DKK z 3 . Mufenje muti une ganda gobvu rakabanzuka-banzuka kunze kwaro, asi mukati maro rakapfava, unoita mashizha anofarirwa nembudzi. Mbudzi kudya mufenje hufana nyina.
+muriranyenze 	DDDKK 	3 	z 		muriranyenze muriranyenje DDDKK z 3 . Uyu muti unoita mashizha akaita denderedzwa, akanotsvukuruka pamativi, une midzi inogona kushandiswa kugadzira chitubwa dzepazviredzo. mubunguti 3 .
+mutserendende 	D- 	3 	z 		mutserendende D- z 3 . Iyi inzvimbo yakatenuka, panotamba vana vachitsvedza. mutedzerere 3 .
+murume 	DKK 	1 	z 		murume DKK z 1 . Uyu munhu anogona kuburitsa urume hunoti, kana hukasangana nezai remukadzi, mukadzi ogona kuchiumba mwana mudumbu make. munhurume 1 . Murume wemunhurume anenge ari munhu wechirume akamuroora.
+mutsvandimire 	DKKDK 	3 	z 		mutsvandimire DKKDK z 3 . musemwasemwa 3 .
+mugove 	DDK 	3 	z 		mugove DDK z 3 . Mugove chidimbu chakakodzera, chinopihwa munhu kubhadhara zvaanenge aita. Mugove ipfuma inopihwa munhu yakaita senhaka.
+mugweje 	DDK 	3 	z 		mugweje DDK z 3 . Mugweje chinhu chesimbi chakangofafa, chisinganyatsoonekera. Kudakwashe uya wekuda kuvhaira nechimugweje chake chemota azosungwa nhasi nemapurisa abondera akadhakwa.
+murwere 	DKD 	1 	z 		murwere DKD z 1 . Murwere munhu anenge achidzimbikana, asinganzwi muviri wake zvakanaka.
+musambanegore 	DDDKDK 	1 	z 		musambanegore DDDKDK z 1 . Iri nderimwe zita regudo asi riri rekunemera.
+mutukure 	D- 	3 	z 		mutukure D- z 3 . Kana zvinhu zvakaita mutukure zvinenge zvakawanda kwazvo, zvisinganetsi kuwana.
+mutuwende 	DDKK 	1 	z 		mutuwende DDKK z 1 . Uyu munhu anongoswerofamba asingagarewo pamba pake.
+muhotwe 	DDK 	3 	z 		muhotwe muhota DDK z 3 . mututu 3 .
+muhute 	DKD 	3 	z 		muhute mukute DKD z 3 . Uyu muti kana zvimiti zvinowanda-wanda panzvimbo imwe, zvinobereka vana vanonzi hute, vanowanzoibva nguva inenge vanhu vachirima. Muhute uya wemubani raChingwa unoita mazihute anombotidzora nzara, zvikuru kana tichibva kumunda.
+mukadziusaende 	DKKDKKD 	3 	z 		mukadziusaende DKKDKKD z 3 . Urwu rudzi rwechibage chinokurumidza kuibva kupinda mamwe marudzi.
+musande 	DKD 	1 	z 		musande DKD z 1 . Musande munhu akanakisisa akafa achiteedza kuda kwaMwari. Musande munamato unoitirwa mufi, papera gore afa.
+mutyangetyange 	DKKKK 	3 	z 		mutyangetyange DKKKK z 3 . Aka kasora kanomera mumunda pazhizha, kanodyiwa semuriwo.
+muunze 	D- 	3 	z 		muunze muuzhe D- z 3 . Muunze rudzi rwemuti une hunde yakati twasu neganda rinoda kutsvedzerera, unomera munzvimbo dzine makomo.
+mhute 	DK 	9 	z 		mhute DK z 9 . Mhute tudonwe tudiki twemvura, tunenge turi mumhepo twakawanda, tuchikonzera kutsvetera nekusvibira kwekunze.
+mukombe 	DKK 	3 	z 		mukombe DKK z 3 . Mukombe mudziyo unogadzirwa nebudzi, unosevenzeswa kucheresa kana kunwisa zvinwiwa zvakaita semaheu kana doro.
+museve 	D- 	3 	z 		museve D- z 3 . Museve chombo chakareba nokutesvera mberi chinoti chikakandwa neuta chinogona kubaya chachinenge chichikandirwa, ingava mhuka kana munhu. Miseve ndezvese zvakareba zviri zvitete, semiseve yezuva kana yenungu. Museve munhu anenge achimhanya zvekushura mare. bara 5 .
+mushambanegore 	DDDKDK 	1a 	z 		mushambanegore musambanegore DDDKDK z 1a . Uyu munhu asingafariri kugeza, zvekuti anotogeza nenguva dziri kure.
+mushambwe 	D- 	3 	z 		mushambwe D- z 3 . chishambwe 7 .
+mushandirapamwe 	DKKKKK 	3 	z 		mushandirapamwe DKKKKK z 3 . Uyu mubatanidzwa wevanhu vane chinangwa chimwe chavanoda kuzadzikisa, nekubatsirana pamabasa avo. Mushure mekuwana kwezvitonga, mishandirapamwe yekurima, kupfuya zvipfuyo, kuveza nezvimwewo yaikurudzirwa nehurumende zvikuru.
+mombe 	D- 	9>10 	z 		mombe D- z 9>10 . Mombe chipfuyo chinodyiwa nyama, kukamwa mukaka kana iri hadzi nekushandiswa pamabasa akaita sekurima. n'ombe 9 . Mombe rudzi rweuswa hwakafanana nezviyo.
+mukonde 	D- 	3 	z 		mukonde D- z 3 . Mukonde isadza rinenge rakapakurwa riri mundiro. Mukonde muti unoita tumashizha tudikidiki uchibuda mukaka muchena, usingaite mhanda kazhinjizhinji, asi kana ukazoita mhanda dzinenge dziri pfupi.
+mukute 	DKD 	3 	z 		mukute muhute DKD z 3 . muhute 3 .
+musheche 	DKD 	3 	z 		musheche mushuche DKD z 3 . Musheche ivhu rine mabandi makuru, rinowanikwa rakawanda munzizi. jecha 5 .
+muzekezeke 	D- 	3 	z 		muzekezeke D- z 3 . Iyi ipfumvu inovhurira dzimwe kuti dzirambe dzichiuya.
+muzengure 	DDKD 	3 	z 		muzengure DDKD z 3 . Izvi zvidhori zvinoiswa mumunda wembesa, kuitira kutyisidzira shiri nemakudo. muderwe 3, muzerwe 3 . Iri zidumbu guru rakarembera.
+muzerere 	DKDD 	3 	z 		muzerere DKDD z 3 . mudzewerere 3 .
+muzeze 	D- 	3 	z 		muzeze D- z 3 . Muzeze muti une tumashizha tudikidiki, neganda rakachenuruka rinoshandiswa kurapa mudumbu nemaziso, uye mwoyo wawo unoshandiswawo pakuveza. mujisa 3, mupamhamakuva 3 .
+muzhanje 	D- 	3 	z 		muzhanje D- z 3 . Urwu rudzi rwemuti unowanikwa munzvimbo inonaya mvura yakawanda, unobereka muchero unodyiwa unonzi mazhanje. mushuku 3 .
+muzipire 	DDKK 	3 	z 		muzipire DDKK z 3 . Aya manakiro echinhu. muzipo 3 .
+-momote 	D 		ny 		-momote D ny . Kuti momote kuunganira chinhu kwevanhu vakawanda.
+mone 	D- 		ny 		mone D- ny . Kuti mone kuvhiririka kunoita utsi kana guruva zvichisairirwa nemhepo zvichienda mudenga. Chamupupuri chakati mone pachivanze.
+mukwechete 	D- 	3 	z 		mukwechete D- z 3 . Iri ibasa kana dambudziko rakakura chaizvo, zvokuti unenge usina kariro yokurikunda. Kana mupurisa akanzi aferefete nyaya yakaitika kare kare, anotoziva kuti apiwa mukwechete webasa.
+mukwende 	DKK 	3 	z 		mukwende DKK z 3 . Mukwende zvinhu zvakawanda chaizvo, zvakaita senhumbi kana midziyo, zvinenge zvakasungirirwa pamwe. Mukomana aishanda pavaMutowevhu, paakangoona kuti adyisa gadheni nembudzi, akabva asunga mukwende wake odzokera kumusha kwake.
+mumhare 	D- 	3 	z 		mumhare D- z 3 . Mumhare chibage chinoomeswa icho chambobikwa chiri chinyoro. mafushe 6, mupare 3 .
+mushunje 	D- 	3 	z 		mushunje D- z 3 . Mushunje ibutwa rine zvinhu mukati, rinogadzirwa neuswa kana mashizha. Mushunje ihari yedoro inosiyiwa mushure mekutsvaira nekugadziridza guva ranyakufa.
+mbiriyakare 	KKKDD 	9 	z 		mbiriyakare KKKDD z 9 . Ichi ndechaimbova nemukurumbira nguva yakapfuura. Mota iyi imbiriyakare chaiyo.
+mbise 	KD 	9 	z 		mbise KD z 9 . Mbise ruvara runenge ngura, runoita pamazino.
+mumve-e 	DKD 	3 	z 		mumve-e mumveve DKD z 3 . Mumve-e muti unomera padyo nenzizi, unobereka vana vakobvu vakarebenuka.
+mumvuri webwe 	DKD DK 	3 	z 		mumvuri webwe DKD DK z 3 . Aka kamuti kanenge karuva, kane tumashizha tudikidiki, kanomera panzvimbo nyoro dzakaita semumatsime.
+munakamwe 	DDDK 	3 	z 		munakamwe DDDK z 3 . Iyi inguva yegore mvura ichangotanga kunaya. munhuruka 3 .
+musone 	DDK 	3 	z 		musone DDK z 3 . mufushwa 3 .
+mubvakure 	D- 	1>6 	z 		mubvakure D- z 1>6 . Uyu munhu anobva kune imwe nzvimbo iri kure, kana kune imwe nyika.
+mungenge 	D- 	3 	z 		mungenge D- z 3 . Mungenge imota yakanaka chaizvo, inofamba zvakanaka. Dudzai paakabva kuJapan, akauya nemungenge weToyota.
+munhuhwenhuhwe 	DDKKD 	3 	z 		munhuhwenhuhwe DDKKD z 3 . Aka kamuti kana kuti kamuruva, kanomera pamadziro emba kana pamatongo, kanorapa buka. mutandangozi 3 .
+musope 	D- 	1 	z 		musope D- z 1 . Musope munhu mutema asi aine ganda jena, rinenge raita kudaro nekuti pane zvinenge zvakanganisika mukukura kwake achiri mudumbu mamai vake. sope 5 .
+musuki wematehwe 	D- 	1 	z 		musuki wematehwe D- z 1 . Uyu munhu anoita basa rekukwesha matehwe, achigadzira ganda rinozogadziriswa shangu nemabhegi.
+mbune 	KD 	1a 	z 		mbune KD z 1a . Mbune zvinoreva kuti inini pachangu kana kuti iye nyakutaurwa pachake. ndomene 1a, pauzima 1a .
+muchechetere 	D- 	3 	z 		muchechetere D- z 3 . Kana munhu uri pa muchechetere unenge ugere murunyararo, zvinhu zvichifamba zvakanaka.
+musure 	DKD 	3 	z 		musure DKD z 3 . mumashure 18 .
+memete 	D- 		ny 		memete momote D- ny . Kuti memete kuunganira kunoita nyuchi kana masvosve pane chekudya kana pamudziyo une tsvigiri. memetere .
+muonde 	DDK 	3 	z 		muonde DDK z 3 . Uyu muti unobereka vana vanonzi maonde, vanodyiwa nevanhu uye neshiri chaizvo. mukuyu 3 .
+muore 	DDK 	3 	z 		muore DDK z 3 . Muore ihuni dzava kuora, dzisisanetsi kutyora. Muore chinhu chisingashupi kuita.
+muswinyamombe 	D- 	1 	z 		muswinyamombe D- z 1 . Uyu munhu akasimba zvekuti anokwanisa kusimudza zvinhu zvinorema. mutakuramombe 1 .
+mutambarakede 	DDDDKD 	3 	z 		mutambarakede DDDDKD z 3 . Uku kugara upenyu hwakanaka, husina zvinonetsa. mutambaratende 3 .
+sendere 	KDD 	9 	z 		sendere KDD z 9 . Sendere inzvimbo iri kunze kusingarimwi kunomirira kufudzirwa zvipfuyo.
+sinde 	D- 	9>10 	z 		sinde D- z 9>10 . Sinde rudzi rwehove rudiki runowanikwa muhova diki kunyanya. Patairedza hove muna Chigeza taibata sinde chete.
+rukuvhute 	DKKD 	11 	z 		rukuvhute DKKD z 11 . Iyi inhengo, yakaita seura, inobatanidza mai nemwana kana mwana ari mudumbu, pari ipozve paanotora napo chikafu kubva kuna mai.
+svutugadzike 	DKDKD 	9 	z 		svutugadzike DKDKD z 9 . putugadzike 9 .
+teve 	K- 	5 	z 		teve K- z 5 . Teve chikamu chaunopiwa kuti ushande mumunda. ndima 9 . Teve mushonga unoiswa mumucheka unosungurwa muruoko kana pamwewo. Teve mushonga unoiswa mumucheka unosungirwa muruoko kana pamwewo.
+sitatimende 	DKDDD 	9>10 	z 		sitatimende DKDDD z 9>10 . Aya mazvi anotaurwa nomunhu maererano nezvaanoziva pamusoro pokuparwa kwemhosva.
+rupfave 	DDK 	11 	z 		rupfave DDK z 11 . mutsa 3 .
+sope 	D- 	5 	z 		sope D- z 5 . Sope munhu mutema asi ane ganda jena rakada kuita seromurungu. supe 5, musope 1 .
+rushoka ndibereke 	DDDKKKD 	11 	z 		rushoka ndibereke rutsoka ndibereke DDDKKKD z 11 . Uku kutiza kukuru kunoitwa nemunhu avhundutswa. Takaita rushokandibereke pakabuda bhazi mumugwagwa, rouya nekwatiri.
+shaveshave 	D- 	5 	z 		shaveshave D- z 5 . Iyi ishiri ine mavara matema nemachena akatevedza muviri wayo, yakapusa uye isingadyiwi. shavishavi 5 . Ichi chipembenene chine mapapiro ane mavara akasiyana-siyana.
+tande 	D_ 		ny 		tande D_ ny . Kuti tande kusimuka uchibva wananga kwaunoenda. Pavakanzwa mhere kuti turii, VaMuchakata vakabva vasumuka, ndokuti tande vakanagako.
+rute 	DK 	11 	z 		rute DK z 11 . Rute mate anosiririka, anobuda mumuromo achierera, kazhinji kana munhu akarara. siriri 5 .
+shenjere 	DDK 	5 	z 		shenjere DDK z 5 . mushenjere 3 .
+shewe 	KD 		kanu 		shewe KD kanu . Kuti shewe kudavira kunoita munhukadzi, kana achidaidzwa nomunhurume. Shewe izwi rinogona kushandiswa nomunhu ari kuteerera nyaya, kuratidza nyakutaura kuti aenderere zvake nenyaya yake.
+ruvanze 	DKD 	11 	z 		ruvanze ruvazhe DKD z 11 . Ruvanze inharaunda yemusha inochengetedzwa ichiseswa nekutsvairwa. chivanze 7 .
+ruvengahonye 	DKKKD 	11 	z 		ruvengahonye DKKKD z 11 . Aka kamuti kadiki, kane mashizha akanyanya kusvibira, anoshandiswa kudzivirira honye pamaronda ezvipfuyo. Kana n'ombe yaita mota, raputika, ruvegahonye runoiswa paronda racho kuti risaita honye.
+ruvhevhe 	D- 	11 	z 		ruvhevhe D- z 11 . Ruvhevhe kuva nekunyengedza pamaitiro.
+ruware 	DDK 	11>6 	z 		ruware DDK z 11>6 . Ruware idombo rakati sandara, rinogona kupurirwa zviyo, mhunga kana kuyanikirwa zvirimwa zvakohwewa.
+sungare 	K- 	9>10 	z 		sungare K- z 9>10 . Sungare chishongo chakaita rundaza chinopfekwa mumusoro. tsungare 9 .
+rwenze 	D- 	11 	z 		rwenze D- z 11 . Rwenze mambava akamira pamusana wemhuka. Nhoro ine rwenze pamusana.
+tare 	D- 		ny 		tare D- ny . Kuti tare kuzvimbirira kwetsinga kana kururama kwemutsetse. Mheni yakati tare yakacheka denga.
+shomanene 	DDKK 		pr 		shomanene DDKK pr . shomanana .
+shongwe 	D- 	9 	z 		shongwe D- z 9 . Shongwe zidombo ziguru.
+tate-e 	KD 		kanu 		tate-e KD kanu . Kuti tate-e kunyengetedza mwana mucheche kuti abvume kurara.
+sahomwe 	KKD 	1a 	z 		sahomwe KKD z 1a . Sahomwe munhu anochengeta mari yesangano kana kuti yekirabhu.
+tebve 	DK 		ny 		tebve DK ny . Kuti tebve kunyika munwe makanyorovera.
+sve-e 	K- 		ny 		sve-e K- ny . Kana munhu achinzi sve-e , anenge achishoropodzwa nokuda kokukanganisa kwaanenge aita.
+svenyenze 	DKK 	9 	z 		svenyenze DKK z 9 . sitirecha 9 .
+svesve 	DK 	5 	z 		svesve DK z 5 . svosve 5 .
+svimborume 	KKKD 	9>10 	z 		svimborume KKKD z 9>10 . tsvimborume 9 .
+sakatire 	KKDK 	5 	z 		sakatire KKDK z 5 . Sakatire ibarwe rinomera kubva mune rimwe, kana ivhu riine chokudya chakawanda. mhakatirwa 9 .
+teke 	K- 		ny 		teke K- ny . Kuti teke kuchera mvura nechimbichimbi.
+tekenye tekenye 	D- 		ny 		tekenye tekenye D- ny . Kuti tekenye tekenye kufamba kunoita honye.
+shurire 	DKD 	9 	z 		shurire DKD z 9 . Shurire mucherechedzo wokuti kungangoitika zvinhu zvakashata. Shurire chinhu chinenge chakabatira, zvokuti hachibvi pachakabatira ipapo. pfirapo 9, firapo 9 .
+shuro n'ombe 	D- 	9>10 	z 		shuro n'ombe D- z 9>10 . shuro danda 9 .
+tekerere 	K- 		ny 		tekerere K- ny . Kuti tekerere kuzvimba kumativi kwechinhu chinenge chakazara, sezvingaita dumbu remombe yakaguta.
+tekeshe 	D- 		ny 		tekeshe D- ny . Kuti tekeshe kufara zvisina hanya kana unhu. Kuti tekeshe kuwanda nokukura kwenzvimbo. Kare zvinonzi vanhu vaigara vakati tekeshe nenyika, pamadiro.
+svoresvore 	D- 	9>10 	z 		svoresvore D- z 9>10 . Iyi imbavha inonyangarika kana yaba.
+svosve 	DK 	5 	z 		svosve DK z 5 . Svosve kananairwa kanogara mumwena kanoruma, uye kanowanzoonekwa kwanaya. svesve 5, svesvi 5 .
+sare 	DK 	5 	z 		sare DK z 5 . Sare mwana wechibage unomera pamuchekechera wacho. Sare chipundu chinomera pachigaramanhenga chehuku.
+shwe 	D 		ny 		shwe D ny . Kuti shwe kusunga zvine simba. shwi-i .
+tende 	D 		ny 		tende D ny . Kuti tende kugara pasi.
+tenene 	K- 		ny 		tenene K- ny . Kuti tenene kugara usina hanya namagariro awakaita.
+tepe 	D- 		ny 		tepe D- ny . Kuti tepe kurembedza chinhu, zvokuti chinosara chichitamba kwachinenge chakatarisa pasi nako.
+rukaye 	D- 	11 	z 		rukaye D- z 11 . Rukaye imhando yamakonye anodya dzinde, kana mashizha echibage nedzimwewo mbesa.
+rukope 	DKK 	11 	z 		rukope DKK z 11 . Rukope kunzwa uchitadza kunatsosvinura, uchinge unoda kurara. Rukope chirwere chinokupa kuda kugara wakarara. Rukope kuve nemaziso anenge anogara akatsinzinyira nguva dzose.
+save 	K- 	5 	z 		save K- z 5 . Save ihove dzine chifuva chitsvuku dzinowanikwa murwizi Save.
+teshe 	D- 		ny 		teshe D- ny . Kuti teshe kumera zvokuzadza nzvimbo yose. Kuti teshe kungogara pasi, munhu asina kana basa raari kuita. Kuti teshe kugara pasi zvisina hanya kuti pakachena here kana kuti kwete.
+rare 	D- 		ny 		rare D- ny . Kuti rare kutevedza zvinhu neurongwa hwazvo. Kuti rare kuzara panzvimbo zvekupasanganisa. Vana vakati rare mumunda vachichera makurwe.
+raruwe 	KDD 	9>10 	z 		raruwe KDD z 9>10 . Raruwe igwara rine simbi mbiri, panofamba nechitima. njanji 9 .
+pembe 	KD 	9>10 	z 		pembe KD z 9>10 . Pembe katende kadiki kane kamoromo kokufuridza nako kuti karire, uye kanonyanyoshandiswa nomunhu anotambisa mutambo wenhambo. pito 9, nyere 9 .
+pidi-igu nyonde 	KKD DD 		ny 		pidi-igu nyonde KKD DD ny . Kana motokari ichiti pidi-igu nyonde inenge ichikunguruka nokakasika, mushure mokubheuka, yakananga mberi ichindorovera.
+rufuse 	D- 	11 	z 		rufuse rupfutse D- z 11 . Rufuse ivhu nemadota zvinopisa, zvinowanikwa panenge paita moto kwenguva refu. Maputi anogona kugochwa murufuse, vanhu vari padare.
+rugande 	DKD 	11 	z 		rugande rukande DKD z 11 . Rugande kuunza zvokudya pamwe chete kunowanzoitwa nevadiki, sezvingaita vana vanenge vari kun'ombe.
+rugare 	DDK 	11 	z 		rugare DDK z 11 . Rugare kurarama upenyu husina matambudziko. Rugare muriwo unorimwa turi tumhodzi kana kudyarwa ari manhungirwa, unoreba chaizvo uchinonoka kutumbuka.
+nyope 	D- 	9>10 	z 		nyope D- z 9>10 . Nyope munhu asingafarire zvekushanda. simbe 9, tsimbe 9 .
+pepere pepere 	KDD+ 		ny 		pepere pepere KDD+ ny . Kuti pepere pepere kutamba-tamba kunoita bepa kana jira rinenge richivhuvhutwa nemhepo.
+nzeve 	DK 	9>10 	z 		nzeve zheve DK z 9>10 . Nzeve inhengo yemuviri inoita kuti munhu anzwe ruzha kana musindo.
+nzimbe 	KD 	9>10 	z 		nzimbe KD z 9>10 . Nzimbe ipwa hombe ine makanda akaoma chaizvo kunze, uye inogayiwa kuita shuga, inorimwa munzvimbo dzakadzikira uye dzinopisa asi dzichida mvura yakawanda.
+rembe 	K- 	5 	z 		rembe K- z 5 . Rembe iganda rakapamhama riri muhuro memhuka, rinotamba-tamba seremhuka inonzi mhofu. deperepe 5 . Rembe kuzvimba kungaita sezvakaita n'ombe, pahuro zvichikonzerwa nokurwara.
+rengweze 	D- 		ny 		rengweze D- ny . Kuti rengweze kushaya simba mumuviri.
+renje 	K- 	5 	z 		renje K- z 5 . Renje inzvimbo yakakura ine uswa nemiti mishomashoma, isinganyanyi kunaya mvura. Sahara irenje guru romuAfrica. Renje chikari chedoro rezvirango zvechivanhu.
+rete 	D- 	5 	z 		rete D- z 5 . Ma rete maruva emumvee anoita muto unotapira, unonwiwa neshiri kana navanhu.
+nzve-e 	D 		ny 		nzve-e D ny . Kuti nzve-e kupfuura kwechinhu chakaita semunhu kana mhuka nekukasira pane imwe nzvimbo.
+nzvere 	K- 	9>10 	z 		nzvere K- z 9>10 . Nzvere imhuka ichangozvara mhuru. Mombe nzvere inonzi inopenga chaizvo nekuti inenge ichida kuchengetedza mhuru yayo.
+pfemvekete 	KKDD 		ny 		pfemvekete KKDD ny . undundu .
+pfetse 	D- 	5 	z 		pfetse D- z 5 . pfunha 9 .
+nzwanzwe 	DK 	9>10 	z 		nzwanzwe DK z 9>10 . Nzwanzwe ishiri yerudzi rwenzvidya, inofamba nedzimwe dzakawanda mumapoka, dzichidya mbesa dzevanhu nemhodzi.
+pfoche 	D- 		ny 		pfoche D- ny . Kuti pfoche kuzvizadza chikafu mumuromo. Kuti pfoche kutaura zvisingapindirani nenyaya iri mudariro.
+rise 	D- 	5 	z 		rise D- z 5 . Marise mashizha kana mauswa anounganidzwa nembeva mumwena kuitira kuti dzigodziyirwa.
+rize 	DK 	5 	z 		rize DK z 5 . Rize kapuka kane makumbo matanhatu, kanoruma nekumuswe kwako. chinyavada 7, chinyaride 7 .
+pfonye 	KD 		ny 		pfonye KD ny . Kuti pfonye kuzadza chikafu mumuromo. Kuti pfonye kuzadza zvinhu mune chimwe chinhu, uchizvimanikidza kuti zvikwane. Kana uchiti hembe pfonye unenge uchiisa mukati metirauzi, kana kuisa bhurauzi musiketi.
+pfove 	D- 		ny 		pfove D- ny . Kuti pfove kurova kana kubondera chimwe chinhu, chobva chasara chapinda mukati chatokanganisika.
+rokwe 	KD 	5 	z 		rokwe KD z 5 . Rokwe ihembe yechikadzi inopfekwa kunze, inoreba zasi kusvika kumabvi kana kudarika.
+rombe 	D- 	5 	z 		rombe D- z 5 . Rombe munhu asina pfungwa dzakakwana, anoita zvinhu zvisina ungwaru, zvinoita kuti ave murombo. Rombe munhu anofamba achipemha.
+pfuche 	D- 		ny 		pfuche D- ny . Kuti pfuche kunhuwa zvinokanganisa vanenge vari pauri.
+pachi pamwe 	KD KK 		kanu 		pachi pamwe KD KK kanu . Tinoshandisa pachipamwe kumhorosana nemunhu waunenge wava kusangana naye zvakare asi mamboonana pazuva iroro kana munguva shoma ichangopfuura.
+padhuze 	DKD 	16 	z 		padhuze DKD z 16 . Padhuze inzvimbo isiri kure. Chikoro chedu chiri padhuze nepamba, saka kufamba hakutinetsi. padyo 16 . ANTONYMS kure 17.
+pfukumbwe 	DKD 	9 	z 		pfukumbwe DKD z 9 . Pfukumbwe mutambo unoitwa nevana vadiki, vachida kuona kuti umwe wavo angagona here kudoma ruoko runenge ruine dombo, kana chimwe chinhu chavanenge vachichinjana.
+ruboshwe 	DDK 	11 	Z 		ruboshwe DDK Z 11 . Ruboshwe ruoko rusiri rwerudyi. boshe 5, muzere 11 . ANTONYMS rudyi 11.
+rudhende 	DKK 		pr 		rudhende DKK pr . ruzhinji 11 .
+nye-e 	D- 		ny 		nye-e D- ny it . Kana mbeu dzikati nye -e mumunda dzinenge dzamera dzose, pasina dzinotadza.
+pamhe 	DK 		ny 		pamhe DK ny . Kuti pamhe kudzokorora kuita chimwe chinhu kana kuwedzera pane zvimwe.
+putugadzike 	DKDKD 	9 	z 		putugadzike DKDKD z 9 . Ichi chinwiwa chinopisa, chinobikwa nemvura inenge yavira pamwe chete nemasamba, uye kazhinji vanhu vanodawo kuwedzera mukaka neshuga. tii 9 .
+pamwe 	D- 		kanu 		pamwe D- kanu . Tinoshandisa pamwe kana tisina chokwadi nezvinenge zvavhunzwa kana kkuti zvichaitika. Pamwe ndichaenda kumusha kana zvandiri kuda zvafamba.
+pfunde 	KK 	5 	z 		pfunde KK z 5 . Pfunde chirimwa chinoita tsanga dzakada kuita sedzezviyo dzinoti kana dzapurwa dzotswiwa dzozokuyiwa, kana kugayiswa kuitira kuzobika sadza rema pfunde . bvunde 5 .
+nyenze 	K- 	9>10 	z 		nyenze K- z 9>10 . Nyenze kambuyu kanorira, kanogara mumuti unonzi muriranyenze, kanooneka nguva dzekunge mvura yaakunaya. nyenje 9 .
+nyerere 	D- 				nyerere D- . Kuti nyerere kuva nezvinhu zvakawanda, zvokuti mumwe nemumwe anenga agere pake aine chake. Musi wemuchato zvinwiwa zvakanga zvakati nyerere.
+pfunhachembere 	D- 	9 	z 		pfunhachembere D- z 9 . pfunhambuya 9 .
+nyevhe 	DK 	9 	z 		nyevhe nyevhi, nyivhi DK z 9 . Nyevhe rudzi rwemuriwo unomera wega panguva inotanga kunaya mvura, kana nguva inotanga kubuda mbeu muminda.
+nyezhe 	K 	9>10 	z 		nyezhe K z 9>10 . Nyezhe ihwai ine nzeve diki.
+pasichigare 	DKKDK 	16 	z 		pasichigare DKKDK z 16 . Iyi inguva yekarekare chaizvo.
+pasichigare 	DKKDK 	1a 	z 		pasichigare DKKDK z 1a . Pasichigare inguva yetsika nemagariro akare, varungu vasati vapamba nyika ino.
+zunde 	DK 	5 	z 		zunde DK z 5 . Zunde munda kana basa rinoitwa mumunda wamambo. Zunde ibasa rinoitwa pamwe mumunda unenge uri wemushandirapamwe.
+zvimwe 	D- 		dc 		zvimwe D- dc . Kana munhu achiti zvimwe , anenge achireva kuti zviri kutaurwa nezvazvo zvingangoitika.
+zvitsvene 	K- 		dc 		zvitsvene K- dc . Kana munhu akafamba zvitsvene , anenge aita rwendo rwakanaka.
+Zimbabwe 	DKD 	1a 	z 		Zimbabwe DKD z 1a . Zimbabwe ndiro zita renyika inogara vaShona vazhinji, vanotaura mutauro weduramazwi rino. Zimbabwe isvingo dzakavakwa nemabwe munzvimbo dzakasiyana munyika yeZimbabwe, dzaimboshandiswa semizinda makarekare. dzimbahwe 1a .
+vhuvhurubwe 	D- 	5 	z 		vhuvhurubwe D- z 5 . Iri idombo risina kusimba, rinongopfupfunyuka kana munhu akarigumha nechakaomarara.
+vise 	KD 	5 	z 		vise KD z 5 . nwiwa 5 .
+upepe 	DKK 	14 	z 		upepe DKK z 14 . Upepe ibvudzi kana minhenga yakarongwa, zvokuti inogona kurara yakatevedza musoro zvakanaka. Upepe indebvu dzinenge dzakareba zvikuru.
+zengwe 	D- 	5 	z 		zengwe D- z 5 . zengwete 5 .
+zengwete 	D- 	5 	z 		zengwete D- z 5 . Zengwete igwati kana rata rinoshandiswa kuoreresa marara kana madota.
+zevezeve 	D- 	5 	z 		zevezeve D- z 5 . Zevezeve kutaurira pasi pasi, zvokuti vamwe vari pedyo nemi havambonzwi zvamunenge muchitaura.
+tumbare 	D- 	12 	z 		tumbare D- z 12 . Tumbare igonye rinozviputira nenamo yaro, rinorezuka pamuti wakaita semukarati.
+upfende 	DK 				upfende DK . Upfende kushaya basa neutsanana kana kuzvishambidza kwemunhu iye pachake. ufende 14 .
+zhanje 	D- 	5 	z 		zhanje D- z 5 . Ma zhanje michero yakatenderera inoibva iri mitsvuku inonaka chaizvo. Mazhanje anowanzonhongwa mumakomo kana mumachinga emakomo.
+zhenje 	D- 	21 	z 		zhenje D- z 21 . Zhenhje mwenje wezvinopfuta zvakanyanya, zvakaita seuswa kana mashanga.
+zheve 	DK 	9>10 	z 		zheve DK z 9>10 . nzeve 9 .
+tsere 	D- 	9 	z 		tsere D- z 9 . Tsere chipuka chidiki chinofarira kudya uchi. Tsere kuita kuti munhu ashaiwe zvinhu zvakamukodzera, nokuda kokuve negodo naye. mutande 3 .
+urombe 	D- 	14 	z 		urombe D- z 14 . Urombe kusauka nekungotambura kunogona kukonzerwa nechimwe chikanganiso muupenyu. Urombe hwemurume uyu hwakatanga paakarova amai vake.
+tsinde 	D- 	9>10 	z 		tsinde D- z 9>10 . Tsinde uswa hwakasimba, hunomera mubani, hunogadziriswa shambo.
+tsine 	DK 	9 	z 		tsine sine DK z 9 . Tsine kabundo katema kanonamira panhumbi kana ukafamba nemakari. Tsine kauswa kanobaya, kanowanikwa kumuromoromo kweuswa hwatumbuka.
+urwere 	DK 	14 	z 		urwere DK z 14 . Urwere kurwadza kwemuviri.
+tutururu vhe-e 	D- 		ny 		tutururu vhe-e D- ny . tupururu pfacha .
+usimbe 	D- 	14 	z 		usimbe D- z 14 . Usimbe kusada kuita basa. Ane usimbe hwokuti kana kuwacha hembe dzake haagoni. ANTONYMS ubasa 14.
+we-e 	K 		ny 		we-e K ny . Kuti we-e kuzvuva chinhu kubva mukati mechimwe, zvinyoronyoro. Ariti zimunondo we-e kubva musamba.
+wedere wedere 	D- 		ny 		wedere wedere D- ny . Kuti wedere wedere kufamba zvine usimbe. Kufamba kwemunhu aneta anoti wedere wedere.
+tsiye 	KD 	9>10 	z 		tsiye siye KD z 9>10 . Tsiye imvere nhema dzepamusoro uye pazasi pemaziso.
+twe 	K 		ny 		twe K ny . Kana munhu akati twe anenge aburitsa mweya, zvinonzwika kurira. bwe, bhuu, dwii, twi .
+utare 	DKD 	14 	z 		utare DKD z 14 . simbi 9 .
+utepe 	DKK 	14 	z 		utepe DKK z 14 . Utepe munhu munaku, mutete, akanyatsotsvinda. Vasikana vaimumhanyira nokuti paiva noutepe hwejaya.
+utete 	DDK 	14 	z 		utete DDK z 14 . Utete chinzvimbo chinopihwa kuhanzvadzi yababa mumhuri.
+tsote 	D- 		ny 		tsote D- ny . Kuti tsote kuwira pasi nomuromo zvine simba. nyondo, tiba . Tsote imhuka isingabereki. mhanje 9, ramba 5 .
+tyangire 	DKK 	9 	z 		tyangire DKK z 9 . ruvengo 11 .
+utsvene 	DDK 	14 	z 		utsvene DDK z 14 . Utsvene mugariro wokuzvibata pazviito nokusatsaudzira pamabasa. usande 14 . Utsvene kuita mugariro wekusaita zvivi nezvakaipa. Mambo Jesu akafa ane utsvene. usande 14 .
+uchembere 	D- 	14 	z 		uchembere D- z 14 . Iyi inguva yokunge munhukadzi akura chaizvo, akwegura.
+uvhe-evhe-e 	DKK 	14 	z 		uvhe-evhe-e DKK z 14 . Uvhe-evhe-e kupesana-pesana kunenge kuchiita zvinhu zvakawanda, zvichienda mativi akasiyana. Motokari dzinoita uvhe-evhe-e mudhorobha.
+uvheyevheye 	DKDKD 	14 	z 		uvheyevheye DKDKD z 14 . Uvheyevheye kuzunungutswa nemhepo kwehembe dzakayanikwa, kana michero iri mumuti.
+uwe-ewe-e 	DKK 		kanu 		uwe-ewe-e DKK kanu . Uwe-ewe-e kudaidzira pamwe kungaitwe nevanhu vanenge vachida kubatsirwa. Pakatanga kunaya mvura, vanhu vaive panze vakaita uwe-ewe-e vachida kuvhurirwa musiwo.
+tsunye 	DK 		ny 		tsunye DK ny . Kuti tsunye kupfanyidzira ganda remunhu pakati pezvigunwe zvinorwadza.
+tsurwe 	KD 	9>10 	z 		tsurwe KD z 9>10 . jende 5 .
+udyire 	DKD 	13 	z 		udyire DKD z 13 . undyire 14 .
+uyezve 	KDK 		bat 		uyezve KDK bat . Uyezve chibatanidzamazwi chinoreva kuti kunze kwezvataurwa, pane zvimwezve.
+uze-eze-e 	DKK 	14 	z 		uze-eze-e DKK z 14 . Uze-eze-e kutenderera-tenderera kwezvinhu zvakawanda mudenga. Kana koda kunaya, mashori anoita uze-eze-e mudenga.
+yowe-e 	K- 		kanu 		yowe-e yuwi-i K- kanu . Kuti yowe-e kuratidza kurwadziwa zvikuru nekurwara kana kukuvara. Yowe-e, musana wangu wobanda. Inga chandakadya chamuka, nhai vasikana! maiwe-e . Kuti yowe-e kuridza mhere kunoita munhu anenge achitya zvaanenge aona kana kunzwa. maiwe-e .
+ufende 	DDK 	14 	z 		ufende DDK z 14 . Ufende kushaya njere dzekugara munhu akatsvinda. udzanga 14, upfende 14 .
+vachikomborere 	KDKKDK 	2a 	z 		vachikomborere KDKKDK z 2a . Vachikomborere munhu anoita kuti vanoshaya vapote vachiwanawo.
+vamasare 	KKKD 	2a 	z 		vamasare KKKD z 2a . Vamasare izwi rinoshandiswa pamunhu anotadza kuwirirana navamwe, munhu asinganzwisisi. Ngatichibva pano pasvika vamasare.
+Zame 	DK 	1a 	z 		Zame DK z 1a . Zame ndiye akasika denga nepasi. Mwari 1 .
+tsve-e 	D- 		ny 		tsve-e D- ny . Kuti tsve-e kutsvedzemuka kunoita anenge afamba nepanotsvedza.
+uibve 	DKK 	14 	z 		uibve uibvo DKK z 14 . Uibve kukwanisa kudyika komuchero wabva muumbishi, wasvika pakuti wotapira kana kubvira kudyiwa.
+vamutswetswe 	KDKK 	9 	z 		vamutswetswe KDKK z 9 . Urwu rudzi rweshiri ine muswe murefu.
+zarurahomwe 	DDDKK 	9 	z 		zarurahomwe DDDKK z 9 . Iyi imari yokutangisisa inobviswa nomunyai, asati atanga kuburitsa roora. Mari yezarurahomwe inopiwa baba vomusha.
+zee 	KD 		ny 		zee KD ny . Kuti zee kutenderedza chinhu, chichienda mberi chichidzoka.
+tsverekete 	K- 		ny 		tsverekete K- ny . tsve .
+tsvete 	D 	9>10 	z 		tsvete D z 9>10 . Tsvete kuitira mumwe munhu zvakanaka, zvausingaitiri vamwe vose. chizivano 7 .
+umberevere 	D- 	14 	z 		umberevere umberembere D- z 14 . Uku kuita zvinhu usingadi kuzivikanwa kana kuonekwa navanhu.
+vare 	D- 		ny 		vare D- ny . Kuti vare kuita chiedza chakajeka, chinoonekwa kamwe chobva chadzima, sezvinoita mheni.
+vaye 	KD 		rk 		vaye KD rk . vaya .
+ve 	D- 		ny 		ve va D- ny . Kuti ve kucheka nyama kana zvimwewo nekukasika.
+veduwe-e 	KDD 		kanu 		veduwe-e weduwe-e KDD kanu . Kuti veduwe-e kukaruka kwemunhu anenge achisiririswa kana kushamisika nezvinenge zvichitaurwa. Akazofa, nhai veduwe-e, munhu uya airwara.
+vende 	D- 	5 	z 		vende D- z 5 . Vende iburi rinenge rabva zino kana chimedu chehari.
+underendere 	DDKDK 	14 	z 		underendere DDKDK z 14 . Uku kuramba uri padyo nemumwe munhu nekumutya kana kuti nekuti unomufarira.
+verevere 	D- 		ny 		verevere D- ny . Kuti verevere kupinda kunoita chinhu chakareba panhu. Nyoka yati varevere ichipinda mumwena. Kuti verevere kusvika kana kubva panzvimbo muchihwande. Kuti verevere kufamba zvakapfava muchiitira kuti vanhu vasakuonai.
+veve 	KD 	5 	z 		veve KD z 5 . Veve kusanzwa kurwadza kunomboita nhengo yemuviri kwekanguva kubva apo unenge wakuvara. Kana uchibviswa zino unobaiwa jikiseni kuti paite veve. chiveve 7 .
+vhenekeratsvimborume 	DDDDKDKD 	9 	z 		vhenekeratsvimborume DDDDKDKD z 9 . Iyi inyenyedzi huru kupfuura dzimwe dzose, inopenya chaizvo, inowanzoonekwa kana kunze kuchangosviba.
+tsvuketsvuke 	DKKD 	9>10 	z 		tsvuketsvuke DKKD z 9>10 . Uhwu howa hudoko, hwakatsvukuruka, hunodyiwa. firifiti 9, dzvuketsvuke 5 .
+une une 	D- 		ny 		une une D- ny . Kuti une une kutaridzika kwemunhu asina mafaro kana asina simba, anorwara.
+vhere 	D- 	5 	z 		vhere D- z 5 . Ma vhere rudzi rwevhudzi rinomera pamberi kana kuti muhapwa dzemunhu. choya 7 . Ma vhere mambava ehuku.
+vhevhe 	D- 				vhevhe D- it . Vhevhe munhu anonyengera vanhu kuti vamupe zvaanenge achida, asi asingazovapi zvaanenge avavimbisa. Vhevhe rakatora huku yangu, asi nanhasi harisati randipa mari yangu.
+tuche 	D- 		ny 		tuche D- ny . Kuti tuche kurova neshamhu.

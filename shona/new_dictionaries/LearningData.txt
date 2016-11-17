@@ -81,7 +81,7 @@ bh o f o r a
 bh o g o dz a
 bh o m a
 bh o m u dz a
-bh o n a
+bh o N a
 bh o n d a
 bh o N g o zh o r a
 bh o sv o N g a
@@ -128,7 +128,7 @@ b i n d u r a
 b i N g a
 b i N g u n u r a
 b i nh a
-b i n i n i dz a
+b i n i N i dz a
 b i ny a
 b i ny a i dz a
 b i n z a
@@ -491,7 +491,7 @@ ch a d u r a
 ch a i r a
 ch a i r i s a
 ch a k a ch a
-ch a  k a  ch a  k a  dz a
+ch a k a ch a k a dz a
 ch a k a dz a
 ch a k a i r a
 ch a k a ny a
@@ -631,7 +631,7 @@ ch i k i ch i r a
 ch i k i d i r a
 ch i k u r a
 ch i m b i dz a
-ch i n a
+ch i N a
 ch i N g a
 ch i N g a i dz a
 ch i N g a m a
@@ -681,7 +681,7 @@ ch u vh a
 d a
 d a d a
 d a d a bv u r a
-d a d a d z i k a
+d a d a dz i k a
 d a d a m a
 d a d a n u r a
 d a d a u k a
@@ -712,9 +712,9 @@ d a v i r a
 d a v i r i r a
 d a z u r a
 d e b u k a
-d e d e d z a
+d e d e dz a
 d e d e m a
-d e d e m a d z a
+d e d e m a dz a
 d e d e nh e r a
 d e d e ny a
 d e d e r a
@@ -748,7 +748,7 @@ d e u k a
 d e v a i r a
 dh a bh a
 dh a bh u r a
-d h a b w a d h i d z a
+dh a b w a dh i dz a
 dh a dh a
 dh a dh a i r a
 dh a dh a m u k a
@@ -761,13 +761,13 @@ dh a m b a
 dh a n z a
 dh a r a
 dh a y a
-d h e d h e d z a
+dh e dh e dz a
 dh e k a
 dh e m b u k a
 dh e r e r a
 dh i bh a
 dh i dh a
-d h i d h i d z a
+dh i dh i dz a
 dh i i ny a
 dh i m a
 dh i n d a
@@ -780,7 +780,7 @@ dh i r i m a
 dh i r o w a
 dh i v a n a
 dh o bh a
-d h o d h o d z a
+dh o dh o dz a
 dh o g o dh e k a
 dh o g o m a
 dh o h o ny a
@@ -793,15 +793,15 @@ dh o vh o r a
 dh u bv u dz a
 dh u bv u r a
 dh u dh u k a
-d h u d h u m i d z a
+dh u dh u m i dz a
 dh u g u k a
 dh u r a
-d h u r u d h u d h u d z a
+dh u r u dh u dh u dz a
 dh u r u m a
 dh u u k a
 dh u v a
 d i d a
-d i d i d z a
+d i d i dz a
 d i g a i r a
 d i k i
 d i k i t i r a
@@ -821,11 +821,11 @@ d i v a
 d i y a
 d o b o d a
 d o d a
-d o d o d z a
+d o d o dz a
 d o d o m e s a
 d o d o N g a
 d o d o ny a
-d o d o r o d z a
+d o d o r o dz a
 d o dy o r a
 d o k a
 d o k o n o dz a
@@ -857,7 +857,7 @@ d o sh a
 d o ts a
 d o v a i r a
 d o w e r a
-d u d u d z a
+d u d u dz a
 d u d u m a
 d u d u n a
 d u d u n u k a
@@ -901,7 +901,7 @@ dy i dz a n a
 dy o r a
 dy u N g a
 dz a dz a m a
-d z a d z a m b i d z a
+dz a dz a m b i dz a
 dz a dz a m b i r a
 dz a dz a N g a
 dz a dz a n u k a
@@ -922,7 +922,7 @@ dz e d u r a
 dz e m b e r e dz a
 dz e m b e r e r a
 dz e m u r a
-d z e n d a d z e n d a
+dz e n d a dz e n d a
 dz e n d e m u k a
 dz e n d e m u r a
 dz e N g e dz e k a
@@ -1011,7 +1011,7 @@ dzv i t a
 dzv o mh o r a
 dzv o n d o r a
 dzv o N g a m a
-dzv o ny n o r a
+dzv o ny N o r a
 dzv o ny o r a
 dzv o v a
 dzv u r a
@@ -1215,7 +1215,7 @@ f o m o r a
 f o n d o k a
 f o n d o n o r a
 f o N g o r a
-f o n o n o n a
+f o n o N o n a
 f o ny a n a
 f o ny e dz a
 f o ny e r a
@@ -1439,8 +1439,8 @@ g a mh i n a
 g a m u ch i dz a
 g a m u ch i r a
 g a m u r a
-g a n a
-g a n a r i dz a
+g a N a
+g a N a r i dz a
 g a n d a
 g a n d a i r a
 g a n d u k a
@@ -1471,7 +1471,7 @@ g a vh a
 g a y a
 g e b a
 g e d a g e d a
-g e d e g e d e d z a
+g e d e g e d e dz a
 g e g e d u r a
 g e g e dz a
 g e N g e
@@ -1507,8 +1507,8 @@ g o m b e dz e r a
 g o m b e r a
 g o m e dz e k a
 g o m e r a
-g o n o dz a
-g o n o r a
+g o N o dz a
+g o N o r a
 g o n a
 g o n a n a
 g o n d a
@@ -1579,7 +1579,7 @@ g u N g u dz a
 g u N g u r a
 g u nh a
 g u nh i r a
-g u n u n u n a
+g u n u N u n a
 g u n zv a
 g u p a
 g u r a
@@ -1699,11 +1699,11 @@ h a n d a i r a
 h a y a
 h a z u r a
 h e dh u k a
-h e n a
+h e N a
 h e sv u r a
 h o dh a
 h o m u r a
-h o n a
+h o N a
 h o ny a
 h o r a
 h o ts i r a
@@ -1841,7 +1841,7 @@ k a m b u r a
 k a mh i n a
 k a m u k i r a
 k a m u r a
-k a n a i r a
+k a N a i r a
 k a n a i r a
 k a n a N g u r a
 k a n d a
@@ -2024,7 +2024,7 @@ k o n e s a
 k o N g o ny a r a
 k o nh e r a
 k o n o bh e r a
-k o n o n o dz a
+k o n o N o dz a
 k o n o n a
 k o n o n d a
 k o n o N g o r a
@@ -2095,7 +2095,7 @@ k u N g u r u k a
 k u nh a
 k u nh i dz i r a
 k u n j a i r a
-k u n u n u n a
+k u n u N u n a
 k u ny a
 k u ny a i r a
 k u ny u N g u dz a
@@ -2251,7 +2251,7 @@ m e ny u k i r a
 m e pf u
 m e pf u r a
 m e r a
-mh a n a r a
+mh a N a r a
 mh a ny a
 mh a r a
 mh e d u r a
@@ -2328,25 +2328,25 @@ m w e t u r a
 m w i dz a
 m w i dz a n a
 m w i s a
-n a i m a
-n a n a u r a
-n a n a zh u r a
-n a ny a i r a
-n a ny u r a
-n a n z a
-n a r a
-n a z a
-n e n a
-n e n e n a
-n e n e n u r a
-n e u r a
-n o n o dz a
-n o n o r a
-n o r a
-n u d u r a
-n u n u n a
-n u r a
-n w a
+N a i m a
+N a N a u r a
+N a N a zh u r a
+N a ny a i r a
+N a ny u r a
+N a n z a
+N a r a
+N a z a
+N e N a
+N e N e n a
+N e N e n u r a
+N e u r a
+N o N o dz a
+N o N o r a
+N o r a
+N u d u r a
+N u N u n a
+N u r a
+N w a
 n a
 n a f u n a
 n a f u r a
@@ -2364,8 +2364,8 @@ n a m b a sh i r a
 n a m b u k a
 n a m b u r a
 n a m u k a
-n a n a n i dz a
-n a n a n u r a
+n a N a n i dz a
+n a N a n u r a
 n a n a
 n a n a i dz a
 n a n a i r a
@@ -2395,14 +2395,14 @@ n d a dz u r a
 n d a n a i dz a
 n d a n d a
 n d a n d a m a
-n d a n d i d z a
+n d a n d i dz a
 n d a n d i r a
 n d a N g a n d i r a
 n d a ny a i r a
 n d a n z u r a
 n d a r a z u k a
 n d a r a z u r a
-n d e n d e r e d z a
+n d e n d e r e dz a
 n d e n e n e k a
 n d e N g a n d e N g a
 n d e N g e n d e k a
@@ -2418,12 +2418,12 @@ n d i k a
 n d i k i ny a
 n d i k i ny i dz a
 n d i m u k a
-n d i N g i n d i d z a
+n d i N g i n d i dz a
 n d i N g i n d i r a
 n d i ny a i r a
 n d i ny i r a
 n d o m w i r a
-n d o n d o d z a
+n d o n d o dz a
 n d o ny a
 n d o ny e dz a
 n d o ny e r a
@@ -2431,7 +2431,7 @@ n d o v a
 n d u g u k a
 n d u n d u m a
 n d u n d u m w a r a
-n d u n d u r u d z a
+n d u n d u r u dz a
 n d u r a
 n d u r i r a
 n d u r u dz a
@@ -2441,9 +2441,9 @@ n d u w a i r a
 n d w a i dz a
 n d w a i r a
 n d w i dz a
-n d y a n d y a d z a
+n dy a n dy a dz a
 n dy a r a r i dz a
-n d y u n d y u d z a
+n dy u n dy u dz a
 n dy u n dy u t a
 n e k a i dz a
 n e k a i r a
@@ -2583,8 +2583,8 @@ n i k a
 n i m b u k a
 n i m b u r a
 n i m b u ts a
-n i n i n i dz a
-n i n i n i r a
+n i N i n i dz a
+n i N i n i r a
 n i n a
 n i N g a
 n i N g i t i dz a
@@ -2653,7 +2653,7 @@ n o bv o r a
 n o k a
 n o k o r a
 n o m b o r a
-n o n o n a
+n o N o n a
 n o n a
 n o N g a
 n o N g e dz a
@@ -2696,12 +2696,12 @@ ny a m b u r a
 ny a m b w a i r a
 ny a m u dz a
 ny a m w i dz a
-n y a n a n y a
-n y a n a n y u r a
-n y a n d a n u dz a
-n y a n d a n u k a
-n y a n d a n u r a
-n y a n d a n u ts a
+ny a N a ny a
+ny a N a ny u r a
+ny a n d a n u dz a
+ny a n d a n u k a
+ny a n d a n u r a
+ny a n d a n u ts a
 ny a n d u dz a
 ny a n d u k a
 ny a n d u r a
@@ -2785,15 +2785,15 @@ ny i k u k a
 ny i k u r a
 ny i m a
 ny i m i ny a
-n y i n i n y i r a
+ny i N i ny i r a
 ny i n d a
 ny i n u r a
 ny i ny i r i dz a
 ny i r a
 ny i r i ny i t a
 ny i s a
-ny n a
-ny n a b u r a
+ny N a
+ny N a b u r a
 ny o b i k a
 ny o bv o r a
 ny o d o k a
@@ -3196,7 +3196,7 @@ p i k u r a
 p i m a
 p i m b i n u r a
 p i m b i ny a r a
-p i m b i ny n a r a
+p i m b i ny N a r a
 p i m b i ny u k a
 p i m b i r i N g a
 p i m b i y a n a
@@ -3351,7 +3351,7 @@ r a k a sh a
 r a k a ts a
 r a k i dz a
 r a m b a
-r a m b a ny n u k a
+r a m b a ny N u k a
 r a m b i dz a
 r a m w a
 r a n d a bv u r a
@@ -3904,7 +3904,7 @@ sv u n u r a
 sv u sv u dz a
 sv u sv u dz i r a
 sv u sv u mh i r a
-s v u s v u m i s a
+sv u sv u m i s a
 sv u sv u r a
 sv u t a
 sv u u k a
@@ -4033,7 +4033,7 @@ t a ts u r a
 t a t u
 t a t u k a
 t a t u r a
-t a t u t s a
+t a t u ts a
 t a u dz a
 t a u dz a n a
 t a u k a
@@ -4243,7 +4243,7 @@ ts i n d i r a
 ts i N g a
 ts i nh a n a
 ts i nh i r a
-ts i n i n i n a
+ts i n i N i n a
 ts i n z a
 ts i n z i n a
 ts i p i k a
@@ -4274,7 +4274,7 @@ ts o r a
 ts o r o p o dz a
 ts o ts a
 ts o ts o ny a
-t s o t s o t a
+ts o ts o t a
 ts u d u g u r a
 ts u d u n u r a
 ts u k u n u k a
@@ -4296,9 +4296,9 @@ ts u r u dz i r a
 ts u r u k a
 ts u r u n d u n d i k a
 ts u ts u m w a
-t s u t s u t a
-t s u t s u t i dz a
-t s u t s u t i r a
+ts u ts u t a
+ts u ts u t i dz a
+ts u ts u t i r a
 tsv a
 tsv a b i k a
 tsv a d u r a
@@ -4463,8 +4463,8 @@ ty o k a
 ty o r a
 ty w a k a t i k a
 ty w a ny a
-t y w a t y w a t i dz a
-t y w a t y w a t i k a
+ty w a ty w a t i dz a
+ty w a ty w a t i k a
 u
 u bv u ny u k a
 u ch i k a
@@ -4479,7 +4479,7 @@ u m b u k a
 u m b u r a
 u m b u r u dz a
 u m b u r u k a
-u n a
+u N a
 u n a
 u n a i r a
 u n d a
@@ -4767,7 +4767,7 @@ zv i n d a
 zv o m o k a
 zv o n d a
 zv u v a
-z v u z v u r u dz a
+zv u zv u r u dz a
 z w a
 z w a n a
 a
@@ -4817,7 +4817,7 @@ b a b a n d u
 b a b a n d u r a
 b a d a n u k a
 b a d a n u r a
-b a  d a  r a  b a  d a  r a
+b a d a r a b a d a r a
 b a d a r i k a
 b a d u
 b a d u k a
@@ -4841,7 +4841,7 @@ b a m u
 b a m u r a
 b a n a mh a n a
 b a n d a
-b a  n d a  ch a  k a  t a
+b a n d a ch a k a t a
 b a n d a k a dz i
 b a n d a n a
 b a n d a p a k u k u t u
@@ -4873,10 +4873,10 @@ b a p u
 b a r a
 b a r a b a d a
 b a r a b a d i k a
-b a  r a  dz a  m u s a  s a
+b a r a dz a m u s a s a
 b a r a dz a n w a
 b a r a r a dz a
-b a  r a  r a  mh a  ny a
+b a r a r a mh a ny a
 b a r a v a r a
 b a r i k a
 b a r w e
@@ -4956,7 +4956,7 @@ b e y a p e y a
 b e z a
 bh
 bh a
-b h a b h a b h a
+bh a bh a bh a
 bh a a
 bh a a
 bh a bh a dz i r a
@@ -4986,7 +4986,7 @@ bh a m a r a dz a
 bh a m b a
 bh a m b a N g u
 bh a mh a dz a
-bh a n a n a n a
+bh a n a N a n a
 bh a n a n a
 bh a n a n a n a
 bh a n d i
@@ -5061,7 +5061,7 @@ bh i bh o
 bh i dh a
 bh i dh a bh i dh a
 bh i dh a i r a
-bh i  dh i  r i  bh i  dh i  r i
+bh i dh i r i bh i dh i r i
 bh i dh i r i dz a
 bh i dh i r i k a
 bh i g i
@@ -5097,7 +5097,7 @@ bh o o
 bh o bh i n i
 bh o bh o j a n i
 bh o dh i
-bh o dh i n i
+bh o dh i N i
 bh o dh i N g i
 bh o dh i n i
 bh o dh o
@@ -5133,7 +5133,7 @@ bh o vh o r a
 bh o v o
 bh u
 bh u bh u
-b h u b h u b h u
+bh u bh u bh u
 bh u u
 bh u bh a
 bh u bh u dy u k a
@@ -5167,7 +5167,7 @@ bh u r e k i
 bh u r e z a
 bh u r u
 bh u r u k u t u
-bh u  r u  k u  t u  bh u  r u  k u  t u
+bh u r u k u t u bh u r u k u t u
 bh u r u k w a
 bh u r u r a
 bh u r u r a i t i
@@ -5201,7 +5201,7 @@ b i d i n u
 b i d i n u k a
 b i d i n u r a
 b i d i r i
-b i  d i  r i  b i  d i  r i
+b i d i r i b i d i r i
 b i d i r i dz a
 b i d i r i k a
 b i dy u
@@ -5650,7 +5650,7 @@ bv a u t i
 bv a v i
 bv a v i s i
 bv e
-b v e b v e b v e
+bv e bv e bv e
 bv e bv e
 bv e bv e m a
 bv e bv e m a dz a
@@ -5734,14 +5734,14 @@ bv o t o r a
 bv o vh o
 bv o v o
 bv u
-b v u b v u b v u
+bv u bv u bv u
 bv u bv a
 bv u bv u dz a
 bv u bv u m a
 bv u bv u m i r a
 bv u bv u r a
 bv u bv u r u dz a
-b v u b v u r u m b w e
+bv u bv u r u m b w e
 bv u bv u v a
 bv u bv u v a r a
 bv u ch e
@@ -5795,7 +5795,7 @@ bv u m b u r a
 bv u m b u r u
 bv u m b u r u dz a
 bv u m b u r u k a
-bv u  m b u  r u  k u  t u
+bv u m b u r u k u t u
 bv u m i r a
 bv u m i r a n o
 bv u m i s a
@@ -5929,7 +5929,7 @@ b w e m o t o
 b w e b w e
 b w e b w e d a
 b w e b w e dz a
-b w e  d e  r e  b w e  d e  r e
+b w e d e r e b w e d e r e
 b w e dz a
 b w e g e m u k a
 b w e k a
@@ -6014,7 +6014,7 @@ ch a b w i
 ch a b w i ch a b w i
 ch a b w i r a
 ch a ch a
-c h a c h a c h a
+ch a ch a ch a
 ch a ch a d a
 ch a ch a d u
 ch a ch a d u dz a
@@ -6035,9 +6035,9 @@ ch a ch a p u
 ch a ch a p u dz a
 ch a ch a p u k a
 ch a ch a p u r a
-c h a  c h a  r a  k a  c h a
+ch a ch a r a k a ch a
 ch a ch a r a r a
-c h a c h a r i c h a c h a r i
+ch a ch a r i ch a ch a r i
 ch a ch a r i dz a
 ch a ch a r i k a
 ch a ch a t a
@@ -6082,7 +6082,7 @@ ch a k a a
 ch a k a a
 ch a k a ch a
 ch a k a ch a k a
-ch a  k a  ch a  k a  dz a
+ch a k a ch a k a dz a
 ch a k a dz a
 ch a k a i r a
 ch a k a m w e
@@ -6116,8 +6116,8 @@ ch a m a n d i r i r i
 ch a m a N g w i z a
 ch a m a p i ny o r i
 ch a m a r e N g e ny a
-ch a  m a  s i m b a  m a  s i m b a
-ch a  m a  s i m b a  m a  s i m b a
+ch a m a s i m b a m a s i m b a
+ch a m a s i m b a m a s i m b a
 ch a m a s u n d a
 ch a m a t e y a
 ch a m a t u m b a
@@ -6131,16 +6131,16 @@ ch a mh e m b e
 ch a mh u N g w e
 ch a m i z i r a
 ch a m o t o
-ch a  m u b a  n d a  k a  n d a
-ch a m u b h a b h a b h a
-c  h  a  m u c  h  a  c  h  a  m u c  h  a  c  h  a
-c  h  a  m u c  h  a  c  h  a  m u c  h  a  c  h  a
-c  h  a m u c  h  a c  h  u m u c  h  a c  h  u
-c  h  a m u c  h  a c  h  u m u c  h  a c  h  u
+ch a m u b a n d a k a n d a
+ch a m u bh a bh a bh a
+c h a m u c h a c h a m u c h a c h a
+c h a m u c h a c h a m u c h a c h a
+c h a m u c h a c h u m u c h a c h u
+c h a m u c h a c h u m u c h a c h u
 ch a m u d a i m u d a i
 ch a m u d a i m u d a i
 ch a m u d i d i d i
-ch a m u  dz u  N g u  r u  r u
+ch a m u dz u N g u r u r u
 ch a m u g o
 ch a m u h w i r i r i
 ch a m u j a k u j a k u
@@ -6156,8 +6156,8 @@ ch a m u m i r e m u m i r e
 ch a m u m i r e m u m i r e
 ch a m u nh u b e
 ch a m u nh u p e
-ch a m u  ny u  r u  d u  d u
-ch a m u  ny u  r u  N g u  n d u
+ch a m u ny u r u d u d u
+ch a m u ny u r u N g u n d u
 ch a m u p a p a t a
 ch a m u p i d i g o r i
 ch a m u p u p u r i
@@ -6290,7 +6290,7 @@ ch a y i r a
 ch a z a
 ch a z e z e s a
 ch e
-c h e c h e c h e
+ch e ch e ch e
 ch e
 ch e e
 ch e b e dy a n a
@@ -6446,7 +6446,7 @@ ch e z e r o
 ch e z u
 ch e z u r a
 ch i
-c h i c h i c h i
+ch i ch i ch i
 ch i
 ch i a n d a m a
 ch i b a b a m u n e m b e v a
@@ -6460,7 +6460,7 @@ ch i b a k o b w e r a b w e r a
 ch i b a m b a n a
 ch i b a m b o m u p o n j e
 ch i b a n d a
-ch i b a  n d a  n a  m a  pf u p a
+ch i b a n d a n a m a pf u p a
 ch i b a n z e
 ch i b a n z u r o
 ch i b a r i
@@ -6492,7 +6492,7 @@ ch i b e n e N g a
 ch i b e r e
 ch i b e r e k o
 ch i b e t o
-ch i b h a b h a b h a
+ch i bh a bh a bh a
 ch i bh a bh a N g u
 ch i bh a bh a u r o
 ch i bh a k e r a
@@ -6508,7 +6508,7 @@ ch i bh e n d e
 ch i bh i bh i
 ch i bh o bh i r i
 ch i bh o k i s i
-ch i b h u b h u b h u
+ch i bh u bh u bh u
 ch i bh u n u
 ch i bh u r a n d a y a
 ch i bh u r u r u k w a
@@ -6520,7 +6520,7 @@ ch i b i k w a
 ch i b i m v u
 ch i b i N g a m u p i ny i
 ch i b i N g e
-ch i  b i  sh i  b i  sh i
+ch i b i sh i b i sh i
 ch i b o f o
 ch i b o m b o
 ch i b o n d o k o t o
@@ -6542,8 +6542,8 @@ ch i bv a n zv i m b o
 ch i bv a r o
 ch i bv e ny u r i s o
 ch i bv i
-ch i  bv i  n d i  r i  bv i  n d i  r i
-ch i  bv i  n d i  r i  bv i  n d i  r i
+ch i bv i n d i r i bv i n d i r i
+ch i bv i n d i r i bv i n d i r i
 ch i bv i nh o
 ch i bv i r i r o
 ch i bv i r i s o
@@ -6562,19 +6562,19 @@ ch i bv u r i bv u r i
 ch i bv u w e r e
 ch i b w a d a b w a d a
 ch i b w a d a g u r o
-ch i b w a n y a n e n y a N g a
+ch i b w a ny a n e ny a N g a
 ch i b w a ny i s o
 ch i b w a ny o
 ch i b w e
 ch i b w e ch i t e dz a
-ch i  b w i  n d i  k i  t i
+ch i b w i n d i k i t i
 ch i ch a
-c h i c h a i c h a i
+ch i ch a i ch a i
 ch i ch e k e r e r w a
 ch i ch e m o
 ch i ch e s e
 ch i ch i
-c h i c h i c h i
+ch i ch i ch i
 ch i ch i dz a
 ch i ch i n d a p a s i
 ch i ch i nh a
@@ -6627,7 +6627,7 @@ ch i dh u u z a
 ch i dh u z a
 ch i d i d i
 ch i d i g i
-ch i  d i  g i  d i  g i
+ch i d i g i d i g i
 ch i d i g i dz a
 ch i d i g i r a
 ch i d i g u
@@ -6771,12 +6771,12 @@ ch i g a mh a
 ch i g a mh i
 ch i g a mh i s o
 ch i g a m i r a p a d e N g a
-ch i g a n a
+ch i g a N a
 ch i g a n a
 ch i g a N g a
 ch i g a nh i r a
 ch i g a p u
-ch i g a  r a  m a  j a  h a
+ch i g a r a m a j a h a
 ch i g a r a m i nh e N g a
 ch i g a r a m u m b a
 ch i g a r a m u nh e m b e
@@ -6789,21 +6789,21 @@ ch i g a u g a u
 ch i g a y o
 ch i g e b e N g a
 ch i g e r o
-ch i g e v e n a
+ch i g e v e N a
 ch i g e v e n a
 ch i g e z a m u s o r o n e b w e
 ch i g i d i
 ch i g i d i dz a
-ch i  g i  d i  r i  g i  d i  r i
+ch i g i d i r i g i d i r i
 ch i g i y a
 ch i g o dh o
 ch i g o d o
 ch i g o d o r a
 ch i g o g o dz a
+ch i g o k a N a N g a
 ch i g o k a n a N g a
-ch i g o k a n a N g a
-ch i g o n a
-ch i g o n o
+ch i g o N a
+ch i g o N o
 ch i g o n a
 ch i g o n a m u bh a w a
 ch i g o n d e r o
@@ -6877,7 +6877,7 @@ ch i h w e N g a
 ch i h w e p u
 ch i h w e p u r a
 ch i h w e r u r e
-ch i  h w i  n d i  k w i  n d i
+ch i h w i n d i k w i n d i
 ch i h w i ts i
 ch i i
 ch i i t i r w a
@@ -6955,7 +6955,7 @@ ch i k o k o t a m u g o t i
 ch i k o m b a
 ch i k o m b o r e r o
 ch i k o m o
-ch i k o n a
+ch i k o N a
 ch i k o n a
 ch i k o n d e k o n d e
 ch i k o n d o h w e
@@ -6969,7 +6969,7 @@ ch i k o r e k o r e
 ch i k o r e k o r e
 ch i k o r e k o r e
 ch i k o r o
-ch i k o r o n o zh o
+ch i k o r o N o zh o
 ch i k o r o n o zh o
 ch i k o r o r o dz i
 ch i k o sh a
@@ -7110,10 +7110,10 @@ ch i m w a y a N g e
 ch i m w e ny i
 ch i m w e ny i
 ch i m w e ny i
-ch i n a i
-ch i n o g o r o
-ch i n o n o
-ch i n w a N g o
+ch i N a i
+ch i N o g o r o
+ch i N o n o
+ch i N w a N g o
 ch i n a
 ch i n a
 ch i n a i
@@ -7134,10 +7134,10 @@ ch i n d a u
 ch i n d a u
 ch i n d a u
 ch i n d e r e r a
-ch i  n d i  g i  n d i  g i
+ch i n d i g i n d i g i
 ch i n d i N g o v e n i
 ch i n d o e n d a w o
-ch i n d o n d o d z a
+ch i n d o n d o dz a
 ch i n d o r i
 ch i n d u n d u m a
 ch i n d u n d u m a
@@ -7201,7 +7201,7 @@ ch i ny a m u g w e nh u r e
 ch i ny a m u n j o r o r o
 ch i ny a m u r e m w a r e m w a
 ch i ny a m u t a nh a t u
-ch i n y a n d o e n d a w o
+ch i ny a n d o e n d a w o
 ch i ny a N g a dz o
 ch i ny a N g e
 ch i ny a N g u
@@ -7310,7 +7310,7 @@ ch i p i s a m a o k o
 ch i p i s i
 ch i p i s i r o
 ch i p i s o
-ch i  p i  t i  p i  t i
+ch i p i t i p i t i
 ch i p i w a
 ch i p i y a n i s o
 ch i p o
@@ -7336,7 +7336,7 @@ ch i p u r i p u r i
 ch i p u r i r o
 ch i p u t u
 ch i p u v i r a
-ch i p w a n y a n e n y a N g a
+ch i p w a ny a n e ny a N g a
 ch i p w a ny o
 ch i p w a t i
 ch i r a
@@ -7347,7 +7347,7 @@ ch i r a i r o
 ch i r a k a p i t i
 ch i r a k a r a k a
 ch i r a k a sh o
-ch i r a  m b a  k u s a  k a  r a
+ch i r a m b a k u s a k a r a
 ch i r a m b o
 ch i r a m u
 ch i r a m u k u k u t a
@@ -7573,7 +7573,7 @@ ch i t u m b u m u t e k u
 ch i t u m b u r a m b e v a
 ch i t u m b u z e n e n e
 ch i t u n d u
-ch i t u n d u m u t s e r e m u t s e r e
+ch i t u n d u m u ts e r e m u ts e r e
 ch i t u nh a
 ch i t u n z i
 ch i t u n zv i
@@ -7613,7 +7613,7 @@ ch i v e r e v e r e
 ch i v e r o
 ch i v e v e
 ch i vh a r o
-ch i  vh i  n d i  k i  t i
+ch i vh i n d i k i t i
 ch i vh u
 ch i vh u r a
 ch i vh u r a m a h w e
@@ -7625,7 +7625,7 @@ ch i v i m b o
 ch i v i n d i
 ch i v i r i k a
 ch i v i r i k i dz o
-ch i  v i  r i  v i  r i
+ch i v i r i v i r i
 ch i w a n a n o
 ch i w a n z a mh u r i
 ch i w a n z a u s a v i
@@ -7636,7 +7636,7 @@ ch i w a y a w a y a
 ch i w e p u
 ch i w i
 ch i w i r o w i r o
-c h i w o c h a w o c h a
+ch i w o ch a w o ch a
 ch i w o w o dz a
 ch i w o w o w o
 ch i y a m b i r o
@@ -7669,7 +7669,7 @@ ch i zv i
 ch i zv i zv i
 ch i zv o n d o
 ch o
-c h o c h o c h o
+ch o ch o ch o
 ch o o
 ch o o ch o o
 ch o b o r a
@@ -7747,7 +7747,7 @@ d a d a
 d a d a d a d a
 d a d a bv u
 d a d a bv u r a
-d a d a d z i k a
+d a d a dz i k a
 d a d a m a
 d a d a n u r a
 d a d a u
@@ -7779,7 +7779,7 @@ d a k u n a n zv a
 d a m a
 d a m b a
 d a m b a k u r i m w a
-d a  m b a  n a  v a  n a
+d a m b a n a v a n a
 d a m b a n e p w e r e
 d a m b e
 d a m b i
@@ -7796,15 +7796,15 @@ d a n a N g u
 d a n a N g u r a
 d a n d a
 d a n d a bv u
-d a n d a d z i
-d a n d a d z i v a
-d a n d a d z o
+d a n d a dz i
+d a n d a dz i v a
+d a n d a dz o
 d a n d a r a
 d a n d a r e
 d a n d a r o
 d a n d a r u s w a
 d a n d a u
-d a n d a u d z i
+d a n d a u dz i
 d a n d a u r a
 d a n d e
 d a n d e m u t a n d e
@@ -7825,7 +7825,7 @@ d a p i
 d a p i t a p i
 d a p u r a h u n a n zv a
 d a r a N g a n w a
-d a  r a  u s a  v a  n a
+d a r a u s a v a n a
 d a r a u s w a
 d a r e
 d a r i
@@ -7837,7 +7837,7 @@ d a r o
 d a r w a
 d a sh u
 d a sh u k a
-d a  sv a  w a  t a  sv a
+d a sv a w a t a sv a
 d a sv e m u t a sv e
 d a t a h w i n d i
 d a t a n a n a
@@ -7866,9 +7866,9 @@ d e b u k a
 d e bv a
 d e b w e
 d e d e
-d e d e d z a
+d e d e dz a
 d e d e m a
-d e d e m a d z a
+d e d e m a dz a
 d e d e m u
 d e d e nh e r a
 d e d e ny a
@@ -7912,10 +7912,10 @@ d e n d e m a
 d e n d e m a f u t a
 d e n d e m a r o
 d e n d e n d e
-d e n d e n e d z w a
+d e n d e n e dz w a
 d e n d e r a
 d e n d e r e
-d e n d e r e d z i
+d e n d e r e dz i
 d e n e N g a
 d e n e N g a r a
 d e n e N g u
@@ -7967,7 +7967,7 @@ dh a
 dh a bh a
 dh a bh u
 dh a bh u r a
-d h a b w a d h i d z a
+dh a b w a dh i dz a
 dh a ch i
 dh a ch i
 dh a ch i
@@ -7994,7 +7994,7 @@ dh a m b u k o s i
 dh a mh u
 dh a n a dh a n a
 dh a n a N g a
-d h a n d a n d a
+dh a n d a n d a
 dh a n d a r u m a
 dh a n d u r u m u
 dh a N g i
@@ -8013,7 +8013,7 @@ dh a y a f u r a m u
 dh a z e n i
 dh a z i m a t a
 dh e
-d h e d h e d z a
+dh e dh e dz a
 dh e g e
 dh e g e m u
 dh e k a
@@ -8037,12 +8037,12 @@ dh i bh a
 dh i bh e t i
 dh i bh u
 dh i dh a
-d h i d h i d h i d h i
-d h i d h i d z a
+dh i dh i dh i dh i
+dh i dh i dz a
 dh i dh o
 dh i g a
 dh i g i
-d h i g u d h i g u d h i g u
+dh i g u dh i g u dh i g u
 dh i i
 dh i i ny a
 dh i k a u z i
@@ -8053,14 +8053,14 @@ dh i m o n i
 dh i m u
 dh i n d a
 dh i n d i
-d h i n d i n d i
+dh i n d i n d i
 dh i n d i r i r i
 dh i n d i z i r i
 dh i N g u r a
 dh i nh a
 dh i ny a N g u k a
 dh i p e t i
-dh i  p i  f i  r i  z i
+dh i p i f i r i z i
 dh i r a i vh a
 dh i r a m u
 dh i r e n i
@@ -8071,7 +8071,7 @@ dh i r i h o r a
 dh i r i i
 dh i r i k a
 dh i r i m a
-dh i r i p i n i
+dh i r i p i N i
 dh i r i p i n i
 dh i r i r i
 dh i r o w a
@@ -8088,8 +8088,8 @@ dh i z i r i
 dh o
 dh o bh a
 dh o dh i bh o k i s i
-d h o d h o d h o
-d h o d h o d z a
+dh o dh o dh o
+dh o dh o dz a
 dh o dy o
 dh o g o dh e k a
 dh o g o m a
@@ -8114,14 +8114,14 @@ dh o vh o
 dh o vh o k a
 dh o vh o r a
 dh u
-d h u d h u d h u
+dh u dh u dh u
 dh u u
 dh u bv u
 dh u bv u dz a
 dh u bv u r a
 dh u dh u b w i
 dh u dh u k a
-d h u d h u m i d z a
+dh u dh u m i dz a
 dh u dy u
 dh u g u
 dh u g u k a
@@ -8139,9 +8139,9 @@ dh u n d u v e r i
 dh u N g e t u N g e
 dh u r a
 dh u r o p u
-d h u r u d h u d h u
+dh u r u dh u dh u
 dh u r u dh u r u
-d h u r u d h u d h u d z a
+dh u r u dh u dh u dz a
 dh u r u m a
 dh u r u r u
 dh u u
@@ -8153,7 +8153,7 @@ d i d i d i
 d i i
 d i b a
 d i d a
-d i d i d z a
+d i d i dz a
 d i d i ny a
 d i f a
 d i g a d i g a
@@ -8221,14 +8221,14 @@ d o b w e
 d o ch a m u t o ch a
 d o d a
 d o d o d o
-d o d o d z a
+d o d o dz a
 d o d o m e s a
 d o d o N g a
 d o d o ny a
 d o d o o
 d o d o r o d o
-d o d o r o d z a
-d o d o r o d z i
+d o d o r o dz a
+d o d o r o dz i
 d o dy o
 d o dy o r a
 d o f o
@@ -8316,7 +8316,7 @@ d u b w a n i
 d u ch e
 d u d u
 d u d u d u d u
-d u d u d z a
+d u d u dz a
 d u d u m a
 d u d u n a
 d u d u n u k a
@@ -8370,7 +8370,7 @@ d u N g i r w a
 d u N g u n u
 d u N g u n u r a
 d u N g u r i r a
-d u  N g u  r u  d u  N g u  r u
+d u N g u r u d u N g u r u
 d u N g w e
 d u N g w e r u N g w e
 d u N g w i z a
@@ -8417,7 +8417,7 @@ d w a
 d w e
 d w i
 dy a
-d y a d y a d y a
+dy a dy a dy a
 dy a r a
 dy i dz a n a
 dy i dz a n o
@@ -8435,12 +8435,12 @@ dz a
 dz a
 dz a dz a
 dz a dz a m a
-d z a d z a m b i d z a
+dz a dz a m b i dz a
 dz a dz a m b i r a
 dz a dz a N g a
 dz a dz a n u
 dz a dz a n u k a
-d z a  d z a  r a  d z a  d z a  r a
+dz a dz a r a dz a dz a r a
 dz a dz a r i k a
 dz a dz u k a
 dz a k a
@@ -8464,18 +8464,18 @@ dz a m u k a
 dz a m u r a
 dz a n a
 dz a n d e
-dz a  N g a  r a  dz a  N g a  r a
+dz a N g a r a dz a N g a r a
 dz a N g a r a dz i m u
 dz a p a t a
 dz a r u
-dz a t i t s a t i
+dz a t i ts a t i
 dz a ts a
 dz a ts a ts a
 dz a t u
 dz a t u k a
 dz a t u r a
 dz a w e
-d z e d z e d z e
+dz e dz e dz e
 dz e d u
 dz e d u r a
 dz e dz e r e r e
@@ -8483,7 +8483,7 @@ dz e m b e r e dz a
 dz e m b e r e r a
 dz e m u r a
 dz e m u r w a
-d z e n d a d z e n d a
+dz e n d a dz e n d a
 dz e n d e m u k a
 dz e n d e m u r a
 dz e N g a
@@ -8574,7 +8574,7 @@ dz o ny a
 dz o ny e r a
 dz o n z a
 dz o r a
-dz o r a n o m b e
+dz o r a N o m b e
 dz o r a n o m b e
 dz o r o
 dz o r o r o
@@ -8582,7 +8582,7 @@ dz o s a
 dz o t o
 dz o ts o
 dz u
-d z u d z u d z u
+dz u dz u dz u
 dz u b w i
 dz u dz o
 dz u dz u N g a
@@ -8629,7 +8629,7 @@ dzv e m e t e
 dzv e n e
 dzv e N g a
 dzv e t e r a
-dzv e t e t sv e t e
+dzv e t e tsv e t e
 dzv e tsv a
 dzv i
 dzv i b a
@@ -8663,7 +8663,7 @@ dzv o v a
 dzv u
 dzv u k a m u p i r i v i r i
 dzv u k e tsv u k e
-d zv u k u d e n d e
+dzv u k u d e n d e
 dzv u r a
 dzv u r u r u
 dzv u t a
@@ -8885,7 +8885,7 @@ f e f e t e r a
 f e f e t e r w a
 f e i r a
 f e j a f e j a
-f e  k e  sh e  f e  k e  sh e
+f e k e sh e f e k e sh e
 f e k e sh e k a
 f e k i t a r i
 f e k u
@@ -8980,7 +8980,7 @@ f i k i s i
 f i m b i
 f i m b i k a
 f i n d i
-f i n d i m a g o n a
+f i n d i m a g o N a
 f i n d i m a g o n a
 f i n d i m w a
 f i n d i m w a r a
@@ -9294,7 +9294,7 @@ f u r u
 f u r u bh e k i
 f u r u f u sh a
 f u r u f u t i k a
-f u  r u  f u  t u  f u  r u  f u  t u
+f u r u f u t u f u r u f u t u
 f u r u k a
 f u r u k u t a
 f u r u r a
@@ -9314,7 +9314,7 @@ f u sh i r a
 f u sh u
 f u sh u k a
 f u sh u n u
-f u  sh u  n u  f u  sh u  n u
+f u sh u n u f u sh u n u
 f u sh u n u k a
 f u sh u n u r a
 f u sh u r a
@@ -9339,7 +9339,7 @@ f u t u r a
 f u t u t a
 f u t u t i k a
 f u t u t u
-f u  t u  t u  f u  t u  t u
+f u t u t u f u t u t u
 f u ty u n u
 f u ty u n u k a
 f u ty u n u r a
@@ -9365,7 +9365,7 @@ g a g a g a
 g a a
 g a a
 g a b a
-g a  b a  d a  g a  b a  d a
+g a b a d a g a b a d a
 g a b a d i dz a
 g a b a d i k a
 g a bh a g a bh a
@@ -9383,7 +9383,7 @@ g a ch i r a
 g a d a
 g a d a g a d a
 g a d a g a
-g a  d a  g a  g a  d a  g a
+g a d a g a g a d a g a
 g a d a g a dz a
 g a d a i dz a
 g a d a i r a
@@ -9407,7 +9407,7 @@ g a dz i k a
 g a dz i k a n a
 g a dz i k a n o
 g a dz i k o
-g a dz i n i n a
+g a dz i N i n a
 g a dz i n i n a
 g a dz i r a
 g a dz i r i dz a
@@ -9467,9 +9467,9 @@ g a m b i s i r w a
 g a m b i z a
 g a m b u k a m b u
 g a m b u r a
-g a  m b u r a  a  k a  m b u r a
-g a  m b u r a  n a  k a  m b u r a
-g a  m b u r a  n d a  k a  b w a  t a
+g a m b u r a a k a m b u r a
+g a m b u r a n a k a m b u r a
+g a m b u r a n d a k a b w a t a
 g a m b w e
 g a m e r a
 g a mh a
@@ -9480,11 +9480,11 @@ g a m u
 g a m u ch i dz a
 g a m u ch i r a
 g a m u r a
+g a N a
+g a N a r a
+g a N u
 g a n a
-g a n a r a
-g a n u
-g a n a
-g a n a n a n a
+g a n a N a n a
 g a n a n a n a
 g a n a r a
 g a n a r i dz a
@@ -9550,10 +9550,10 @@ g a r a h u n d w i
 g a r a h u r o
 g a r a i p a r u k u k w e
 g a r a k a r a
-g a r a n a N g a
+g a r a N a N g a
 g a r a n a
 g a r a n a N g a
-g a  r a  n e h a  k a  t a
+g a r a n e h a k a t a
 g a r a n i
 g a r a n i
 g a r a n i
@@ -9610,7 +9610,7 @@ g e b u
 g e d a g e d a
 g e d e
 g e d e g e d e
-g e d e g e d e d z a
+g e d e g e d e dz a
 g e dh e
 g e dh e bh o i
 g e dh i
@@ -9620,9 +9620,9 @@ g e g e dz a
 g e j e
 g e j o
 g e k e ny a
+g e N a
 g e n a
-g e n a
-g e n e n e n e
+g e n e N e n e
 g e n e n e n e
 g e N g e
 g e N g e zh a
@@ -9673,7 +9673,7 @@ g o o
 g o o o
 g o b o
 g o b o d e k a
-g o  b o  d o  g o  b o  d o
+g o b o d o g o b o d o
 g o b o r a
 g o bv u
 g o ch a
@@ -9737,12 +9737,12 @@ g o m b w e
 g o m e dz e k a
 g o m e r a
 g o m o
-g o n a
-g o n o
-g o n o n o
+g o N a
+g o N o
+g o N o N o
 g o n a
 g o n a m o m b e
-g o n a n o m b e
+g o n a N o m b e
 g o n a n a
 g o n a n o m b e
 g o n d a
@@ -9771,7 +9771,7 @@ g o n j o r o
 g o n o
 g o n o dz a
 g o n o k o n o
-g o n o n o n o
+g o n o N o n o
 g o n o n o
 g o n o n o n o
 g o n o r a
@@ -9851,7 +9851,7 @@ g u bh u
 g u bh u r a
 g u b i d i
 g u b u
-g u  bv u  t u  g u  bv u  t u
+g u bv u t u g u bv u t u
 g u b w e
 g u ch a n i r a
 g u ch u
@@ -9869,7 +9869,7 @@ g u dh u u
 g u d o
 g u d u
 g u d u b i
-g u  d u  b u  g u  d u  b u
+g u d u b u g u d u b u
 g u d u b u dz a
 g u d u b u k a
 g u d u g u
@@ -10007,7 +10007,7 @@ g u nh a
 g u nh i r a
 g u n i
 g u n j e
-g u  n u  n u  g u  n u  n u
+g u n u n u g u n u n u
 g u n u n u n a
 g u n w e
 g u ny a
@@ -10050,7 +10050,7 @@ g u r u m a z e v e
 g u r u m b a
 g u r u m b i r a
 g u r u m u sv i sv i
-g u  r u  m u  sv u  sv u
+g u r u m u sv u sv u
 g u r u m w a n d i r a
 g u r u n d u n d u
 g u r u N g u n dy u
@@ -10091,7 +10091,7 @@ g u ts u r a
 g u ts u r i r a
 g u ts w a i r a
 g u t u k u t u
-g u  t u  m u  k u  t u
+g u t u m u k u t u
 g u t u m u s e v e
 g u t u r a
 g u t u v e z e
@@ -10123,7 +10123,7 @@ g u z u bh e r i
 g w a
 g w a g w a g w a
 g w a b a g w a b a
-g w a  b a  d a  g w a  b a  d a
+g w a b a d a g w a b a d a
 g w a b a d a r a
 g w a b a i r a
 g w a bh u
@@ -10144,7 +10144,7 @@ g w a d a g w a dz a
 g w a d a i r a
 g w a d a m a
 g w a d a r a
-g w a  d a  r a  g w a  d a  r a
+g w a d a r a g w a d a r a
 g w a d a r i k a
 g w a d r i k a
 g w a g w a d a
@@ -10172,7 +10172,7 @@ g w a m b a i r a
 g w a m u
 g w a m u r a
 g w a m u r a m a k w a n d e
-g w a n a n w a n a
+g w a n a N w a n a
 g w a n a n w a n a
 g w a n d a
 g w a n d e
@@ -10234,7 +10234,7 @@ g w a z a
 g w e
 g w e e
 g w e b a g w e b a
-g w e  b e  d e  g w e  b e  d e
+g w e b e d e g w e b e d e
 g w e b e d e k a
 g w e b u
 g w e b u dz a
@@ -10252,14 +10252,14 @@ g w e d e b u dz a
 g w e d e b u r a
 g w e d e m u
 g w e d e m u dz a
-g w e  d e  r e  g w e  d e  r e
+g w e d e r e g w e d e r e
 g w e d e r e dz a
 g w e d u
 g w e d u k a
 g w e d u r a
 g w e dy a
 g w e dzv a g w e dzv a
-g w e  d zv e  d e  g w e  d zv e  d e
+g w e dzv e d e g w e dzv e d e
 g w e e
 g w e g w e d u
 g w e g w e d u r a
@@ -10271,10 +10271,10 @@ g w e m a
 g w e m b e
 g w e m b e t e r a
 g w e m e
-g w e  n d e  r e  g w e  n d e  r e
+g w e n d e r e g w e n d e r e
 g w e n d e r e dz a
-g w e  n d e  r e  g w e  n d e  r e
-g w e n e n w e n e
+g w e n d e r e g w e n d e r e
+g w e n e N w e n e
 g w e n e n w e n e
 g w e N g a
 g w e N g o
@@ -10292,7 +10292,7 @@ g w e n z i
 g w e r a d e m b o
 g w e r e
 g w e r e bv u
-g w e  r e  d e  g w e  r e  d e
+g w e r e d e g w e r e d e
 g w e r e d e dz a
 g w e r e k w e r e
 g w e r e k w e t e
@@ -10381,16 +10381,16 @@ h a m b a
 h a m b a i
 h a m b a k a bv u k a
 h a m b a k a ch e r e
-h a  m b a  m a  k a  k a
+h a m b a m a k a k a
 h a m b a m w o y o
 h a m b a r a r a
 h a m b a u t a r e
-h a  m b u r a  m a  k a  k a
+h a m b u r a m a k a k a
 h a m e n o
 h a m i r a
 h a m i r o
 h a m v u r o p u
-h a n a
+h a N a
 h a n a
 h a n d a
 h a n d a i r a
@@ -10415,8 +10415,8 @@ h a n i s i
 h a n w a
 h a ny a
 h a ny a n i s i
-h a n y n a n a n i
-h a n y n a n a n i
+h a ny N a n a n i
+h a ny n a n a n i
 h a n z i
 h a n z u
 h a n zv a dz i
@@ -10463,7 +10463,7 @@ h e k a n i w a r o
 h e k e r i
 h e k i
 h e m b e
-h e n a
+h e N a
 h e n a
 h e n d e i
 h e N g e ch e pf u
@@ -10527,7 +10527,7 @@ h o m o n d o
 h o m u
 h o m u r a
 h o m w e
-h o n e r a
+h o N e r a
 h o n a
 h o n d o
 h o n d o h w e
@@ -10577,7 +10577,7 @@ h o zh w a
 h o z i
 h u h u
 h u u
-h u u n w i
+h u u N w i
 h u u r i i
 h u b e
 h u bv u
@@ -10665,7 +10665,7 @@ h w a m a n d a
 h w a m u
 h w a n a
 h w a n d a
-h w a  n d a  m a  k w a  k w a
+h w a n d a m a k w a k w a
 h w a n d i r a
 h w a N g a
 h w a N g w a dz a
@@ -10815,7 +10815,7 @@ i m o m o
 i m o m u
 i m v i
 i m w i
-i n a
+i N a
 i n a
 i n d a
 i n d a s i t i r i
@@ -10838,7 +10838,7 @@ i n j i n i
 i n j i n i y a
 i n o
 i n u r a
-i ny n o
+i ny N o
 i ny n o
 i ny o
 i n zv a
@@ -11032,7 +11032,7 @@ j i ny u r a
 j i t i
 j o k i
 j o m b o
-j o n o s i
+j o N o s i
 j o n j o r o
 j o n o s i
 j o r o ch o r o
@@ -11054,7 +11054,7 @@ k a k a k a a
 k a
 k a b a
 k a b a d a
-k a  b a  d a  k a  b a  d a
+k a b a d a k a b a d a
 k a b a d i k a
 k a b a k a b a
 k a b a N g a
@@ -11108,7 +11108,7 @@ k a d o r o N g o sh e
 k a dy a
 k a dy a i r a
 k a dz i m u
-k a dz o r a n o m b e
+k a dz o r a N o m b e
 k a dz o r a n o m b e
 k a dzv a
 k a f e r e f e r e
@@ -11126,7 +11126,7 @@ k a k a a k a
 k a k a a n u
 k a k a bv u
 k a k a bv u r a
-k a  k a  ch a  k a  k a  ch a
+k a k a ch a k a k a ch a
 k a k a ch i
 k a k a ch i r a
 k a k a ch u
@@ -11137,22 +11137,22 @@ k a k a i r a
 k a k a m a
 k a k a n u k a
 k a k a n u r a
-k a  k a  ny a  k a  k a  ny a
+k a k a ny a k a k a ny a
 k a k a ny a r a
 k a k a ny u
 k a k a ny u r a
-k a  k a  r a  k a  k a  r a
+k a k a r a k a k a r a
 k a k a r a dz a
 k a k a r a r a
 k a k a r i dz a
 k a k a r i ts a
 k a k a sh a
-k a  k a  sh a  k a  k a  sh a
+k a k a sh a k a k a sh a
 k a k a sh a r a
 k a k a sh u
 k a k a sh u r a
 k a k a t a
-k a  k a  t a  k a  k a  t a
+k a k a t a k a k a t a
 k a k a t i k a
 k a k a ty u
 k a k a ty u r a
@@ -11161,7 +11161,7 @@ k a k a u r a
 k a k a v a
 k a k a v a dz a
 k a k a v a r a
-k a  k a  y a  k a  k a  y a
+k a k a y a k a k a y a
 k a k a y i r a
 k a k i
 k a k i r i k i r i
@@ -11174,13 +11174,13 @@ k a m a
 k a m a n d i g e z e r e i
 k a m a n i
 k a m a n i s a
-k a  m a  ny a  k a  m a  ny a
+k a m a ny a k a m a ny a
 k a m a ny i k a
 k a m b a
 k a m b a i k a m b a i
 k a m b a i r a
 k a m b a n i
-k a  m b a  sh a  k a  m b a  sh a
+k a m b a sh a k a m b a sh a
 k a m b e r e m b e r e
 k a m b i r a
 k a m b i y a
@@ -11202,11 +11202,11 @@ k a m u r a
 k a m u r i
 k a m u ts a
 k a m u ts a n e d a k o
-k a n a
-k a n o t o
+k a N a
+k a N o t o
 k a n a
 k a n a i r a
-k a n a n a n a
+k a n a N a n a
 k a n a n a
 k a n a n a n a
 k a n a N g u r a
@@ -11227,7 +11227,7 @@ k a N g a i dz e
 k a N g a i r a
 k a N g a m i r i s i
 k a N g a m w a
-k a  N g a  n d a  k a  N g a  n d a
+k a N g a n d a k a N g a n d a
 k a N g a n d i k a
 k a N g a n i
 k a N g a n i k a
@@ -11238,12 +11238,12 @@ k a N g a n w i k a
 k a N g a n w i r a
 k a N g a n w i r o
 k a N g a ny a
-k a  N g a  ny a  k a  N g a  ny a
+k a N g a ny a k a N g a ny a
 k a N g a ny a r a
 k a N g a r a
 k a N g a v i
 k a N g a v i r a
-k a  N g a  y a  k a  N g a  y a
+k a N g a y a k a N g a y a
 k a nh a
 k a nh a k a nh a
 k a nh a i r a
@@ -11260,14 +11260,14 @@ k a n u k a
 k a ny a
 k a ny a k a ny a
 k a ny a i r a
-k a  ny a  m a  k a  ny a  m a
-k a n y a n a n y a
-k a n y a n a n y a
+k a ny a m a k a ny a m a
+k a ny a N a ny a
+k a ny a n a ny a
 k a ny a N g a
 k a ny a N g a dz a
 k a ny i m a m b w a
 k a ny i m i r a m u n d i r o
-k a ny n o t o
+k a ny N o t o
 k a ny n o t o
 k a ny o t o
 k a ny u
@@ -11407,7 +11407,7 @@ k a v a N g u
 k a v a N g u r a
 k a v a r i k a v a r i
 k a v a r i k a
-k a  v a  y a  k a  v a  y a
+k a v a y a k a v a y a
 k a v a y i k a
 k a v a y i r a
 k a vh a
@@ -11416,7 +11416,7 @@ k a v i
 k a v i r a
 k a v u
 k a y a y a
-k a  y a  y a  k a  y a  y a
+k a y a y a k a y a y a
 k a y a y i k a
 k a z e v e z e v e
 k a zh a
@@ -11432,7 +11432,7 @@ k e ch e
 k e ch e m u
 k e d e
 k e f a
-k e  h e  e  h e  e  h e
+k e h e e h e e h e
 k e k e
 k e k e e
 k e k e ch u
@@ -11469,10 +11469,10 @@ k i ch e n i
 k i ch i
 k i k a
 k i k i
-k i  k i  r i  k i  k i  r i
+k i k i r i k i k i r i
 k i k i r i dz a
 k i k i r i k a
-k i  k i  r i  k i  t i
+k i k i r i k i t i
 k i k i r i r i
 k i m b a r i
 k i n d i k i n d i
@@ -11482,7 +11482,7 @@ k i n d i N g u k i n d i N g u
 k i n d i ts a
 k i p a
 k i p a s i t o r o
-k i  p i  k i  p i  k i  p i
+k i p i k i p i k i p i
 k i p u k i p u
 k i r a bh u
 k i r a sh i
@@ -11518,7 +11518,7 @@ k o b i r i
 k o b o
 k o b o d e k a
 k o b o d o
-k o  b o  d o  k o  b o  d o
+k o b o d o k o b o d o
 k o b o r a
 k o bv o
 k o bv o k o bv o
@@ -11558,7 +11558,7 @@ k o dz e r o
 k o dz o k o dz o
 k o dz o N g a
 k o dz o N g e r a
-k o  dz o  N g o  k o  dz o  N g o
+k o dz o N g o k o dz o N g o
 k o f i
 k o h o m a r a
 k o h o m e dz a
@@ -11603,7 +11603,7 @@ k o m i t i
 k o m o n d a
 k o m o n i z i m o
 k o m u
-k o n a
+k o N a
 k o n a
 k o n a m a
 k o n d a
@@ -11624,7 +11624,7 @@ k o n j i
 k o n o
 k o n o bh e r a
 k o n o bh o
-k o n o n o n o
+k o n o N o n o
 k o n o n a
 k o n o n d a
 k o n o n d o
@@ -11750,7 +11750,7 @@ k u nh i dz i r a
 k u nh u
 k u n j a i r a
 k u n o
-k u n u n u n u
+k u n u N u n u
 k u n u n u n a
 k u n u n u n u
 k u ny a
@@ -11758,7 +11758,7 @@ k u ny a i r a
 k u ny a N g o v a
 k u ny a N g w e
 k u ny a s i
-k u  ny u  N g u  k u  ny u  N g u
+k u ny u N g u k u ny u N g u
 k u ny u N g u dz a
 k u n z e
 k u n z e k u n z e
@@ -11791,7 +11791,7 @@ k u s w e r a m a N g w a n a
 k u t a
 k u ts i
 k u t u
-k u  t u  k u  t u  k u  t u
+k u t u k u t u k u t u
 k u t u u
 k u t u k a
 k u t u n u
@@ -11838,9 +11838,9 @@ k w a k u k a
 k w a k u r a
 k w a k w a n u
 k w a k w a n u r a
-k w a  k w a  r a  k w a  k w a  r a
+k w a k w a r a k w a k w a r a
 k w a k w a sh a
-k w a  k w a  sh a  k w a  k w a  sh a
+k w a k w a sh a k w a k w a sh a
 k w a k w a sh a r a
 k w a k w a sh i k a
 k w a m a
@@ -11922,7 +11922,7 @@ k w e
 k w e e
 k w e b a k w e b a
 k w e b a i r a
-k w e  b e  d e  k w e  b e  d e
+k w e b e d e k w e b e d e
 k w e b e d e k a
 k w e ch e
 k w e ch e k w e ch e
@@ -11987,10 +11987,10 @@ k w i n d i dz a
 k w i n d i m a
 k w i n d i m a r a
 k w i n d i N g w i
-k w i  n d i  N g w i  k w i  n d i  N g w i
+k w i n d i N g w i k w i n d i N g w i
 k w i N g w i r i
 k w i n i
-k w i n i n w i n i
+k w i n i N w i n i
 k w i n i n w i n i
 k w i ny a
 k w i ny a k w i ny a
@@ -12044,7 +12044,7 @@ m a bv i r a z u v a
 m a bv i r i r o
 m a bv i r o
 m a bv u ch e
-m a bv u m a m h o sv a
+m a bv u m a mh o sv a
 m a bv u m a m u r a n d u
 m a bv u m i r a
 m a bv u m i r a h u u r a
@@ -12053,9 +12053,9 @@ m a bv u r e
 m a bv u u r u r o
 m a b w a zh a m u r e
 m a b w e r e t e t e
-m a c h a c h a c h a
+m a ch a ch a ch a
 m a ch a f a
-m a  ch a  k a  ch a  k a
+m a ch a k a ch a k a
 m a ch a k a t a
 m a ch a k w i
 m a ch a n j a
@@ -12079,9 +12079,9 @@ m a d e m b e t e dz o
 m a d e n d e r e
 m a d e t e m b e dz o
 m a d e u k a z u v a
-m a  dh a  m b i t a  n a  n a
+m a dh a m b i t a n a n a
 m a dh e g e m u r e
-m a d h o d h o d h o
+m a dh o dh o dh o
 m a dh u n a m u t u n a
 m a d i m b u
 m a d i r a n o
@@ -12098,7 +12098,7 @@ m a d u r u N g u n d u
 m a dy a N g w e
 m a dy o
 m a dz a n a m b w a
-m a  dz a  n a  m b w a  n a  n a
+m a dz a n a m b w a n a n a
 m a dz a ts a ts a
 m a dz e N g e r e
 m a dz e r e r e
@@ -12115,11 +12115,11 @@ m a dz o k o
 m a e dz e r a
 m a e n z a
 m a e r e r a n o
-m a  f a  dz a  h a  n z v a  dz i
+m a f a dz a h a n zv a dz i
 m a f a k i
 m a f a r a r i r a
 m a f a r o
-m a  f a  sh a  f a  sh a
+m a f a sh a f a sh a
 m a f a sh u f a sh u
 m a f e m o
 m a f i
@@ -12143,18 +12143,18 @@ m a f u sh u n u r e
 m a f u t a
 m a f u t a e N g o s i
 m a g a d a
-m a  g a  dz a  nh a  k a
+m a g a dz a nh a k a
 m a g a dz i r a ny i k a
 m a g a m u ch i dz a n w a
 m a g a N g a i dz e
 m a g a n zv o
 m a g a r a m w o y o
-m a  g a  r a  nh a  k a
+m a g a r a nh a k a
 m a g a r i r o
 m a g a r o
 m a g a zh u r w a
 m a g a z i n i
-m a g e n a
+m a g e N a
 m a g e n a
 m a g e ts i
 m a g i r a z i
@@ -12175,7 +12175,7 @@ m a h a p a
 m a h a r a
 m a h e u
 m a h o h o h o
-m a h o n e r a
+m a h o N e r a
 m a h o n e r a
 m a h u m b w e
 m a h w e k w e
@@ -12194,7 +12194,7 @@ m a j a r i n i
 m a j e n i
 m a j i
 m a k a
-m a  k a  k a  t a  n w a
+m a k a k a t a n w a
 m a k a k o
 m a k a n d i n z w a n a n i
 m a k a n i k a
@@ -12243,10 +12243,10 @@ m a m i n i m i n i
 m a m i r i r o
 m a m u t i n d i
 m a m u ts a m w o y o
-m a  m v a  r a  ny a  ny a
+m a m v a r a ny a ny a
 m a m v u r a
 m a m v u r i
-m a n a n a
+m a N a N a
 m a n a
 m a n a i n a i
 m a n a n a
@@ -12271,9 +12271,9 @@ m a N g o i
 m a N g o n d o
 m a N g o r o m e r a
 m a N g w a n a
-m a  N g w a  n a  N g w a  n a
+m a N g w a n a N g w a n a
 m a N g w a n a n i
-m a  N g w a  n j a  N g w a  n j a
+m a N g w a n j a N g w a n j a
 m a N g w a n u dy a
 m a nh e d e
 m a nh e dz w a
@@ -12296,7 +12296,7 @@ m a n u n u r e
 m a ny a r o
 m a ny a t e r a
 m a ny a u ny a u
-m a  ny a  u ts a  m u k a  n w a
+m a ny a u ts a m u k a n w a
 m a ny a v i r i
 m a ny a w i
 m a ny e m w e
@@ -12380,7 +12380,7 @@ m a s a i r i r a
 m a s a i s a i
 m a s a k a dz w a
 m a s a m b a
-m a  s a  m b a  a  s i y a  n a
+m a s a m b a a s i y a n a
 m a s a N g a
 m a s a N g a n i s w a
 m a s a s i r a p w e r e
@@ -12391,7 +12391,7 @@ m a s e s e
 m a s e ts w a
 m a sh a k a d a
 m a sh a m b a n z o u
-m a  sh a  N g u r a  p a  t a
+m a sh a N g u r a p a t a
 m a sh a zh a r e
 m a sh e
 m a sh i r i
@@ -12417,10 +12417,10 @@ m a sv u sv u
 m a t a
 m a t a dz a
 m a t a f a n i r w a
-m a  t a  k a  dy a  k a  r e
-m a  t a  k a  n a  n a
+m a t a k a dy a k a r e
+m a t a k a n a n a
 m a t a k a n u r e
-m a  t a  k a  ny a  dz a  n a
+m a t a k a ny a dz a n a
 m a t a n d a m a ny o r o
 m a t a n d a ny a dz i
 m a t a nh o
@@ -12545,7 +12545,7 @@ m b e m b e e
 m b e m b e e
 m b e n d e
 m b e n e m b e
-m b e  n e  n e  m b e  n e  n e
+m b e n e n e m b e n e n e
 m b e N g e
 m b e N g o
 m b e r e k o
@@ -12713,14 +12713,14 @@ mh a ny a
 mh a n z a
 mh a p a
 mh a r a
-mh a  r a  dz a  m u s a  s a
+mh a r a dz a m u s a s a
 mh a r a dz a n o
 mh a r a dz a v a g e r e
 mh a r a dz i
 mh a r a dz o
 mh a r a k u t a
 mh a r a p a r a
-mh a r a p a t s e t s e t s e
+mh a r a p a ts e ts e ts e
 mh a r a r a n o
 mh a r a u r o
 mh a r e
@@ -12738,13 +12738,13 @@ mh e dz i s i r o
 mh e m b e r e
 mh e m b w a n a
 mh e m b w e
-m h e m h a m h e m h a
+mh e mh a mh e mh a
 mh e mh a i r a
 mh e n d e r e k e dz o
 mh e n d e r o
 mh e n e
 mh e n e N g e r o
-m h e N g e r a m u m b a
+mh e N g e r a m u m b a
 mh e n i
 mh e ny u
 mh e p o
@@ -12760,7 +12760,7 @@ mh e s e r o
 mh e sv a m u k o n o
 mh e sv i
 mh e t a
-m h e t a m a k u m b o
+mh e t a m a k u m b o
 mh e t e
 mh e t e r w a
 mh e t u r a
@@ -12789,9 +12789,9 @@ mh i N g e p i N g e
 mh i N g o
 mh i n i
 mh i n o
-m h i n z a m u m b a
+mh i n z a m u m b a
 mh i n z o
-m h i r a m i dz i m u
+mh i r a m i dz i m u
 mh i r i
 mh i r i b i d i
 mh i r i m o
@@ -12960,7 +12960,7 @@ m u b i ny i
 m u b i y a N g u
 m u b o b o
 m u b o b o b o
-m u b o  n d o  r o  k o  t o
+m u b o n d o r o k o t o
 m u b o o r a
 m u b o zh i
 m u b u r a
@@ -13021,12 +13021,12 @@ m u d a p a k a t i
 m u d e m e m u d e m e
 m u d e t e m b e dz i
 m u d e t e m b i
-m u d h a d h a d h a
+m u dh a dh a dh a
 m u dh a n d a
 m u dh a r a
 m u dh e bh e
 m u dh e f u dh e f u
-m u dh e n a
+m u dh e N a
 m u dh e n a
 m u dh e n d e
 m u dh i bh i s i
@@ -13036,9 +13036,9 @@ m u dh o m b o
 m u dh o r i
 m u dh o r o dh o r o
 m u dh o r o f i y o
-m u d h u d h u d h u
+m u dh u dh u dh u
 m u dh u m e n i
-m u  dh u  n d u  z u  r u
+m u dh u n d u z u r u
 m u dh u r i
 m u d i d o
 m u d i k a n w i
@@ -13061,7 +13061,7 @@ m u dy a h u k u
 m u dy a k u w e
 m u dy a m b u dz i
 m u dy a mh a r a
-m u dy a m h e m b w e
+m u dy a mh e m b w e
 m u dy a mh o f u
 m u dy a mh u N g u
 m u dy a n d i g e r e
@@ -13133,15 +13133,15 @@ m u f u dz i
 m u f u k u
 m u f u n d i
 m u f u n d i s i
-m u f u r a m h e m b w e
+m u f u r a mh e m b w e
 m u f u sh w a
 m u f u t a
 m u g a k a
-m u g a n a ch a
+m u g a N a ch a
 m u g a n a ch a
 m u g a nh u
 m u g a r a
-m u g a  r a  dz a  k a  s u N g w a
+m u g a r a dz a k a s u N g w a
 m u g a r a g u N g u o
 m u g a r a h o r w e
 m u g a r a m b i N g a
@@ -13211,7 +13211,7 @@ m u j u r u
 m u k a
 m u k a dh e t i
 m u k a dz i
-m u k a dz i n i n a
+m u k a dz i N i n a
 m u k a dz i n i n a
 m u k a dz i u s a e n d e
 m u k a h a
@@ -13266,7 +13266,7 @@ m u k u r u N g a i
 m u k u t e
 m u k u w a sh a
 m u k u w a sh a ny i n a
-m u  k u  w a sh a z u  k u  r u
+m u k u w a sh a z u k u r u
 m u k u y a d e nh e
 m u k u y u
 m u k u z e
@@ -13342,10 +13342,10 @@ m u nh u n d u r w a
 m u nh u N g u r u
 m u nh u r u k a
 m u nh u r u m e
-m u n i n i n a
+m u n i N i n a
 m u n i n i n a
 m u n o N g e dz o
-m u n u n u n a
+m u n u N u n a
 m u n u N g u
 m u n u n u dz i
 m u n u n u n a
@@ -13450,7 +13450,7 @@ m u p i r i k i r i
 m u p i r o
 m u p i r u ts i
 m u p o k i
-m u p o n o r o
+m u p o N o r o
 m u p o n e s i
 m u p o n o
 m u p o n o r o
@@ -13478,7 +13478,7 @@ m u r a i r i dz i
 m u r a k a t i r a
 m u r a k w a n i
 m u r a m b a
-m u r a m b a m h u r u
+m u r a m b a mh u r u
 m u r a m b a tsv i n a
 m u r a m u
 m u r a n d a
@@ -13613,7 +13613,7 @@ m u sh a m a r a r i
 m u sh a m b a
 m u sh a m b a dz i
 m u sh a m b a n e g o r e
-m u sh a  m b a  r i ch a  k w a  t a
+m u sh a m b a r i ch a k w a t a
 m u sh a m b a r o p a
 m u sh a m b i r a
 m u sh a m b w e
@@ -13715,13 +13715,13 @@ m u s u k a m e n o
 m u s u k i w e m a t e h w e
 m u s u m b u
 m u s u m b u n u k o
-m u  s u  m b u  r u  m b u
+m u s u m b u r u m b u
 m u s u m i
 m u s u m o
 m u s u m u dz o
 m u s u N g a h u r o
 m u s u N g o
-m u  s u  N g u  s u  N g u
+m u s u N g u s u N g u
 m u s u N g w a
 m u s u n z i
 m u s u o
@@ -13862,7 +13862,7 @@ m u ts a m v i
 m u ts a m v i ny a n a
 m u ts a r a
 m u ts a ts a k u ny a
-m u t s a t s a t i
+m u ts a ts a t i
 m u ts a u k a n o
 m u ts a u k o
 m u ts e r e n d e n d e
@@ -13891,7 +13891,7 @@ m u tsv a i r o
 m u tsv a n d i m i r e
 m u tsv a n zv a
 m u tsv a w e ts a m b o
-m u t sv o r i t sv o t o
+m u tsv o r i tsv o t o
 m u ts w a ts w a
 m u ts w i
 m u ts w i r i
@@ -13955,7 +13955,7 @@ m u vh u n a m b e z o
 m u vh u r o
 m u vh u r o
 m u vh u r o
-m u  vh u  r u  vh u  r u
+m u vh u r u vh u r u
 m u vh u vh u r a
 m u v i
 m u v i r i
@@ -14016,7 +14016,7 @@ m v e N g e m v e N g e
 m v e n j e
 m v e ny a
 m v e ny a m v e ny a
-m v e ny n a
+m v e ny N a
 m v e ny n a
 m v e r e
 m v e y a
@@ -14131,28 +14131,28 @@ m w o y o ch e n a
 m w o y o sv i b a
 m w o y o t e m a
 n
-n
-n a
-n a n a n a
-n a b u
-n a i
-n a n a
-n a n a u
-n a N g a
-n a N g a u r e
-n a N g a u r e u r e
-n a n y a n a n y a
-n a ny u
-n a r u
-n a u
-n a zh u
-n e e
-n e n e d u
-n e n e n u
-n o n o
-n o n o n o
-n w i i
-n w i r o
+N
+N a
+N a N a N a
+N a b u
+N a i
+N a N a
+N a N a u
+N a N g a
+N a N g a u r e
+N a N g a u r e u r e
+N a ny a N a ny a
+N a ny u
+N a r u
+N a u
+N a zh u
+N e e
+N e N e d u
+N e N e n u
+N o n o
+N o n o n o
+N w i i
+N w i r o
 n a
 n a n a n a
 n a
@@ -14186,8 +14186,8 @@ n a m e
 n a m o
 n a m u
 n a m u k a
-n a n a n a n a
-n a n a n u
+n a N a n a N a
+n a N a n u
 n a n a
 n a n a i n a n a i
 n a n a i dz a
@@ -14199,7 +14199,7 @@ n a n a n u r a
 n a n a u
 n a n a u k a
 n a n a u r a
-n a  n a  v a  n a  n a  v a
+n a n a v a n a n a v a
 n a n a v a dz a
 n a n a v a r a
 n a n a v i
@@ -14228,7 +14228,7 @@ n a n i k a
 n a n i s i r a
 n a n u
 n a n u r a
-n a n y a n a n y a
+n a ny a n a ny a
 n a ny a i r a
 n a ny u
 n a ny u r a
@@ -14271,12 +14271,12 @@ n d a n d a m a
 n d a n d a n d a
 n d a n d e
 n d a n d i
-n d a n d i d z a
+n d a n d i dz a
 n d a n d i r a
 n d a N g a
 n d a N g a n d i r a
 n d a N g a r i r o
-n d a n y a n d a n y a
+n d a ny a n d a ny a
 n d a ny a i r a
 n d a ny a i r w a
 n d a n z u r a
@@ -14309,8 +14309,8 @@ n d e k e
 n d e k e d e
 n d e m o
 n d e n d e n d e
-n d e  n d e  r e  n d e  n d e  r e
-n d e n d e r e d z a
+n d e n d e r e n d e n d e r e
+n d e n d e r e dz a
 n d e n d e r e r e
 n d e n e n e
 n d e n e n e k a
@@ -14334,15 +14334,15 @@ n d e v o
 n d e y a
 n d i
 n d i
-n d i bv i n y n e
-n d i bv i n y n e
+n d i bv i ny N e
+n d i bv i ny n e
 n d i bv i r e
 n d i k a
 n d i k i
 n d i k i dz a
 n d i k i ny a
 n d i k i ny i dz a
-n d i  k i  sh i  n d i  k i  sh i
+n d i k i sh i n d i k i sh i
 n d i k i sh w a
 n d i k o
 n d i k u s i
@@ -14357,7 +14357,7 @@ n d i n d e
 n d i n d i n d i
 n d i n d o o
 n d i n d o o
-n d i N g i n d i d z a
+n d i N g i n d i dz a
 n d i N g i n d i r a
 n d i N g i r i r o
 n d i N g o v e n i
@@ -14386,7 +14386,7 @@ n d o m w i r a
 n d o n d a
 n d o n d o
 n d o n d o o n d o
-n d o n d o d z a
+n d o n d o dz a
 n d o n d o n d o
 n d o n d o o n d o
 n d o N g a
@@ -14430,8 +14430,8 @@ n d u n d u
 n d u n d u m a
 n d u n d u m w a
 n d u n d u m w a r a
-n d u  n d u  r u  n d u  n d u  r u
-n d u n d u r u d z a
+n d u n d u r u n d u n d u r u
+n d u n d u r u dz a
 n d u N g u r i r a
 n d u N g u z a
 n d u n i
@@ -14467,8 +14467,8 @@ n d w i dz a
 n d w i s e
 n d w i y o
 n d w i z i
-n d y a n d y a n d y a n d y a
-n d y a n d y a d z a
+n dy a n dy a n dy a n dy a
+n dy a n dy a dz a
 n dy a N g a
 n dy a r a r a
 n dy a r a r i dz a
@@ -14479,9 +14479,9 @@ n dy e
 n dy i r e
 n dy i r e n dy i r e
 n dy o
-n d y u n d y u n d y u
+n dy u n dy u n dy u
 n dy u n dy u
-n d y u n d y u d z a
+n dy u n dy u dz a
 n dy u n dy u t a
 n dy w a v a v a
 n e
@@ -14572,7 +14572,7 @@ N g a n d u k a
 N g a n d u r e
 N g a n d u ts a
 N g a N g a
-N g a  N g a  n d a  N g a  N g a  n d a
+N g a N g a n d a N g a N g a n d a
 N g a N g a n d a r a
 N g a N g a N g a
 N g a N g i r a
@@ -14623,7 +14623,7 @@ N g i n d i N g i n d i
 N g i N g i dz a
 N g i N g i s a
 N g i r i N g i r i
-N g i  r i  r i  N g i  r i  r i
+N g i r i r i N g i r i r i
 N g i r i r i dz a
 N g i r o z i
 N g o
@@ -14690,7 +14690,7 @@ N g u r u m a
 N g u r u N g u n d u
 N g u r u n u r a
 N g u r u r u
-N g u  r u  r u  N g u  r u  r u
+N g u r u r u N g u r u r u
 N g u r u r u dz a
 N g u r u sh a
 N g u r u v e
@@ -14793,9 +14793,9 @@ nh a m o
 nh a m u
 nh a m u r a
 nh a n d a
-n h a n d a n d a
-n h a n d a n y a r w a
-n h a n d a n y i
+nh a n d a n d a
+nh a n d a ny a r w a
+nh a n d a ny i
 nh a n d a r e
 nh a n d i
 nh a n d o
@@ -14861,26 +14861,26 @@ nh e m o
 nh e m u r w a
 nh e n a
 nh e n d a
-n h e n d a m u r a n d u
+nh e n d a m u r a n d u
 nh e n d e r e k e dz i
 nh e n d e r e k w a
 nh e n d e sh u r e
 nh e n d e s u r e
 nh e n d o
-n h e n dy a n a
+nh e n dy a n a
 nh e N g a
 nh e N g a nh e N g a
 nh e N g e n i
-n h e N g e n y n a
-n h e N g e n y n a
+nh e N g e ny N a
+nh e N g e ny n a
 nh e N g o
 nh e N g u r e
 nh e N g w a n a
-n h e n h a n h e n h a
+nh e nh a nh e nh a
 nh e nh a i dz a
 nh e nh i
-n h e n j a n a
-n h e n zv a n a
+nh e n j a n a
+nh e n zv a n a
 nh e pf e ny u r o
 nh e pf u t e pf u
 nh e p u t e p u
@@ -14899,7 +14899,7 @@ nh e t e n e r w a
 nh e t e r e r o
 nh e ts a m e s o
 nh e ts e r w a
-nh e t s u t e t s u
+nh e ts u t e ts u
 nh e ts w a
 nh e v a m a
 nh e v a n a
@@ -14914,7 +14914,7 @@ nh e v e r a v a u y a
 nh e y a
 nh e y o
 nh i
-n h i n h i n h i
+nh i nh i nh i
 nh i bv i t i bv i
 nh i dz a
 nh i k a
@@ -14944,7 +14944,7 @@ nh i N g u dz i
 nh i nh e
 nh i nh i
 nh i nh i dz a
-n h i n h i n h i
+nh i nh i nh i
 nh i nh i v a dz a
 nh i p a
 nh i r e
@@ -14989,12 +14989,12 @@ nh o nh a m u t o
 nh o nh o
 nh o nh o o
 nh o nh o N g o r a
-n h o n h o n h o
+nh o nh o nh o
 nh o nh o o
 nh o nh o r a
 nh o nh o r o dz i
 nh o nh o t a
-n h o n h o w a n h o n h o w a
+nh o nh o w a nh o nh o w a
 nh o n j e
 nh o o
 nh o p e
@@ -15040,12 +15040,12 @@ nh u m b u r o
 nh u m e
 nh u m w a
 nh u n a
-n h u n d e t u n d e
+nh u n d e t u n d e
 nh u n d i r a m u ts i m e
-n h u n d i r a n a
+nh u n d i r a n a
 nh u n d u
 nh u n d u m u t u r e
-n h u n d u n d u
+nh u n d u n d u
 nh u n d u r o
 nh u n d u r u
 nh u n d u r u k i
@@ -15071,7 +15071,7 @@ nh u nh u v a r a
 nh u n j i
 nh u n z i
 nh u n z i m a t u zv i
-n h u n zv a t u n zv a
+nh u n zv a t u n zv a
 nh u n zv i
 nh u r a
 nh u r e t u r e
@@ -15160,7 +15160,7 @@ n j a n j a r i k a
 n j a n j e n j a n j e
 n j a n j i
 n j a r a
-n j a  r a  r a  n j a  r a  r a
+n j a r a r a n j a r a r a
 n j a r a r i k a
 n j a r i
 n j a u r a
@@ -15210,7 +15210,7 @@ n j i k e
 n j i k e n j i k e
 n j i m u
 n j i m u r a
-n j i n a
+n j i N a
 n j i n a
 n j i N g a
 n j i n j i m o N g a
@@ -15314,7 +15314,7 @@ ny a b a dz a
 ny a b w a ny a b w a
 ny a b w a i r a
 ny a ch a
-ny a  ch a  r a  ny a  ch a  r a
+ny a ch a r a ny a ch a r a
 ny a ch a r i k a
 ny a ch i d e
 ny a d a
@@ -15354,7 +15354,7 @@ ny a k a p i
 ny a k a sh e ch e
 ny a k a s i y a n a
 ny a k a t a
-ny a  k a  t a  ny a  k a  t a
+ny a k a t a ny a k a t a
 ny a k a t i dz a
 ny a k a t o n j e
 ny a k a tsv i p a
@@ -15420,7 +15420,7 @@ ny a m u p i d i g o r i
 ny a m u p u ts a h a r i
 ny a m u s e N g a
 ny a m u s i
-n y a m u ts u n h e ts u n h e
+ny a m u ts u nh e ts u nh e
 ny a m u t u mh a
 ny a m u t u t a
 ny a m w a k a
@@ -15428,15 +15428,15 @@ ny a m w a s i
 ny a m w i
 ny a m w i dz a
 ny a n a
-n y a n a n y a
-n y a n a n y u r a
-n y a n d a n u dz a
-n y a n d a n u k a
-n y a n d a n u r a
-n y a n d a n u ts a
+ny a n a ny a
+ny a n a ny u r a
+ny a n d a n u dz a
+ny a n d a n u k a
+ny a n d a n u r a
+ny a n d a n u ts a
 ny a n d o r a
 ny a n d u
-n y a n d u n y a n d u
+ny a n d u ny a n d u
 ny a n d u dz a
 ny a n d u k a
 ny a n d u r a
@@ -15545,12 +15545,12 @@ ny e n j e r e
 ny e n u
 ny e ny e
 ny e ny e dz i
-n y e n y e n y e
+ny e ny e ny e
 ny e ny e r e dz a
 ny e ny e u
 ny e ny e u r a
 ny e ny u
-n y e n y u n y e n y u
+ny e ny u ny e ny u
 ny e ny u r a
 ny e n z e
 ny e p a
@@ -15601,18 +15601,18 @@ ny i k a m u t o m e
 ny i k u k a
 ny i k u r a
 ny i m a
-ny i  m b i  r i  ny i  m b i  r i
+ny i m b i r i ny i m b i r i
 ny i m i ny a
 ny i m i ny i m i
 ny i m o
 ny i m w a n a
-n y i n i n y a
+ny i N i ny a
 ny i n a m o m b e
 ny i n d a
 ny i n d i
 ny i n i
-n y i n i n y a
-n y i n i n y i r a
+ny i n i ny a
+ny i n i ny i r a
 ny i n u
 ny i n u r a
 ny i ny i r i dz a
@@ -15621,12 +15621,12 @@ ny i r a
 ny i r i ny i r i
 ny i r i ny i t a
 ny i s a
-ny n a
-n y n a n a
-ny n u r u d u d u
+ny N a
+ny N a n a
+ny N u r u d u d u
 ny n a
 ny n a b u r a
-n y n a n a
+ny n a n a
 ny n u r u d u d u
 ny o b i ny o b i
 ny o b i k a
@@ -15907,7 +15907,7 @@ p a n o
 p a ny a N g u
 p a ny a N g u r a
 p a ny a r a r a
-p a ny n o
+p a ny N o
 p a ny n o
 p a ny o
 p a n z a
@@ -15916,11 +15916,11 @@ p a p a p a p a
 p a p a m a
 p a p a ny a
 p a p a ny a r a
-p a  p a  r a  p a  p a  r a
+p a p a r a p a p a r a
 p a p a r i k a
 p a p a t a
 p a p a t i s a
-p a p f u p i
+p a pf u p i
 p a p i r o
 p a r a
 p a r a ch u t i
@@ -16005,7 +16005,7 @@ p e n zv a
 p e p a
 p e p a nh a u
 p e p e r e
-p e  p e  r e  p e  p e  r e
+p e p e r e p e p e r e
 p e p e r e dz a
 p e p e r e r e
 p e p e sh a
@@ -16048,7 +16048,7 @@ pf a pf a
 pf a ch a
 pf a ch a i dz a
 pf a ch a N g u k a
-pf a  ch a  r a  pf a  ch a  r a
+pf a ch a r a pf a ch a r a
 pf a ch u
 pf a ch u k a
 pf a k a ny a
@@ -16077,7 +16077,7 @@ pf a v i
 pf a z u
 pf e
 pf e k a
-pf e  k e  ch e  pf e  k e  ch e
+pf e k e ch e pf e k e ch e
 pf e k e n u r a
 pf e k e ny e dz a
 pf e m b a
@@ -16092,7 +16092,7 @@ pf e t e n u r a
 pf e ts e
 pf e ts u
 pf i pf i
-pf i  ch i  r i  pf i  ch i  r i
+pf i ch i r i pf i ch i r i
 pf i ch i r i k a
 pf i ch u
 pf i ch u k a
@@ -16126,7 +16126,7 @@ pf i z u
 pf i z u dz a
 pf i z u r a
 pf o
-p f o p f o p f o
+pf o pf o pf o
 pf o ch a n i s a
 pf o ch e
 pf o ch o
@@ -16189,7 +16189,7 @@ pf u h w i dz a
 pf u h w i r a
 pf u k a
 pf u k o
-pf u  k u  ch u  pf u  k u  ch u
+pf u k u ch u pf u k u ch u
 pf u k u ch u dz a
 pf u k u ch u k a
 pf u k u dz a
@@ -16285,9 +16285,9 @@ pf u pf u m i r a
 pf u pf u m u r a
 pf u pf u ny a r a
 pf u pf u ny u k a
-p f u p f u r i p f u p f u r i
+pf u pf u r i pf u pf u r i
 pf u pf u r i dz a
-p f u  p f u  r u  p f u  p f u  r u
+pf u pf u r u pf u pf u r u
 pf u pf u r u k a
 pf u p i
 pf u p i k a
@@ -16387,7 +16387,7 @@ p i n d i m b a
 p i n d i m b i
 p i n d i r a
 p i n d i r a n a
-p i  n d i  r i  k i  t i
+p i n d i r i k i t i
 p i n d u
 p i n d u dz a
 p i n d u k a
@@ -16434,7 +16434,7 @@ p i p i
 p i p i dz a
 p i p i dz u
 p i p i k a
-p i  p i  r i  p i  p i  r i
+p i p i r i p i p i r i
 p i p i r i ts a
 p i p i t a
 p i p i t i
@@ -16457,7 +16457,7 @@ p i r i N g i d o
 p i r i N g i n d i
 p i r i p i sh a
 p i r i p i t i
-p i  r i  p i  t i  p i  r i  p i  t i
+p i r i p i t i p i r i p i t i
 p i r i p i t i k a
 p i r i ts i
 p i r i v a
@@ -16637,7 +16637,7 @@ r a k e t i
 r a k i
 r a k i dz a
 r a m b a
-r a m b a ny n u
+r a m b a ny N u
 r a m b a ny n u
 r a m b a ny n u k a
 r a m b i
@@ -16737,7 +16737,7 @@ r e N g e
 r e N g e ny a
 r e N g w a
 r e N g w a r e N g w a
-r e  N g w e  n d e  r e  N g w e  n d e
+r e N g w e n d e r e N g w e n d e
 r e N g w e z e
 r e n i k o t i
 r e n j e
@@ -16948,7 +16948,7 @@ r u k u vh u t e
 r u k w a
 r u k w e z a
 r u m a
-r u m a n o m b e
+r u m a N o m b e
 r u m a n o
 r u m a n o m b e
 r u m b a
@@ -17246,7 +17246,7 @@ s a r a a r a
 s a r a a r a
 s a r a dh i
 s a r a m u s i
-s a  r a  p a  v a  n a
+s a r a p a v a n a
 s a r a vh i sh o n i
 s a r a vh i sh o n i
 s a r e
@@ -17369,7 +17369,7 @@ sh a m b a
 sh a m b a dz a
 sh a m b a k o dz i
 sh a m b a r e
-sh a  m b a  r i ch a  k w a  t a
+sh a m b a r i ch a k w a t a
 sh a m b a w a m e dz a
 sh a m b i dz a
 sh a m b i dz i k a
@@ -17484,7 +17484,7 @@ sh i r i r a
 sh i sh a
 sh i sh i
 sh i sh i m w a
-s h i s h i s h i
+sh i sh i sh i
 sh i sh i t a r a
 sh i sh i v a
 sh i sh i v a r a
@@ -17577,7 +17577,7 @@ sh u r i k i r a
 sh u r i r e
 sh u r o
 sh u r o d a n d a
-sh u r o n o m b e
+sh u r o N o m b e
 sh u r o n o m b e
 sh u r u r u dz a
 sh u r u sh u r u
@@ -17592,10 +17592,10 @@ sh u v a
 sh u w a
 sh u w i sh u w i
 sh u zh a
-s h w a s h w a s h w a
+sh w a sh w a sh w a
 sh w a d a g u r a
 sh w a k a t a
-sh w a  k a  t a  sh w a  k a  t a
+sh w a k a t a sh w a k a t a
 sh w a k a t i k a
 sh w a ny u r a
 sh w a p e
@@ -17818,7 +17818,7 @@ s u n u N g u k a
 s u n u N g u r a
 s u n u n i k w a
 s u n u n u
-s u  n u  n u  s u  n u  n u
+s u n u n u s u n u n u
 s u n u r a
 s u ny a
 s u ny a i r a
@@ -17977,7 +17977,7 @@ sv u sv u
 sv u sv u dz a
 sv u sv u dz i r a
 sv u sv u mh i r a
-s v u s v u m i s a
+sv u sv u m i s a
 sv u sv u r a
 sv u t a
 sv u t u g a dz i k e
@@ -18165,15 +18165,15 @@ t a t a
 t a t a bv u
 t a t a m u k a
 t a t a m u r a
-t a  t a  n a  t a  t a  n a
+t a t a n a t a t a n a
 t a t a n i k a
 t a t a ny a r a
 t a t a p u r a
-t a  t a  r a  t a  t a  r a
+t a t a r a t a t a r a
 t a t a r a r a
 t a t a r i k a
 t a t a t a
-t a  t a  v a  t a  t a  v a
+t a t a v a t a t a v a
 t a t a z u k a
 t a t e e
 t a t e e
@@ -18183,7 +18183,7 @@ t a ts u r a
 t a t u
 t a t u k a
 t a t u r a
-t a t u t s a
+t a t u ts a
 t a ty a
 t a u t a u
 t a u dz a
@@ -18236,7 +18236,7 @@ t e k e d u
 t e k e dz a
 t e k e dz a r a
 t e k e ny a
-t e  k e  ny e  t e  k e  ny e
+t e k e ny e t e k e ny e
 t e k e ny e dz a
 t e k e r e k a
 t e k e r e r a
@@ -18394,7 +18394,7 @@ t i k i t i k i
 t i k i bv u
 t i k i d a
 t i k i dz a
-t i  k i  sh i  t i  k i  sh i
+t i k i sh i t i k i sh i
 t i k i sh i k a
 t i k i sh u dz a
 t i k i t i
@@ -18416,7 +18416,7 @@ t i n d i n d i
 t i n d i n d i k a
 t i n d i ny a r a
 t i n d i r i k a
-t i  n d i  r i  k i  sh i
+t i n d i r i k i sh i
 t i n d i v a dz a
 t i n d i v a r a
 t i n d i z a
@@ -18550,7 +18550,7 @@ ts i N g a
 ts i N g a n o
 ts i nh a n a
 ts i nh i r a
-ts i n i n i n i
+ts i n i N i n i
 ts i n i n i n a
 ts i n i n i n i
 ts i ny e
@@ -18613,7 +18613,7 @@ ts o ts i
 ts o ts o
 ts o ts o ny a
 ts o ts o ny o
-t s o t s o t a
+ts o ts o t a
 ts u bv u
 ts u d u g u
 ts u d u g u r a
@@ -18656,9 +18656,9 @@ ts u r u n d u n d i r a
 ts u r u n d u n d u
 ts u r w e
 ts u ts u m w a
-t s u t s u t a
-t s u t s u t i dz a
-t s u t s u t i r a
+ts u ts u t a
+ts u ts u t i dz a
+ts u ts u t i r a
 ts u w a
 tsv a
 tsv a a
@@ -18683,7 +18683,7 @@ tsv a r a
 tsv a r a k a d e N g a
 tsv a r a N g i dz a
 tsv a r a p a s i
-t sv a r a t sv a t a
+tsv a r a tsv a t a
 tsv a r u
 tsv a t a
 tsv a t i dz a
@@ -18720,7 +18720,7 @@ tsv e t e
 tsv e t e r a
 tsv e tsv a
 tsv e tsv e r e r e
-t s v e t s v e y a t s v e t s v e y a
+tsv e tsv e y a tsv e tsv e y a
 tsv e tsv e y a r a
 tsv e t u
 tsv e t u dz a
@@ -18761,14 +18761,14 @@ tsv i t u
 tsv i t u k a
 tsv i y o
 tsv o
-t s v o t s v o t s v o
+tsv o tsv o tsv o
 tsv o o
 tsv o d a
 tsv o d o
 tsv o m a
 tsv o N g o r o
 tsv o o
-t sv o r i t sv o t o
+tsv o r i tsv o t o
 tsv o r o r o
 tsv o r o r o dz a
 tsv o t i
@@ -18777,7 +18777,7 @@ tsv o tsv o m a
 tsv o tsv o m e dz a
 tsv u d u m u k a
 tsv u k a
-tsv u k a ch i n a i
+tsv u k a ch i N a i
 tsv u k a ch i n a i
 tsv u k e tsv u k e
 tsv u k u
@@ -18792,7 +18792,7 @@ tsv u tsv u dz i r a
 tsv u u r a m u g o ts i
 tsv u u r a m u r o m o
 ts w a
-t s w a t s w a t s w a
+ts w a ts w a ts w a
 ts w a k a t a
 ts w a k a t i k a
 ts w a n d a
@@ -18835,7 +18835,7 @@ t u k i r i r a
 t u k u t u k u
 t u k u m a
 t u k u m b a
-t u  k u  n u  t u  k u  n u
+t u k u n u t u k u n u
 t u k u ny a
 t u k u ny u
 t u k u ny u dz a
@@ -18968,7 +18968,7 @@ ty a k a ty a k a
 ty a N g i r e
 ty a v a
 ty e
-t y i t y i t y i
+ty i ty i ty i
 ty i s a
 ty i s i dz i r a
 ty i ty i dz a
@@ -18976,13 +18976,13 @@ ty o
 ty o k a
 ty o n i
 ty o r a
-t y o t y o r o t y o
-t y o t y o t y o
+ty o ty o r o ty o
+ty o ty o ty o
 ty w a k a t i k a
 ty w a ny a
 ty w a ny u
-t y w a t y w a t i dz a
-t y w a t y w a t i k a
+ty w a ty w a t i dz a
+ty w a ty w a t i k a
 ty w i
 ty w i k i ty w i k i
 u
@@ -18997,7 +18997,7 @@ u bv a n a
 u bv i r i ny i ny i
 u bv u ny u
 u bv u ny u k a
-u  bv u  r u  bv u  r u
+u bv u r u bv u r u
 u bv u r u r u
 u ch a n j a
 u ch a p u p u
@@ -19018,14 +19018,14 @@ u dh o k o t a
 u d i k i
 u d o b o d o b o
 u d o b o r i
-u d o d y o u d o d y o
+u d o dy o u d o dy o
 u d o r o N g a sh w a
 u d u
 u d u k u
 u d u n d w e
 u d u n u n u
 u d u r a
-u  d u  u  t u  u
+u d u u t u u
 u dy i
 u dy i r e
 u dy u
@@ -19045,7 +19045,7 @@ u f u r o
 u f u z a
 u g a m b a
 u g a r i r i
-u g e b e n a
+u g e b e N a
 u g e b e n a
 u g e vh a
 u g o m b e
@@ -19116,7 +19116,7 @@ u mh a n d a r a
 u mh a n d u
 u mh a r a dz i
 u mh a r e
-u m h e N g e r a m u m b a
+u mh e N g e r a m u m b a
 u mh i zh a
 u mh o m b w e
 u mh o n d i
@@ -19130,17 +19130,17 @@ u m w a r a k a t i r a
 u m w a r a r i r a
 u m w a r i
 u m w e k u m w e k u
-u n a i n a i
-u n a N g a
-u n a n y a n a n y a
-u n a r i n a r i
+u N a i N a i
+u N a N g a
+u N a ny a N a ny a
+u N a r i N a r i
 u n a
 u n a i n a i
 u n a i r a
 u n a k i
 u n a k u
 u n a N g a
-u n a n y a n a n y a
+u n a ny a n a ny a
 u n a r i n a r i
 u n a u n a
 u n d a
@@ -19184,15 +19184,15 @@ u nh e v a
 u nh i nh i
 u nh u
 u nh u b u
-u n h u n zv a t u n zv a
+u nh u n zv a t u n zv a
 u n o
 u n o n w e
 u n u r a
 u ny a
 u ny a i
-u n y a n a n y a
+u ny a N a ny a
 u ny a n a
-u n y a n a n y a
+u ny a n a ny a
 u ny a n zv i
 u ny e
 u ny e N g e dz i
@@ -19229,9 +19229,9 @@ u p o m b w e
 u p o r o f i t a
 u p r i s t i
 u r a
-u r a  k a  t a  u r a  k a  t a
-u r a  k a  t a  u r a  k a  t a
-u r a  k a  t a  u r a  k a  t a
+u r a k a t a u r a k a t a
+u r a k a t a u r a k a t a
+u r a k a t a u r a k a t a
 u r a k a t i r a
 u r a m u
 u r a n d a
@@ -19267,7 +19267,7 @@ u r o y i
 u r o zv i
 u r u
 u r u bv u
-u  r u  bv u  r u  bv u
+u r u bv u r u bv u
 u r u d u d u
 u r u k a
 u r u k w a
@@ -19294,7 +19294,7 @@ u sh e
 u sh i N g i
 u sh u N g a
 u sh u N g u
-u s h w a s h w a s h w a
+u sh w a sh w a sh w a
 u sh w i n d i
 u s i k a n a
 u s i k u
@@ -19323,7 +19323,7 @@ u t a r a
 u t a r a t a r a
 u t a r e
 u t a t a
-u t a t sv a t a t sv a
+u t a tsv a t a tsv a
 u t e m a
 u t e n d a
 u t e n d e r i
@@ -19375,7 +19375,7 @@ u vh e vh e
 u vh e y e vh e y e
 u vh i y o
 u vh u r u r u
-u  vh u  r u  vh u  r u
+u vh u r u vh u r u
 u v i r i
 u v i r i m i
 u w a ch a w a ch a
@@ -19653,7 +19653,7 @@ w e
 w e e
 w e d e N g a
 w e d e N g a
-w e  d e  r e  w e  d e  r e
+w e d e r e w e d e r e
 w e d e r e k a
 w e dz e r a
 w e e
@@ -19955,6 +19955,6 @@ zv o m e n e
 zv o m o k a
 zv o n d a
 zv u v a
-z v u z v u r u dz a
+zv u zv u r u dz a
 z w a
 z w a n a

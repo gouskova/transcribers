@@ -81,7 +81,7 @@
 -bhogodza	bh o g o dz a
 -bhoma	bh o m a
 -bhomudza	bh o m u dz a
--bhon'a	bh o n a
+-bhon'a	bh o N a
 -bhonda	bh o n d a
 -bhongozhora	bh o N g o zh o r a
 -bhosvonga	bh o sv o N g a
@@ -128,7 +128,7 @@
 -binga	b i N g a
 -bingunura	b i N g u n u r a
 -binha	b i nh a
--binin'idza	b i n i n i dz a
+-binin'idza	b i n i N i dz a
 -binya	b i ny a
 -binyaidza	b i ny a i dz a
 -binza	b i n z a
@@ -631,7 +631,7 @@
 -chikidira	ch i k i d i r a
 -chikura	ch i k u r a
 -chimbidza	ch i m b i dz a
--chin'a	ch i n a
+-chin'a	ch i N a
 -chinga	ch i N g a
 -chingaidza	ch i N g a i dz a
 -chingama	ch i N g a m a
@@ -1011,7 +1011,7 @@
 -dzvomhora	dzv o mh o r a
 -dzvondora	dzv o n d o r a
 -dzvongama	dzv o N g a m a
--dzvonyn'ora	dzv o ny n o r a
+-dzvonyn'ora	dzv o ny N o r a
 -dzvonyora	dzv o ny o r a
 -dzvova	dzv o v a
 -dzvura	dzv u r a
@@ -1215,7 +1215,7 @@
 -fondoka	f o n d o k a
 -fondonora	f o n d o n o r a
 -fongora	f o N g o r a
--fonon'ona	f o n o n o n a
+-fonon'ona	f o n o N o n a
 -fonyana	f o ny a n a
 -fonyedza	f o ny e dz a
 -fonyera	f o ny e r a
@@ -1439,8 +1439,8 @@
 -gamuchidza	g a m u ch i dz a
 -gamuchira	g a m u ch i r a
 -gamura	g a m u r a
--gan'a	g a n a
--gan'aridza	g a n a r i dz a
+-gan'a	g a N a
+-gan'aridza	g a N a r i dz a
 -ganda	g a n d a
 -gandaira	g a n d a i r a
 -ganduka	g a n d u k a
@@ -1507,8 +1507,8 @@
 -gombera	g o m b e r a
 -gomedzeka	g o m e dz e k a
 -gomera	g o m e r a
--gon'odza	g o n o dz a
--gon'ora	g o n o r a
+-gon'odza	g o N o dz a
+-gon'ora	g o N o r a
 -gona	g o n a
 -gonana	g o n a n a
 -gonda	g o n d a
@@ -1579,7 +1579,7 @@
 -gungura	g u N g u r a
 -gunha	g u nh a
 -gunhira	g u nh i r a
--gunun'una	g u n u n u n a
+-gunun'una	g u n u N u n a
 -gunzva	g u n zv a
 -gupa	g u p a
 -gura	g u r a
@@ -1699,11 +1699,11 @@
 -haya	h a y a
 -hazura	h a z u r a
 -hedhuka	h e dh u k a
--hen'a	h e n a
+-hen'a	h e N a
 -hesvura	h e sv u r a
 -hodha	h o dh a
 -homura	h o m u r a
--hon'a	h o n a
+-hon'a	h o N a
 -honya	h o ny a
 -hora	h o r a
 -hotsira	h o ts i r a
@@ -1841,7 +1841,7 @@
 -kamhina	k a mh i n a
 -kamukira	k a m u k i r a
 -kamura	k a m u r a
--kan'aira	k a n a i r a
+-kan'aira	k a N a i r a
 -kanaira	k a n a i r a
 -kanangura	k a n a N g u r a
 -kanda	k a n d a
@@ -2024,7 +2024,7 @@
 -kongonyara	k o N g o ny a r a
 -konhera	k o nh e r a
 -konobhera	k o n o bh e r a
--konon'odza	k o n o n o dz a
+-konon'odza	k o n o N o dz a
 -konona	k o n o n a
 -kononda	k o n o n d a
 -konongora	k o n o N g o r a
@@ -2095,7 +2095,7 @@
 -kunha	k u nh a
 -kunhidzira	k u nh i dz i r a
 -kunjaira	k u n j a i r a
--kunun'una	k u n u n u n a
+-kunun'una	k u n u N u n a
 -kunya	k u ny a
 -kunyaira	k u ny a i r a
 -kunyungudza	k u ny u N g u dz a
@@ -2251,7 +2251,7 @@
 -mepfu	m e pf u
 -mepfura	m e pf u r a
 -mera	m e r a
--mhan'ara	mh a n a r a
+-mhan'ara	mh a N a r a
 -mhanya	mh a ny a
 -mhara	mh a r a
 -mhedura	mh e d u r a
@@ -2328,25 +2328,25 @@
 -mwidza	m w i dz a
 -mwidzana	m w i dz a n a
 -mwisa	m w i s a
--n'aima	n a i m a
--n'an'aura	n a n a u r a
--n'an'azhura	n a n a zh u r a
--n'anyaira	n a ny a i r a
--n'anyura	n a ny u r a
--n'anza	n a n z a
--n'ara	n a r a
--n'aza	n a z a
--n'en'a	n e n a
--n'en'ena	n e n e n a
--n'en'enura	n e n e n u r a
--n'eura	n e u r a
--n'on'odza	n o n o dz a
--n'on'ora	n o n o r a
--n'ora	n o r a
--n'udura	n u d u r a
--n'un'una	n u n u n a
--n'ura	n u r a
--n'wa	n w a
+-n'aima	N a i m a
+-n'an'aura	N a N a u r a
+-n'an'azhura	N a N a zh u r a
+-n'anyaira	N a ny a i r a
+-n'anyura	N a ny u r a
+-n'anza	N a n z a
+-n'ara	N a r a
+-n'aza	N a z a
+-n'en'a	N e N a
+-n'en'ena	N e N e n a
+-n'en'enura	N e N e n u r a
+-n'eura	N e u r a
+-n'on'odza	N o N o dz a
+-n'on'ora	N o N o r a
+-n'ora	N o r a
+-n'udura	N u d u r a
+-n'un'una	N u N u n a
+-n'ura	N u r a
+-n'wa	N w a
 -na	n a
 -nafuna	n a f u n a
 -nafura	n a f u r a
@@ -2364,8 +2364,8 @@
 -nambuka	n a m b u k a
 -nambura	n a m b u r a
 -namuka	n a m u k a
--nan'anidza	n a n a n i dz a
--nan'anura	n a n a n u r a
+-nan'anidza	n a N a n i dz a
+-nan'anura	n a N a n u r a
 -nana	n a n a
 -nanaidza	n a n a i dz a
 -nanaira	n a n a i r a
@@ -2583,8 +2583,8 @@
 -nimbuka	n i m b u k a
 -nimbura	n i m b u r a
 -nimbutsa	n i m b u ts a
--nin'inidza	n i n i n i dz a
--nin'inira	n i n i n i r a
+-nin'inidza	n i N i n i dz a
+-nin'inira	n i N i n i r a
 -nina	n i n a
 -ninga	n i N g a
 -ningitidza	n i N g i t i dz a
@@ -2653,7 +2653,7 @@
 -noka	n o k a
 -nokora	n o k o r a
 -nombora	n o m b o r a
--non'ona	n o n o n a
+-non'ona	n o N o n a
 -nona	n o n a
 -nonga	n o N g a
 -nongedza	n o N g e dz a
@@ -2696,8 +2696,8 @@
 -nyambwaira	ny a m b w a i r a
 -nyamudza	ny a m u dz a
 -nyamwidza	ny a m w i dz a
--nyan'anya	n y a n a n y a
--nyan'anyura	n y a n a n y u r a
+-nyan'anya	ny a N a ny a
+-nyan'anyura	ny a N a ny u r a
 -nyandanudza	n y a n d a n u dz a
 -nyandanuka	n y a n d a n u k a
 -nyandanura	n y a n d a n u r a
@@ -2785,15 +2785,15 @@
 -nyikura	ny i k u r a
 -nyima	ny i m a
 -nyiminya	ny i m i ny a
--nyin'inyira	n y i n i n y i r a
+-nyin'inyira	ny i N i ny i r a
 -nyinda	ny i n d a
 -nyinura	ny i n u r a
 -nyinyiridza	ny i ny i r i dz a
 -nyira	ny i r a
 -nyirinyita	ny i r i ny i t a
 -nyisa	ny i s a
--nyn'a	ny n a
--nyn'abura	ny n a b u r a
+-nyn'a	ny N a
+-nyn'abura	ny N a b u r a
 -nyobika	ny o b i k a
 -nyobvora	ny o bv o r a
 -nyodoka	ny o d o k a
@@ -3196,7 +3196,7 @@
 -pima	p i m a
 -pimbinura	p i m b i n u r a
 -pimbinyara	p i m b i ny a r a
--pimbinyn'ara	p i m b i ny n a r a
+-pimbinyn'ara	p i m b i ny N a r a
 -pimbinyuka	p i m b i ny u k a
 -pimbiringa	p i m b i r i N g a
 -pimbiyana	p i m b i y a n a
@@ -3351,7 +3351,7 @@
 -rakatsa	r a k a ts a
 -rakidza	r a k i dz a
 -ramba	r a m b a
--rambanyn'uka	r a m b a ny n u k a
+-rambanyn'uka	r a m b a ny N u k a
 -rambidza	r a m b i dz a
 -ramwa	r a m w a
 -randabvura	r a n d a bv u r a
@@ -4243,7 +4243,7 @@
 -tsinga	ts i N g a
 -tsinhana	ts i nh a n a
 -tsinhira	ts i nh i r a
--tsinin'ina	ts i n i n i n a
+-tsinin'ina	ts i n i N i n a
 -tsinza	ts i n z a
 -tsinzina	ts i n z i n a
 -tsipika	ts i p i k a
@@ -4479,7 +4479,7 @@
 -umbura	u m b u r a
 -umburudza	u m b u r u dz a
 -umburuka	u m b u r u k a
--un'a	u n a
+-un'a	u N a
 -una	u n a
 -unaira	u n a i r a
 -unda	u n d a
@@ -4986,7 +4986,7 @@ bhamaradza	bh a m a r a dz a
 bhamba	bh a m b a
 bhambangu	bh a m b a N g u
 bhamhadza	bh a mh a dz a
-bhanan'ana	bh a n a n a n a
+bhanan'ana	bh a n a N a n a
 bhanana	bh a n a n a
 bhananana	bh a n a n a n a
 bhandi	bh a n d i
@@ -5097,7 +5097,7 @@ bho-o	bh o o
 bhobhini	bh o bh i n i
 bhobhojani	bh o bh o j a n i
 bhodhi	bh o dh i
-bhodhin'i	bh o dh i n i
+bhodhin'i	bh o dh i N i
 bhodhingi	bh o dh i N g i
 bhodhini	bh o dh i n i
 bhodho	bh o dh o
@@ -6771,7 +6771,7 @@ chigamha	ch i g a mh a
 chigamhi	ch i g a mh i
 chigamhiso	ch i g a mh i s o
 chigamirapadenga	ch i g a m i r a p a d e N g a
-chigan'a	ch i g a n a
+chigan'a	ch i g a N a
 chigana	ch i g a n a
 chiganga	ch i g a N g a
 chiganhira	ch i g a nh i r a
@@ -6789,7 +6789,7 @@ chigaugau	ch i g a u g a u
 chigayo	ch i g a y o
 chigebenga	ch i g e b e N g a
 chigero	ch i g e r o
-chigeven'a	ch i g e v e n a
+chigeven'a	ch i g e v e N a
 chigevena	ch i g e v e n a
 chigezamusoronebwe	ch i g e z a m u s o r o n e b w e
 chigidi	ch i g i d i
@@ -6800,10 +6800,10 @@ chigodho	ch i g o dh o
 chigodo	ch i g o d o
 chigodora	ch i g o d o r a
 chigogodza	ch i g o g o dz a
-chigokan'anga	ch i g o k a n a N g a
+chigokan'anga	ch i g o k a N a N g a
 chigokananga	ch i g o k a n a N g a
-chigon'a	ch i g o n a
-chigon'o	ch i g o n o
+chigon'a	ch i g o N a
+chigon'o	ch i g o N o
 chigona	ch i g o n a
 chigonamubhawa	ch i g o n a m u bh a w a
 chigondero	ch i g o n d e r o
@@ -6955,7 +6955,7 @@ chikokotamugoti	ch i k o k o t a m u g o t i
 chikomba	ch i k o m b a
 chikomborero	ch i k o m b o r e r o
 chikomo	ch i k o m o
-chikon'a	ch i k o n a
+chikon'a	ch i k o N a
 chikona	ch i k o n a
 chikondekonde	ch i k o n d e k o n d e
 chikondohwe	ch i k o n d o h w e
@@ -6969,7 +6969,7 @@ chikorekore	ch i k o r e k o r e
 chikorekore	ch i k o r e k o r e
 chikorekore	ch i k o r e k o r e
 chikoro	ch i k o r o
-chikoron'ozho	ch i k o r o n o zh o
+chikoron'ozho	ch i k o r o N o zh o
 chikoronozho	ch i k o r o n o zh o
 chikororodzi	ch i k o r o r o dz i
 chikosha	ch i k o sh a
@@ -7110,10 +7110,10 @@ chimwayange	ch i m w a y a N g e
 chimwenyi	ch i m w e ny i
 chimwenyi	ch i m w e ny i
 chimwenyi	ch i m w e ny i
-chin'ai	ch i n a i
-chin'ogoro	ch i n o g o r o
-chin'ono	ch i n o n o
-chin'wango	ch i n w a N g o
+chin'ai	ch i N a i
+chin'ogoro	ch i N o g o r o
+chin'ono	ch i N o n o
+chin'wango	ch i N w a N g o
 china	ch i n a
 china	ch i n a
 chinai	ch i n a i
@@ -8071,7 +8071,7 @@ dhirihora	dh i r i h o r a
 dhirii	dh i r i i
 dhirika	dh i r i k a
 dhirima	dh i r i m a
-dhiripin'i	dh i r i p i n i
+dhiripin'i	dh i r i p i N i
 dhiripini	dh i r i p i n i
 dhiriri	dh i r i r i
 dhirowa	dh i r o w a
@@ -8574,7 +8574,7 @@ dzonya	dz o ny a
 dzonyera	dz o ny e r a
 dzonza	dz o n z a
 dzora	dz o r a
-dzoran'ombe	dz o r a n o m b e
+dzoran'ombe	dz o r a N o m b e
 dzoranombe	dz o r a n o m b e
 dzoro	dz o r o
 dzororo	dz o r o r o
@@ -8980,7 +8980,7 @@ fikisi	f i k i s i
 fimbi	f i m b i
 fimbika	f i m b i k a
 findi	f i n d i
-findimagon'a	f i n d i m a g o n a
+findimagon'a	f i n d i m a g o N a
 findimagona	f i n d i m a g o n a
 findimwa	f i n d i m w a
 findimwara	f i n d i m w a r a
@@ -9407,7 +9407,7 @@ gadzika	g a dz i k a
 gadzikana	g a dz i k a n a
 gadzikano	g a dz i k a n o
 gadziko	g a dz i k o
-gadzin'ina	g a dz i n i n a
+gadzin'ina	g a dz i N i n a
 gadzinina	g a dz i n i n a
 gadzira	g a dz i r a
 gadziridza	g a dz i r i dz a
@@ -9480,11 +9480,11 @@ gamu	g a m u
 gamuchidza	g a m u ch i dz a
 gamuchira	g a m u ch i r a
 gamura	g a m u r a
-gan'a	g a n a
-gan'ara	g a n a r a
-gan'u	g a n u
+gan'a	g a N a
+gan'ara	g a N a r a
+gan'u	g a N u
 gana	g a n a
-ganan'ana	g a n a n a n a
+ganan'ana	g a n a N a n a
 gananana	g a n a n a n a
 ganara	g a n a r a
 ganaridza	g a n a r i dz a
@@ -9550,7 +9550,7 @@ garahundwi	g a r a h u n d w i
 garahuro	g a r a h u r o
 garaiparukukwe	g a r a i p a r u k u k w e
 garakara	g a r a k a r a
-garan'anga	g a r a n a N g a
+garan'anga	g a r a N a N g a
 garana	g a r a n a
 garananga	g a r a n a N g a
 garanehakata	g a  r a  n e h a  k a  t a
@@ -9620,9 +9620,9 @@ gegedza	g e g e dz a
 geje	g e j e
 gejo	g e j o
 gekenya	g e k e ny a
-gen'a	g e n a
+gen'a	g e N a
 gena	g e n a
-genen'ene	g e n e n e n e
+genen'ene	g e n e N e n e
 genenene	g e n e n e n e
 genge	g e N g e
 gengezha	g e N g e zh a
@@ -9737,12 +9737,12 @@ gombwe	g o m b w e
 gomedzeka	g o m e dz e k a
 gomera	g o m e r a
 gomo	g o m o
-gon'a	g o n a
-gon'o	g o n o
-gon'on'o	g o n o n o
+gon'a	g o N a
+gon'o	g o N o
+gon'on'o	g o N o N o
 gona	g o n a
 gonamombe	g o n a m o m b e
-gonan'ombe	g o n a n o m b e
+gonan'ombe	g o n a N o m b e
 gonana	g o n a n a
 gonanombe	g o n a n o m b e
 gonda	g o n d a
@@ -9771,7 +9771,7 @@ gonjoro	g o n j o r o
 gono	g o n o
 gonodza	g o n o dz a
 gonokono	g o n o k o n o
-gonon'ono	g o n o n o n o
+gonon'ono	g o n o N o n o
 gonono	g o n o n o
 gononono	g o n o n o n o
 gonora	g o n o r a
@@ -10172,7 +10172,7 @@ gwambaira	g w a m b a i r a
 gwamu	g w a m u
 gwamura	g w a m u r a
 gwamuramakwande	g w a m u r a m a k w a n d e
-gwanan'wana	g w a n a n w a n a
+gwanan'wana	g w a n a N w a n a
 gwananwana	g w a n a n w a n a
 gwanda	g w a n d a
 gwande	g w a n d e
@@ -10274,7 +10274,7 @@ gweme	g w e m e
 gwendere gwendere	g w e  n d e  r e  g w e  n d e  r e
 gwenderedza	g w e n d e r e dz a
 gwenderegwendere	g w e  n d e  r e  g w e  n d e  r e
-gwenen'wene	g w e n e n w e n e
+gwenen'wene	g w e n e N w e n e
 gwenenwene	g w e n e n w e n e
 gwenga	g w e N g a
 gwengo	g w e N g o
@@ -10390,7 +10390,7 @@ hameno	h a m e n o
 hamira	h a m i r a
 hamiro	h a m i r o
 hamvuropu	h a m v u r o p u
-han'a	h a n a
+han'a	h a N a
 hana	h a n a
 handa	h a n d a
 handaira	h a n d a i r a
@@ -10415,7 +10415,7 @@ hanisi	h a n i s i
 hanwa	h a n w a
 hanya	h a ny a
 hanyanisi	h a ny a n i s i
-hanyn'a nani	h a n y n a n a n i
+hanyn'a nani	h a n y N a n a n i
 hanyna nani	h a n y n a n a n i
 hanzi	h a n z i
 hanzu	h a n z u
@@ -10463,7 +10463,7 @@ hekani waro	h e k a n i w a r o
 hekeri	h e k e r i
 heki	h e k i
 hembe	h e m b e
-hen'a	h e n a
+hen'a	h e N a
 hena	h e n a
 hendei	h e n d e i
 hengechepfu	h e N g e ch e pf u
@@ -10527,7 +10527,7 @@ homondo	h o m o n d o
 homu	h o m u
 homura	h o m u r a
 homwe	h o m w e
-hon'era	h o n e r a
+hon'era	h o N e r a
 hona	h o n a
 hondo	h o n d o
 hondohwe	h o n d o h w e
@@ -10577,7 +10577,7 @@ hozhwa	h o zh w a
 hozi	h o z i
 hu hu	h u h u
 hu-u	h u u
-hu-un'wi	h u u n w i
+hu-un'wi	h u u N w i
 hu-uri-i	h u u r i i
 hube	h u b e
 hubvu	h u bv u
@@ -10815,7 +10815,7 @@ imomo	i m o m o
 imomu	i m o m u
 imvi	i m v i
 imwi	i m w i
-in'a	i n a
+in'a	i N a
 ina	i n a
 inda	i n d a
 indasitiri	i n d a s i t i r i
@@ -10838,7 +10838,7 @@ injini	i n j i n i
 injiniya	i n j i n i y a
 ino	i n o
 inura	i n u r a
-inyn'o	i ny n o
+inyn'o	i ny N o
 inyno	i ny n o
 inyo	i ny o
 inzva	i n zv a
@@ -11032,7 +11032,7 @@ jinyura	j i ny u r a
 jiti	j i t i
 joki	j o k i
 jombo	j o m b o
-jon'osi	j o n o s i
+jon'osi	j o N o s i
 jonjoro	j o n j o r o
 jonosi	j o n o s i
 jorochoro	j o r o ch o r o
@@ -11108,7 +11108,7 @@ kadorongoshe	k a d o r o N g o sh e
 kadya	k a dy a
 kadyaira	k a dy a i r a
 kadzimu	k a dz i m u
-kadzoran'ombe	k a dz o r a n o m b e
+kadzoran'ombe	k a dz o r a N o m b e
 kadzoranombe	k a dz o r a n o m b e
 kadzva	k a dzv a
 kaferefere	k a f e r e f e r e
@@ -11202,11 +11202,11 @@ kamura	k a m u r a
 kamuri	k a m u r i
 kamutsa	k a m u ts a
 kamutsanedako	k a m u ts a n e d a k o
-kan'a	k a n a
-kan'oto	k a n o t o
+kan'a	k a N a
+kan'oto	k a N o t o
 kana	k a n a
 kanaira	k a n a i r a
-kanan'ana	k a n a n a n a
+kanan'ana	k a n a N a n a
 kanana	k a n a n a
 kananana	k a n a n a n a
 kanangura	k a n a N g u r a
@@ -11261,13 +11261,13 @@ kanya	k a ny a
 kanya kanya	k a ny a k a ny a
 kanyaira	k a ny a i r a
 kanyama kanyama	k a  ny a  m a  k a  ny a  m a
-kanyan'anya	k a n y a n a n y a
+kanyan'anya	k a ny a N a ny a
 kanyananya	k a n y a n a n y a
 kanyanga	k a ny a N g a
 kanyangadza	k a ny a N g a dz a
 kanyimambwa	k a ny i m a m b w a
 kanyimiramundiro	k a ny i m i r a m u n d i r o
-kanyn'oto	k a ny n o t o
+kanyn'oto	k a ny N o t o
 kanynoto	k a ny n o t o
 kanyoto	k a ny o t o
 kanyu	k a ny u
@@ -11603,7 +11603,7 @@ komiti	k o m i t i
 komonda	k o m o n d a
 komonizimo	k o m o n i z i m o
 komu	k o m u
-kon'a	k o n a
+kon'a	k o N a
 kona	k o n a
 konama	k o n a m a
 konda	k o n d a
@@ -11624,7 +11624,7 @@ konji	k o n j i
 kono	k o n o
 konobhera	k o n o bh e r a
 konobho	k o n o bh o
-konon'ono	k o n o n o n o
+konon'ono	k o n o N o n o
 konona	k o n o n a
 kononda	k o n o n d a
 konondo	k o n o n d o
@@ -11750,7 +11750,7 @@ kunhidzira	k u nh i dz i r a
 kunhu	k u nh u
 kunjaira	k u n j a i r a
 kuno	k u n o
-kunun'unu	k u n u n u n u
+kunun'unu	k u n u N u n u
 kunununa	k u n u n u n a
 kunununu	k u n u n u n u
 kunya	k u ny a
@@ -11990,7 +11990,7 @@ kwindingwi	k w i n d i N g w i
 kwindingwi kwindingwi	k w i  n d i  N g w i  k w i  n d i  N g w i
 kwingwiri	k w i N g w i r i
 kwini	k w i n i
-kwinin'wini	k w i n i n w i n i
+kwinin'wini	k w i n i N w i n i
 kwininwini	k w i n i n w i n i
 kwinya	k w i ny a
 kwinya kwinya	k w i ny a k w i ny a
@@ -12154,7 +12154,7 @@ magariro	m a g a r i r o
 magaro	m a g a r o
 magazhurwa	m a g a zh u r w a
 magazini	m a g a z i n i
-magen'a	m a g e n a
+magen'a	m a g e N a
 magena	m a g e n a
 magetsi	m a g e ts i
 magirazi	m a g i r a z i
@@ -12175,7 +12175,7 @@ mahapa	m a h a p a
 mahara	m a h a r a
 maheu	m a h e u
 mahohoho	m a h o h o h o
-mahon'era	m a h o n e r a
+mahon'era	m a h o N e r a
 mahonera	m a h o n e r a
 mahumbwe	m a h u m b w e
 mahwekwe	m a h w e k w e
@@ -12246,7 +12246,7 @@ mamutsamwoyo	m a m u ts a m w o y o
 mamvaranyanya	m a  m v a  r a  ny a  ny a
 mamvura	m a m v u r a
 mamvuri	m a m v u r i
-man'an'a	m a n a n a
+man'an'a	m a N a N a
 mana	m a n a
 manainai	m a n a i n a i
 manana	m a n a n a
@@ -13026,7 +13026,7 @@ mudhanda	m u dh a n d a
 mudhara	m u dh a r a
 mudhebhe	m u dh e bh e
 mudhefudhefu	m u dh e f u dh e f u
-mudhen'a	m u dh e n a
+mudhen'a	m u dh e N a
 mudhena	m u dh e n a
 mudhende	m u dh e n d e
 mudhibhisi	m u dh i bh i s i
@@ -13137,7 +13137,7 @@ mufuramhembwe	m u f u r a m h e m b w e
 mufushwa	m u f u sh w a
 mufuta	m u f u t a
 mugaka	m u g a k a
-mugan'acha	m u g a n a ch a
+mugan'acha	m u g a N a ch a
 muganacha	m u g a n a ch a
 muganhu	m u g a nh u
 mugara	m u g a r a
@@ -13211,7 +13211,7 @@ mujuru	m u j u r u
 muka	m u k a
 mukadheti	m u k a dh e t i
 mukadzi	m u k a dz i
-mukadzin'ina	m u k a dz i n i n a
+mukadzin'ina	m u k a dz i N i n a
 mukadzinina	m u k a dz i n i n a
 mukadziusaende	m u k a dz i u s a e n d e
 mukaha	m u k a h a
@@ -13342,10 +13342,10 @@ munhundurwa	m u nh u n d u r w a
 munhunguru	m u nh u N g u r u
 munhuruka	m u nh u r u k a
 munhurume	m u nh u r u m e
-munin'ina	m u n i n i n a
+munin'ina	m u n i N i n a
 muninina	m u n i n i n a
 munongedzo	m u n o N g e dz o
-munun'una	m u n u n u n a
+munun'una	m u n u N u n a
 munungu	m u n u N g u
 mununudzi	m u n u n u dz i
 munununa	m u n u n u n a
@@ -13450,7 +13450,7 @@ mupirikiri	m u p i r i k i r i
 mupiro	m u p i r o
 mupirutsi	m u p i r u ts i
 mupoki	m u p o k i
-mupon'oro	m u p o n o r o
+mupon'oro	m u p o N o r o
 muponesi	m u p o n e s i
 mupono	m u p o n o
 muponoro	m u p o n o r o
@@ -14016,7 +14016,7 @@ mvengemvenge	m v e N g e m v e N g e
 mvenje	m v e n j e
 mvenya	m v e ny a
 mvenyamvenya	m v e ny a m v e ny a
-mvenyn'a	m v e ny n a
+mvenyn'a	m v e ny N a
 mvenyna	m v e ny n a
 mvere	m v e r e
 mveya	m v e y a
@@ -14131,28 +14131,28 @@ mwoyochena	m w o y o ch e n a
 mwoyosviba	m w o y o sv i b a
 mwoyotema	m w o y o t e m a
 n	n
-n'	n
-n'a	n a
-n'a n'a n'a	n a n a n a
-n'abu	n a b u
-n'ai	n a i
-n'an'a	n a n a
-n'an'au	n a n a u
-n'anga	n a N g a
-n'angaure	n a N g a u r e
-n'angaureure	n a N g a u r e u r e
-n'anya n'anya	n a n y a n a n y a
-n'anyu	n a ny u
-n'aru	n a r u
-n'au	n a u
-n'azhu	n a zh u
-n'e-e	n e e
-n'en'edu	n e n e d u
-n'en'enu	n e n e n u
-n'ono	n o n o
-n'onono	n o n o n o
-n'wi-i	n w i i
-n'wiro	n w i r o
+n'	N
+n'a	N a
+n'a n'a n'a	N a N a N a
+n'abu	N a b u
+n'ai	N a i
+n'an'a	N a N a
+n'an'au	N a N a u
+n'anga	N a N g a
+n'angaure	N a N g a u r e
+n'angaureure	N a N g a u r e u r e
+n'anya n'anya	N a ny a N a ny a
+n'anyu	N a ny u
+n'aru	N a r u
+n'au	N a u
+n'azhu	N a zh u
+n'e-e	N e e
+n'en'edu	N e N e d u
+n'en'enu	N e N e n u
+n'ono	N o n o
+n'onono	N o n o n o
+n'wi-i	N w i i
+n'wiro	N w i r o
 na	n a
 na na na	n a n a n a
 na-	n a
@@ -14186,8 +14186,8 @@ name	n a m e
 namo	n a m o
 namu	n a m u
 namuka	n a m u k a
-nan'anan'a	n a n a n a n a
-nan'anu	n a n a n u
+nan'anan'a	n a N a n a N a
+nan'anu	n a N a n u
 nana	n a n a
 nanai nanai	n a n a i n a n a i
 nanaidza	n a n a i dz a
@@ -14334,7 +14334,7 @@ ndevo	n d e v o
 ndeya	n d e y a
 ndi	n d i
 ndi-	n d i
-ndibvinyn'e	n d i bv i n y n e
+ndibvinyn'e	n d i bv i ny N e
 ndibvinyne	n d i bv i n y n e
 ndibvire	n d i bv i r e
 ndika	n d i k a
@@ -14871,7 +14871,7 @@ nhendyana	n h e n dy a n a
 nhenga	nh e N g a
 nhenga nhenga	nh e N g a nh e N g a
 nhengeni	nh e N g e n i
-nhengenyn'a	n h e N g e n y n a
+nhengenyn'a	nh e N g e ny N a
 nhengenyna	n h e N g e n y n a
 nhengo	nh e N g o
 nhengure	nh e N g u r e
@@ -15210,7 +15210,7 @@ njike	n j i k e
 njikenjike	n j i k e n j i k e
 njimu	n j i m u
 njimura	n j i m u r a
-njin'a	n j i n a
+njin'a	n j i N a
 njina	n j i n a
 njinga	n j i N g a
 njinjimonga	n j i n j i m o N g a
@@ -15606,7 +15606,7 @@ nyiminya	ny i m i ny a
 nyiminyimi	ny i m i ny i m i
 nyimo	ny i m o
 nyimwana	ny i m w a n a
-nyin'inya	n y i n i n y a
+nyin'inya	ny i N i ny a
 nyina mombe	ny i n a m o m b e
 nyinda	ny i n d a
 nyindi	ny i n d i
@@ -15621,9 +15621,9 @@ nyira	ny i r a
 nyiri nyiri	ny i r i ny i r i
 nyirinyita	ny i r i ny i t a
 nyisa	ny i s a
-nyn'a	ny n a
-nyn'ana	n y n a n a
-nyn'urududu	ny n u r u d u d u
+nyn'a	ny N a
+nyn'ana	ny N a n a
+nyn'urududu	ny N u r u d u d u
 nyna	ny n a
 nynabura	ny n a b u r a
 nynana	n y n a n a
@@ -15907,7 +15907,7 @@ pano	p a n o
 panyangu	p a ny a N g u
 panyangura	p a ny a N g u r a
 panyarara	p a ny a r a r a
-panyn'o	p a ny n o
+panyn'o	p a ny N o
 panyno	p a ny n o
 panyo	p a ny o
 panza	p a n z a
@@ -16637,7 +16637,7 @@ raketi	r a k e t i
 raki	r a k i
 rakidza	r a k i dz a
 ramba	r a m b a
-rambanyn'u	r a m b a ny n u
+rambanyn'u	r a m b a ny N u
 rambanynu	r a m b a ny n u
 rambanynuka	r a m b a ny n u k a
 rambi	r a m b i
@@ -16948,7 +16948,7 @@ rukuvhute	r u k u vh u t e
 rukwa	r u k w a
 rukweza	r u k w e z a
 ruma	r u m a
-ruman'ombe	r u m a n o m b e
+ruman'ombe	r u m a N o m b e
 rumano	r u m a n o
 rumanombe	r u m a n o m b e
 rumba	r u m b a
@@ -17577,7 +17577,7 @@ shurikira	sh u r i k i r a
 shurire	sh u r i r e
 shuro	sh u r o
 shuro danda	sh u r o d a n d a
-shuro n'ombe	sh u r o n o m b e
+shuro n'ombe	sh u r o N o m b e
 shuro nombe	sh u r o n o m b e
 shururudza	sh u r u r u dz a
 shurushuru	sh u r u sh u r u
@@ -18550,7 +18550,7 @@ tsinga	ts i N g a
 tsingano	ts i N g a n o
 tsinhana	ts i nh a n a
 tsinhira	ts i nh i r a
-tsinin'ini	ts i n i n i n i
+tsinin'ini	ts i n i N i n i
 tsininina	ts i n i n i n a
 tsininini	ts i n i n i n i
 tsinye	ts i ny e
@@ -18777,7 +18777,7 @@ tsvotsvoma	tsv o tsv o m a
 tsvotsvomedza	tsv o tsv o m e dz a
 tsvudumuka	tsv u d u m u k a
 tsvuka	tsv u k a
-tsvukachin'ai	tsv u k a ch i n a i
+tsvukachin'ai	tsv u k a ch i N a i
 tsvukachinai	tsv u k a ch i n a i
 tsvuketsvuke	tsv u k e tsv u k e
 tsvuku	tsv u k u
@@ -19045,7 +19045,7 @@ ufuro	u f u r o
 ufuza	u f u z a
 ugamba	u g a m b a
 ugariri	u g a r i r i
-ugeben'a	u g e b e n a
+ugeben'a	u g e b e N a
 ugebena	u g e b e n a
 ugevha	u g e vh a
 ugombe	u g o m b e
@@ -19130,10 +19130,10 @@ umwarakatira	u m w a r a k a t i r a
 umwararira	u m w a r a r i r a
 umwari	u m w a r i
 umwekumweku	u m w e k u m w e k u
-un'ain'ai	u n a i n a i
-un'anga	u n a N g a
-un'anyan'anya	u n a n y a n a n y a
-un'arin'ari	u n a r i n a r i
+un'ain'ai	u N a i N a i
+un'anga	u N a N g a
+un'anyan'anya	u N a ny a N a ny a
+un'arin'ari	u N a r i N a r i
 una	u n a
 unainai	u n a i n a i
 unaira	u n a i r a
@@ -19190,7 +19190,7 @@ unonwe	u n o n w e
 unura	u n u r a
 unya	u ny a
 unyai	u ny a i
-unyan'anya	u n y a n a n y a
+unyan'anya	u ny a N a ny a
 unyana	u ny a n a
 unyananya	u n y a n a n y a
 unyanzvi	u ny a n zv i

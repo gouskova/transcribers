@@ -14,38 +14,41 @@ for file in files:
 	for line in wlist:
 		line=line.strip('\n').split('\t')
 		word = line[0].strip()
-		if word not in shonadic:
+		if not word in shonadic:
 			shonadic.append(word.lower())
 	wlist.close()
 
 print('done reading shona files')
 
 
-shonatrigraphs = ['tsv','dzv']
-shonadigraphs=['mh','pf','bh','bv','vh','ng','ch','sh','sv','zh','zv','ny', 'nh','dh','dz','dy','ty', 'ts']
-shonaV=['i','e','a','o','u']
-shonasingC = ['y','m','v','p','b','f','k','g','h','j','n','r','s','t','d','z','w']
+#shonatrigraphs = ['tsv','dzv']
+#shonadigraphs=['mh','nh','dh','bh','vh', 'ch','sh','pf','sv','zh','zv','bv','ny','dz','dy','ty', 'ts']
+#shonaV=['i','e','a','o','u']
+#shonasingC = ['y','m','v','p','b','f','k','g','h','j','n','r','s','t','d','z','w']
+
+
+shonadigraphs=['m h','n h','d h','b h','v h', 'c h','s h','p f','s v','z h','z v','b v','n y','d z','d y','t y', 't s']
 
 
 outfile = open("LearningData.txt", 'w', encoding='utf-8')
-orthofile = open("shona_all_maxentified.txt", 'w', encoding='utf-8')
+orthofile = open("shona_all_ortho_key.txt", 'w', encoding='utf-8')
 
 def spacify(wordlist, outfile, orthofile):
 	for word in sorted(wordlist):
 		orthoword = word
-		word = word.replace("'","")
 		word = word.replace("-", "")
+		word = word.replace("\s", "") #spaces left from removing hyphens
+		word = word.replace("n'", "N")
 		word = word.replace("ng", "Ng")
 		word = word.replace(" ", "")
 		for seg in word:
-			word = word.replace(seg, seg+" ")
-		word = word.replace("  ", " ").strip()
+			word = word.replace(seg, seg+" ").strip()
+		word = word.replace("  ", " ")
 		for digraph in shonadigraphs:
-			spaced = list(digraph)[0]+ ' ' + list(digraph)[1]
-			word=word.replace(spaced, digraph)
+			word = word.replace(digraph, digraph.replace(" ",""))
 		word = word.replace("ts v", 'tsv')
 		word = word.replace("dz v", 'dzv')		
-		word = word.replace("  ", " ").strip()
+		word = word.replace("  ", " ")
 		orthofile.write(orthoword + '\t' + word + '\n')
 		outfile.write(word+'\n')
 				
@@ -53,36 +56,3 @@ spacify(shonadic, outfile, orthofile)
 
 outfile.close()
 orthofile.close()
-
-
-
-#		if len(word)==1:
-#			outfile.write(word+'\n')
-#			orthofile.write(word + '\t' + word + '\n')
-#		else:
-#			newword=[]
-#			for segindex in range(len(word)-1):
-#				seg = word[segindex]
-#				if segindex<len(word)-1: 
-#					ondigraph = False
-#					ontrigraph = False
-#					if not ondigraph and not ontrigraph:
-#						follseg=word[segindex+1]
-#						digraph = seg+follseg
-#					if segindex < len(word)-2:
-#						thirdseg = word[segindex+2]
-#						trigraph = digraph+thirdseg
-#						if trigraph in shonacombos:
-#							ontrigraph = True
-#							newword.append(trigraph + " ")
-#						elif digraph in shonacombos:
-#							ondigraph = True
-#							newword.append(digraph+" ")
-#						else:
-#							newword.append(seg+' ')				
-#					elif ontrigraph == True:
-#						seg = word[segindex+2]
-#						newword.append(seg + " ")
-#				else:
-#					newword.append(seg)							
-#			newword = ''.join(newword).strip()

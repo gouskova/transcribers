@@ -1,17 +1,49 @@
-#!usr/bin/env python3 
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3 
+'''
+requires python3. Go to python.org to install
+Copy this to your /usr/bin directory like this:
+
+sudo cp /home/yourname/whereveryouputthefile/oecalc /usr/bin/oecalc
+sudo chmod +x /usr/bin/oecalc
+
+then you can invoke it from Terminal/bash like this:
+
+$ oecalc /home/yourname/pathtosomefile.txt "a e i o u"
+
+and it will print out a nice O/E table for you right in terminal.
+
+The text file should be formatted as in Hayes and Wilson's learner, that is, one word per line, and each segment is separated by a space. You should make sure you use Unix linebreaks to be safe.
+
+p a t a
+p i k u b e
+s a mb u k i
+k a tʃ o
+...
+
+Segments can be anything--this is Unicode-aware.
+'''
+
+# LICENSE: Released under the FreeBSD license. 
+#          http://www.freebsd.org/copyright/freebsd-license.html
+
+
+
+
+
 import itertools
 
 def pairOEcalc(filepath, segs, rounded=2):
 	'''
-	segs is the list of segbols you want to evaluate for Observed/Expected
-        the input should look like this: "a e i o u". Quotes and all.
-	filepath is a path to a file that has one word per line, with spaces between segbols. 
-	for example, 
+        filepath is a path to the file you want to calculate O/E over.
+        formatting: same as the input to Hayes and Wilson's UCLA Phonotactic Learner, only this can deal with Unicode
+
 	p a t a 
 	p i k u b e
 	s a mb u k i
 	
+        segs is the list of segbols you want to evaluate for Observed/Expected. separate it by spaces and surround by quotes, "e i o"
+        
+       
 	O/E is calculated as follows:
 	Expected: N(S1) * N(S2)/ N of all pairs
 	Observed: N(S1S2)
@@ -46,17 +78,19 @@ def pairOEcalc(filepath, segs, rounded=2):
 		pairs[pair]['OErnd']=round(pairs[pair]['OE'],rounded)
 	return(pairs)
 	
-def makeOETable(pairsdic, segs, prnt=True, rawcounts=False, rounded=2):
+def makeOETable(pairsdic, segs, prnt=True, rounded=2, outfile="None"):
     '''
-    this function is a utility function, called by another one, and is meant to work in tandem with pairOECalc. the "segs" input is given to the upper level function.
     arranges the O/E values and sorts them into a table for display.
     "prnt" defaults to "True"; the function will print the results to screen.
     the default rounding paramter is 2. If you want to see raw unrounded values, pass "False" to 'rounded'
-    if you want to see the raw counts for how often each seg is observed, set rawcounts to "True".
     '''
     seglist = segs.strip().split(' ')
     header = '\t'+'\t'.join(seglist)
-    print(header)
+    if prnt:
+        print(header)
+    if outfile!="None":
+        f = open(outfile, 'w', encoding="utf-8")
+        f.write(header)
     for seg in seglist:
         row = [seg]
         rndrow = [seg]
@@ -64,30 +98,26 @@ def makeOETable(pairsdic, segs, prnt=True, rawcounts=False, rounded=2):
             pair = seg+otherseg
             row.append(str(pairsdic[pair]['OE']))
             rndrow.append(str(pairsdic[pair]['OErnd']))
-            if rawcounts:
-                observed = str(pairsdic[pair]['observed'])
-        if rounded=="False":
-            print('\t'.join(row))     
-        else:
-            print('\t'.join(rndrow))
-        
+            if rounded == False:
+                outrow = '\t'.join(row)
+            else:
+                outrow = '\t'.join(rndrow)
+            if prnt:
+                print(outrow)
+            if outfile!="None":
+                f.write(outrow)
+    if outfile!="None":
+        outfile.close()
+                
 
 
-#x = pairOEcalc('/home/maria/Desktop/LearningData.txt', "a e i o u")
-
-#makeOETable(x, "a e i o u")
-
-def OE(filepath, segs, prnt = True, rawcounts = False, rounded = 2):
+def OE(filepath, segs, prnt = True, rawcounts = False, rounded = 2, outfile="None"):
+    '''
+    see the documentation for makeOETable and pairOEcalc
+    '''
     pairsdic = pairOEcalc(filepath, segs, rounded)
     makeOETable(pairsdic, segs, prnt, rawcounts, rounded)
 
-
-#pathtofile = '/home/maria/Desktop/LearningData.txt'
-#segs = "a e i o u"
-
-#OE(pathtofile, segs)
-
-
 if __name__ == "__main__":
     import sys
-    OE(sys.argv[0], sys.argv[1])
+    OE(filepath=sys.argv[1], segs=sys.argv[2])

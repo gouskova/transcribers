@@ -30,8 +30,8 @@ Segments can be anything--this is Unicode-aware.
 
 
 
-import itertools
-
+from itertools import product
+ 
 def pairOEcalc(filepath, segs, rounded=2):
 	'''
         filepath is a path to the file you want to calculate O/E over.
@@ -53,7 +53,7 @@ def pairOEcalc(filepath, segs, rounded=2):
 	words = open(filepath, 'r', encoding='utf-8').readlines()
 	seglist = segs.strip().split(' ')
 	wordlist = [x.strip().split() for x in words]
-	pairs = {}.fromkeys(''.join(list(x)) for x in itertools.product(seglist, repeat=2)) #creates a dictionary with S1,S2 pairs from seglist, every possible combination
+	pairs = {}.fromkeys(''.join(list(x)) for x in product(seglist, repeat=2)) #creates a dictionary with S1,S2 pairs from seglist, every possible combination
 	segs = {}.fromkeys(seglist, 0)
 	for x in pairs:
 		pairs[x] = {'observed':0, 'expected':0}
@@ -76,48 +76,44 @@ def pairOEcalc(filepath, segs, rounded=2):
 		pairs[pair]['expected'] = segs[seg1]*segs[seg2]/paircount
 		pairs[pair]['OE'] = pairs[pair]['observed']/pairs[pair]['expected']
 		pairs[pair]['OErnd']=round(pairs[pair]['OE'],rounded)
+	print(pairs)
 	return(pairs)
 	
-def makeOETable(pairsdic, segs, prnt=True, rounded=2, outfile="None"):
-    '''
-    arranges the O/E values and sorts them into a table for display.
-    "prnt" defaults to "True"; the function will print the results to screen.
-    the default rounding paramter is 2. If you want to see raw unrounded values, pass "False" to 'rounded'
-    '''
-    seglist = segs.strip().split(' ')
-    header = '\t'+'\t'.join(seglist)
-    if prnt:
-        print(header)
-    if outfile!="None":
-        f = open(outfile, 'w', encoding="utf-8")
-        f.write(header)
-    for seg in seglist:
-        row = [seg]
-        rndrow = [seg]
-        for otherseg in seglist:
-            pair = seg+otherseg
-            row.append(str(pairsdic[pair]['OE']))
-            rndrow.append(str(pairsdic[pair]['OErnd']))
-            if rounded == False:
-                outrow = '\t'.join(row)
-            else:
-                outrow = '\t'.join(rndrow)
-            if prnt:
-                print(outrow)
-            if outfile!="None":
-                f.write(outrow)
-    if outfile!="None":
-        outfile.close()
-                
+def makeOETable(filepath, segs, prnt=True, rounded=2, outfile="None"):
+	'''
+	arranges the O/E values and sorts them into a table for display.
+	"prnt" defaults to "True"; the function will print the results to screen.
+	the default rounding paramter is 2. If you want to see raw unrounded values, pass "False" to 'rounded'
+	'''
+	pairsdic=pairOEcalc(filepath, segs, rounded)
+	seglist = segs.strip().split(' ')
+	header = '\t'+'\t'.join(seglist)
+	if outfile!="None":
+	    f = open(outfile, 'w', encoding="utf-8")
+	rows = [header]
+	for seg in seglist:
+		row = [seg]
+	    rndrow = [seg]
+		for otherseg in seglist:
+			pair = seg+otherseg
+			row.append(str(pairsdic[pair]['OE']))
+			rndrow.append(str(pairsdic[pair]['OErnd']))
+			if rounded == False:
+		        outrow = '\t'.join(row)
+			else:
+		        outrow = '\t'.join(rndrow)
+			rows.append(outrow)
+	if print:
+	    print([row+'\n' for row in rows])
+	if outfile!="None":
+	    f.write([row+'\n' for row in rows])
+	    outfile.close()
+		
 
 
-def OE(filepath, segs, prnt = True, rawcounts = False, rounded = 2, outfile="None"):
-    '''
-    see the documentation for makeOETable and pairOEcalc
-    '''
-    pairsdic = pairOEcalc(filepath, segs, rounded)
-    makeOETable(pairsdic, segs, prnt, rawcounts, rounded)
+
+makeOETable('shona/hayes_wilson_files/LearningData.txt', 'a e i o u')
 
 if __name__ == "__main__":
-    import sys
-    OE(filepath=sys.argv[1], segs=sys.argv[2])
+        import sys
+        makeOETable(filepath=sys.argv[1], segs=sys.argv[2], rounded=2, prnt=True)

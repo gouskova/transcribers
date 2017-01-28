@@ -92,24 +92,22 @@ def makeOETable(filepath, segs, prnt=True, rounded=2, outfile="None"):
 	    f = open(outfile, 'w', encoding="utf-8")
 	rows = [header]
 	for seg in seglist:
-		row = [seg]
+	    row = [seg]
 	    rndrow = [seg]
-		for otherseg in seglist:
-			pair = seg+otherseg
-			row.append(str(pairsdic[pair]['OE']))
-			rndrow.append(str(pairsdic[pair]['OErnd']))
-			if rounded == False:
+	    for otherseg in seglist:
+                pair = seg+otherseg
+		row.append(str(pairsdic[pair]['OE']))
+		rndrow.append(str(pairsdic[pair]['OErnd']))
+		    if rounded == False:
 		        outrow = '\t'.join(row)
-			else:
+		    else:
 		        outrow = '\t'.join(rndrow)
-			rows.append(outrow)
+		    rows.append(outrow)
 	if print:
 	    print([row+'\n' for row in rows])
 	if outfile!="None":
 	    f.write([row+'\n' for row in rows])
 	    outfile.close()
-		
-
 
 
 makeOETable('shona/hayes_wilson_files/LearningData.txt', 'a e i o u')

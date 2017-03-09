@@ -1,3 +1,6 @@
+	
+#-*- coding: utf-8 -*-	# * c o d i N g : u t f 8 *
+#usr/bin/env python3	# u s r / b i n / e n v p y t h o n 3
 -ambuka	a m b u k a
 -amwa	a m w a
 -angarara	a N g a r a r a
@@ -7737,6 +7740,8 @@ chutika	ch u t i k a
 chuvha	ch u vh a
 chuvhu	ch u vh u
 chwaba chwaba	ch w a b a ch w a b a
+colnames(shonafull)=c("word")	c o l n a m e s ( sh o n a f u l l ) = c ( " w o r d " )
+colnames(shonaverbs)=c("word")	c o l n a m e s ( s h o n a v e r b s ) = c ( " w o r d " )
 d	d
 da	d a
 da da	d a d a
@@ -7874,6 +7879,10 @@ dedenhera	d e d e nh e r a
 dedenya	d e d e ny a
 dedera	d e d e r a
 dedza	d e dz a
+def findhyph(infile, outfile):	d e f f i n dh y p h ( i n f i l e , o u t f i l e ) :
+def findhyph(infile, outfile):	d e f f i n dh y p h ( i n f i l e , o u t f i l e ) :
+def findhyph(infile, outfile):	d e f f i n dh y p h ( i n f i l e , o u t f i l e ) :
+def findhyph(infile, outfile=false):	d e f  f  i n dh y p h ( i n f  i l e , o u t f  i l e = f  a l s e ) :
 dehenya	d e h e ny a
 dehwa	d e h w a
 dehwe	d e h w e
@@ -8979,6 +8988,10 @@ fii	f i i
 fikisi	f i k i s i
 fimbi	f i m b i
 fimbika	f i m b i k a
+findhyph('shona_all_ortho_key.txt', '/users/maria/desktop/shonaverbs.txt')	f i n dh  y p h  ( ' s  h  o  n a  _ a  l l _ o  r t  h  o  _ k e y . t  x t  ' , ' / u s  e r s  / m a  r i a  / d e s  k t  o  p / s  h  o  n a  v e r b s  . t  x t  ' )
+findhyph(infile='shona_all_ortho_key.txt', outfile='/users/maria/desktop/shonaverbs_chimhundu.txt')	f i  n  d h  y p h  ( i  n  f i  l e  = ' s  h  o  n  a  _ a  l l _ o  r t  h  o  _ k e  y . t  x t  ' , o  u t  f i  l e  = ' / u s  e  r s  / m a  r i  a  / d e  s  k t  o  p / s  h  o  n  a  v e  r b s  _ ch  i  mh  u n  d u . t  x t  ' )
+findhyph(infile='shona_all_ortho_key.txt', outfile='/users/maria/desktop/shonaverbs_chimhundu.txt')	f i  n  d h  y p h  ( i  n  f i  l e  = ' s  h  o  n  a  _ a  l l _ o  r t  h  o  _ k e  y . t  x t  ' , o  u t  f i  l e  = ' / u s  e  r s  / m a  r i  a  / d e  s  k t  o  p / s  h  o  n  a  v e  r b s  _ ch  i  mh  u n  d u . t  x t  ' )
+findhyph(infile='shona_all_ortho_key.txt', outfile='/users/maria/desktop/shonaverbs_chimhundu.txt')	f i  n  d h  y p h  ( i  n  f i  l e  = ' s  h  o  n  a  _ a  l l _ o  r t  h  o  _ k e  y . t  x t  ' , o  u t  f i  l e  = ' / u s  e  r s  / m a  r i  a  / d e  s  k t  o  p / s  h  o  n  a  v e  r b s  _ ch  i  mh  u n  d u . t  x t  ' )
 findi	f i n d i
 findimagon'a	f i n d i m a g o N a
 findimagona	f i n d i m a g o n a
@@ -10813,10 +10826,12 @@ imi	i m i
 imo	i m o
 imomo	i m o m o
 imomu	i m o m u
+import os, cleanshona	i m p o r t o s , c l e a n sh o n a
 imvi	i m v i
 imwi	i m w i
 in'a	i N a
 ina	i n a
+inboth = intersect(shonafull$word, shonaverbs$word)	i n b o  t h = i n t e r s e c t ( s h o  n a f u l l $ w o  r d , s h o  n a v e r b s $ w o  r d )
 inda	i n d a
 indasitiri	i n d a s i t i r i
 inde-e	i n d e e
@@ -12012,6 +12027,10 @@ kwizhizhi	k w i zh i zh i
 kwizu	k w i z u
 kwo	k w o
 kwo-	k w o
+length(shonaverbs$word)	l e N g t h ( sh o n a v e r b s $ w o r d )
+length(unique(shona$word))	l e N g t h ( u n i q u e ( sh o n a $ w o r d ) )
+length(unique(shonafull$word))	l e N g t h ( u n i q u e ( sh o n a f u l l $ w o r d ) )
+length(unique(shonaverbs$word))	l e N g t h ( u n i q u e ( sh o n a v e r b s $ w o r d ) )
 m	m
 ma	m a
 ma-	m a
@@ -17511,6 +17530,15 @@ shombori	sh o m b o r i
 shomeka	sh o m e k a
 shomesa	sh o m e s a
 shomhwe	sh o mh w e
+shonafull<-read.csv("~/git/phonotactics/test_runs/shona/user_input_files_full/learningdata.txt", header=f)	s  h o n  a  f u  l  l  < r  e  a  d . c s  v ( " ~ /  g i  t   /  p h o n  o t   a  c t   i  c s  /  t   e  s  t   _ r  u  n  s  /  s  h o n  a  /  u  s  e  r  _ i  n  p u  t   _ f i  l  e  s  _ f u  l  l  /  l  e  a  r  n  i  N g d a  t   a  . t   x t   " , h e  a  d e  r  = f )
+shonafull<-read.csv("~/git/phonotactics/test_runs/shona/user_input_files_full/learningdata.txt", header=f)	s  h o n  a  f u  l  l  < r  e  a  d . c s  v ( " ~ /  g i  t   /  p h o n  o t   a  c t   i  c s  /  t   e  s  t   _ r  u  n  s  /  s  h o n  a  /  u  s  e  r  _ i  n  p u  t   _ f i  l  e  s  _ f u  l  l  /  l  e  a  r  n  i  N g d a  t   a  . t   x t   " , h e  a  d e  r  = f )
+shonafull[shonafull=='bh u r e k a',]$word	sh o n a f u l l [ sh o n a f u l l = = ' bh u r e k a ' , ] $ w o r d
+shonaverbs$inbigdict = shonaverbs$word %in% inboth	s h o n  a v e r b s $ i  n  b i  g d i  c t = s h o n  a v e r b s $ w o r d % i  n  % i  n  b o t h
+shonaverbs<-read.csv("~/git/phonotactics/test_runs/shona/user_input_files_verbs_extended_segs/learningdata.txt", header=f)	s   h o n  a  v e    r  b s   < r  e    a  d  . c s   v ( " ~ /  g i  t   /  p h o n  o t   a  c t   i  c s   /  t   e    s   t   _  r  u n  s   /  s   h o n  a  /  u s   e    r  _  i  n  p u t   _  f i  l e    s   _  v e    r  b s   _  e    x t   e    n  d  e    d  _  s   e    g s   /  l e    a  r  n  i  N g d  a  t   a  . t   x t   " , h e    a  d  e    r  = f )
+shonaverbs<-read.csv("~/git/phonotactics/test_runs/shona/user_input_files_verbs_extended_segs/learningdata.txt", header=f)	s   h o n  a  v e    r  b s   < r  e    a  d  . c s   v ( " ~ /  g i  t   /  p h o n  o t   a  c t   i  c s   /  t   e    s   t   _  r  u n  s   /  s   h o n  a  /  u s   e    r  _  i  n  p u t   _  f i  l e    s   _  v e    r  b s   _  e    x t   e    n  d  e    d  _  s   e    g s   /  l e    a  r  n  i  N g d  a  t   a  . t   x t   " , h e    a  d  e    r  = f )
+shonaverbs[shonaverbs$inbigdict==f,]$word	s h o n a v e r b s [ s h o n a v e r b s $ i n b i g d i c t = = f , ] $ w o r d
+shonaverbs[shonaverbs$inbigdict==f,]$word	s h o n a v e r b s [ s h o n a v e r b s $ i n b i g d i c t = = f , ] $ w o r d
+shonaverbs[shonaverbs=='bh u r e k a',]$word	s h o n a v e r b s [ s h o n a v e r b s = = ' b h u r e k a ' , ] $ w o r d
 shondo	sh o n d o
 shondya	sh o n dy a
 shonga	sh o N g a
@@ -17785,6 +17813,7 @@ sukuta	s u k u t a
 suma	s u m a
 sumba	s u m b a
 sumburera	s u m b u r e r a
+summary(shonaverbs)	s u m m a r y ( s h o n a v e r b s )
 sumu	s u m u
 sumudza	s u m u dz a
 sumuka	s u m u k a
@@ -19688,6 +19717,8 @@ wooo	w o o o
 wovo	w o v o
 wowoma	w o w o m a
 wowora	w o w o r a
+write.table(sort(shona$word), "~/desktop/learningdata.txt",  quote=f, row.names=f)	w r  i t  e  . t  a  b l e  ( s o  r  t  ( s h o  n a  $ w o  r  d ) , " ~ / d e  s k t  o  p / l e  a  r  n i N g d a  t  a  . t  x t  " , q u o  t  e  = f , r  o  w . n a  m e  s = f )
+write.table(sort(shona$word), "~/desktop/learningdata.txt",  quote=f, row.names=f)	w r  i t  e  . t  a  b l e  ( s o  r  t  ( s h o  n a  $ w o  r  d ) , " ~ / d e  s k t  o  p / l e  a  r  n i N g d a  t  a  . t  x t  " , q u o  t  e  = f , r  o  w . n a  m e  s = f )
 wudyu	w u dy u
 wudyura	w u dy u r a
 wungudza	w u N g u dz a

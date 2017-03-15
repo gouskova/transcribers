@@ -1,5 +1,9 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+'''
+this doesn't really do anything useful at the moment'
+'''
 
 shonafile = open("Shona.Hannan1959_utf8.txt", 'r', encoding='utf-8')
 

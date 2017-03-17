@@ -129,7 +129,7 @@ def write_testfile(dics, outpath):
     outfile=open(outpath, 'w', encoding='utf-8')
     for dic in dics:
         for wd in dic:
-            outfile.write("%s \t  %s_%s \n" % (wd, dic[wd]['vowels'],dic[wd]['consonants']))
+            outfile.write("%s\t%s_%s\n" % (wd, dic[wd]['vowels'],dic[wd]['consonants']))
     outfile.close()
 
 

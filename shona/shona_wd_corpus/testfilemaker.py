@@ -82,7 +82,7 @@ def make_leg_illeg_clusters(clustype):
         return unattested
         
 
-def syllable(ctype, consonants, attclusters, unattclusters):
+def syllable(ctype, consonants, attclusters, unattclusters, verbfinal=False):
     vowels = ['a','e','i','o','u']
 #    consonants=get_shona_segs(cv='consonants')
 #    attclusters = make_leg_illeg_clusters('attested')
@@ -99,9 +99,11 @@ def syllable(ctype, consonants, attclusters, unattclusters):
         syll=(random.choice(unattclusters)+ ' ' + random.choice(vowels), 'unattested')
     if cslot=='c' and ctype=="unattested":
         syll=(random.choice(consonants)+' ' + random.choice(vowels), 'unattested')
+    if verbfinal==True:
+        syll=(random.choice(consonants)+' ' + 'a', 'singleton')
     return syll
 
-def make_words(maxwdlength, nwords, ctype):
+def make_words(maxwdlength, nwords, ctype, verb=False):
     consonants = get_shona_segs(cv='consonants')
     attclusters = make_leg_illeg_clusters('attested')
     unattclusters = make_leg_illeg_clusters('unattested')
@@ -113,6 +115,9 @@ def make_words(maxwdlength, nwords, ctype):
         for _ in itertools.repeat(None, wdlength):
             syll = syllable(ctype, consonants, attclusters, unattclusters)
             wd.append(syll[0])
+        if verb:
+            vsyll = syllable(ctype, consonants, attclusters, unattclusters, verbfinal=True)
+            wd.append(vsyll[0])
         wds[' '.join(wd)]={'vowels':'harmonic', 'consonants':ctype}
         for wd in wds:
             if wds[wd]['vowels'] !='disharmonic':
@@ -133,8 +138,9 @@ def write_testfile(dics, outpath):
     outfile.close()
 
 
-words1 = make_words(4, 5000, 'attested')
-words2 = make_words(4, 5000, 'unattested')
-words3 = make_words(4, 5000, 'singleton')
+words1 = make_words(4, 5000, 'attested', verb=True)
+words2 = make_words(4, 5000, 'unattested', verb=True)
+words3 = make_words(4, 5000, 'singleton', verb=True)
+
 
 write_testfile([words3, words1, words2], '/home/maria/Desktop/TestingData.txt')

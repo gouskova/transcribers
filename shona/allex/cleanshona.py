@@ -5,101 +5,84 @@ import os
 import itertools
 
 workdir = os.getcwd()
-
-files = [x for x in os.listdir(workdir) if x.startswith('shona')]
-
-#collect all words into a list
-
 vowels = ['i', 'e', 'a', 'o', 'u'] #looked at the corpus manually, all non-vowel-final words are English
-shonadic={}
 
-for x in files:
-    wlist = open(x, 'r', encoding= 'utf-8')
-    for line in wlist:
-        word=line.strip().split(' ')[1].lower()
-        finalseg = list(word)[-1]
-#        if (not word in shonadic) and (finalseg in vowels):
-        if 'q' in list(word):
-                shonadic[word] = 'bad'
-        elif finalseg in vowels:
-                shonadic[word] = 'good'
-        else:
-                shonadic[word] = 'bad'
-    wlist.close()
-    
-f = sorted([x for x in shonadic if shonadic[x] == 'bad'])
-probfile = open('prob_loans.txt', 'w', encoding='utf-8')
-for x in f:
-    probfile.write(x+'\n')
-probfile.close()
+def findshonasegs():
+    shonasegs = []
+    feats = open('/home/maria/git/phonotactics/data/shona/verbs/Features.txt', 'r', encoding='utf-8')
+    f =feats.readlines()[1:]
+    for line in f:
+        seg = line.split('\t')[0].strip()
+        shonasegs.append(seg)
+    feats.close()
+    return shonasegs
+ 
 
-shonadic = [x for x in shonadic if shonadic[x]=='good']
-
-print('length of shonadic ')
-print(len(shonadic))
-
-
-#obtain a list of shona segments that can be defined using our features
-
-shonasegs = []
-feats = open('/home/maria/git/phonotactics/data/shona/verbs/Features.txt', 'r', encoding='utf-8')
-f =feats.readlines()[1:]
-for line in f:
-    seg = line.split('\t')[0]
-    shonasegs.append(seg)
-feats.close()
-
-celex = open('/home/maria/git/transcribers/shona/shona_wd_corpus/celex_word_freq.txt', 'r', encoding='utf-8')
-f = []
-for line in celex:
-    word = line.split('\\')[1]
-    if not word in f:
-        f.append(word.lower())
-celex.close()
-
-shonadic = list(sorted(set(shonadic)-set(f))) 
-
-consonants = [x for x in shonasegs if not x in vowels]
-
+consonants = [x for x in findshonasegs() if not x in vowels]
 shonadigraphs=['m h','n h','d h','b h','v h', 'c h','s h','p f','s v','z v','z h','b v','n y','d z','d y','t y', 't s']
 
-#clusters = [a+' '+ b for (a,b) in list(itertools.product(consonants, repeat=2))]
-#print('all 2-way combinations of consonants')
-#print(len(clusters))
+def rawshona():
+    shonadic={}
+    files = [x for x in os.listdir(workdir) if x.startswith('shona')]
+    for x in files:
+        wlist = open(x, 'r', encoding= 'utf-8')
+        for line in wlist:
+            word=line.strip().split(' ')[1].lower()
+            finalseg = list(word)[-1]
+            if finalseg in vowels:
+                    shonadic[word] = 'good'
+            else:
+                    shonadic[word] = 'bad'
+        wlist.close()
+    f = sorted([x for x in shonadic if shonadic[x] == 'bad'])
+    probfile = open('prob_loans.txt', 'w', encoding='utf-8')
+    for x in f:
+        probfile.write(x+'\n')
+    probfile.close()
+    shonadic = [x for x in shonadic if shonadic[x]=='good']
+    print('length of raw ALLEX Shona corpus ')
+    print(len(shonadic))
+    return shonadic
 
-
-#these were identified with the help of git/phonotactics/code/datachecker.py, using extended Features.txt on prelim output of this very script
-
-#garbagesegs = ['č','ɔ','è','ę','í','ɲ','ə','zvh','ɪ','ā','ː','ɛ','ĉ','β','ó','ŭ','é','ˌ','ō','ê','á','ī','ç','c','ɑ','ớ','ö','l','ú','ū','î','ḥ','â','ô','ŋ','ʊ','ì','à','å','ñ','ï','ë','ý','ă','ü','ã','tsh','ɾ','ž','ǔ','ʻ','ṅ','ð','ṃ','ł','ä','ɓ','š','ɡ', 'q']
-
+   
+def intersectcelex(inlist):
+    celex = open('/home/maria/git/transcribers/shona/shona_wd_corpus/celex_word_freq.txt', 'r', encoding='utf-8')
+    f = []
+    for line in celex:
+        word = line.split('\\')[1]
+        if not word in f:
+            f.append(word.lower())
+    celex.close()
+    outlist = list(sorted(set(inlist)-set(f))) 
+    return outlist
 
 
 #now break up every word into spaces according to the existing list of segs 
 
-def spacify(wordlist, garbsave):
+def spacify(wordlist):
     '''
     takes in a raw word list, one word per line
     outputs something close to UCLAPL LearningData.txt--a dictionary of word and transcription pairs, where transcriptions are files separated by spaces
     '''
     trandic = {}
-#    garbsegs = set(garbagesegs)
+    print('length of shona wordlist before spacifying: ')
+    print('\t' + str(len(trandic)))
     for word in sorted(wordlist):
         orthoword=word
-#        trandic[orthoword]={'transcription':'', 'garbage':len(set(word)&garbsegs)>0}
-        trandic[orthoword]={'transcription':'', 'garbage':False}
         word = word.replace("-", "")
         word = word.replace("n'", "N")
         word = word.replace("ng", "Ng")
         word = word.replace(" ", "")
-        for seg in word:
-            word = word.replace(seg, seg+" ").strip()
+        word = ' '.join(list(word))
         for digraph in shonadigraphs:
             word = word.replace(digraph, digraph.replace(" ",""))
-        word = word.replace("ts v", 'tsv') #the two trigraphs
+        word = word.replace("ts v", 'tsv') #there are only two trigraphs
         word = word.replace("dz v", 'dzv')
-        word = word.replace("zvh", "zv h")
-        trandic[orthoword]['transcription']=word
-    return sorted([trandic[x]['transcription'] for x in trandic])
+        word = word.replace('zvh', 'z vh')
+        trandic[orthoword]=word
+    print('length of shona wordlist after spacifying: ')
+    print('\t' + str(len([trandic[x] for x in trandic])))
+    return sorted([trandic[x] for x in trandic])
 
 
 def find_shona_clusters(wlist):
@@ -117,11 +100,12 @@ def find_shona_clusters(wlist):
 
 
 
-print('length before spacify: '+ str(len(shonadic)))
-shonawds = spacify(shonadic, garbsave=False)
-print('length after spacify: ' + str(len(shonawds)))
 
 def rm_nonnat_clusters(wdic):
+    '''
+    input is a python dictionary of transcriptions; the value is whether to 'keep' the item (True/False)
+    e.g. {'p a k a': False}
+    '''
     nativelist = {}.fromkeys(wdic, True) #'keep' is True unless a cluster is found
     unattcl = []
     for wd in nativelist:
@@ -134,25 +118,30 @@ def rm_nonnat_clusters(wdic):
     return sorted([wd for wd in nativelist if nativelist[wd]==True])
 
 
-
-print(shonasegs)
-
-#for wd in shonawds:
-#    w = wd.split(' ')
-#    keep = True
-#    for seg in w:
-#        if seg not in shonasegs:
-#            keep = False    
-#    if not keep:
-#        shonawds.remove(wd)
-
-
-
-outfile = open("LearningData.txt", 'w', encoding='utf-8')
-for wd in shonawds:
-    outfile.write(wd+'\n')
-
-outfile.close()
+def removeforeignsegs(wdic):
+    '''
+    look through the list and see if anything in it doesn't match the feature file inventory. words like that get nixed
+    '''
+    segs = set(findshonasegs())
+    outdic = []
+    for word in wdic:
+        wsegs = set(word.split(' '))
+        if wsegs.issubset(segs): 
+                outdic.append(word)
+        else:
+                print(word)
+                continue
+    return outdic
+                
 
 
+def writeoutfile(shonawds):
+    outfile = open("LearningData.txt", 'w', encoding='utf-8')
+    for wd in shonawds:
+        outfile.write(wd+'\n')
+    outfile.close()
 
+
+def cleanshona():
+    f = intersectcelex(rawshona())
+    writeoutfile(removeforeignsegs(spacify(f)))

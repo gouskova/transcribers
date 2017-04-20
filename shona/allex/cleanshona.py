@@ -18,7 +18,10 @@ for x in files:
     for line in wlist:
         word=line.strip().split(' ')[1].lower()
         finalseg = list(word)[-1]
-        if not word in shonadic and finalseg in vowels:
+#        if (not word in shonadic) and (finalseg in vowels):
+        if 'q' in list(word):
+                shonadic[word] = 'bad'
+        elif finalseg in vowels:
                 shonadic[word] = 'good'
         else:
                 shonadic[word] = 'bad'
@@ -46,19 +49,28 @@ for line in f:
     shonasegs.append(seg)
 feats.close()
 
+celex = open('/home/maria/git/transcribers/shona/shona_wd_corpus/celex_word_freq.txt', 'r', encoding='utf-8')
+f = []
+for line in celex:
+    word = line.split('\\')[1]
+    if not word in f:
+        f.append(word.lower())
+celex.close()
+
+shonadic = list(sorted(set(shonadic)-set(f))) 
 
 consonants = [x for x in shonasegs if not x in vowels]
 
-shonadigraphs=['m h','n h','d h','b h','v h', 'c h','s h','p f','s v','z h','z v','b v','n y','d z','d y','t y', 't s']
+shonadigraphs=['m h','n h','d h','b h','v h', 'c h','s h','p f','s v','z v','z h','b v','n y','d z','d y','t y', 't s']
 
-clusters = [a+' '+ b for (a,b) in list(itertools.product(consonants, repeat=2))]
-print('all 2-way combinations of consonants')
-print(len(clusters))
+#clusters = [a+' '+ b for (a,b) in list(itertools.product(consonants, repeat=2))]
+#print('all 2-way combinations of consonants')
+#print(len(clusters))
 
 
 #these were identified with the help of git/phonotactics/code/datachecker.py, using extended Features.txt on prelim output of this very script
 
-garbagesegs = ['č','ɔ','è','ę','í','ɲ','ə','zvh','ɪ','ā','ː','ɛ','ĉ','β','ó','ŭ','é','ˌ','ō','ê','á','ī','ç','c','ɑ','ớ','ö','l','ú','ū','î','ḥ','â','ô','ŋ','ʊ','ì','à','å','ñ','ï','ë','ý','ă','ü','ã','tsh','ɾ','ž','ǔ','ʻ','ṅ','ð','ṃ','ł','ä','ɓ','š','ɡ', 'q']
+#garbagesegs = ['č','ɔ','è','ę','í','ɲ','ə','zvh','ɪ','ā','ː','ɛ','ĉ','β','ó','ŭ','é','ˌ','ō','ê','á','ī','ç','c','ɑ','ớ','ö','l','ú','ū','î','ḥ','â','ô','ŋ','ʊ','ì','à','å','ñ','ï','ë','ý','ă','ü','ã','tsh','ɾ','ž','ǔ','ʻ','ṅ','ð','ṃ','ł','ä','ɓ','š','ɡ', 'q']
 
 
 
@@ -70,35 +82,39 @@ def spacify(wordlist, garbsave):
     outputs something close to UCLAPL LearningData.txt--a dictionary of word and transcription pairs, where transcriptions are files separated by spaces
     '''
     trandic = {}
-    garbsegs = set(garbagesegs)
+#    garbsegs = set(garbagesegs)
     for word in sorted(wordlist):
         orthoword=word
-        trandic[orthoword]={'transcription':'', 'garbage':len(set(word)&garbsegs)>0}
-        orthoword = word
+#        trandic[orthoword]={'transcription':'', 'garbage':len(set(word)&garbsegs)>0}
+        trandic[orthoword]={'transcription':'', 'garbage':False}
+        #orthoword = word
         word = word.replace("-", "")
         word = word.replace("\s", "") #spaces left from removing hyphens
         word = word.replace("n'", "N")
         word = word.replace("ng", "Ng")
-        word = word.replace(" ", "")
+        word = word.replace("\s", "")
         for seg in word:
             word = word.replace(seg, seg+" ").strip()
-            word = word.replace("  ", " ")
+        word = word.replace("\s\s", "\s")
         for digraph in shonadigraphs:
-            word = word.replace(digraph, digraph.replace(" ",""))
-            word = word.replace("ts v", 'tsv') #the two trigraphs
-            word = word.replace("dz v", 'dzv')
-            word = word.replace("  ", " ")
+            word = word.replace(digraph, digraph.replace("\s",""))
+        word = word.replace("ts\sv", 'tsv') #the two trigraphs
+        word = word.replace("dz\sv", 'dzv')
+        word = word.replace("\s\s", "\s")
+#       word = word.replace("a  ", "a ")
+#       word = word.replace("i  ", "i ")
+        word = word.replace("zvh", "zv\sh")
         trandic[orthoword]['transcription']=word
     print('number of words with garbage segs: ')
-    print(len([x for x in trandic if trandic[x]['garbage']==True]))
-    if garbsave:
-        garbfile = open('garbage.txt', 'w', encoding='utf-8')
-        garbsegs = sorted([x for x in trandic if trandic[x]['garbage']==True])
-        for x in garbsegs: 
-            garbfile.write(x+'\n')
-        garbfile.close()
-    return sorted([trandic[x]['transcription'] for x in trandic if not trandic[x]['garbage']==True]) 
-
+    #print(len([x for x in trandic if trandic[x]['garbage']==True]))
+    #if garbsave:
+    #    garbfile = open('garbage.txt', 'w', encoding='utf-8')
+    #    garbsegs = sorted([x for x in trandic if trandic[x]['garbage']==True])
+    #    for x in garbsegs: 
+    #        garbfile.write(x+'\n')
+    #    garbfile.close()
+    #return sorted([trandic[x]['transcription'] for x in trandic if not trandic[x]['garbage']==False]) 
+    return sorted([trandic[x]['transcription'] for x in trandic])
 
 
 def find_shona_clusters(wlist):
@@ -115,28 +131,32 @@ def find_shona_clusters(wlist):
     return sorted(list(set([x for x in clist if clist[x]==True])))
 
 
-chimhundu = open('/home/maria/git/transcribers/shona/shona_wd_corpus/chimhundu.txt', 'r', encoding='utf-8')
-f = [x.strip('\n') for x in chimhundu.readlines()]
+#chimhundu = open('/home/maria/git/transcribers/shona/shona_wd_corpus/chimhundu.txt', 'r', encoding='utf-8')
+#f = [x.strip('\n') for x in chimhundu.readlines()]
 
-attested = find_shona_clusters(f)
-chimhundu.close()
+#attested = find_shona_clusters(f)
+#chimhundu.close()
 
-print('attested clusters')
-print(len(attested))
+#print('attested clusters')
 
-unattcl = [x for x in clusters if not x in attested]
+#print(len(attested))
 
-print('length of unattcl')
-print(len(unattcl))
+#print(attested)
+
+#unattcl = [x for x in clusters if not x in attested]
+
+#print('length of unattcl')
+#print(len(unattcl))
 #print(unattcl)
 
 print('length before spacify: '+ str(len(shonadic)))
-shonawds = spacify(shonadic, garbsave=True)
+shonawds = spacify(shonadic, garbsave=False)
 print('length after spacify: ' + str(len(shonawds)))
 #print(shonawds[0:200])
 
 def rm_nonnat_clusters(wdic):
     nativelist = {}.fromkeys(wdic, True) #'keep' is True unless a cluster is found
+    unattcl = []
     for wd in nativelist:
         if nativelist[wd]==True:
             for cl in unattcl:
@@ -148,11 +168,25 @@ def rm_nonnat_clusters(wdic):
 
 #reusing the variable because long wordlist
 
-shonadic = rm_nonnat_clusters(shonawds)
-print('length of declustered shonadic ' + str(len(shonadic)))
+#shonadic = rm_nonnat_clusters(shonawds)
+#print('length of declustered shonadic ' + str(len(shonadic)))
+
+print(shonasegs)
+
+for wd in shonawds:
+    w = wd.split('\s')
+    keep = True
+    for seg in w:
+        if seg not in shonasegs:
+            keep = False    
+    if not keep:
+#        print(wd)
+        shonawds.remove(wd)
+
+
 
 outfile = open("LearningData.txt", 'w', encoding='utf-8')
-for wd in shonadic:
+for wd in shonawds:
     outfile.write(wd+'\n')
 
 outfile.close()

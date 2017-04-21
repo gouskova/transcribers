@@ -87,33 +87,18 @@ def spacify(wordlist, garbsave):
         orthoword=word
 #        trandic[orthoword]={'transcription':'', 'garbage':len(set(word)&garbsegs)>0}
         trandic[orthoword]={'transcription':'', 'garbage':False}
-        #orthoword = word
         word = word.replace("-", "")
-        word = word.replace("\s", "") #spaces left from removing hyphens
         word = word.replace("n'", "N")
         word = word.replace("ng", "Ng")
-        word = word.replace("\s", "")
+        word = word.replace(" ", "")
         for seg in word:
             word = word.replace(seg, seg+" ").strip()
-        word = word.replace("\s\s", "\s")
         for digraph in shonadigraphs:
-            word = word.replace(digraph, digraph.replace("\s",""))
-        word = word.replace("ts\sv", 'tsv') #the two trigraphs
-        word = word.replace("dz\sv", 'dzv')
-        word = word.replace("\s\s", "\s")
-#       word = word.replace("a  ", "a ")
-#       word = word.replace("i  ", "i ")
-        word = word.replace("zvh", "zv\sh")
+            word = word.replace(digraph, digraph.replace(" ",""))
+        word = word.replace("ts v", 'tsv') #the two trigraphs
+        word = word.replace("dz v", 'dzv')
+        word = word.replace("zvh", "zv h")
         trandic[orthoword]['transcription']=word
-    print('number of words with garbage segs: ')
-    #print(len([x for x in trandic if trandic[x]['garbage']==True]))
-    #if garbsave:
-    #    garbfile = open('garbage.txt', 'w', encoding='utf-8')
-    #    garbsegs = sorted([x for x in trandic if trandic[x]['garbage']==True])
-    #    for x in garbsegs: 
-    #        garbfile.write(x+'\n')
-    #    garbfile.close()
-    #return sorted([trandic[x]['transcription'] for x in trandic if not trandic[x]['garbage']==False]) 
     return sorted([trandic[x]['transcription'] for x in trandic])
 
 
@@ -131,28 +116,10 @@ def find_shona_clusters(wlist):
     return sorted(list(set([x for x in clist if clist[x]==True])))
 
 
-#chimhundu = open('/home/maria/git/transcribers/shona/shona_wd_corpus/chimhundu.txt', 'r', encoding='utf-8')
-#f = [x.strip('\n') for x in chimhundu.readlines()]
-
-#attested = find_shona_clusters(f)
-#chimhundu.close()
-
-#print('attested clusters')
-
-#print(len(attested))
-
-#print(attested)
-
-#unattcl = [x for x in clusters if not x in attested]
-
-#print('length of unattcl')
-#print(len(unattcl))
-#print(unattcl)
 
 print('length before spacify: '+ str(len(shonadic)))
 shonawds = spacify(shonadic, garbsave=False)
 print('length after spacify: ' + str(len(shonawds)))
-#print(shonawds[0:200])
 
 def rm_nonnat_clusters(wdic):
     nativelist = {}.fromkeys(wdic, True) #'keep' is True unless a cluster is found
@@ -166,22 +133,18 @@ def rm_nonnat_clusters(wdic):
     print(len([wd for wd in nativelist if nativelist[wd]==False]))
     return sorted([wd for wd in nativelist if nativelist[wd]==True])
 
-#reusing the variable because long wordlist
 
-#shonadic = rm_nonnat_clusters(shonawds)
-#print('length of declustered shonadic ' + str(len(shonadic)))
 
 print(shonasegs)
 
-for wd in shonawds:
-    w = wd.split('\s')
-    keep = True
-    for seg in w:
-        if seg not in shonasegs:
-            keep = False    
-    if not keep:
-#        print(wd)
-        shonawds.remove(wd)
+#for wd in shonawds:
+#    w = wd.split(' ')
+#    keep = True
+#    for seg in w:
+#        if seg not in shonasegs:
+#            keep = False    
+#    if not keep:
+#        shonawds.remove(wd)
 
 
 

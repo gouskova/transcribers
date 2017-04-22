@@ -66,7 +66,7 @@ def spacify(wordlist):
     '''
     trandic = {}
     print('length of shona wordlist before spacifying: ')
-    print('\t' + str(len(trandic)))
+    print('\t' + str(len(wordlist)))
     for word in sorted(wordlist):
         orthoword=word
         word = word.replace("-", "")
@@ -129,11 +129,21 @@ def removeforeignsegs(wdic):
         if wsegs.issubset(segs): 
                 outdic.append(word)
         else:
-                print(word)
                 continue
+                #print(word)
     return outdic
                 
-
+def removescanerrors(wdic):
+    outdic = []
+    garb = []
+    for word in wdic:
+        if len(word.split(' '))>20:
+            print(word)
+            garb.append(word)
+        else:
+            outdic.append(word)
+    print(len(garb))
+    return outdic
 
 def writeoutfile(shonawds):
     outfile = open("LearningData.txt", 'w', encoding='utf-8')
@@ -143,5 +153,5 @@ def writeoutfile(shonawds):
 
 
 def cleanshona():
-    f = intersectcelex(rawshona())
-    writeoutfile(removeforeignsegs(spacify(f)))
+    f = removescanerrors(removeforeignsegs(spacify(intersectcelex(rawshona()))))
+    writeoutfile(f)

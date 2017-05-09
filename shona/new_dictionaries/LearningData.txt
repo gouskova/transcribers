@@ -1,6 +1,3 @@
-
-# * c o d i N g : u t f 8 *
-# u s r / b i n / e n v p y t h o n 3
 a m b u k a
 a m w a
 a N g a r a r a

@@ -81,7 +81,7 @@ def spacify(wordlist):
         word = word.replace('zvh', 'z vh')
         trandic[orthoword]=word
     print('length of shona wordlist after spacifying: ')
-    print('\t' + str(len([trandic[x] for x in trandic])))
+    print('\t' + str(len(trandic)))
     return sorted([trandic[x] for x in trandic])
 
 
@@ -133,7 +133,11 @@ def removeforeignsegs(wdic):
                 #print(word)
     return outdic
                 
-def removescanerrors(wdic):
+def removelongwds(wdic):
+    '''
+    took a look in R and it seems that there is a long tail to the word length
+    distribution, so words over about 17 segs are possibly scan errors. can't be 100% sure but figured cutting it off at 20 egs is not unreasonable
+    '''
     outdic = []
     garb = []
     for word in wdic:
@@ -153,5 +157,6 @@ def writeoutfile(shonawds):
 
 
 def cleanshona():
-    f = removescanerrors(removeforeignsegs(spacify(intersectcelex(rawshona()))))
+    f = removelongwds(removeforeignsegs(spacify(intersectcelex(rawshona()))))
     writeoutfile(f)
+    print('done with ALLEX cleaning')

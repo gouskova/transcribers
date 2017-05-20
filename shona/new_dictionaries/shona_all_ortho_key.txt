@@ -1,6 +1,3 @@
-	
-#-*- coding: utf-8 -*-	# * c o d i N g : u t f 8 *
-#usr/bin/env python3	# u s r / b i n / e n v p y t h o n 3
 -ambuka	a m b u k a
 -amwa	a m w a
 -angarara	a N g a r a r a

@@ -1,11 +1,17 @@
 #!usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import os, shutil, sys
+'''
+pastes the shona data into a file
+'''
+import os
 
 workdir = os.getcwd()
 
-files = [x for x in os.listdir(workdir) if x.startswith('shona')]
+
+files = [x for x in os.listdir(workdir) if x.startswith('shona_noun')]
+
+#files = [x for x in os.listdir(workdir) if x.startswith('shona')]
 
 shonadic=[]
 
@@ -20,6 +26,17 @@ for file in files:
 
 print('done reading shona files')
 
+shonadic = sorted(list(set([x for x in shonadic if (not '-' in x) and (not ' ' in x) and (not len(x)==1)])))
+
+
+
+with open('shona_nouns.txt', 'w', encoding='utf-8') as f:
+    for word in shonadic:
+        f.write(word+'\n')
+
+
+
+
 
 #shonatrigraphs = ['tsv','dzv']
 #shonadigraphs=['mh','nh','dh','bh','vh', 'ch','sh','pf','sv','zh','zv','bv','ny','dz','dy','ty', 'ts']
@@ -30,8 +47,8 @@ print('done reading shona files')
 shonadigraphs=['m h','n h','d h','b h','v h', 'c h','s h','p f','s v','z h','z v','b v','n y','d z','d y','t y', 't s']
 
 
-outfile = open("LearningData.txt", 'w', encoding='utf-8')
-orthofile = open("shona_all_ortho_key.txt", 'w', encoding='utf-8')
+#outfile = open("LearningData.txt", 'w', encoding='utf-8')
+#orthofile = open("shona_all_ortho_key.txt", 'w', encoding='utf-8')
 
 def spacify(wordlist, outfile, orthofile):
 	for word in sorted(wordlist):
@@ -52,7 +69,7 @@ def spacify(wordlist, outfile, orthofile):
 		orthofile.write(orthoword + '\t' + word + '\n')
 		outfile.write(word+'\n')
 				
-spacify(shonadic, outfile, orthofile)	
+#spacify(shonadic, outfile, orthofile)	
 
-outfile.close()
-orthofile.close()
+#outfile.close()
+#orthofile.close()

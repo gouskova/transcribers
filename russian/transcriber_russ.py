@@ -216,12 +216,16 @@ def palatalize(word):
 #=======================================================================
 	
 def do_vowels(word, stress):
-	if stress == "threeway":
-		return threeway_vowels(word)
-	elif stress == "twoway":
-		return twoway_vowels(word)
-	elif stress == "off":
-		return nostress_vowels(word)
+    '''
+    'stress' arg has three levels: "threeway", "twoway", "off"
+    "word" is a string.
+    '''
+    if stress == "threeway":
+        return threeway_vowels(word)
+    elif stress == "twoway":
+        return twoway_vowels(word)
+    elif stress == "off":
+        return nostress_vowels(word)
 
 
 #=======================================================================
@@ -317,6 +321,8 @@ def transcribe(word, stress, spaces, voice, reduction):
 	"""
 	Transcribes Cyrillic to IPA. Options include stress ("off"=default, "twoway" and "threeway"), adding spaces between sounds ("yes"=default, "no"), transcribing devoicing and voicing agreement ("no"=default, "yes"), vowel reduction ("no"=default, "yes").
 	Make sure to set spaces to 'yes' if you are using UCLAPL='yes' in the transcription wrapper version.
+        'stress' has three levels, 'threeway', 'twoway', and 'off'
+
 	"""
 	word = spacify(word)
 	word = do_consonants(word)

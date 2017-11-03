@@ -24,12 +24,12 @@ quech_ipa_table = '/home/maria/git/transcribers/quechua/quechua_transcription_ke
 
 #newspaper words file, segmented:
 
-#quechortho = '/home/maria/git/morphology/quechua/words/words_try3.txt'
-#quechipa = '/home/maria/git/morphology/quechua/words/words_try3_ipa.txt'
+quechortho = '/home/maria/git/morphology/quechua/words/NC_type_seg.txt'
+quechipa = '/home/maria/git/morphology/quechua/words/words_ipa.txt'
 
 #roots file:
-quechortho = '/home/maria/git/morphology/quechua/roots/LearningData.txt'
-quechipa = '/home/maria/git/morphology/quechua/roots/roots_ipa.txt'
+#quechortho = '/home/maria/git/morphology/quechua/roots/LearningData.txt'
+#quechipa = '/home/maria/git/morphology/quechua/roots/roots_ipa.txt'
 
 #unsegmented novela:
 #quechortho = '/home/maria/git/morphology/quechua/words/PYW_novela.txt'

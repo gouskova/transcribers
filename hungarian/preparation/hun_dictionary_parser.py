@@ -1,4 +1,4 @@
-#!usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 # This is a script filtering out foreign (greek and latin) words and polimorphemic words from newline-eliminated .csv file (for phonotactic purposes)

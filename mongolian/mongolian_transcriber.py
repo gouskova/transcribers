@@ -11,7 +11,7 @@ This book describes the Khalkha (Halh) dialect, spoken in Ulan Baatar.
 
 Vowel length:
 
-The language has a vowel length contrast, confined to the first syllable. Orthographic double vowels are pronounced as short in subsequent syllables.
+The language has a vowel length contrast, confined to the first syllable. Orthographic double vowels are pronounced as short in subsequent syllables. Vowels in monosyllables are long.
 
 Vowel quality: ATR contrast between [e,u,o] and [a, ʊ, ɔ]; narrow transcriptions depict [i] and [ɪ] as distinct.
 

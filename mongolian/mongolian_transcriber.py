@@ -11,24 +11,27 @@ This book describes the Khalkha (Halh) dialect, spoken in Ulan Baatar.
 
 Vowel length:
 
-The language has a vowel length contrast, confined to the first syllable. Orthographic double vowels are pronounced as short in subsequent syllables. Vowels in monosyllables are long.
+The language has a vowel length contrast, confined to the first syllable. Orthographic double vowels are pronounced as short in subsequent syllables. Vowels in monosyllables are long. Vowels that are written as singletons form the 'reduced' category; they are described as schwa colored by neighboring vowels and consonants.
 
 Vowel quality: ATR contrast between [e,u,o] and [a, ʊ, ɔ]; narrow transcriptions depict [i] and [ɪ] as distinct.
 
+
+Consonants:
 
 There is a palatalization contrast, which appears to be related to the pharyntalization distinction in vowels such that "plain" consonants occur with pharyngealized vowels and palatalized consonants occur with non-pharyngealized vowels.
 
 Palatalization is predictably present after i-diphthongs, thus aiC is aiCj
 
-there's some sort of apocope going on between the orthography and the pronunciation, such that final э is not pronounced but is instead interpreted as lack of palatalization on the preceding consonant
+there's some sort of apocope going on between the orthography and the pronunciation, such that final short vowels are not pronounced but is instead interpreted as lack of palatalization on the preceding consonant, or else velar/uvular distinctions
 
-final н means velar; final нэ means alveolar
+for example, final н means velar; final нэ means alveolar
 
-velars [ŋ, x] occur in the vicinity of [i, e, u, o]; the uvulars [ɴ, χ] in the vicinity of [a, ʊ, ɔ]
+velars [ŋ, x] occur in the vicinity of [i, e, u, o]; the uvulars [ɴ, χ] in the vicinity of [a, ʊ, ɔ]. ditto for [g] and the uvular counterpart
 
 there is a morpheme boundary blocking effect: [χ] fails to raise to [x] when followed by a suffix [i]; this is reflected in the orthography (сүх-ийг] is velar and [ах-ыг] is uvular
 
-I'm making the executive decision to transcribe "г" as [k], not [g], because it's a really suspicious gap in the inventory
+Finally, there is apparently a contrast between [j] and [i], which is weirdly reflected in the orthography. I am not sure I got it right here.
+
 '''
 
 import re
@@ -84,9 +87,16 @@ long_j_combos={
         'ю у': 'j ʊʊ',
         'ю ү': 'j uu'}
 
+
+diphthongs = {
+        'а й':'ai',
+        'у й': 'ʊi',
+        'ү й': 'ui',
+        'о й': 'ɔi'}
+
 #these are the full vowels
-vowels_phar = ['a', 'aa', 'ɔ', 'ɔɔ', 'ʊ', 'ʊʊ'] 
-vowels_nophar = ['o', 'oo', 'i', 'ii', 'u', 'uu', 'e', 'ee']
+vowels_phar = ['a', 'aa', 'ɔ', 'ɔɔ', 'ʊ', 'ʊʊ', 'ai', 'ɔi', 'ʊi'] 
+vowels_nophar = ['o', 'oo', 'i', 'ii', 'u', 'uu', 'e', 'ee', 'ui', 'oi']
 
 vowels = vowels_phar+vowels_nophar
 short_vowels = [x for x in vowels if len(x)==1]
@@ -103,6 +113,8 @@ def spacify(word):
 def transcribe_vowels(word):
     word = word.replace("и й", "j ii")
     word = word.replace("э й", "ee")
+    for v in diphthongs:
+        word = word.replace(v, diphthongs[v])
     for v in long_j_combos:
         word = word.replace(v, long_j_combos[v])
     for v in cyr_vowels:
@@ -183,9 +195,9 @@ def vowel_length(word):
             tail = re.search("("+v1+" )(.*)",word).group(2) 
         for v in list(set(v_tier[1:])):
             short = v[0]
-            if len(v)==2:
+            if len(v)==2 and not v in diphthongs.values():
                 tail = tail.replace(v, short)
-            else:
+            elif len(v)==1:
                 tail = re.sub(' '+v+' ', ' ə ', tail)
         if v1 == 'e': #orthographic short э in first syllable stands for i
             v1='i'
@@ -221,6 +233,14 @@ def pal_cleanup(word):
     word = re.sub('([χʧjʦɢʃs]ʰ*)ʲ', '\\1', word)
     return word
 
+def diphthong_fix(word):
+    '''
+    diphthongs push the nat class size beyond what the UCLAPL can handle, so let's break them up
+    '''
+    for v in diphthongs.values():
+        word = word.replace(v, ' '.join(list(v)))
+    return word
+
 def transcribe_word(word):
     word = spacify(word)
     word = transcribe_vowels(word)
@@ -231,21 +251,26 @@ def transcribe_word(word):
     word = enforce_velar_agr(word)
     word = epenthesis(word)
     word = pal_cleanup(word)
+    word = diphthong_fix(word)
     return word
 
 
 
-def transcribe_wlist(infile, outfile):
+def transcribe_wlist(infile, outfile, cyr):
 	with open(infile, 'r', encoding='utf-8') as f:
 		with open(outfile, 'w', encoding='utf-8') as out:
 			for word in f:
-				#out.write(transcribe_word(word.strip())+'\t' + word)
-                                out.write(transcribe_word(word.strip())+'\n')
+				if cyr == 'cyrillic':
+					out.write(transcribe_word(word.strip())+'\t' + word)
+				else:
+					out.write(transcribe_word(word.strip())+'\n')
 	print('done') 
 
 
 if __name__ == '__main__':
 	import sys
-	transcribe_wlist(sys.argv[1], sys.argv[2])
-
+	try:
+		transcribe_wlist(sys.argv[1], sys.argv[2], sys.argv[3])
+	except IndexError:
+		print("Usage: python3 mongolian_transcriber.py infile.txt outfile.txt cyrillic/nocyrillic")
 

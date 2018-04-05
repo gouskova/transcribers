@@ -11,7 +11,7 @@ To do: make it work better with morpheme boundaries.
 
 Usage:
 
-python3 generic_transcriber.py path_to_IPA_chart path_to_orig_file path_to_outfile
+python3 generic_transcriber.py path_to_IPA_chart path_to_orig_file path_to_IPA_outfile
 
 paths should be full. An example of an IPA chart:
 
@@ -76,4 +76,6 @@ a g a t i m b a
 a g a ts i k o
 
 a g a ts i ts i n o
+=======
 
+The script will take this and convert the digraphs to IPA counterparts, leaving the other characters alone. See Kinyarwanda folder for examples of IPA chart files, originals, and IPA transcribed files.

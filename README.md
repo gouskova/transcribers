@@ -17,14 +17,21 @@ paths should be full. An example of an IPA chart:
 
 
 
-jy  ɟ
-ny  ɲ
-ng  ŋ
-sy  ç
-ts  ʦ
-ch  ʧ
-sh  ʃ
-zh  ʒ
+jy	  ɟ
+
+ny	  ɲ
+
+ng	  ŋ
+
+sy	  ç
+
+ts	  ʦ
+
+ch	  ʧ
+
+sh	  ʃ
+
+zh	  ʒ
 
 
 An example of the original file to be converted to IPA:

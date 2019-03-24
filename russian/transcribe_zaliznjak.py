@@ -1,19 +1,17 @@
 #!usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import os, sys
 from transcriber_russ import *
-import os
+
+basedir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+morphpath = os.path.join(basedir, 'morphology')
 
 
-#workdir = os.path.expanduser('~/Documents/Dropbox/work/dictionaries/russian_dictionaries/morphology/')
-#os.chdir(workdir)
+infile= open(os.path.join(morphpath, "russian/input/zaliznjak_paradigms.txt", 'r', encoding='utf-8')
+outfile=open(os.path.join(morphpath, "transcribed_paradigms.txt", 'w', encoding='utf-8')
 
 
-infile= open("/home/maria/git/morphology/russian/input/zaliznjak_paradigms.txt", 'r', encoding='utf-8')
-outfile=open("/home/maria/Desktop/transcribed_paradigms.txt", 'w', encoding='utf-8')
-
-
-#outfile.write("cyrillic\t cyr_w_stress\t IPA\n")
 
 for line in infile:
     line=line.strip('/n').split(",")

@@ -4,14 +4,6 @@
 '''this module supplies functions and options for converting Russian Cyrillic into IPA, with or without voicing rules and unstressed vowel reduction as in the standard (Moscow) dialect. It will also convert the orthography to a pseudotranscription compatible with the Minimal Generalization Learner as well as the UCLA Phonotactic Learner.
 
 #This module removes morpheme boundaries in the process of transcription. If you want morpheme boundaries, use the additional module that will break transcribed words up based on corresponding cyrillic boundaries.
-
-#note: several other modules rely on this one. You can copy it to the directory where the dependency is going to look for it, or else copy it to the appropriate sys.path(). On my system, the following steps located the relevant place:
-
-#>>> import sys
-#>>> print(sys.path())
-#/Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5
-
-# $ cp transcriber_russ.py /Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/
 '''
 
 import re
@@ -356,7 +348,7 @@ def transcribe(word, stress, spaces, voice, reduction):
 def transcription_wrapper(word, MGL="no", UCLAPL="no", stress="off", spaces = "yes", voice="no", reduction="no"):
                 word=transcribe(word, stress, spaces, voice, reduction)
                 if MGL=="yes":
-                        word = MGL_transcribe(word)
+                        word = MGL_transcribe(word) 
                 if UCLAPL!="no":
                         word = UCLAPL_transcribe(word, UCLAPL)
                 return word

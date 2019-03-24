@@ -11,6 +11,12 @@ def transc_table(ipatable):
     return transkey
 
 
+def transcribe_wd(ipadic, word):
+    '''
+    make the ipa table outside this function first!
+    '''
+    return ' '.join([ipadic[let] if let in ipadic else let for let in word])
+
 def transcribe_wds(ipatable, infile, outfile, takefirstcolumn=True):
     transkey = transc_table(ipatable)
     with open(infile, 'r', encoding='utf-8') as f:

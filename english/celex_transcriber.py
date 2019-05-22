@@ -67,24 +67,32 @@ with open('LearningData.txt', 'w', encoding='utf-8') as f:
         f.write(celexdic[word]['IPA'].strip()+'\n') 
 
 basedir = os.path.dirname(basedir)
-phonopath = os.path.join(basedir, 'phonotactics/data/english')
+phonopath = os.path.join(basedir, 'compseg/data/english')
 
 print("Phonopath:" + phonopath)
 
-with open(os.path.join(phonopath, 'wds_t_s_tsh/LearningData.txt'), 'w', encoding='utf-8') as f:
-    for word in sorted(celexdic):
-        f.write(celexdic[word]['IPA'].strip()+'\n')
+#with open(os.path.join(phonopath, 'wds_t_s_tsh/LearningData.txt'), 'w', encoding='utf-8') as f:
+#    for word in sorted(celexdic):
+#        f.write(celexdic[word]['IPA'].strip()+'\n')
 
-with open(os.path.join(phonopath, 'wds_ts_tsh/LearningData.txt'), 'w', encoding='utf-8') as f:
-    for word in sorted(celexdic):
-        f.write(celexdic[word]['IPA'].replace('t s', 'ts').replace('d z', 'dz').strip()+'\n')
+#with open(os.path.join(phonopath, 'wds_ts_tsh/LearningData.txt'), 'w', encoding='utf-8') as f:
+#    for word in sorted(celexdic):
+#        f.write(celexdic[word]['IPA'].replace('t s', 'ts').replace('d z', 'dz').strip()+'\n')
 
         
-with open(os.path.join(phonopath, 'wds_t_s_t_sh/LearningData.txt'), 'w', encoding='utf-8') as f:
+#with open(os.path.join(phonopath, 'wds_t_s_t_sh/LearningData.txt'), 'w', encoding='utf-8') as f:
+with open(os.path.join(phonopath, 'LearningData_retrac.txt'), 'w', encoding='utf-8') as f:
     for word in sorted(celexdic):
+        #f.write(celexdic[word]['IPA'].replace('tʃ', 't ʃ').replace('dʒ', 'd ʒ').strip()+'\n')
+        f.write(celexdic[word]['IPA'].replace('tʃ', 't˗ ʃ').replace('dʒ', 'd˗ ʒ').strip()+'\n')
+
+with open(os.path.join(phonopath, 'LearningData_orig.txt'), 'w', encoding='utf-8') as f:
+    for word in sorted(celexdic):
+        #f.write(celexdic[word]['IPA'].replace('tʃ', 't ʃ').replace('dʒ', 'd ʒ').strip()+'\n')
         f.write(celexdic[word]['IPA'].replace('tʃ', 't ʃ').replace('dʒ', 'd ʒ').strip()+'\n')
 
-with open(os.path.join(phonopath, 'wds_ts_t_sh/LearningData.txt'), 'w', encoding='utf-8') as f:
-    for word in sorted(celexdic):
-        f.write(celexdic[word]['IPA'].replace('tʃ', 't ʃ').replace('dʒ', 'd ʒ').replace('t s', 'ts').replace('d z', 'dz').strip()+'\n')
+
+#with open(os.path.join(phonopath, 'wds_ts_t_sh/LearningData.txt'), 'w', encoding='utf-8') as f:
+#    for word in sorted(celexdic):
+#        f.write(celexdic[word]['IPA'].replace('tʃ', 't ʃ').replace('dʒ', 'd ʒ').replace('t s', 'ts').replace('d z', 'dz').strip()+'\n')
 

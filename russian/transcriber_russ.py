@@ -3,7 +3,7 @@
 
 '''this module supplies functions and options for converting Russian Cyrillic into IPA, with or without voicing rules and unstressed vowel reduction as in the standard (Moscow) dialect. It will also convert the orthography to a pseudotranscription compatible with the Minimal Generalization Learner as well as the UCLA Phonotactic Learner.
 
-#This module removes morpheme boundaries in the process of transcription. If you want morpheme boundaries, use the additional module that will break transcribed words up based on corresponding cyrillic boundaries.
+This module removes morpheme boundaries in the process of transcription. If you want morpheme boundaries, use the additional module that will break transcribed words up based on corresponding cyrillic boundaries.
 '''
 
 import re
@@ -260,7 +260,7 @@ def reduce_vowels(word):
         return word
 
 #=======================================================================
-#consonant voicing. optional, requires IPA-transcribed input. Russian [v] undergoes devoicing but does not trigger voicing agreement, so the dictionaries for defining agreement mapping are slightly different. Note also that some consonants do not really apear
+#consonant voicing. optional, requires IPA-transcribed input. Russian [v] undergoes devoicing but does not trigger voicing agreement, so the dictionaries for defining agreement mapping are slightly different. Note also that some consonants do not really appear
 
 #=======================================================================
 
@@ -286,11 +286,11 @@ del voiced_pair['f']
 
 #=======================================================================
 #creates a dictionary of UR/SR correspondences for voicing agreement
-#this should not be used on morpheme boundary files, it's not going to work correctly
 #=======================================================================
 def make_agree():
         '''
-        creates 
+        creates a dictionary of voicing-assimilated clusters.
+        NOT INTENDED FOR MORPH SEGMENTED FILES
         '''
         make_clusters = {}
         for voiced in devoiced_pair.keys(): #leftward spread of voicelessness--all consonants do it
@@ -307,6 +307,7 @@ def make_agree():
 
 agree_clusters=make_agree()
 
+
 #=======================================================================
 #devoicing and voicing agreement function
 #=======================================================================
@@ -322,6 +323,25 @@ def voicing(word):
                 word = word.replace(cluster, agree_clusters[cluster])
         return word
 
+
+#=======================================================================
+# russian verbs often end in ться in the infinitive/citation form. this is not pronounced palatalized. this function fixes this
+#=======================================================================
+
+def fix_infinitives(word, spaces):
+    '''
+    fixes transcriptions for infinitive verbs
+    '''
+    if spaces=='yes':
+        if word.endswith('tʲ sʲ a'):
+            return word[:-7]+'ʦ a'
+        else:
+            return word
+    else:
+        if word.endswith('tʲsʲa'):
+            return word[:-5]+'ʦa'
+        else:
+            return word
 
 #=======================================================================
 #the one function that does everything. note that it requires a list of words as input
@@ -343,6 +363,7 @@ def transcribe(word, stress, spaces, voice, reduction):
         word = word.replace('  ', ' ')
         if spaces == "no":
                 word = word.replace(" ", "")    
+        word = fix_infinitives(word, spaces)
         return word
 
 def transcription_wrapper(word, MGL="no", UCLAPL="no", stress="off", spaces = "yes", voice="no", reduction="no"):

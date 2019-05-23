@@ -27,7 +27,7 @@ path = 'celex_wordforms.txt'
 celexdic = {}
 ipakey = gtr.transc_table('celex_table.txt')
 
-digraphs = ['a ʊ', 'a ɪ', 'e ɪ', 'o ʊ',  'ɔ ɪ',  'd ʒ', 't ʃ']
+digraphs = ['a ʊ', 'a ɪ', 'e ɪ', 'o ʊ',  'ɔ ɪ']#,  'd ʒ', 't ʃ']
 
 
 with open(path, 'r', encoding='utf-8') as f:
@@ -44,12 +44,15 @@ with open(path, 'r', encoding='utf-8') as f:
             for seq in digraphs:
                 if seq in IPA:
                     IPA = IPA.replace(seq, seq.replace(' ', ''))
+            IPA = IPA.replace("d ʒ", 'd˗ ʒ')
+            IPA = IPA.replace('t ʃ', 't˗ ʃ')
             IPA = IPA.replace("l ,", "ə l")
             IPA = IPA.replace("n ,", "ə n")
             IPA = IPA.replace("m ,", "ə m")
             IPA = IPA.replace("ŋ ,", "ə n")
             IPA = IPA.replace('ə ʊ', 'oʊ')
             IPA = IPA.replace('ɹ *', "")
+            IPA = IPA.replace("n ŋ", "ŋ") #this happens because of the way CELEX transcribes fraanch loans
             IPA = IPA.strip('[]').replace(':', "")
             IPA = IPA.replace(' ] [',  '')
             IPA = IPA.replace('  ', ' ')
@@ -84,7 +87,8 @@ print("Phonopath:" + phonopath)
 with open(os.path.join(phonopath, 'LearningData_retrac.txt'), 'w', encoding='utf-8') as f:
     for word in sorted(celexdic):
         #f.write(celexdic[word]['IPA'].replace('tʃ', 't ʃ').replace('dʒ', 'd ʒ').strip()+'\n')
-        f.write(celexdic[word]['IPA'].replace('tʃ', 't˗ ʃ').replace('dʒ', 'd˗ ʒ').strip()+'\n')
+        #f.write(celexdic[word]['IPA'].replace('tʃ', 't˗ ʃ').replace('dʒ', 'd˗ ʒ').strip()+'\n')
+        f.write(celexdic[word]['IPA'].strip()+'\n')
 
 with open(os.path.join(phonopath, 'LearningData_orig.txt'), 'w', encoding='utf-8') as f:
     for word in sorted(celexdic):

@@ -20,8 +20,8 @@ def transcribe(word, tk):
             word = word.replace(k, tk[k])
     word = ' '.join(list(word))
     word = word.replace(" :", ":")
+    word = word.replace("k h", 'k')
     word = word.replace("k k", "K")
-    word = word.replace('K h', 'K') #looks like cch is admixed from a later period, maybe?
     return word
 
 

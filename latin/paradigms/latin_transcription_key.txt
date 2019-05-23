@@ -16,3 +16,4 @@ v	w
 qu	kw
 x	ks
 y	i
+ph	f

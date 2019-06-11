@@ -91,7 +91,7 @@ word	prefix	stem	notones	part of speech	french
  aˋ t ɪˋ r ɛˊ s ɛˊ		aˋ t ɪˋ r ɛˊ s ɛˊ	NA	adresse.
  aˋ t iˋ s aˋ		aˋ t iˋ s aˋ	v	augmenter (tr.).
  aˋ t ɬ aˋ		aˋ t ɬ aˋ	v	embrasser, caliner.
- aˋ t l aˋ f aˋ l aˋ		aˋ t l aˋ f aˋ l aˋ	v	agir maladroitement.
+ aˋ t ɬ aˋ f aˋ l aˋ		aˋ t ɬ aˋ f aˋ l aˋ	v	agir maladroitement.
  aˋ t ɬ aˋ n ɛˋ x aˋ		aˋ t ɬ aˋ n ɛˋ x aˋ	v	être facile á obtenir.
  aˊ t ɬ aˊ r ɛˊ l aˋ		aˊ t ɬ aˊ r ɛˊ l aˋ	v	recevoir avec les deux mains tendues.
  aˋ t ɬ ɛˋ x aˋ		aˋ t ɬ ɛˋ x aˋ	v	réussir.
@@ -427,7 +427,7 @@ bo k oˋ m ʊˋ n iˊ s iˊ	bo-	k oˋ m ʊˋ n iˊ s iˊ	NA	communisme.
 bo k oˋ n ɪˊ	bo-	k oˋ n ɪˊ	NA	nord.
 bo k ɔˋ p aˋ n ɛˋ l ɔˋ	bo-	k ɔˋ p aˋ n ɛˋ l ɔˋ	NA	carrefour, croisement (de routes), rencontre. - bokopanelo jwa mmino : bal.
  b ɔˊ k ɔˋ s ɛˊ		b ɔˊ k ɔˋ s ɛˊ	NA	boite, caisse.
-bo k w aˊ nˋ t l ɛˊ	bo-	k w aˊ nˋ t l ɛˊ	NA	extérieur.
+bo k w aˊ nˋ t ɬ ɛˊ	bo-	k w aˊ nˋ t ɬ ɛˊ	NA	extérieur.
 bo k w eˋ b uˋ	bo-	k w eˋ b uˋ	NA	couleur grise.
 bo l aˋ	bo-	l aˋ	NA	osselets utilisés pour la divination.
  b ɔˋ l aˋ		b ɔˋ l aˋ	v	pourrir.
@@ -1163,7 +1163,7 @@ i ɪˊ s aˊ	i.	ɪˊ s aˊ	NA	(H) : se nourrir, se suffire.
 i aˊ eˊ d iˋ s aˋ	i.	aˊ eˊ d iˋ s aˋ	NA	se renseigner.
 i aˊ ɛˊ x aˊ	i.	aˊ ɛˊ x aˊ	NA	s'appuyer sur, dépendre de, relever de.
 i aˊ ɛˊ l ɛˋ l aˋ	i.	aˊ ɛˊ l ɛˋ l aˋ	NA	se proposer de, envisager de, avoir l'intention de, être déterminé á.
-i aˊ k aˊ t l ɛˋ l aˋ	i.	aˊ k aˊ t l ɛˋ l aˋ	NA	s'accrocher á.
+i aˊ k aˊ t ɬ ɛˋ l aˋ	i.	aˊ k aˊ t ɬ ɛˋ l aˋ	NA	s'accrocher á.
 i aˊ k x aˊ	i.	aˊ k x aˊ	NA	(B) : se pendre.
 i aˊ l eˊ t s aˊ	i.	aˊ l eˊ t s aˊ	NA	se pendre.
 i aˊ n aˊ	i.	aˊ n aˊ	NA	(B) : jurer, prêter serment.
@@ -2043,7 +2043,7 @@ le b aˋ k aˋ	le-	b aˋ k aˋ	NA	argument, condition, occasion, raison.
 le b aˋ l aˋ	le-	b aˋ l aˋ	NA	oublier, être distrait.
  l ɪˊ b aˊ n aˊ		l ɪˊ b aˊ n aˊ	v	se faire face, répondre.
 le b aˊ nˋ t aˊ	le-	b aˊ nˋ t aˊ	NA	ceinture.
-le b aˊ t l aˊ	le-	b aˊ t l aˊ	NA	clairière.
+le b aˊ t ɬ aˊ	le-	b aˊ t ɬ aˊ	NA	clairière.
 le b aˋ t s aˋ	le-	b aˋ t s aˋ	NA	amuser, distraire.
 le b ɪˋ aˊ n aˊ	le-	b ɪˋ aˊ n aˊ	NA	tesson de poterie.
  l ɪˊ b ɛˊ x aˊ		l ɪˊ b ɛˊ x aˊ	v	apparaitre, avoir l'air, être présentable, paraitre, sembler.
@@ -3450,7 +3450,7 @@ mo w aˊ n aˊ	mo-	w aˊ n aˊ	NA	baobab.
  ŋ ɔˊ ŋ ɔˊ r ɛˊ x aˋ		ŋ ɔˊ ŋ ɔˊ r ɛˊ x aˋ	v	s'agiter, gronder, se plaindre, protester.
  ŋ ɔˊ ŋ ɔˊ r ɛˊ x ɔˋ		ŋ ɔˊ ŋ ɔˊ r ɛˊ x ɔˋ	NA	agitation, plainte, protestation, réclamation.
  ŋ ɔˊ t ɬ aˊ		ŋ ɔˊ t ɬ aˊ	v	atténuer, diminuer, réduire.
- ŋ ɔˊ t l ɔˊ		ŋ ɔˊ t l ɔˊ	NA	diminution, réduction.
+ ŋ ɔˊ t ɬ ɔˊ		ŋ ɔˊ t ɬ ɔˊ	NA	diminution, réduction.
  ŋ w aˋ x aˊ		ŋ w aˋ x aˊ	n	an, année.
  ŋ w aˋ x aˊ k x ʊˊ l ʊˊ		ŋ w aˋ x aˊ k x ʊˊ l ʊˊ	NA	siècle.
  ŋ w aˋ x aˊ t ɬ ʊˊ l aˊ		ŋ w aˋ x aˊ t ɬ ʊˊ l aˊ	ad	il y a deux ans.
@@ -3489,7 +3489,7 @@ n eˊ t ɬ aˋ n ɪˊ	n-	eˊ t ɬ aˋ n ɪˊ	NA	truc, machin (permet de désigne
 n n ɔˊ	n-	n ɔˊ	NA	boisson, but (football).
 n n ɔˊ t ɔˊ	n-	n ɔˊ t ɔˊ	NA	note.
 n ɔˊ t ɔˊ	n-	ɔˊ t ɔˊ	NA	zéro.
- i n t		i n t	NA	non.
+ ɲˋ ɲ aˋ aˋ		ɲˋ ɲ aˋ aˋ	int	non.
  ɲˊ ɲ ɪˊ		ɲˊ ɲ ɪˊ	NA	petit. - mo go nnye, go le gonnye : un peu.
  ɲˊ ɲ ɪˊ f aˊ l aˋ		ɲˊ ɲ ɪˊ f aˊ l aˋ	v	être/devenir petit.
  ɲˋ ɲ ɛˋ l aˋ		ɲˋ ɲ ɛˋ l aˋ	v	déféquer.
@@ -3674,7 +3674,7 @@ n t w aˋ	n-	t w aˋ	NA	bataille, combat, guerre, lutte.
  p aˋ p aˋ l aˋ x aˊ ɪˊ		p aˋ p aˋ l aˋ x aˊ ɪˊ	n	perroquet.
  p aˋ p aˋ t s ɔˋ		p aˋ p aˋ t s ɔˋ	NA	commerce.
  p aˊ p eˊ t ɬ aˊ		p aˊ p eˊ t ɬ aˊ	v	aplatir.
- p aˊ p eˊ t l ɛˊ x aˋ		p aˊ p eˊ t l ɛˊ x aˋ	v	être écrasé, être plat.
+ p aˊ p eˊ t ɬ ɛˊ x aˋ		p aˊ p eˊ t ɬ ɛˊ x aˋ	v	être écrasé, être plat.
  p aˊ p iˊ ɛˊ l aˋ		p aˊ p iˊ ɛˊ l aˋ	v	tasser.
  p aˋ p iˋ s ɔˋ		p aˋ p iˋ s ɔˋ	NA	comparaison.
  p aˋ p ʊˋ l ɔˋ		p aˋ p ʊˋ l ɔˋ	NA	le fait d'étendre, crucifixion.
@@ -5144,7 +5144,7 @@ se n aˋ m aˋ	se-	n aˋ m aˋ	NA	montrer les dents.
  t ɬ aˋ k aˋ s ɛˋ l aˋ		t ɬ aˋ k aˋ s ɛˋ l aˋ	v	trembler, frissonner.
  t ɬ aˋ k aˋ s ɛˋ l ɔˋ		t ɬ aˋ k aˋ s ɛˋ l ɔˋ	NA	tremblement, frisson.
  t ɬ aˊ l aˊ		t ɬ aˊ l aˊ	v	être plein, être complet, s'emplir, être parfait. - tlala boitumelo : être content. - tlala botshelo : être vivant.
- t l aˋ l aˋ		t l aˋ l aˋ	n	faim.
+ t ɬ aˋ l aˋ		t ɬ aˋ l aˋ	n	faim.
  t ɬ aˊ l aˊ t ɬ aˊ l aˋ		t ɬ aˊ l aˊ t ɬ aˊ l aˋ	v	être abondant.
  t ɬ aˊ l ɪˊ aˊ		t ɬ aˊ l ɪˊ aˊ	v	rapporter sur qq'un.
  t ɬ aˊ l eˊ d iˊ w aˋ		t ɬ aˊ l eˊ d iˊ w aˋ	v	recevoir un supplément, être rendu anxieux.
@@ -5269,7 +5269,7 @@ se n aˋ m aˋ	se-	n aˋ m aˋ	NA	montrer les dents.
  t ɬh aˋ t ɬ ʊˋ l aˋ		t ɬh aˋ t ɬ ʊˋ l aˋ	v	enlever de sur le feu.
  t ɬh aˋ t ɬ ʊˋ l ʊˋ x aˋ n aˋ		t ɬh aˋ t ɬ ʊˋ l ʊˋ x aˋ n aˋ	v	succéder.
  t ɬh aˋ t ɬ ʊˋ l ʊˋ x aˋ n ɔˋ		t ɬh aˋ t ɬ ʊˋ l ʊˋ x aˋ n ɔˋ	v	succession. - ka tlhatlologano : successivement.
- t ɬh aˋ t l ʊˋ s aˋ		t ɬh aˋ t l ʊˋ s aˋ	v	faire monter, dresser.
+ t ɬh aˋ t ɬ ʊˋ s aˋ		t ɬh aˋ t ɬ ʊˋ s aˋ	v	faire monter, dresser.
  t ɬh aˊ t s aˊ		t ɬh aˊ t s aˊ	v	vomir, rendre.
  t ɬh aˋ t s ɔˋ		t ɬh aˋ t s ɔˋ	NA	lavage.
  t ɬh aˋ t s w aˋ		t ɬh aˋ t s w aˋ	v	laver, nettoyer.
@@ -5380,7 +5380,7 @@ se n aˋ m aˋ	se-	n aˋ m aˋ	NA	montrer les dents.
  t ɬ ʊˊ l ɔˊ		t ɬ ʊˊ l ɔˊ	NA	saut , transgression. - tlolo ya molao : crime, délit, infraction.
  t ɬ ʊˋ l ɔˊ k ɔˊ		t ɬ ʊˋ l ɔˊ k ɔˊ	NA	cloche, horloge, réveil, sonnette.
  t ɬ oˋ nˋ t ɬ ʊˋ l ʊˋ x aˋ		t ɬ oˋ nˋ t ɬ ʊˋ l ʊˋ x aˋ	v	se déconsidérer.
- t l oˋ nˋ t ɬ ʊˋ l ʊˋ l aˋ		t l oˋ nˋ t ɬ ʊˋ l ʊˋ l aˋ	v	déconsidérer.
+ t ɬ oˋ nˋ t ɬ ʊˋ l ʊˋ l aˋ		t ɬ oˋ nˋ t ɬ ʊˋ l ʊˋ l aˋ	v	déconsidérer.
  t ɬ ʊˋ ʊˊ		t ɬ ʊˋ ʊˊ	NA	pois de terre.
  t ɬ ʊˊ p ɛˊ l aˊ		t ɬ ʊˊ p ɛˊ l aˊ	v	mettre qc en trop grande quantité.
  t ɬ oˊ p ʊˊ l aˊ		t ɬ oˊ p ʊˊ l aˊ	v	prendre une petite quantité de qc.

@@ -62,7 +62,7 @@ def transcribe(word, transkey, removetones):
 
 def transcribe_wds(path, transkey, removetones):
     out = {}
-    poslist = ['part', 'v', 'n', 'conj', 'ad', 'prep', 'd']
+    poslist = ['part', 'v', 'n', 'conj', 'ad', 'prep', 'd', 'int']
     with open(path, 'r', encoding='utf-8') as f:
         num = 0
         for line in f:

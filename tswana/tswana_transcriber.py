@@ -84,7 +84,7 @@ def transcribe_wds(path, transkey, removetones):
             out[num]['tswana_trans'] = transstem 
             spacepref = ' '.join(list(out[num]['prefix'].rstrip('-.')))
             out[num]['tswana_spaces'] = spacepref + ' ' + transstem
-            out[num]['tswanawd'] = out[num]['prefix'].rstrip('-.') +' ' +out[num]['tswana_trans']
+            out[num]['tswanawd'] = ''.join((out[num]['prefix'].rstrip('-.') +' ' +out[num]['tswana_trans']).split(" "))
     return out
 
 
@@ -107,21 +107,21 @@ if __name__=='__main__':
     if 'writefrench' in sys.argv:
         x = transcribe_wds(tswanadic, transkey, removetones=False)
         with open('tswana-french-dictionary.txt', 'w', encoding='utf-8') as f:
-            f.write('\t'.join(['word', 'prefix', 'stem', 'notones', 'part of speech', 'french'])+'\n')
+            f.write('\t'.join(['word', 'prefix', 'stem', 'part of speech', 'french'])+'\n')
             for wd in sorted(x):
-                f.write('%s\t%s\t%s\t%s\t%s\n' % (x[wd]['tswanawd'],x[wd]['prefix'], x[wd]['tswana_trans'], x[wd]['POS'], x[wd]['french']))
+                f.write('%s\t%s\t%s\t%s\t%s\n' % (x[wd]['tswanawd'].strip(),x[wd]['prefix'].strip(), ''.join(x[wd]['tswana_trans'].strip().split(' ')), x[wd]['POS'], x[wd]['french']))
         print("finished writing Tswana dictionary")
     if 'writeld' in sys.argv:
         x = transcribe_wds(tswanadic, transkey, removetones=True)
         writefeats(x, 'Features_notones.txt')
         with open('LearningData_notones.txt', 'w', encoding='utf-8') as f:
             for wd in sorted(x):
-                f.write("%s\n" % x[wd]['tswana_spaces'])
+                f.write("%s\n" % x[wd]['tswana_spaces'].strip())
         print('finished writing Tswana Learing Data and Features without tones')
         x = transcribe_wds(tswanadic, transkey, removetones=False)
         writefeats(x, 'Features_tones.txt')
         with open('LearningData_tones.txt', 'w', encoding='utf-8') as f:
             for wd in sorted(x):
-                f.write("%s\n" % x[wd]['tswana_spaces'])
+                f.write("%s\n" % x[wd]['tswana_spaces'].strip())
         print('finished writing Tswana Learing Data and Features with tones')
 

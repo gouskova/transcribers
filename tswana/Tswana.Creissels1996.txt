@@ -378,12 +378,12 @@ cachette.	bo-	i@tshu@bE@lO@
 pardon.	bo-	i@tshwa@rE@lO@	
 caractère, comportement, conduite, naturel, retenue.	bo-	i@tshwa@rO@	
 bonheur, contentement, joie, plaisir. - nna boitumelo : être gai. - ka boitumelo : gaiement, volontiers.	bo-	i@tu@mE@lO%	
-initiation des filles.	bo-	ja%lé@	
-bière.	bo-	ja%lwa@	
-herbe, paille.	bo-	ja%N@	
-solitude.	bo-	jo@si@	
-ensemble, total.	bo-	jo@tÂhe@	
-judaïsme.	bo-	ju@ta@	
+initiation des filles.	bo-	dʒa%lé@	
+bière.	bo-	dʒa%lwa@	
+herbe, paille.	bo-	dʒa%N@	
+solitude.	bo-	dʒo@si@	
+ensemble, total.	bo-	dʒo@tÂhe@	
+judaïsme.	bo-	dʒu@ta@	
 substance visqueuse, cire.	bo-	ka@	
 chasser les mouches.	bo-	ka%	
 réciter (un poème).	bO%ka%	v	
@@ -589,7 +589,7 @@ nudité.	bo-	sa%i@ka%tE@Xa%N@
 mystère.	bo-	sa@i%tsi@wé%N@	
 impossibilité.	bo-	sa%qho%ne@Xé%N@	
 petite enfance.	bo-	sé@a@	
-- kwa boseja : sur l'autre rive. - fa boseja jono :sur cette rive.	bo-	sé@ja@	
+- kwa boseja : sur l'autre rive. - fa boseja jono :sur cette rive.	bo-	sé@dʒa@	
 minceur, étroitesse.	bo-	sé@sa%né@	
 nationalité.	bo-	sé@tSha@ba%	
 absence.	bo-	sé@jo%N@	
@@ -720,8 +720,8 @@ abattre, faire tomber.	di-	Xa%
 lunettes.	di-	Xa%la@sé@	
 - nna digobo : être musclé.	di-	XO%bO%	
 - nna digwe : être musclé.	di-	XwE@	
-vaisselle.	di-	ja%na%	
-aliment, nourriture, plat, préparation culinaire, provisions, vivres.	di-	jO@	
+vaisselle.	di-	dʒa%na%	
+aliment, nourriture, plat, préparation culinaire, provisions, vivres.	di-	dʒO@	
 hésiter.	di@ka@di@ka%	v	
 entourer.	di@ka@öe@tsa%	v	
 se coucher (soleil), disparaitre.	di@kE@la@	v	
@@ -776,7 +776,7 @@ alphabet.	di-	tÂha@ka@
 honte.	di-	tÂho@N@	
 pl. de toro. - nna ditoro : être rêveur.	di-	tO@rO@	
 les affaires de É	di-	tsa@	
-guillemets, parenthèses.	di-	tsE%jwa@na@	
+guillemets, parenthèses.	di-	tsE%dʒwa@na@	
 signalisation.	di-	tshu%pO%	
 frites.	di-	tShi@pi%si@	
 pétrir.	du%ba%	v	
@@ -824,7 +824,7 @@ remplacer, relever.	e@mi@se@tsa%	v
 s'absenter.	e@m¿@Xa@	v	
 elle, lui.	E%nE@	
 quoi?. - ke eng : pourquoi?. - eng kana eng : n'importe quoi.	é%N@	
-locomotive, moteur.	E@ö@jé%né@	
+locomotive, moteur.	E@ö@dʒé%né@	
 encre.	é@N%ké@	
 ta/votre famille, ta/votre tribu. - ga eno : chez vous.	e%n¿@	
 creuser.	E%pa%	v	
@@ -1320,33 +1320,33 @@ connaitre, être au courant de, s'entendre en, être savant, savoir, être vers�
 être/devenir célèbre, fameux.	i.	se@Xé@	
 se marier de sa propre initiative.	i.	se@i@sa@	
 tenir bon, être accrocheur.	i.	sé@tsé@pE%la%	
-(H) : s'oindre, se maquiller.	i.	sha@sa@	
-(H) : parler en cachette.	i.	shE@ba@	
-gagner sa vie, vivre.	i.	shé@di@sa@	
-(H) : être /devenir clair, pur.	i.	shE@ka@	
-(B) : saisir la justice.	i.	shE@ka@	
-purifier.	i.	she@ki@sa@	
-se trouver coupable, s'accuser.	i.	she@ki@sa%	
-être/devenir impur, se polluer.	i.	she@k¿@l¿@Xa%	
-(B) : se piquer de, faire semblant.	i.	shE@ma@	
-choisir.	i.	shé@N@kE@la%	
-(H) : être/devenir moralement pur, saint.	i.	shE@pa@	
-se justifier.	i.	shi@a@mi@sa%	
-(H) : se couvrir, se voiler.	i.	shi@ra@	
-s'abriter. - itshireletsa kgatlhanong le : s'assurer contre.	i.	shi@re@le@tsa%	
-(H) : être patient, persévérant.	i.	shO@ka@	
-résister, supporter.	i.	shO@kE@la@	
-se croiser les bras sur la poitrine (comme qq'un qui a froid).	i.	shO@pha@ra@	
-(H) : se cacher.	i.	shu@ba@	
-se curer les dents.	i.	shu@ku@öa@	
-(B) : se montrer, se déclarer, se distinguer, être net.	i.	shu@pa@	
-(B) : se frotter.	i.	shu@tÂha@	
-(H) : se conduire, se dominer, se reprendre, se ressaisir. - itshwara diatla : se croiser les mains.	i.	shwa@ra@	
-s'attacher.	i.	shwar@a@Xa@öa%	
-excuser, pardonner.	i.	shwa@rE@la@	
-s'accrocher á, attraper.	i.	shwa@rE@lE@la%	
-être excusable, être pardonnable.	i.	shwa@rE@lwa@	
-se faire attraper.	i.	shwa@ri@sa@	
+(H) : s'oindre, se maquiller.	i.	tsha@sa@	
+(H) : parler en cachette.	i.	tshE@ba@	
+gagner sa vie, vivre.	i.	tshé@di@sa@	
+(H) : être /devenir clair, pur.	i.	tshE@ka@	
+(B) : saisir la justice.	i.	tshE@ka@	
+purifier.	i.	tshe@ki@sa@	
+se trouver coupable, s'accuser.	i.	tshe@ki@sa%	
+être/devenir impur, se polluer.	i.	tshe@k¿@l¿@Xa%	
+(B) : se piquer de, faire semblant.	i.	tshE@ma@	
+choisir.	i.	tshé@N@kE@la%	
+(H) : être/devenir moralement pur, saint.	i.	tshE@pa@	
+se justifier.	i.	tshi@a@mi@sa%	
+(H) : se couvrir, se voiler.	i.	tshi@ra@	
+s'abriter. - itshireletsa kgatlhanong le : s'assurer contre.	i.	tshi@re@le@tsa%	
+(H) : être patient, persévérant.	i.	tshO@ka@	
+résister, supporter.	i.	tshO@kE@la@	
+se croiser les bras sur la poitrine (comme qq'un qui a froid).	i.	tshO@pha@ra@	
+(H) : se cacher.	i.	tshu@ba@	
+se curer les dents.	i.	tshu@ku@öa@	
+(B) : se montrer, se déclarer, se distinguer, être net.	i.	tshu@pa@	
+(B) : se frotter.	i.	tshu@tÂha@	
+(H) : se conduire, se dominer, se reprendre, se ressaisir. - itshwara diatla : se croiser les mains.	i.	tshwa@ra@	
+s'attacher.	i.	tshwar@a@Xa@öa%	
+excuser, pardonner.	i.	tshwa@rE@la@	
+s'accrocher á, attraper.	i.	tshwa@rE@lE@la%	
+être excusable, être pardonnable.	i.	tshwa@rE@lwa@	
+se faire attraper.	i.	tshwa@ri@sa@	
 se tromper, avoir tort.	i.	si@e@tsa@	
 annoncer, avertir, faire part, informer, présenter, prévenir, signaler.	i.	si@sé@	
 s'enrouler, faire un détour.	i.	so@ke@tsa@	
@@ -1356,30 +1356,30 @@ réjouir, contenter, satisfaire.	i.	u@me@di%sa%
 se réjouir, être content, gai, heureux, joyeux, satisfait.	i.	u@mE@la%	
 se féliciter de, se réjouir de, fêter.	i.	u@mE@lE%la%	
 (B) : se battre.	i.	we@la@	
-manger, coûter, détruire, dévorer, user, valoir.	ja@	v	
-comme.	ja@a@ka@	prep	
-ainsi.	ja@a@na@	ad	
-maintenant, á présent. - jaanong jaana : actuellement.	ja@a%n¿@N%	
-tromper.	ja@be@tsa@	v	
-ruse.	ja@be@tso@	
-veston.	ja@kE%tE@	
-planter, semer.	ja@la@	v	
-alors.	ja@le@	
-semence, semis.	ja@lO@	
-ainsi. - jalo hee : eh bien.	ja@l¿@	
-etc..	ja@l¿%ja@l¿@	
-comment?. - jang kana jang : n'importe comment.	ja@N@	
-cour	ja@ra%ta@	n	
-manteau.	ja@sé@	
-être mangeable.	jE@Xa@	v	
-pot.	jE@kE@	
-cric	jE@kE@	
-confiture.	jE@mE@	
-général.	jE@nE@ra%lé@	
-nourrir, ensorceler en faisant absorber un produit magique.	jé@sa@	v	
-avion á réaction.	jE@tE@	
-gymnastique.	ji%mi%na@sti%ki@	
-ce, cette (cl.14).	jo@	
+manger, coûter, détruire, dévorer, user, valoir.	dʒa@	v	
+comme.	dʒa@a@ka@	prep	
+ainsi.	dʒa@a@na@	ad	
+maintenant, á présent. - jaanong jaana : actuellement.	dʒa@a%n¿@N%	
+tromper.	dʒa@be@tsa@	v	
+ruse.	dʒa@be@tso@	
+veston.	dʒa@kE%tE@	
+planter, semer.	dʒa@la@	v	
+alors.	dʒa@le@	
+semence, semis.	dʒa@lO@	
+ainsi. - jalo hee : eh bien.	dʒa@l¿@	
+etc..	dʒa@l¿%dʒa@l¿@	
+comment?. - jang kana jang : n'importe comment.	dʒa@N@	
+cour	dʒa@ra%ta@	n	
+manteau.	dʒa@sé@	
+être mangeable.	dʒE@Xa@	v	
+pot.	dʒE@kE@	
+cric	dʒE@kE@	
+confiture.	dʒE@mE@	
+général.	dʒE@nE@ra%lé@	
+nourrir, ensorceler en faisant absorber un produit magique.	dʒé@sa@	v	
+avion á réaction.	dʒE@tE@	
+gymnastique.	dʒi%mi%na@sti%ki@	
+ce, cette (cl.14).	dʒo@	
 avec, par, au sujet de, á propos, sur.	ka@	prep	
 puisque.	ka@	conj	
 porter sur les épaules.	ka%ba%	v	
@@ -1685,8 +1685,8 @@ partir rapidement.	qh¿%X¿%Xa%	v
 première pluie après la moisson.	qh¿@X¿@la%m¿@k¿@	
 golfe.	qhO%XO%mE%lO%	
 tunnel.	qho%Xo%me%tso%	
-lacet.	qhO%ja@na@	n	
-très loin.	qh¿%ja%na%	ad	
+lacet.	qhO%dʒa@na@	n	
+très loin.	qh¿%dʒa%na%	ad	
 adultère.	qh¿@ka@fa@l¿%	
 liaison.	qh¿@ka@Xa@öO%	
 cheville, conjugaison.	qh¿@kE@lO@	
@@ -2119,7 +2119,7 @@ morceau de viande donné á qq'un qui aide á dépecer.	le-	X¿%pE%lO%
 noeud (dans le bois).	le-	X¿@tÂhO@	
 rat.	le-	XO%tÂO%	
 aisselle	le-	Xwa@fa@	
-cheville.	le-	XwE%ja%na%	
+cheville.	le-	XwE%dʒa%na%	
 serpent (sp).	le-	Xwé@ré@	
 récolte.	le-	Xwe%tÂa@	
 corbeau.	le-	hu@ku%bu@	
@@ -2132,7 +2132,7 @@ dent. - pl. meno	le-	i@nO@
 cheminée, foyer.	le-	i@sO@	
 premier-né.	le-	i@ti@b¿@lO%	
 oeil. - pl. matlho	le-	i@tÂhO@	
-anthropophage, cannibale.	le-	ja@ba@th¿%	
+anthropophage, cannibale.	le-	dʒa@ba@th¿%	
 essayer, chercher, mettre á l'épreuve, oser, risquer, tâcher, tenter.	lé@ka@	v	
 boeuf porteur.	le-	ka%ba%	
 flaque d'eau, mare.	le-	ka%di%ba%	
@@ -2578,7 +2578,7 @@ promesse.	ma-	i@tÂa@mO@
 hypothèse, principe.	ma-	i@tÂhO@mO@	
 soir.	ma-	i@tsé@b¿%a@	
 attitude, caractère, morale, politesse, manières. - nna maitseo : être poli, correct.	ma-	i@tsE@O@	
-travail rémunéré en pays étranger.	ma-	ja@kO@	
+travail rémunéré en pays étranger.	ma-	dʒa@kO@	
 ka makatlanamane : en très grande quantité.	ma-	ka@tÂa@na%ma@né@	
 nna makekete : être ébréché.	ma-	kE@kE@tE@	
 sorte de cache-sexe porté par les fillettes.	ma-	qha@bé@	
@@ -2807,7 +2807,7 @@ traitre.	mo-	e%ki%
 ambassadeur, avocat, représentant.	mo-	e@me@di@	
 remplaçant.	mo-	e@mi@se@tsi%	
 étranger, hôte.	mo-	e%N%	
-ingénieur.	mo-	E@ö@jé%ni@E%rE@	
+ingénieur.	mo-	E@ö@dʒé%ni@E%rE@	
 mine.	mo-	E%pO%	
 Anglais.	mo-	e@sé@ma%né%	
 grande jarre.	mo-	E@ta@	
@@ -2930,18 +2930,18 @@ borgne.	mo-	i@tÂhO@
 savant.	mo-	i@tsé@di%ki@tsO@	
 expert, savant, spécialiste.	mo-	i@tsé%a@na%pé@	
 saint.	mo-	i@tshe@pi@	
-le côté droit. - -a moja : droit.	mo-	ja@	
-héritier.	mo-	ja@b¿%swa@	
-semeur.	mo-	ja@di@	
-travailleur migrant.	mo-	ja@ki@	
-porte.	mo-	ja%kO%	
-gourmand.	mo-	ja@m¿%na@té@	
-visiteur, touriste.	mo-	ja@na%la@	
-crédit, dette.	mo-	jE@la@	
-raseur, casse-pieds.	mo-	jé@sa@b¿%du@tu@	
-gros mangeur.	mo-	ji@	
-nourriture, façon de manger.	mo-	jO@	
-Juif.	mo-	ju@ta@	
+le côté droit. - -a moja : droit.	mo-	dʒa@	
+héritier.	mo-	dʒa@b¿%swa@	
+semeur.	mo-	dʒa@di@	
+travailleur migrant.	mo-	dʒa@ki@	
+porte.	mo-	dʒa%kO%	
+gourmand.	mo-	dʒa@m¿%na@té@	
+visiteur, touriste.	mo-	dʒa@na%la@	
+crédit, dette.	mo-	dʒE@la@	
+raseur, casse-pieds.	mo-	dʒé@sa@b¿%du@tu@	
+gros mangeur.	mo-	dʒi@	
+nourriture, façon de manger.	mo-	dʒO@	
+Juif.	mo-	dʒu@ta@	
 une personne de quelle origine?	mo-	ka@é@	
 conseiller, guide.	mo-	ka%e%di%	
 antilope (sp).	mo-	ka@ba@¿%wa@né@	
@@ -3199,7 +3199,7 @@ Bushman.	mo-	sa@rwa@
 confident.	mo-	se@be@di%wa@	
 médisant.	mo-	se@bi@	
 coupe.	mo-	sé@XO@	
-- kwa moseja : sur l'autre rive, outremer.	mo-	sé@ja@	
+- kwa moseja : sur l'autre rive, outremer.	mo-	sé@dʒa@	
 accusateur.	mo-	se%ki%si%	
 accusé.	mo-	se%ki%si%wa@	
 queue.	mo-	sé@la@	
@@ -3291,7 +3291,7 @@ domestique, serviteur.	mo-	tÂha%N@ka@
 troupeau.	mo-	tÂha%pé@	
 urine.	mo-	tÂha%pO%	
 examinateur, inspecteur.	mo-	tÂha@tÂh¿@bi@	
-candidat (á un examen).	mo-	tÂha@tÂh¿%jwa@	
+candidat (á un examen).	mo-	tÂha@tÂh¿%dʒwa@	
 plante (sp).	mo-	tÂha@tsa@	
 blanchisseur.	mo-	tÂha%tswi%	
 herbe (sp).	mo-	tÂhO%	
@@ -3869,7 +3869,7 @@ fontanelle.	ph¿%Xwa%na%	n
 mousser.	ph¿@ka@	v	
 bouc.	phO@kO@	
 flottement, souffle.	ph¿%kO%	
-pl. bo- chacal.	ph¿@k¿@je@	
+pl. bo- chacal.	ph¿@k¿@dʒe@	
 diminution, soustraction.	ph¿@k¿@tsO@	
 abaissement, baisse, diminution, ralentissement, réduction.	ph¿@k¿@tsE@XO%	
 boeuf.	ph¿%l¿@	
@@ -3920,7 +3920,7 @@ s'effondrer.	phu%tÂha%ma%	v
 piano.	pi%a@no@	
 canard domestique.	pi@di%pi@di@	
 attitude rebutante.	pi@fO@	
-pyjama.	pi%ja@ma@	n	
+pyjama.	pi%dʒa@ma@	n	
 bien. - nna pila : être beau.	pi%la%	ad	
 dictée.	pi@le@tso@	
 pilule, comprimé.	pi@li%si@	
@@ -3985,7 +3985,7 @@ défilé, manifestation.	p¿@pE@lE@lO%
 utérus.	p¿@pE@lO@	
 forme, composition.	p¿@pO@	
 enfler.	p¿@p¿@ma@la%	v	
-projecteur.	p¿%rO%jE@ké@ta%ra@	n	
+projecteur.	p¿%rO%dʒE@ké@ta%ra@	n	
 fuir (récipient), saigner abondamment.	pO%rO%tÂa%	v	
 parler sans arrêt.	pO%rO%tÂE%la%	v	
 poster.	pO@sa@	v	
@@ -4398,13 +4398,13 @@ protection, couverture.	se-	i@phé@mE@lO%
 miroir, glace.	se-	i@po@né@	
 personne coquette.	se-	i@tha@ti@	
 imbécile.	se-	i@ja%i@jE@	
-coude.	se-	ja@ba%na@	
-plant, plante cultivée.	se-	ja@lO@	
-plat, assiette.	se-	ja%na%	
-véhicule.	se-	ja@na@Xa%	
-ce que l'on fait absorber á qq'un pour l'ensorceler.	se-	je@so@	
-mangeur.	se-	ji@	
-repas.	se-	jO@	
+coude.	se-	dʒa@ba%na@	
+plant, plante cultivée.	se-	dʒa@lO@	
+plat, assiette.	se-	dʒa%na%	
+véhicule.	se-	dʒa@na@Xa%	
+ce que l'on fait absorber á qq'un pour l'ensorceler.	se-	dʒe@so@	
+mangeur.	se-	dʒi@	
+repas.	se-	dʒO@	
 saisir la justice.	sE%ka%	v	
 qui a l'apparence de É	se-	ka@	
 foulard.	se-	ka@f¿@	
@@ -4664,7 +4664,7 @@ cadavre.	se-	t¿%p¿@
 magasin.	se-	tO@rO@	
 fraise.	se-	t¿%ro@o%be@ri@	
 cadavre.	se-	t¿@t¿@	
-criquet.	se-	t¿@t¿%ja@né@	
+criquet.	se-	t¿@t¿%dʒa@né@	
 dune.	se-	t¿%t¿%ma@na@	
 déjá (aux.).	se@tsé%	
 fou.	se-	tsE@nO@	
@@ -5199,7 +5199,7 @@ avertir, conseiller, prévenir, proposer, publier.	tÂha%Xi%sa%	v
 avertissement, introduction, publication.	tÂha%Xi%sO%	
 instinct, propriété caractéristique.	tÂha%XO%	
 sarcler.	tÂha%X¿%la%	v	
-passif de tlhaba. - tlhajwa ke ditlhong : être honteux, avoir honte.	tÂha%jwa%	v	
+passif de tlhaba. - tlhajwa ke ditlhong : être honteux, avoir honte.	tÂha%dʒwa%	v	
 grain.	tÂha%ka%	n	
 lettre.	tÂha@ka@	n	
 se mélanger.	tÂha%ka%na%	v	
@@ -5468,7 +5468,7 @@ marcher, s'en aller, être en marche, rouler (train, voiture), partir. - tsamaya
 canne.	tsa@m%ma@	n	
 blesser grièvement.	tsa%N%ka%	v	
 jaillir, être éclaboussé.	tsa@p¿@Xa@	v	
-aujourd'hui.	tsa%tsi@je@n¿@	
+aujourd'hui.	tsa%tsi@dʒe@n¿@	
 prendre, adopter, considérer comme, contenir, épouser. - tsaya botshelo : coûter la vie. - tsaya karolo : prendre part, participer. - tsaya maemo : occuper un poste, prendre une place. - tsaya nako : durer. - tsaya tsia :tenir compte.	tsa@ja@	v	
 ces (cl.8/10).	tse@	
 être stupéfié.	tsé@a@na@	v	

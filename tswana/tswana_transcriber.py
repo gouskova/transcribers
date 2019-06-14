@@ -62,7 +62,7 @@ def transcribe(word, transkey, removetones):
 
 def transcribe_wds(path, transkey, removetones):
     out = {}
-    poslist = ['part', 'v', 'n', 'conj', 'ad', 'prep', 'd', 'int']
+    poslist = ['part', 'v', 'n', 'conj', 'ad', 'prep', 'd', 'int', 'pro', 'num']
     with open(path, 'r', encoding='utf-8') as f:
         num = 0
         for line in f:
@@ -70,28 +70,25 @@ def transcribe_wds(path, transkey, removetones):
             words = line.strip().split('\t')
             out[num] = {}
             out[num]['french']=words[0].replace("@", "'")
-            if words[1].endswith('-') or words[1].endswith('.'):
-                out[num]['prefix']= words[1]
+            if words[1].endswith('-'):
+                out[num]['prefix']= words[1].rstrip('-')
             else:
                 out[num]['prefix']=''
             out[num]['POS']='NA'
             if words[-1] in poslist:
                 out[num]['POS']=words[-1]
-                out[num]['tswana_orig']=words[-2]
+                out[num]['stem']=words[-2]
             else:
-                out[num]['tswana_orig']=words[-1]
-            transstem = transcribe(out[num]['tswana_orig'], transkey, removetones)
-            out[num]['tswana_trans'] = transstem 
-            spacepref = ' '.join(list(out[num]['prefix'].rstrip('-.')))
-            out[num]['tswana_spaces'] = spacepref + ' ' + transstem
-            out[num]['tswanawd'] = ''.join((out[num]['prefix'].rstrip('-.') +' ' +out[num]['tswana_trans']).split(" "))
+                out[num]['stem']=words[-1]
+            out[num]['transstem'] = transcribe(out[num]['stem'], transkey, removetones)
+            out[num]['transpref'] = transcribe(out[num]['prefix'],transkey, removetones)
     return out
 
 
 def writefeats(dic, outpath):
     outlist = []
     for wd in dic:
-        segs = dic[wd]['tswana_spaces'].split(' ')
+        segs = dic[wd]['transstem'].split(' ')
         for seg in segs:
             if not seg in outlist:
                 outlist.append(seg)
@@ -99,29 +96,67 @@ def writefeats(dic, outpath):
         f.write('\n'.join(sorted(outlist)))
 
 
+def sengwato(dic, removetones):
+    counter = max(dic.keys())+1
+    with open('labiocoronals.txt', 'r', encoding='utf-8') as f:
+        lines = f.readlines()[1:]
+        for line in lines:
+            line = line.strip().split('\t')
+            dic[counter]={}
+            if not removetones:
+                dic[counter]['transpref']=line[1]
+                dic[counter]['transstem']=line[2]
+            else:
+                dic[counter]['transpref']=line[1].replace('ˊˋ', '')
+                dic[counter]['transstem']=line[2].replace('ˊˋ', '')
+            dic[counter]['POS']=line[3]
+            dic[counter]['french'] = line[6]
+            counter+=1
+    return dic
+
+
 if __name__=='__main__':
     import sys
     preprocess_dic()
     tswanadic = 'Tswana.Creissels1996.txt'
     transkey = read_transkey('transcription_key.txt')
+    if 'sengwato' in sys.argv:
+        transkey['lh'] = 'h'
+        transkey['tl'] = 't'
+        transkey['Â']=''
+    else:
+        transkey['f']='h'
     if 'writefrench' in sys.argv:
         x = transcribe_wds(tswanadic, transkey, removetones=False)
+        if sengwato:
+            x = sengwato(x, removetones=False)
         with open('tswana-french-dictionary.txt', 'w', encoding='utf-8') as f:
             f.write('\t'.join(['word', 'prefix', 'stem', 'part of speech', 'french'])+'\n')
             for wd in sorted(x):
-                f.write('%s\t%s\t%s\t%s\t%s\n' % (x[wd]['tswanawd'].strip(),x[wd]['prefix'].strip(), ''.join(x[wd]['tswana_trans'].strip().split(' ')), x[wd]['POS'], x[wd]['french']))
+                word = (x[wd]['transpref']+ ' ' + x[wd]['transstem']).replace(" ", "")
+                prefix = x[wd]['transpref'].replace(" ", "")
+                stem = x[wd]['transstem'].replace(" ", "")
+                pos = x[wd]['POS']
+                french = x[wd]['french']
+                f.write('%s\t%s\t%s\t%s\t%s\n' % (word, prefix, stem, pos, french))
         print("finished writing Tswana dictionary")
     if 'writeld' in sys.argv:
+        #learning data without tones
         x = transcribe_wds(tswanadic, transkey, removetones=True)
+        if sengwato:
+            x = sengwato(x, removetones=True)
         writefeats(x, 'Features_notones.txt')
         with open('LearningData_notones.txt', 'w', encoding='utf-8') as f:
             for wd in sorted(x):
-                f.write("%s\n" % x[wd]['tswana_spaces'].strip())
+                f.write("%s\n" % ' '.join([x[wd]['transpref'], x[wd]['transstem']]).strip())
         print('finished writing Tswana Learing Data and Features without tones')
+        #learning data with tones
         x = transcribe_wds(tswanadic, transkey, removetones=False)
+        if sengwato:
+            x = sengwato(x, removetones=False)
         writefeats(x, 'Features_tones.txt')
         with open('LearningData_tones.txt', 'w', encoding='utf-8') as f:
             for wd in sorted(x):
-                f.write("%s\n" % x[wd]['tswana_spaces'].strip())
+                f.write("%s\n" % ' '.join([x[wd]['transpref'], x[wd]['transstem']]).strip())
         print('finished writing Tswana Learing Data and Features with tones')
 

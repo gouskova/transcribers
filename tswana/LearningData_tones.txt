@@ -89,13 +89,13 @@ aˋ t aˋ m eˋ t s aˋ
 aˋ t aˋ m ɛˋ l ɛˋ s ɛˋ x aˋ
 aˋ t ɪˋ r ɛˊ s ɛˊ
 aˋ t iˋ s aˋ
-aˋ t ɬ aˋ
-aˋ t ɬ aˋ ɸ aˋ l aˋ
-aˋ t ɬ aˋ n ɛˋ x aˋ
-aˊ t ɬ aˊ r ɛˊ l aˋ
-aˋ t ɬ ɛˋ x aˋ
-aˊ t ɬh aˊ m aˊ
-aˊ t ɬh ʊˊ l aˊ
+aˋ t aˋ
+aˋ t aˋ ɸ aˋ l aˋ
+aˋ t aˋ n ɛˋ x aˋ
+aˊ t aˊ r ɛˊ l aˋ
+aˋ t ɛˋ x aˋ
+aˊ th aˊ m aˊ
+aˊ th ʊˊ l aˊ
 aˊ t ɔˋ m ʊˊ
 aˊ t ʃ w aˊ
 b aˊ
@@ -143,7 +143,7 @@ b aˊ t aˊ
 b aˊ t aˊ
 b aˊ t aˊ l aˊ l aˋ
 b aˋ th ʊˋ
-b aˋ t ɬ aˋ
+b aˋ t aˋ
 b aˋ t s aˊ d iˊ
 b aˊ j aˊ
 b ɪˊ
@@ -180,7 +180,7 @@ b ɪˊ t aˊ x aˊ n aˋ
 b ɪˊ t ɛˊ l ɛˊ l aˋ
 b eˊ t iˋ r iˊ
 b ɪˊ t iˊ s aˊ
-b eˋ t ɬ aˋ
+b eˋ t aˋ
 b eˊ t ʊˊ x aˊ
 b eˊ t ʊˊ l ʊˊ x aˋ
 b ɪˋ t s aˋ
@@ -198,491 +198,491 @@ b iˊ r iˊ
 b iˊ s aˊ
 b iˊ s iˋ k iˊ t iˊ
 b iˋ t iˋ aˋ
-b iˋ t ɬ aˋ
+b iˋ t aˋ
 b iˊ t s aˊ
 b ʊˊ aˊ
-b o aˊ x ɔˊ
-b o aˊ x ɛˊ l ɔˊ
-b o aˊ k aˊ
-b o aˋ l aˋ ɸ ɛˋ l ɔˋ
-b o aˋ l ɔˋ
-b o aˊ mˋ m aˊ aˋ r uˊ r iˊ
-b o aˋ p ɛˋ ɛˋ l ɔˋ
-b o aˋ t aˋ m ɛˋ l ɔˋ
-b o aˋ t ɬ aˋ
-b o aˊ t ɬh aˊ m ɔˊ
-b o b aˋ
-b o b aˊ aˊ k aˊ ɲ eˋ t ʃ oˋ
-b o b aˋ b aˊ
-b o b ɪˊ
-b o b eˋ d iˊ
-b o b ɛˊ ɛˊ l ɔˊ
-b o b eˋ s eˋ t s oˋ
-b o b eˋ t ʊˊ
-b o b iˋ p ɔˋ
-b o b ʊˋ aˊ
-b o b oˋ d uˊ
-b o b oˋ iˊ
-b o b ɔˋ k ɔˊ
+b oˋ aˊ x ɔˊ
+b oˋ aˊ x ɛˊ l ɔˊ
+b oˋ aˊ k aˊ
+b oˋ aˋ l aˋ ɸ ɛˋ l ɔˋ
+b oˋ aˋ l ɔˋ
+b oˋ aˊ mˋ m aˊ aˋ r uˊ r iˊ
+b oˋ aˋ p ɛˋ ɛˋ l ɔˋ
+b oˋ aˋ t aˋ m ɛˋ l ɔˋ
+b oˋ aˋ t aˋ
+b oˋ aˊ th aˊ m ɔˊ
+b oˋ b aˋ
+b oˋ b aˊ aˊ k aˊ ɲ eˋ t ʃ oˋ
+b oˋ b aˋ b aˊ
+b oˋ b ɪˊ
+b oˋ b eˋ d iˊ
+b oˋ b ɛˊ ɛˊ l ɔˊ
+b oˋ b eˋ s eˋ t s oˋ
+b oˋ b eˋ t ʊˊ
+b oˋ b iˋ p ɔˋ
+b oˋ b ʊˋ aˊ
+b oˋ b oˋ d uˊ
+b oˋ b oˋ iˊ
+b oˋ b ɔˋ k ɔˊ
 b ʊˊ b ʊˊ l aˊ
-b o b ʊˊ l ʊˊ k ɛˊ l ɔˋ
-b o b ɔˋ n ɛˊ
-b o b ɔˋ t ɬ aˊ n aˊ
-b o d iˋ b aˋ
-b o d iˊ k ʊˊ l ʊˊ x ɔˋ
-b o d iˊ l aˊ
-b o d iˊ l ɔˊ
-b o d iˋ p aˋ
-b o d iˋ ph aˋ t s aˋ
-b o d iˋ r ɛˋ l ɔˋ
+b oˋ b ʊˊ l ʊˊ k ɛˊ l ɔˋ
+b oˋ b ɔˋ n ɛˊ
+b oˋ b ɔˋ t aˊ n aˊ
+b oˋ d iˋ b aˋ
+b oˋ d iˊ k ʊˊ l ʊˊ x ɔˋ
+b oˋ d iˊ l aˊ
+b oˋ d iˊ l ɔˊ
+b oˋ d iˋ p aˋ
+b oˋ d iˋ ph aˋ t s aˋ
+b oˋ d iˋ r ɛˋ l ɔˋ
 b oˋ d iˋ s aˋ
 b oˊ d iˋ s iˊ
-b o d iˋ t ʃ ɪˊ
-b o d iˊ t ʃh aˊ b aˋ
-b o d uˋ b ɛˋ l ɔˋ
+b oˋ d iˋ t ʃ ɪˊ
+b oˋ d iˊ t ʃh aˊ b aˋ
+b oˋ d uˋ b ɛˋ l ɔˋ
 b oˋ d uˋ ɸ aˋ l aˋ
-b o d uˊ l ɔˊ
-b o d uˋ m eˋ d iˋ
-b o d uˋ p aˋ
-b o d uˊ t uˊ
+b oˋ d uˊ l ɔˊ
+b oˋ d uˋ m eˋ d iˋ
+b oˋ d uˋ p aˋ
+b oˋ d uˊ t uˊ
 b ʊˊ ɛˊ l aˊ
-b o ɪˋ l ɪˊ ɪˋ l ɪˊ
+b oˋ ɪˋ l ɪˊ ɪˋ l ɪˊ
 b ʊˊ ɛˊ l ɛˊ l aˋ
 b ʊˊ eˊ l eˊ t s aˋ
-b o ɛˊ m aˊ d iˋ k ɛˊ p ɛˊ
-b o eˊ m eˊ d iˊ
-b o ɛˊ m ɛˊ l aˊ t ɪˋ r ɪˊ n aˊ
-b o ɛˊ m ɛˊ l ɔˊ
-b o ɛˊ m ɔˊ
-b o ɛˋ n ɛˊ
+b oˋ ɛˊ m aˊ d iˋ k ɛˊ p ɛˊ
+b oˋ eˊ m eˊ d iˊ
+b oˋ ɛˊ m ɛˊ l aˊ t ɪˋ r ɪˊ n aˊ
+b oˋ ɛˊ m ɛˊ l ɔˊ
+b oˋ ɛˊ m ɔˊ
+b oˋ ɛˋ n ɛˊ
 b ɔˊ ɸ aˊ
-b o ɸ aˋ ɸ aˋ l ɛˋ l ɛˋ
-b o ɸ aˋ t ɬh aˋ
-b o ɸ eˋ ɸ ʊˊ
-b o ɸ ɛˊ l ɔˊ
-b o ɸ ɛˋ r aˋ b ʊˋ b eˋ d iˊ
-b o ɸ ɛˋ r aˋ b ʊˋ ŋ w ɪˋ
-b o ɸ ɪˋ r ɪˋ ɸ ɪˋ r ɪˋ
-b o ɸ ɪˋ t ɔˋ
-b o ɸ eˋ t ʊˋ x ɛˋ l ɔˋ
-b o ɸ iˊ ɸ aˊ d uˊ
-b o ɸ iˊ t ɬh aˊ
-b o ɸ oˋ ɸ uˋ
+b oˋ ɸ aˋ ɸ aˋ l ɛˋ l ɛˋ
+b oˋ ɸ aˋ th aˋ
+b oˋ ɸ eˋ ɸ ʊˊ
+b oˋ ɸ ɛˊ l ɔˊ
+b oˋ ɸ ɛˋ r aˋ b ʊˋ b eˋ d iˊ
+b oˋ ɸ ɛˋ r aˋ b ʊˋ ŋ w ɪˋ
+b oˋ ɸ ɪˋ r ɪˋ ɸ ɪˋ r ɪˋ
+b oˋ ɸ ɪˋ t ɔˋ
+b oˋ ɸ eˋ t ʊˋ x ɛˋ l ɔˋ
+b oˋ ɸ iˊ ɸ aˊ d uˊ
+b oˋ ɸ iˊ th aˊ
+b oˋ ɸ oˋ ɸ uˋ
 b oˊ ɸ ʊˊ l ʊˊ x aˋ
-b o ɸ ʊˋ l ʊˋ x ɔ
+b oˋ ɸ ʊˋ l ʊˋ x ɔˋ
 b oˊ ɸ ʊˊ l ʊˊ l aˋ
-b o ɸ uˋ d iˋ s ɔˋ
-b o ɸ uˊ l aˊ
+b oˋ ɸ uˋ d iˋ s ɔˋ
+b oˋ ɸ uˊ l aˊ
 b ʊˊ x aˊ
-b o x aˊ d iˊ
-b o x aˊ x aˊ p aˊ
-b o x aˋ x aˋ r uˊ
-b o x aˊ l ɪˊ
-b o x aˊ m ɔˊ
-b o x aˋ ŋˋ k aˋ
-b o x aˋ r ɪˊ
-b o x aˋ t ɬ aˋ p aˋ
-b o x aˊ t ɔˊ
-b o x aˊ t s uˊ
-b o x aˋ uˊ ɸ iˊ
-b o x aˋ uˊ t sh w aˋ n ɪˊ
+b oˋ x aˊ d iˊ
+b oˋ x aˊ x aˊ p aˊ
+b oˋ x aˋ x aˋ r uˊ
+b oˋ x aˊ l ɪˊ
+b oˋ x aˊ m ɔˊ
+b oˋ x aˋ ŋˋ k aˋ
+b oˋ x aˋ r ɪˊ
+b oˋ x aˋ t aˋ p aˋ
+b oˋ x aˊ t ɔˊ
+b oˋ x aˊ t s uˊ
+b oˋ x aˋ uˊ ɸ iˊ
+b oˋ x aˋ uˊ t sh w aˋ n ɪˊ
 b ʊˊ x ɛˊ l aˊ
 b ʊˊ x iˊ s aˊ
 b ʊˊ x iˊ s iˊ w aˋ
-b o x ɔˊ b ɛˊ
-b o x ʊˊ d iˊ
-b o x ʊˋ d iˊ m ʊˊ
-b o x oˋ d uˋ
-b o x ɔˊ x ɔˊ
+b oˋ x ɔˊ b ɛˊ
+b oˋ x ʊˊ d iˊ
+b oˋ x ʊˋ d iˊ m ʊˊ
+b oˋ x oˋ d uˋ
+b oˋ x ɔˊ x ɔˊ
 b oˊ x ʊˊ l aˊ
-b o x ɔˊ l ɛˊ
-b o x ʊˊ l ʊˊ
-b o x ʊˊ l ʊˊ b ʊˋ x ʊˊ l ʊˊ
-b o x ʊˊ l ʊˊ x ʊˊ l ʊˊ
-b o x ʊˊ l w aˋ n ɪˊ
-b o x ʊˊ m aˊ
-b o x ɔˊ m aˊ
-b o x ʊˋ n ʊˋ k ʊˊ
-b o x ɔˋ r ɔˋ x ɛˋ l ɔˋ
-b o x oˊ s iˊ
-b o x w aˊ x aˋ d iˊ
-b o x w aˋ t aˊ
-b o x w ɛˊ
-b o x w ɛˋ r aˊ
-b o h iˊ b iˊ d uˊ
-b o h uˊ m aˊ n eˊ x iˋ
-b o h uˊ t s aˋ n aˊ
+b oˋ x ɔˊ l ɛˊ
+b oˋ x ʊˊ l ʊˊ
+b oˋ x ʊˊ l ʊˊ b ʊˋ x ʊˊ l ʊˊ
+b oˋ x ʊˊ l ʊˊ x ʊˊ l ʊˊ
+b oˋ x ʊˊ l w aˋ n ɪˊ
+b oˋ x ʊˊ m aˊ
+b oˋ x ɔˊ m aˊ
+b oˋ x ʊˋ n ʊˋ k ʊˊ
+b oˋ x ɔˋ r ɔˋ x ɛˋ l ɔˋ
+b oˋ x oˊ s iˊ
+b oˋ x w aˊ x aˋ d iˊ
+b oˋ x w aˋ t aˊ
+b oˋ x w ɛˊ
+b oˋ x w ɛˋ r aˊ
+b oˋ h iˊ b iˊ d uˊ
+b oˋ h uˊ m aˊ n eˊ x iˋ
+b oˋ h uˊ t s aˋ n aˊ
 b oˋ iˊ
-b o iˋ d iˊ iˋ d iˊ
+b oˋ iˋ d iˊ iˋ d iˊ
 b oˊ iˊ ɸ aˊ
-b o iˊ k aˊ ɛˊ x ɔˊ
-b o iˊ k aˊ n ɔˊ
-b o iˊ k aˊ ɲ ɛˊ x ɔˋ
-b o iˊ k aˊ ɲ ɔˊ
-b o iˊ k aˊ r aˊ b ɛˊ l ɔˋ
-b o iˊ k aˊ t iˊ s ɔˋ
-b o iˊ k eˊ m iˊ s eˊ t s oˋ
-b o iˊ k eˊ t ɬ oˊ
-b o iˊ k x aˊ nˊ t sh ɔˊ
-b o iˊ k x aˊ p ɔˊ
-b o iˊ k x aˊ r aˊ t ɬh ɛˋ l ɔˋ
-b o iˊ k x ʊˊ d iˊ s ɔˊ
-b o iˊ k x oˊ x oˊ m ʊˋ s ɔˋ
-b o iˊ kh uˊ t s ɔˊ
-b o iˊ k ɔˊ b ɔˊ
-b o iˊ k oˊ k oˊ b eˊ t ʃ oˋ
-b o iˊ k ɔˊ t ɬh aˊ ɔˋ
-b o iˊ k uˊ t ɬ w ɛˊ l ɔˊ
-b o iˋ m aˋ
-b o iˋ m aˋ n aˋ
-b o iˊ n ɛˊ ɛˊ l ɔˊ
-b o iˊ ŋ ɔˊ t ɬ ɔˊ
-b o iˊ p ɪˊ l aˊ ɸ aˋ t s ɔˋ
-b o iˊ p ɛˊ l ɛˊ x ɔˋ
-b o iˊ p ɪˊ l ɔˊ
-b o iˊ ph ɪˊ m ɛˊ l ɔˋ
-b o iˊ ph iˊ t ɬh ɛˊ l ɔˊ
-b o iˊ p ʊˊ eˊ l eˊ t s oˋ
-b o iˊ p ʊˊ l ɛˊ l ɔˊ
-b o iˊ p ʊˊ p aˊ m iˊ s ɔˋ
-b o iˊ p uˊ s ɔˊ
-b o iˊ t aˊ ʊˊ l ɔˋ
-b o iˊ t aˊ p ʊˊ l ʊˋ s ɔˋ
-b o iˊ t ɪˊ k aˊ n ɛˋ l ɔˋ
-b o iˊ t ɪˊ k ɔˊ
-b o iˊ th aˊ b uˊ eˋ t s oˋ
-b o iˊ th aˊ t ɔˊ
-b o iˊ th ʊˊ m ɛˊ l ɔˊ
-b o iˊ th uˊ t ɔˊ
-b o iˊ t sh iˊ d iˊ l ɔˋ
-b o iˊ t iˊ b ʊˊ l ɔˋ
-b o iˊ t iˊ m ʊˊ k aˋ ɲ ɔˋ
-b o iˊ t iˊ r ɔˊ
-b o iˊ t ɬ aˊ m ɛˊ l ɔˋ
-b o iˊ t ɬh aˊ x aˊ n ɛˋ l ɔˋ
-b o iˊ t ɬh ɔˊ k ɔˊ m ɛˊ l ɔˋ
-b o iˊ t ɬh ɔˊ m ɔˊ
-b o iˊ t ɬ ʊˊ t ɬ ɔˊ
-b o iˊ t ɬ ʊˊ t ɬ ʊˊ m aˋ t ʃ ɔˋ
-b o iˊ t ɔˊ k ɔˊ
-b o iˊ t s ɪˋ aˊ n aˋ p ɪˊ
-b o iˊ t s ɪˊ m eˊ l eˋ t s oˋ
+b oˋ iˊ k aˊ ɛˊ x ɔˊ
+b oˋ iˊ k aˊ n ɔˊ
+b oˋ iˊ k aˊ ɲ ɛˊ x ɔˋ
+b oˋ iˊ k aˊ ɲ ɔˊ
+b oˋ iˊ k aˊ r aˊ b ɛˊ l ɔˋ
+b oˋ iˊ k aˊ t iˊ s ɔˋ
+b oˋ iˊ k eˊ m iˊ s eˊ t s oˋ
+b oˋ iˊ k eˊ t oˊ
+b oˋ iˊ k x aˊ nˊ t sh ɔˊ
+b oˋ iˊ k x aˊ p ɔˊ
+b oˋ iˊ k x aˊ r aˊ th ɛˋ l ɔˋ
+b oˋ iˊ k x ʊˊ d iˊ s ɔˊ
+b oˋ iˊ k x oˊ x oˊ m ʊˋ s ɔˋ
+b oˋ iˊ kh uˊ t s ɔˊ
+b oˋ iˊ k ɔˊ b ɔˊ
+b oˋ iˊ k oˊ k oˊ b eˊ t ʃ oˋ
+b oˋ iˊ k ɔˊ th aˊ ɔˋ
+b oˋ iˊ k uˊ t w ɛˊ l ɔˊ
+b oˋ iˋ m aˋ
+b oˋ iˋ m aˋ n aˋ
+b oˋ iˊ n ɛˊ ɛˊ l ɔˊ
+b oˋ iˊ ŋ ɔˊ t ɔˊ
+b oˋ iˊ p ɪˊ l aˊ ɸ aˋ t s ɔˋ
+b oˋ iˊ p ɛˊ l ɛˊ x ɔˋ
+b oˋ iˊ p ɪˊ l ɔˊ
+b oˋ iˊ ph ɪˊ m ɛˊ l ɔˋ
+b oˋ iˊ ph iˊ th ɛˊ l ɔˊ
+b oˋ iˊ p ʊˊ eˊ l eˊ t s oˋ
+b oˋ iˊ p ʊˊ l ɛˊ l ɔˊ
+b oˋ iˊ p ʊˊ p aˊ m iˊ s ɔˋ
+b oˋ iˊ p uˊ s ɔˊ
+b oˋ iˊ t aˊ ʊˊ l ɔˋ
+b oˋ iˊ t aˊ p ʊˊ l ʊˋ s ɔˋ
+b oˋ iˊ t ɪˊ k aˊ n ɛˋ l ɔˋ
+b oˋ iˊ t ɪˊ k ɔˊ
+b oˋ iˊ th aˊ b uˊ eˋ t s oˋ
+b oˋ iˊ th aˊ t ɔˊ
+b oˋ iˊ th ʊˊ m ɛˊ l ɔˊ
+b oˋ iˊ th uˊ t ɔˊ
+b oˋ iˊ t sh iˊ d iˊ l ɔˋ
+b oˋ iˊ t iˊ b ʊˊ l ɔˋ
+b oˋ iˊ t iˊ m ʊˊ k aˋ ɲ ɔˋ
+b oˋ iˊ t iˊ r ɔˊ
+b oˋ iˊ t aˊ m ɛˊ l ɔˋ
+b oˋ iˊ th aˊ x aˊ n ɛˋ l ɔˋ
+b oˋ iˊ th ɔˊ k ɔˊ m ɛˊ l ɔˋ
+b oˋ iˊ th ɔˊ m ɔˊ
+b oˋ iˊ t ʊˊ t ɔˊ
+b oˋ iˊ t ʊˊ t ʊˊ m aˋ t ʃ ɔˋ
+b oˋ iˊ t ɔˊ k ɔˊ
+b oˋ iˊ t s ɪˋ aˊ n aˋ p ɪˊ
+b oˋ iˊ t s ɪˊ m eˊ l eˋ t s oˋ
 b oˊ iˊ t sh aˊ
 b oˊ iˊ t sh ɛˊ x aˋ
-b o iˊ t sh ɛˊ k ɔˊ
-b o iˊ t sh eˊ k ʊˊ l ʊˊ x ɔˋ
-b o iˊ t sh ɛˊ p ɔˊ
-b o iˊ t sh iˊ r eˊ l eˊ t s oˋ
-b o iˊ t sh ɔˊ k ɔˊ
-b o iˊ t sh uˊ b ɛˊ l ɔˊ
-b o iˊ t sh w aˊ r ɛˊ l ɔˊ
-b o iˊ t sh w aˊ r ɔˊ
-b o iˊ t uˊ m ɛˊ l ɔˋ
-b o d ʒ aˋ l ɪˊ
-b o d ʒ aˋ l w aˊ
-b o d ʒ aˋ ŋˊ
-b o d ʒ oˊ s iˊ
-b o d ʒ oˊ t ɬh eˊ
-b o d ʒ uˊ t aˊ
-b o k aˊ
-b o k aˋ
+b oˋ iˊ t sh ɛˊ k ɔˊ
+b oˋ iˊ t sh eˊ k ʊˊ l ʊˊ x ɔˋ
+b oˋ iˊ t sh ɛˊ p ɔˊ
+b oˋ iˊ t sh iˊ r eˊ l eˊ t s oˋ
+b oˋ iˊ t sh ɔˊ k ɔˊ
+b oˋ iˊ t sh uˊ b ɛˊ l ɔˊ
+b oˋ iˊ t sh w aˊ r ɛˊ l ɔˊ
+b oˋ iˊ t sh w aˊ r ɔˊ
+b oˋ iˊ t uˊ m ɛˊ l ɔˋ
+b oˋ d ʒ aˋ l ɪˊ
+b oˋ d ʒ aˋ l w aˊ
+b oˋ d ʒ aˋ ŋˊ
+b oˋ d ʒ oˊ s iˊ
+b oˋ d ʒ oˊ th eˊ
+b oˋ d ʒ uˊ t aˊ
+b oˋ k aˊ
+b oˋ k aˋ
 b ɔˋ k aˋ
-b o k aˊ ɪˊ
-b o k aˋ ɪˊ
-b o k aˊ ɸ aˊ nˋ t ɬ ɛˊ
-b o k aˊ ɸ aˊ p ɪˊ l ɪˋ
-b o k aˊ ɸ aˊ t eˊ ŋˋ
-b o k aˊ ɸ aˊ t ɬ aˋ s ɪˊ
-b o k aˋ k aˋ
-b o k aˋ l ʊˊ
-b o k aˊ m ʊˋ s ɔˊ
-b o k aˋ n aˊ
-b o k aˋ ɔˋ
-b o k aˋ t oˋ l iˊ k iˊ
-b o k aˊ uˊ
-b o k aˊ uˊ l ɪˊ ŋ w ɪˋ
-b o k ɪˋ r eˊ s ɪˋ t ɪˊ
-b o k ɪˋ t ɪˋ
-b o k x aˊ b iˊ s iˊ
-b o k x aˊ k aˊ l aˊ
-b o k x aˋ k x aˋ
-b o k x aˋ r ɪˋ b ɛˋ
-b o k x ɛˋ th ɛˋ l ɔˋ d iˋ th ʊˊ t ʊˊ
-b o k x ɔˋ b aˊ
-b o k x ɔˋ l aˋ
-b o k x ʊˊ l ʊˊ k w ɪˊ
-b o k x oˋ n iˋ
-b o k x w aˊ b ʊˊ
-b o kh ɛˊ n ɛˊ k ɛˊ
-b o kh uˋ t ɬ ɔˋ
-b o kh uˊ t sh w aˋ n ɪˊ
-b o k iˊ d iˊ
-b o k iˋ m aˋ
-b o k ʊˋ aˋ
+b oˋ k aˊ ɪˊ
+b oˋ k aˋ ɪˊ
+b oˋ k aˊ ɸ aˊ nˋ t ɛˊ
+b oˋ k aˊ ɸ aˊ p ɪˊ l ɪˋ
+b oˋ k aˊ ɸ aˊ t eˊ ŋˋ
+b oˋ k aˊ ɸ aˊ t aˋ s ɪˊ
+b oˋ k aˋ k aˋ
+b oˋ k aˋ l ʊˊ
+b oˋ k aˊ m ʊˋ s ɔˊ
+b oˋ k aˋ n aˊ
+b oˋ k aˋ ɔˋ
+b oˋ k aˋ t oˋ l iˊ k iˊ
+b oˋ k aˊ uˊ
+b oˋ k aˊ uˊ l ɪˊ ŋ w ɪˋ
+b oˋ k ɪˋ r eˊ s ɪˋ t ɪˊ
+b oˋ k ɪˋ t ɪˋ
+b oˋ k x aˊ b iˊ s iˊ
+b oˋ k x aˊ k aˊ l aˊ
+b oˋ k x aˋ k x aˋ
+b oˋ k x aˋ r ɪˋ b ɛˋ
+b oˋ k x ɛˋ th ɛˋ l ɔˋ d iˋ th ʊˊ t ʊˊ
+b oˋ k x ɔˋ b aˊ
+b oˋ k x ɔˋ l aˋ
+b oˋ k x ʊˊ l ʊˊ k w ɪˊ
+b oˋ k x oˋ n iˋ
+b oˋ k x w aˊ b ʊˊ
+b oˋ kh ɛˊ n ɛˊ k ɛˊ
+b oˋ kh uˋ t ɔˋ
+b oˋ kh uˊ t sh w aˋ n ɪˊ
+b oˋ k iˊ d iˊ
+b oˋ k iˋ m aˋ
+b oˋ k ʊˋ aˋ
 b ɔˊ k ɔˊ l ɛˊ l aˋ
-b o k oˋ l oˊ n ɪˊ
-b o k ʊˋ l w aˋ n ɪˊ
-b o k oˋ m ʊˋ n iˊ s iˊ
-b o k oˋ n ɪˊ
-b o k ɔˋ p aˋ n ɛˋ l ɔˋ
+b oˋ k oˋ l oˊ n ɪˊ
+b oˋ k ʊˋ l w aˋ n ɪˊ
+b oˋ k oˋ m ʊˋ n iˊ s iˊ
+b oˋ k oˋ n ɪˊ
+b oˋ k ɔˋ p aˋ n ɛˋ l ɔˋ
 b ɔˊ k ɔˋ s ɛˊ
-b o k w aˊ nˋ t ɬ ɛˊ
-b o k w eˋ b uˋ
-b o l aˋ
+b oˋ k w aˊ nˋ t ɛˊ
+b oˋ k w eˋ b uˋ
+b oˋ l aˋ
 b ɔˋ l aˋ
 b ʊˊ l aˊ aˊ n aˋ
-b o l aˊ d uˊ
+b oˋ l aˊ d uˊ
 b ʊˊ l aˊ iˊ s aˋ
-b o l aˋ l ʊˋ m ɛˋ
-b o l aˊ ɔˊ
-b o l aˊ ʊˊ s ɪˋ
-b o l aˋ uˊ
+b oˋ l aˋ l ʊˋ m ɛˋ
+b oˋ l aˊ ɔˊ
+b oˋ l aˊ ʊˊ s ɪˋ
+b oˋ l aˋ uˊ
 b ʊˊ l aˊ w aˊ
-b o l aˊ w aˊ n aˋ
+b oˋ l aˊ w aˊ n aˋ
 b ʊˊ l aˊ j aˊ
-b o l ɪˋ aˋ
-b o l eˊ eˋ l eˊ
-b o l ɪˋ k aˋ n ɪˋ
-b o l ɛˊ k ɛˊ
-b o l ɛˊ k ɛˋ b ɔˊ r ɔˋ t ɔˊ
+b oˋ l ɪˋ aˋ
+b oˋ l eˊ eˋ l eˊ
+b oˋ l ɪˋ k aˋ n ɪˋ
+b oˋ l ɛˊ k ɛˊ
+b oˋ l ɛˊ k ɛˋ b ɔˊ r ɔˋ t ɔˊ
 b ʊˊ l ɛˊ l aˊ
 b ʊˊ l ɛˊ l ɛˊ l aˋ
 b ʊˊ l ɛˊ l ɛˊ s ɛˋ x aˋ
-b o l ɪˋ l ɔˋ
-b o l ɪˋ m iˋ
-b o l ɪˋ m ɔˋ
-b o l ɪˋ ŋˊ
-b o l ɪˋ ŋˊ t eˋ ŋˊ
-b o l eˊ ʊˊ
-b o l ɛˋ t aˋ
+b oˋ l ɪˋ l ɔˋ
+b oˋ l ɪˋ m iˋ
+b oˋ l ɪˋ m ɔˋ
+b oˋ l ɪˋ ŋˊ
+b oˋ l ɪˋ ŋˊ t eˋ ŋˊ
+b oˋ l eˊ ʊˊ
+b oˋ l ɛˋ t aˋ
 b ʊˊ l eˊ t s aˊ
-b o l ɛˋ t s w aˋ
+b oˋ l ɛˋ t s w aˋ
 b ʊˊ l ʊˊ
-b o l oˋ iˋ
+b oˋ l oˋ iˋ
 b ʊˊ l ʊˊ k aˊ
 b ʊˊ l ʊˊ k ɛˊ s ɛˋ x aˋ
-b o l ɔˋ k ɔˊ
-b o l ʊˋ k w aˋ n ɪˋ
+b oˋ l ɔˋ k ɔˊ
+b oˋ l ʊˋ k w aˋ n ɪˋ
 b ʊˊ l ʊˊ l aˊ
-b o l ʊˊ l ʊˊ
-b o l ʊˋ n aˊ
+b oˋ l ʊˊ l ʊˊ
+b oˋ l ʊˋ n aˊ
 b ʊˊ l ʊˊ t s aˊ
-b o l ɔˋ t s aˋ n aˋ
-b o l w eˊ t s ɪˊ
-b o m aˋ d iˊ m aˋ b ɪˊ
-b o m aˋ s w ɛˊ
-b o m aˋ t ɬ aˋ
+b oˋ l ɔˋ t s aˋ n aˋ
+b oˋ l w eˊ t s ɪˊ
+b oˋ m aˋ d iˊ m aˋ b ɪˊ
+b oˋ m aˋ s w ɛˊ
+b oˋ m aˋ t aˋ
 b oˋ m ʊˊ
-b o m ʊˋ r aˊ x ʊˊ
-b o m ɛˋ t ɛˋ
-b o mˋ m ɔˊ x ɔˊ
-b o m ʊˋ d iˊ m ʊˊ
-b o m ʊˋ r aˊ ɸ ɪˊ
+b oˋ m ʊˋ r aˊ x ʊˊ
+b oˋ m ɛˋ t ɛˋ
+b oˋ mˋ m ɔˊ x ɔˊ
+b oˋ m ʊˋ d iˊ m ʊˊ
+b oˋ m ʊˋ r aˊ ɸ ɪˊ
 b ɔˊ n aˊ
-b o n aˋ k ɔˋ
+b oˋ n aˋ k ɔˋ
 b ɔˊ n aˊ l aˊ
-b o n aˋ m aˊ x aˊ d iˊ
-b o n aˊ n aˊ
+b oˋ n aˋ m aˊ x aˊ d iˊ
+b oˋ n aˊ n aˊ
 b ɔˊ n aˊ n aˊ
-b o n aˋ t ɬ aˊ
-b ɔˊ n a t s aˊ
+b oˋ n aˋ t aˊ
+b ɔˊ n aˋ t s aˊ
 b ɔˊ n aˊ t sh ɛˊ x aˋ
 b ɔˋ n ɛˊ
-b o n ɛˋ
+b oˋ n ɛˋ
 b ɔˋ n ɛˋ x aˋ
 b ɔˊ n ɛˊ l aˊ
 b oˋ n eˋ s aˋ
-b o ŋˊ
-b o ŋ aˋ ŋ aˊ
-b o ŋ aˋ k aˋ
-b o ŋ ɔˋ l aˋ
-b o ŋ w aˋ n aˊ
-b o ŋ w ɪˋ
-b o nˊ n aˊ
-b o nˋ n aˊ
-b o nˊ n ɔˊ
-b o ɲˊ ɲ ɪˊ
-b o n ɔˊ l ɔˊ
-b o n ɔˋ nˋ t ɬh ɔˋ t ɬh ɔˋ
-b o n oˊ s iˊ
-b o nˋ t ɬ ɛˋ
-b o nˋ t ɬh aˊ ŋˊ ŋ w ɪˋ
+b oˋ ŋˊ
+b oˋ ŋ aˋ ŋ aˊ
+b oˋ ŋ aˋ k aˋ
+b oˋ ŋ ɔˋ l aˋ
+b oˋ ŋ w aˋ n aˊ
+b oˋ ŋ w ɪˋ
+b oˋ nˊ n aˊ
+b oˋ nˋ n aˊ
+b oˋ nˊ n ɔˊ
+b oˋ ɲˊ ɲ ɪˊ
+b oˋ n ɔˊ l ɔˊ
+b oˋ n ɔˋ nˋ th ɔˋ th ɔˋ
+b oˋ n oˊ s iˊ
+b oˋ nˋ t ɛˋ
+b oˋ nˋ th aˊ ŋˊ ŋ w ɪˋ
 b oˊ nˊ t sh aˊ
-b o nˋ t sh ʊˋ
-b o nˊ t s iˊ
-b o nˊ t s iˋ nˊ t s iˊ
+b oˋ nˋ t sh ʊˋ
+b oˋ nˊ t s iˊ
+b oˋ nˊ t s iˋ nˊ t s iˊ
 b ɔˊ n w aˊ
-b o ɲ aˋ
 b oˋ ɲ aˋ
-b o ɲ aˊ n aˊ
-b o ɲ aˋ t s iˊ
-b o ɲ eˋ t s aˋ n aˋ
-b o ɲ ɔˋ ɲ ɔˋ
-b o ɔˋ k ɛˋ l ɔˋ
-b o ʊˋ p aˋ
+b oˋ ɲ aˋ
+b oˋ ɲ aˊ n aˊ
+b oˋ ɲ aˋ t s iˊ
+b oˋ ɲ eˋ t s aˋ n aˋ
+b oˋ ɲ ɔˋ ɲ ɔˋ
+b oˋ ɔˋ k ɛˋ l ɔˋ
+b oˋ ʊˋ p aˋ
 b ʊˊ p aˊ
 b ɔˋ p aˋ
-b o p aˊ x aˊ m ɔˊ
-b o p aˊ l aˊ m ɔˊ
+b oˋ p aˊ x aˊ m ɔˊ
+b oˋ p aˊ l aˊ m ɔˊ
 b ʊˊ p aˊ m aˊ
 b ʊˊ p aˊ m iˊ s aˋ
 b ʊˊ p ɛˊ x aˊ
 b ʊˊ p ɛˊ l ɛˊ l aˋ
 b ʊˊ p eˊ l eˊ t s aˋ
-b o p ɪˋ l ʊˊ
-b o p ɪˋ l ʊˊ ɪˋ th aˊ t aˊ
-b o p ɪˋ l ʊˊ k x aˊ l ɪˊ
-b o p ɪˋ l ʊˊ n aˋ m aˊ x aˊ d iˊ
-b o p ɪˋ l ʊˊ n ɔˊ l ɔˊ
-b o p ɪˋ l ʊˊ n oˊ m iˊ
-b o p ɪˋ l ʊˊ nˊ t ɬ ɛˋ
-b o p ɪˋ l ʊˊ t eˊ l eˋ l eˊ
-b o p ɪˋ l ʊˊ t ɬh oˋ m ʊˊ x iˊ
-b o p ɪˋ l ʊˊ t sh ɛˋ t ɬh aˊ
-b o ph aˋ ph aˋ th iˊ
-b o ph aˋ r aˋ
-b o ph ɛˊ p aˊ
-b o ph iˋ r iˋ m aˋ
-b o ph iˋ r iˋ m aˋ t s aˋ t s iˊ
-b o p iˊ
-b o p iˋ l aˋ
+b oˋ p ɪˋ l ʊˊ
+b oˋ p ɪˋ l ʊˊ ɪˋ th aˊ t aˊ
+b oˋ p ɪˋ l ʊˊ k x aˊ l ɪˊ
+b oˋ p ɪˋ l ʊˊ n aˋ m aˊ x aˊ d iˊ
+b oˋ p ɪˋ l ʊˊ n ɔˊ l ɔˊ
+b oˋ p ɪˋ l ʊˊ n oˊ m iˊ
+b oˋ p ɪˋ l ʊˊ nˊ t ɛˋ
+b oˋ p ɪˋ l ʊˊ t eˊ l eˋ l eˊ
+b oˋ p ɪˋ l ʊˊ th oˋ m ʊˊ x iˊ
+b oˋ p ɪˋ l ʊˊ t sh ɛˋ th aˊ
+b oˋ ph aˋ ph aˋ th iˊ
+b oˋ ph aˋ r aˋ
+b oˋ ph ɛˊ p aˊ
+b oˋ ph iˋ r iˋ m aˋ
+b oˋ ph iˋ r iˋ m aˋ t s aˋ t s iˊ
+b oˋ p iˊ
+b oˋ p iˋ l aˋ
 b ʊˊ p ʊˊ l ʊˊ x aˋ
 b ʊˊ p ʊˊ l ʊˊ l aˋ
-b o p ɔˋ ɔˊ
+b oˋ p ɔˋ ɔˊ
 b ɔˊ r aˊ
-b o r aˊ
-b o r aˊ k aˊ n ɛˊ l ɔˋ
-b o r aˊ l ɪˊ
-b o r aˋ m aˋ x aˋ
-b o r aˋ r aˊ
-b o r aˊ r ʊˊ
-b o r aˊ t aˊ r ʊˊ
+b oˋ r aˊ
+b oˋ r aˊ k aˊ n ɛˊ l ɔˋ
+b oˋ r aˊ l ɪˊ
+b oˋ r aˋ m aˋ x aˋ
+b oˋ r aˋ r aˊ
+b oˋ r aˊ r ʊˊ
+b oˋ r aˊ t aˊ r ʊˊ
 b ʊˊ r aˊ ʃ aˊ
-b o r aˊ ʃ ɪˊ
-b o r ɛˊ k ɛˊ l ɔˊ
-b o r ɛˋ k ɛˋ r ɛˋ k ɛˋ
-b o r ɛˊ l ɛˊ
-b o r ɛˋ n aˋ
-b o r ɪˋ th ɪˋ
-b o r iˊ k iˊ
-b o r ʊˊ b aˊ
-b o r ɔˋ b aˋ l ɔˋ
-b o r ʊˊ x ʊˊ
-b o r ʊˊ k x w ɪˊ
-b o r ɔˋ k ɔˋ
-b o r oˊ k uˊ
-b o r ɔˋ l ɛˋ
-b o r ɔˋ m aˊ
-b o r ʊˋ n aˊ
-b o r ʊˊ ŋ w aˊ
-b o r ʊˋ t ɛˋ l ɔˋ
-b o r ɔˊ th ɔˊ
+b oˋ r aˊ ʃ ɪˊ
+b oˋ r ɛˊ k ɛˊ l ɔˊ
+b oˋ r ɛˋ k ɛˋ r ɛˋ k ɛˋ
+b oˋ r ɛˊ l ɛˊ
+b oˋ r ɛˋ n aˋ
+b oˋ r ɪˋ th ɪˋ
+b oˋ r iˊ k iˊ
+b oˋ r ʊˊ b aˊ
+b oˋ r ɔˋ b aˋ l ɔˋ
+b oˋ r ʊˊ x ʊˊ
+b oˋ r ʊˊ k x w ɪˊ
+b oˋ r ɔˋ k ɔˋ
+b oˋ r oˊ k uˊ
+b oˋ r ɔˋ l ɛˋ
+b oˋ r ɔˋ m aˊ
+b oˋ r ʊˋ n aˊ
+b oˋ r ʊˊ ŋ w aˊ
+b oˋ r ʊˋ t ɛˋ l ɔˋ
+b oˋ r ɔˊ th ɔˊ
 b ɔˊ r ɔˋ t ɔˊ
-b o r uˋ m aˋ
-b o r uˊ m ʊˊ l aˊ n ɔˋ
-b o r uˊ r uˊ x aˊ
-b o r uˊ t iˊ
-b o r uˊ t w aˊ t iˊ r ɔˋ
-b o r w aˊ
-b o s aˊ d iˊ
-b o s aˋ iˊ k aˋ t ɛˊ x aˋ ŋˊ
-b o s aˊ iˋ t s iˊ w ɪˋ ŋˊ
-b o s aˋ k x oˋ n eˊ x ɪˋ ŋˊ
-b o s ɪˊ aˊ
-b o s ɪˊ d ʒ aˊ
-b o s ɪˊ s aˋ n ɪˊ
-b o s ɪˊ t ʃh aˊ b aˋ
-b o s ɪˊ j oˋ ŋˊ
-b o s iˊ aˊ m iˊ s iˋ
-b o s iˊ x ʊˊ
-b o s iˊ x ʊˊ x aˋ r ɪˊ
-b o s iˊ l ʊˊ
-b o s iˋ s iˋ
-b o s ɔˋ l ɛˋ
-b o s uˋ l aˊ
-b o s uˋ p aˊ
-b o s uˋ p ɛˋ l ɔˋ
-b o s uˋ p iˋ
-b o s uˊ s uˊ
-b o s w aˊ
-b o s w aˋ t aˊ
-b o s w eˋ uˊ
-b o ʃ aˊ
-b o t aˋ x w aˊ
-b o t aˋ l aˊ
+b oˋ r uˋ m aˋ
+b oˋ r uˊ m ʊˊ l aˊ n ɔˋ
+b oˋ r uˊ r uˊ x aˊ
+b oˋ r uˊ t iˊ
+b oˋ r uˊ t w aˊ t iˊ r ɔˋ
+b oˋ r w aˊ
+b oˋ s aˊ d iˊ
+b oˋ s aˋ iˊ k aˋ t ɛˊ x aˋ ŋˊ
+b oˋ s aˊ iˋ t s iˊ w ɪˋ ŋˊ
+b oˋ s aˋ k x oˋ n eˊ x ɪˋ ŋˊ
+b oˋ s ɪˊ aˊ
+b oˋ s ɪˊ d ʒ aˊ
+b oˋ s ɪˊ s aˋ n ɪˊ
+b oˋ s ɪˊ t ʃh aˊ b aˋ
+b oˋ s ɪˊ j oˋ ŋˊ
+b oˋ s iˊ aˊ m iˊ s iˋ
+b oˋ s iˊ x ʊˊ
+b oˋ s iˊ x ʊˊ x aˋ r ɪˊ
+b oˋ s iˊ l ʊˊ
+b oˋ s iˋ s iˋ
+b oˋ s ɔˋ l ɛˋ
+b oˋ s uˋ l aˊ
+b oˋ s uˋ p aˊ
+b oˋ s uˋ p ɛˋ l ɔˋ
+b oˋ s uˋ p iˋ
+b oˋ s uˊ s uˊ
+b oˋ s w aˊ
+b oˋ s w aˋ t aˊ
+b oˋ s w eˋ uˊ
+b oˋ ʃ aˊ
+b oˋ t aˋ x w aˊ
+b oˋ t aˋ l aˊ
 b ʊˊ t ɛˊ l aˊ
-b o t eˊ l eˋ l eˊ
-b o t eˋ ŋˋ
-b o t eˋ ŋˋ t eˋ ŋˋ
+b oˋ t eˊ l eˋ l eˊ
+b oˋ t eˋ ŋˋ
+b oˋ t eˋ ŋˋ t eˋ ŋˋ
 b ʊˊ th aˊ
-b o th aˋ k x aˋ
-b o th aˊ t aˊ
-b o th ɪˋ p aˋ
-b o th iˋ b ɛˋ l ɛˋ l ɔˋ
-b o th iˋ th ɔˋ
-b o th ʊˋ
+b oˋ th aˋ k x aˋ
+b oˋ th aˊ t aˊ
+b oˋ th ɪˋ p aˋ
+b oˋ th iˋ b ɛˋ l ɛˋ l ɔˋ
+b oˋ th iˋ th ɔˋ
+b oˋ th ʊˋ
 b ʊˊ th ʊˊ l ʊˊ x aˋ
-b o t ɬ aˊ l ɔˊ
-b ɔˋ t ɬ aˊ n aˊ
-b o t ɬ aˊ p aˊ
-b o t ɬ aˋ s ɪˊ
-b o t ɬh aˊ
-b o t ɬh aˋ b aˋ
-b o t ɬh aˋ b aˋ t s aˋ t s iˊ
-b o t ɬh aˋ b ɛˋ l ɔˋ
-b o t ɬh aˊ x aˊ
-b o t ɬh aˊ l ɪˊ
-b o t ɬh aˊ m ɔˊ
-b o t ɬh aˋ ŋˊ k aˊ
-b o t ɬh aˊ n ʊˊ
-b o t ɬh aˋ ʊˋ l ɛˋ l ɔˋ
-b o t ɬh aˋ s w aˋ
-b o t ɬh aˋ t ɬ ʊˋ x ɔˋ
-b oˊ t ɬh eˊ
-b o t ɬh oˊ d iˊ
-b o t ɬh ɔˋ x ɔˋ l ɛˋ
-b o t ɬh oˋ k iˋ
-b o t ɬh ʊˊ k ʊˊ
-b o t ɬh ɔˋ k ɔˋ
-b o t ɬh ɔˋ k w aˊ
-b o t ɬh ʊˋ l ɪˊ
-b o t ɬh ɔˊ l aˊ x aˊ d iˋ
-b o t ɬh oˋ m ʊˋ x aˋ p ɪˋ l ʊˊ
-b o t ɬ w aˊ ɛˊ l ɔˊ
-b o t ɔˋ b ɛˋ t ɔˋ b ɛˋ
-b o t ʊˋ k aˊ
-b o t ʊˊ n aˊ
-b o t ʊˊ n aˊ ɲ aˊ n aˋ
+b oˋ t aˊ l ɔˊ
+b ɔˋ t aˊ n aˊ
+b oˋ t aˊ p aˊ
+b oˋ t aˋ s ɪˊ
+b oˋ th aˊ
+b oˋ th aˋ b aˋ
+b oˋ th aˋ b aˋ t s aˋ t s iˊ
+b oˋ th aˋ b ɛˋ l ɔˋ
+b oˋ th aˊ x aˊ
+b oˋ th aˊ l ɪˊ
+b oˋ th aˊ m ɔˊ
+b oˋ th aˋ ŋˊ k aˊ
+b oˋ th aˊ n ʊˊ
+b oˋ th aˋ ʊˋ l ɛˋ l ɔˋ
+b oˋ th aˋ s w aˋ
+b oˋ th aˋ t ʊˋ x ɔˋ
+b oˊ th eˊ
+b oˋ th oˊ d iˊ
+b oˋ th ɔˋ x ɔˋ l ɛˋ
+b oˋ th oˋ k iˋ
+b oˋ th ʊˊ k ʊˊ
+b oˋ th ɔˋ k ɔˋ
+b oˋ th ɔˋ k w aˊ
+b oˋ th ʊˋ l ɪˊ
+b oˋ th ɔˊ l aˊ x aˊ d iˋ
+b oˋ th oˋ m ʊˋ x aˋ p ɪˋ l ʊˊ
+b oˋ t w aˊ ɛˊ l ɔˊ
+b oˋ t ɔˋ b ɛˋ t ɔˋ b ɛˋ
+b oˋ t ʊˋ k aˊ
+b oˋ t ʊˊ n aˊ
+b oˋ t ʊˊ n aˊ ɲ aˊ n aˋ
 b ɔˊ t ɔˋ r ɔˊ
 b ʊˊ t s aˊ
-b o t s aˊ l aˊ
-b o t s aˊ l aˊ n ɔˊ
-b o t s aˊ l ɔˊ
-b o t s ɛˊ n ɔˊ
-b o t s eˊ t s ɪˊ
-b o t sh aˊ b ɛˊ l ɔˊ
-b o t sh ɪˊ k aˊ
-b o t sh ɪˊ l ɔˊ
-b o t sh ɪˊ l ɔˊ
-b o t sh uˊ m eˊ
-b o t sh w aˋ k x aˋ
-b o t sh w aˊ r ɔˊ
-b o t s iˊ d iˊ d iˊ
+b oˋ t s aˊ l aˊ
+b oˋ t s aˊ l aˊ n ɔˊ
+b oˋ t s aˊ l ɔˊ
+b oˋ t s ɛˊ n ɔˊ
+b oˋ t s eˊ t s ɪˊ
+b oˋ t sh aˊ b ɛˊ l ɔˊ
+b oˋ t sh ɪˊ k aˊ
+b oˋ t sh ɪˊ l ɔˊ
+b oˋ t sh ɪˊ l ɔˊ
+b oˋ t sh uˊ m eˊ
+b oˋ t sh w aˋ k x aˋ
+b oˋ t sh w aˊ r ɔˊ
+b oˋ t s iˊ d iˊ d iˊ
 b ʊˊ t s iˊ s aˊ
-b o t s ɔˋ
-b o t s ʊˊ ɸ ɛˊ
-b o t s ʊˊ x ɔˊ
+b oˋ t s ɔˋ
+b oˋ t s ʊˊ ɸ ɛˊ
+b oˋ t s ʊˊ x ɔˊ
 b ʊˊ t s ʊˊ l ʊˊ t s aˋ
-b o t s uˋ ʊˋ l ʊˋ d iˋ
-b o t s w aˊ n aˊ
-b o t s w ɪˊ r ɪˊ r ɪˊ
-b o t ʃh aˋ r aˋ r aˋ
-b o uˋ p iˊ
-b o uˊ t ɬ w ɛˊ l ɔˊ b ʊˋ t ɬh ʊˊ k ʊˊ
+b oˋ t s uˋ ʊˋ l ʊˋ d iˋ
+b oˋ t s w aˊ n aˊ
+b oˋ t s w ɪˊ r ɪˊ r ɪˊ
+b oˋ t ʃh aˋ r aˋ r aˋ
+b oˋ uˋ p iˊ
+b oˋ uˊ t w ɛˊ l ɔˊ b ʊˋ th ʊˊ k ʊˊ
 b oˊ uˋ t uˊ
-b o w ɛˋ l ɔˋ
-b o w ɛˋ n aˊ
-b o w eˋ t s oˋ
+b oˋ w ɛˋ l ɔˋ
+b oˋ w ɛˋ n aˊ
+b oˋ w eˋ t s oˋ
 b uˋ aˋ
 b uˊ aˊ
 b uˊ aˊ b uˊ aˋ
@@ -708,77 +708,77 @@ b uˊ t s w aˊ
 b uˋ t s w ɛˋ l aˋ
 b uˊ t uˊ
 d iˊ aˊ
-d i aˋ p aˋ r ɔˋ
-d i b ɛˋ l aˋ
-d i b ɪˊ t ɪˊ
+d iˋ aˋ p aˋ r ɔˋ
+d iˋ b ɛˋ l aˋ
+d iˋ b ɪˊ t ɪˊ
 d iˊ d iˊ m aˊ l aˋ
 d iˊ d iˊ m aˊ l ɛˋ l aˋ
 d iˊ d iˊ m aˊ t s aˋ
-d i d iˋ r iˊ s iˋ w aˊ
+d iˋ d iˋ r iˊ s iˋ w aˊ
 d iˊ ɛˊ x aˊ
-d i x aˋ
-d i x aˋ l aˊ s ɪˊ
-d i x ɔˋ b ɔˋ
-d i x w ɛˊ
-d i d ʒ aˋ n aˋ
-d i d ʒ ɔˊ
+d iˋ x aˋ
+d iˋ x aˋ l aˊ s ɪˊ
+d iˋ x ɔˋ b ɔˋ
+d iˋ x w ɛˊ
+d iˋ d ʒ aˋ n aˋ
+d iˋ d ʒ ɔˊ
 d iˊ k aˊ d iˊ k aˋ
 d iˊ k aˊ ɲ eˊ t s aˋ
 d iˊ k ɛˊ l aˊ
-d i k x aˊ k ʊˊ l ʊˊ x ɔˋ
-d i k x aˊ ŋˊ
-d i k x oˋ m ʊˊ
-d i k x ʊˊ r aˊ
-d i kh uˊ m ɔˊ
-d i kh uˋ t iˋ
-d i k iˋ r iˊ iˋ
+d iˋ k x aˊ k ʊˊ l ʊˊ x ɔˋ
+d iˋ k x aˊ ŋˊ
+d iˋ k x oˋ m ʊˊ
+d iˋ k x ʊˊ r aˊ
+d iˋ kh uˊ m ɔˊ
+d iˋ kh uˋ t iˋ
+d iˋ k iˋ r iˊ iˋ
 d iˊ k iˊ ʃ iˋ n aˊ r ɪˊ
 d iˊ k ʊˊ l ʊˊ x aˋ
 d iˊ k ʊˊ l ʊˊ s aˋ
-d i k ʊˋ r aˊ nˋ t aˊ
-d i k ɔˋ r ɔˋ
-d i k ʊˋ t ɬ aˊ
-d i l aˋ
+d iˋ k ʊˋ r aˊ nˋ t aˊ
+d iˋ k ɔˋ r ɔˋ
+d iˋ k ʊˋ t aˊ
+d iˋ l aˋ
 d iˊ l ʊˊ l aˊ
 d iˊ m ʊˊ
 d iˊ m ʊˊ k aˊ n aˋ
-d i m ʊˋ l aˋ
-d i ŋ aˋ l ɔˋ
-d i n oˊ t sh ɪˊ
-d i nˋ t ɛˋ l ɔˋ
-d i p aˋ l aˋ
-d i p aˋ l ɔˋ
-d i p aˋ mˋ p iˊ r iˊ
-d i ph aˋ t s aˋ
-d i ph ɔˊ r ɔˋ l aˊ
-d i p uˊ l aˊ
-d i p uˊ ɔˊ
-d i r aˋ
-d i r aˋ ɸ aˋ l aˋ
-d i r aˋ ɸ aˋ l ɛˋ l aˋ
-d i r aˋ ɸ aˋ t s aˋ
-d i r ɛˋ x aˋ
-d i r eˊ t ɬ oˊ
-d i r iˋ s aˋ
-d i r iˋ s ɛˋ x aˋ
-d i r ʊˋ l ʊˋ x aˋ
-d i r ʊˋ l ʊˋ l aˋ
-d i r ʊˋ l ʊˋ l ɛˋ s ɛˋ x aˋ
+d iˋ m ʊˋ l aˋ
+d iˋ ŋ aˋ l ɔˋ
+d iˋ n oˊ t sh ɪˊ
+d iˋ nˋ t ɛˋ l ɔˋ
+d iˋ p aˋ l aˋ
+d iˋ p aˋ l ɔˋ
+d iˋ p aˋ mˋ p iˊ r iˊ
+d iˋ ph aˋ t s aˋ
+d iˋ ph ɔˊ r ɔˋ l aˊ
+d iˋ p uˊ l aˊ
+d iˋ p uˊ ɔˊ
+d iˋ r aˋ
+d iˋ r aˋ ɸ aˋ l aˋ
+d iˋ r aˋ ɸ aˋ l ɛˋ l aˋ
+d iˋ r aˋ ɸ aˋ t s aˋ
+d iˋ r ɛˋ x aˋ
+d iˋ r eˊ t oˊ
+d iˋ r iˋ s aˋ
+d iˋ r iˋ s ɛˋ x aˋ
+d iˋ r ʊˋ l ʊˋ x aˋ
+d iˋ r ʊˋ l ʊˋ l aˋ
+d iˋ r ʊˋ l ʊˋ l ɛˋ s ɛˋ x aˋ
 d iˊ s aˊ
-d i t aˋ l aˋ m aˊ
-d i t eˋ d uˋ
-d i t eˋ ŋˋ
-d i th ʊˊ t ʊˊ
-d i th uˊ ɔˊ
-d i t iˋ r aˋ x aˋ l ɔˋ
-d i t iˋ r ɔˋ
-d i t ɬh aˊ k aˊ
-d i t ɬh oˊ ŋˊ
-d i t ɔˊ r ɔˊ
-d i t s aˊ
-d i t s ɛˋ d ʒ w aˊ n aˊ
-d i t sh uˋ p ɔˋ
-d i t ʃh iˊ p iˋ s iˊ
+d iˋ t aˋ l aˋ m aˊ
+d iˋ t eˋ d uˋ
+d iˋ t eˋ ŋˋ
+d iˋ th ʊˊ t ʊˊ
+d iˋ th uˊ ɔˊ
+d iˋ t iˋ r aˋ x aˋ l ɔˋ
+d iˋ t iˋ r ɔˋ
+d iˋ th aˊ k aˊ
+d iˋ th oˊ ŋˊ
+d iˋ t ɔˊ r ɔˊ
+d iˋ t s aˊ
+d iˋ t s ɛˋ d ʒ w aˊ n aˊ
+d iˋ t sh uˋ p ɔˋ
+d iˋ t ʃh iˊ p iˋ s iˊ
 d uˋ b aˋ
 d uˊ eˊ d iˊ s aˋ
 d uˊ ɛˊ l aˊ
@@ -791,7 +791,7 @@ d uˋ m ɛˋ l ɛˋ l aˋ
 d uˋ m ɛˋ l ɛˋ s ɛˋ x aˋ
 d uˋ p ɛˋ l aˋ
 d uˋ s aˋ
-d uˋ t ɬ aˋ
+d uˋ t aˋ
 eˊ
 ɪˊ b iˋ l eˊ
 ɪˊ b oˋ ŋˊ
@@ -834,9 +834,9 @@ eˋ p ʊˋ l ʊˋ l aˋ
 ɛˋ t aˋ
 ɛˋ t ɛˋ l aˋ
 ɛˋ t ɛˋ l aˋ n aˋ
-ɛˋ t ɛˋ l ɛˋ l aˋ   p ɪˊ l ɪˊ
+ɛˋ t ɛˋ l ɛˋ l aˋ p ɪˊ l ɪˊ
 ɛˋ t ɛˋ l ɛˋ s ɛˋ x aˋ
-eˋ t ɬ eˋ eˋ t s aˋ
+eˋ t eˋ eˋ t s aˋ
 eˋ t s aˋ
 eˋ t s aˋ eˋ t s ɛˋ x aˋ
 eˋ t s ɛˋ x aˋ
@@ -861,7 +861,7 @@ eˋ t sh ʊˊ
 ɸ aˊ r ʊˊ l ʊˊ x aˋ ɲ aˋ
 ɸ aˋ t aˋ
 ɸ aˊ t ɪˋ r ɪˊ
-ɸ aˋ t ɬh ʊˋ s aˋ
+ɸ aˋ th ʊˋ s aˋ
 ɸ aˋ t ʊˋ x aˋ
 ɸ aˋ t ʊˋ l aˋ
 ɸ aˋ t sh ɪˊ
@@ -888,7 +888,7 @@ eˋ t sh ʊˊ
 ɸ ɛˋ r aˋ b ʊˋ b eˋ d iˊ
 ɸ ɛˋ r aˋ b ʊˋ ŋ w ɪˋ
 ɸ ɪˋ r ɪˋ k aˋ n aˋ
-ɸ ɪˋ r ɪˋ t ɬh aˋ
+ɸ ɪˋ r ɪˋ th aˋ
 ɸ ɪˋ r iˊ k x ʊˊ ŋˊ
 ɸ eˋ r ʊˋ x aˋ
 ɸ ɪˋ t aˋ
@@ -908,11 +908,11 @@ eˋ t sh ʊˊ
 ɸ iˊ l iˋ m ɪˊ
 ɸ iˊ s aˊ
 ɸ iˊ s ɛˊ x aˊ
-ɸ iˋ t ɬh aˋ
-ɸ iˊ t ɬh aˊ
-ɸ iˊ t ɬh ɛˊ x aˊ
-ɸ iˋ t ɬh ɛˋ l aˋ
-ɸ iˊ t ɬh w aˊ
+ɸ iˋ th aˋ
+ɸ iˊ th aˊ
+ɸ iˊ th ɛˊ x aˊ
+ɸ iˋ th ɛˋ l aˋ
+ɸ iˊ th w aˊ
 ɸ oˊ d iˊ s aˊ
 ɸ ʊˋ ɸ aˋ
 ɸ ʊˋ ɸ ʊˋ m aˋ
@@ -1080,13 +1080,13 @@ x ʊˋ r ʊˋ m ɛˊ nˋ t ɛˊ
 x oˋ r oˋ s aˋ
 x ʊˊ s ɪˋ l ɪˊ
 x ɔˊ t ɛˊ l aˊ
-x ʊˊ t ɬh aˊ
-x ʊˊ t ɬh aˊ n aˊ
-x oˊ t ɬh eˊ
-x oˊ t ɬh eˋ x oˊ t ɬh eˊ
-x oˊ t ɬh eˋ l eˊ l eˊ
-x ɔˊ t ɬh ɔˊ x ɔˊ t ɬh ɔˋ l aˋ
-x ɔˊ t ɬh ɔˊ l aˊ
+x ʊˊ th aˊ
+x ʊˊ th aˊ n aˊ
+x oˊ th eˊ
+x oˊ th eˋ x oˊ th eˊ
+x oˊ th eˋ l eˊ l eˊ
+x ɔˊ th ɔˊ x ɔˊ th ɔˋ l aˋ
+x ɔˊ th ɔˊ l aˊ
 x oˋ t ʊˋ l aˋ
 x oˊ t s aˊ
 x oˊ t s aˊ
@@ -1096,8 +1096,8 @@ x w aˋ nˋ t aˋ
 x w aˋ s aˋ
 x w ɛˊ b aˊ
 x w ɛˊ l aˊ
-x w eˋ t ɬ aˊ
-x w ɛˋ t ɬh aˋ
+x w eˋ t aˊ
+x w ɛˋ th aˋ
 h aˊ k ɛˊ l aˊ
 h aˊ l ʊˋ ɸ ʊˊ
 h aˊ m ʊˋ l ɪˊ
@@ -1127,8 +1127,8 @@ h uˊ p ʊˊ l ʊˊ x aˋ
 h uˊ t aˋ r aˊ
 h uˊ t s aˊ
 x w ɛˊ l aˊ
-x w eˋ t ɬ aˊ
-x w ɛˋ t ɬh aˋ
+x w eˋ t aˊ
+x w ɛˋ th aˋ
 h aˊ k ɛˊ l aˊ
 h aˊ l ʊˋ ɸ ʊˊ
 h aˊ m ʊˋ l ɪˊ
@@ -1154,208 +1154,208 @@ h uˋ n ɛˋ x aˋ
 h uˊ t s aˊ
 h uˊ t s aˊ ɸ aˊ l aˋ
 h uˊ t s aˊ ɸ aˊ t s aˋ
-i iˋ b aˋ l aˋ
-i iˋ b ʊˋ l ʊˋ x aˋ
-i iˋ s aˋ
-i iˋ w aˋ
-i ɪˊ s aˊ
-i aˊ eˊ d iˋ s aˋ
-i aˊ ɛˊ x aˊ
-i aˊ ɛˊ l ɛˋ l aˋ
-i aˊ k aˊ t ɬ ɛˋ l aˋ
-i aˊ k x aˊ
-i aˊ l eˊ t s aˊ
-i aˊ n aˊ
-i aˊ ɲ aˊ
-i aˊ ɲ ɛˊ x aˋ
-i aˊ p eˊ s aˋ
-i aˊ t aˊ m eˋ t s aˋ
-i aˊ t ɛˊ x aˊ
-i aˊ t iˊ s aˋ
-i aˊ t ʊˊ s aˋ
-i aˊ j aˊ
-i ɛˊ ɸ aˊ
-i eˊ m iˊ s aˊ
-i eˊ m iˊ s eˊ t s aˋ
-i ɛˊ p ɛˊ l aˊ
-i eˊ t ɬ aˊ
-i h aˊ nˊ t sh aˊ
-i h aˊ ʊˊ x aˊ ɲ aˋ
-i h aˊ ph aˊ
-i h aˊ r aˊ t ɬh ɛˋ l aˋ
-i h aˊ t aˊ
-i h aˊ t ɬh aˊ
-i h ʊˊ b ʊˊ k aˊ ɲ aˋ
-i h ʊˊ d iˊ s aˊ
-i h oˊ x oˊ m ʊˋ s aˋ
-i h oˊ p ʊˊ l aˊ
-i h ʊˊ t ɬh aˊ ɲ aˊ
-i iˊ t s aˊ
-i h uˊ n aˊ
-i iˊ n aˊ m iˋ s aˋ
-i iˊ s aˊ
-i iˊ t s aˊ
-i i t s ɪˊ
-i ɔˊ b aˊ
-i ʊˊ k ʊˊ aˊ ɲ aˋ
-i oˊ k oˊ b eˊ t s aˋ
-i ɔˊ k ɔˊ t ɬ ɛˊ l aˋ
-i ɔˊ m aˊ nˊ t sh aˋ
-i oˊ n oˋ m iˊ
-i ʊˊ p aˊ
-i uˊ ɛˊ l aˊ
-i uˊ r uˊ s aˊ
-i uˊ t ɬ w aˊ
-i w aˊ t ɬh aˊ ɛˋ l aˋ
-i w aˊ t ɬh aˊ ɛˋ s ɛˋ x aˋ
-i w aˊ t ɬh aˊ j aˋ
-i aˋ
-i aˋ n aˋ
-i ɛˋ x aˋ
-i ɛˋ l aˋ
-i ɛˋ l w aˋ
-i aˋ
-i ɛˋ l aˋ
-i ʊˋ l ʊˋ l aˋ
-i aˊ
-i aˋ m aˋ
-i aˊ aˊ k aˊ ɲ aˋ
-i aˊ j aˊ
-i ɛˊ ɛˊ l aˊ
-i aˊ p iˊ s aˋ
-i ɔˊ t ɬ aˊ
-i ʊˊ x aˊ
-i ʊˊ l aˊ
-i ʃ ʊˊ r ɛˊ nˋ s ɪˊ
-i t aˊ s ɪˊ t ɪˋ r iˊ
-i t sh aˊ
-i t sh aˊ
-i aˊ aˊ k aˊ ɲ aˋ
-i aˊ aˊ k aˊ ɲ eˋ t s aˋ
-i aˊ aˊ k aˊ ɲ ʊˋ l ʊˋ l aˋ
-i aˊ t ɬ ɛˊ l aˋ
-i aˊ j aˊ
-i ɪˊ l aˊ ɛˊ l aˋ
-i ɪˊ l aˊ ɸ aˋ t s aˋ
-i ɪˊ l aˊ
-i h aˊ l ʊˊ t s aˊ
-i h aˊ p aˊ aˊ ɲ aˋ
-i h aˊ ph aˊ
-i h aˊ r ʊˊ l ʊˊ x aˋ ɲ aˋ
-i h ɪˊ m ɛˊ l aˋ
-i h iˊ t ɬh aˊ
-i h ʊˊ k iˊ s aˋ
-i h uˊ th aˊ
-i iˊ t s aˊ
-i ʊˊ eˊ l eˊ t s aˋ
-i ʊˊ l aˊ j aˊ
-i ʊˊ l ɛˊ l aˊ
-i ɔˊ n aˊ t s aˊ
-i uˊ s aˊ
-i uˊ s ʊˊ l ʊˊ s eˋ t s aˋ
-i aˋ
-i aˊ x ɔˊ
-i ɪˊ
-i ɪˋ l aˊ m ʊˊ
-i aˋ aˋ n aˋ
-i aˋ iˋ t aˋ j aˋ
-i aˊ ʊˊ l aˋ
-i aˊ p ʊˊ l ʊˋ s aˋ
-i aˊ t ɬh aˊ
-i aˊ t ɬh ɛˊ l aˊ
-i aˋ j aˋ
-i ɪˊ b aˊ x aˊ ɲ aˋ
-i ɪˊ b aˊ l aˋ
-i ɪˊ k aˊ
-i ɪˊ k aˊ n ɛˋ l aˋ
-i ɛˊ m aˊ
-i eˊ r ɪˊ
-i ɪˊ s aˊ
-i eˊ t ɬ aˊ
-i h aˊ b uˊ eˋ t s aˋ
-i h aˊ ʊˊ p aˊ
-i h aˊ r aˊ aˊ ɲ eˋ t s aˋ
-i h aˊ t aˊ
-i h aˊ t aˊ ɸ aˊ t s aˋ
-i h aˊ th ɛˊ l ɛˊ l aˋ
-i h aˊ j aˊ
-i h eˊ b ʊˊ l aˊ
-i h eˊ b ʊˊ l ɔˊ
-i h eˊ k ʊˊ l ʊˊ l aˋ
-i h eˊ r ʊˊ l ʊˊ l aˋ
-i h iˊ b aˊ
-i h ɔˊ b aˊ t s aˋ
-i h ʊˊ m aˊ
-i h uˊ l aˊ x aˊ ɲ aˋ
-i h uˊ ʊˊ l ʊˊ l aˋ
-i h uˊ s aˊ
-i h uˊ t aˊ
-i h w aˊ l aˊ
-i iˊ b ʊˊ l aˋ
-i iˊ m ʊˊ k aˋ ɲ aˋ
-i iˊ r aˊ
-i iˊ r ɛˊ l aˋ
-i iˊ s aˊ
-i ɬ aˊ m aˊ
-i ɬ aˊ m ɛˊ l aˋ
-i ɬh aˊ x aˊ n ɛˋ l aˋ
-i ɬh aˊ x iˊ s eˋ t s aˋ
-i ɬh aˊ l ʊˊ s ɔˊ
-i ɬh aˊ m aˊ l aˊ t s aˋ
-i ɬh aˊ ʊˊ l aˋ
-i ɬh aˊ p iˊ s aˋ
-i ɬh ɔˊ k ɔˊ m ɛˊ l aˋ
-i ɬh ɔˊ m aˊ
-i ɬh ɔˊ m aˊ m iˋ s eˋ t s aˋ
-i ɬh ɔˊ ph aˊ
-i ɬh oˊ ph ɛˊ l aˋ
-i ɬ ʊˊ t ɬ aˊ
-i ɬ oˊ t s aˊ
-i ɬ w aˊ eˊ t s aˊ
-i ʊˊ x aˊ k aˋ ɲ aˋ
-i s aˋ
-i s aˊ m aˊ iˋ s aˋ
-i s aˊ n aˊ
-i s ɪˊ
-i s eˊ x ɪˊ
-i s eˊ iˊ s aˊ
-i s ɪˊ t s ɪˊ p ɛˋ l aˋ
-i t sh aˊ s aˊ
-i t sh ɛˊ b aˊ
-i t sh ɪˊ d iˊ s aˊ
-i t sh ɛˊ k aˊ
-i t sh ɛˊ k aˊ
-i t sh eˊ k iˊ s aˊ
-i t sh eˊ k iˊ s aˋ
-i t sh eˊ k ʊˊ l ʊˊ x aˋ
-i t sh ɛˊ m aˊ
-i t sh ɪˊ ŋˊ k ɛˊ l aˋ
-i t sh ɛˊ p aˊ
-i t sh iˊ aˊ m iˊ s aˋ
-i t sh iˊ r aˊ
-i t sh iˊ r eˊ l eˊ t s aˋ
-i t sh ɔˊ k aˊ
-i t sh ɔˊ k ɛˊ l aˊ
-i t sh ɔˊ ph aˊ r aˊ
-i t sh uˊ b aˊ
-i t sh uˊ k uˊ ɲ aˊ
-i t sh uˊ p aˊ
-i t sh uˊ t ɬh aˊ
-i t sh w aˊ r aˊ
-i t sh w a rˊ aˊ x aˊ ɲ aˋ
-i t sh w aˊ r ɛˊ l aˊ
-i t sh w aˊ r ɛˊ l ɛˊ l aˋ
-i t sh w aˊ r ɛˊ l w aˊ
-i t sh w aˊ r iˊ s aˊ
-i s iˊ eˊ t s aˊ
-i s iˊ s ɪˊ
-i s oˊ k eˊ t s aˊ
-i s ʊˊ s aˊ
-i uˊ l ɛˊ l aˊ
-i uˊ m eˊ d iˋ s aˋ
-i uˊ m ɛˊ l aˋ
-i uˊ m ɛˊ l ɛˋ l aˋ
-i w eˊ l aˊ
+iˋ b aˋ l aˋ
+iˋ b ʊˋ l ʊˋ x aˋ
+iˋ s aˋ
+iˋ w aˋ
+ɪˊ s aˊ
+aˊ eˊ d iˋ s aˋ
+aˊ ɛˊ x aˊ
+aˊ ɛˊ l ɛˋ l aˋ
+aˊ k aˊ t ɛˋ l aˋ
+aˊ k x aˊ
+aˊ l eˊ t s aˊ
+aˊ n aˊ
+aˊ ɲ aˊ
+aˊ ɲ ɛˊ x aˋ
+aˊ p eˊ s aˋ
+aˊ t aˊ m eˋ t s aˋ
+aˊ t ɛˊ x aˊ
+aˊ t iˊ s aˋ
+aˊ t ʊˊ s aˋ
+aˊ j aˊ
+ɛˊ ɸ aˊ
+eˊ m iˊ s aˊ
+eˊ m iˊ s eˊ t s aˋ
+ɛˊ p ɛˊ l aˊ
+eˊ t aˊ
+h aˊ nˊ t sh aˊ
+h aˊ ʊˊ x aˊ ɲ aˋ
+h aˊ ph aˊ
+h aˊ r aˊ th ɛˋ l aˋ
+h aˊ t aˊ
+h aˊ th aˊ
+h ʊˊ b ʊˊ k aˊ ɲ aˋ
+h ʊˊ d iˊ s aˊ
+h oˊ x oˊ m ʊˋ s aˋ
+h oˊ p ʊˊ l aˊ
+h ʊˊ th aˊ ɲ aˊ
+iˊ t s aˊ
+h uˊ n aˊ
+iˊ n aˊ m iˋ s aˋ
+iˊ s aˊ
+iˊ t s aˊ
+iˊ t s ɪˊ
+ɔˊ b aˊ
+ʊˊ k ʊˊ aˊ ɲ aˋ
+oˊ k oˊ b eˊ t s aˋ
+ɔˊ k ɔˊ t ɛˊ l aˋ
+ɔˊ m aˊ nˊ t sh aˋ
+oˊ n oˋ m iˊ
+ʊˊ p aˊ
+uˊ ɛˊ l aˊ
+uˊ r uˊ s aˊ
+uˊ t w aˊ
+w aˊ th aˊ ɛˋ l aˋ
+w aˊ th aˊ ɛˋ s ɛˋ x aˋ
+w aˊ th aˊ j aˋ
+aˋ
+aˋ n aˋ
+ɛˋ x aˋ
+ɛˋ l aˋ
+ɛˋ l w aˋ
+aˋ
+ɛˋ l aˋ
+ʊˋ l ʊˋ l aˋ
+aˊ
+aˋ m aˋ
+aˊ aˊ k aˊ ɲ aˋ
+aˊ j aˊ
+ɛˊ ɛˊ l aˊ
+aˊ p iˊ s aˋ
+ɔˊ t aˊ
+ʊˊ x aˊ
+ʊˊ l aˊ
+ʃ ʊˊ r ɛˊ nˋ s ɪˊ
+t aˊ s ɪˊ t ɪˋ r iˊ
+t sh aˊ
+t sh aˊ
+aˊ aˊ k aˊ ɲ aˋ
+aˊ aˊ k aˊ ɲ eˋ t s aˋ
+aˊ aˊ k aˊ ɲ ʊˋ l ʊˋ l aˋ
+aˊ t ɛˊ l aˋ
+aˊ j aˊ
+ɪˊ l aˊ ɛˊ l aˋ
+ɪˊ l aˊ ɸ aˋ t s aˋ
+ɪˊ l aˊ
+h aˊ l ʊˊ t s aˊ
+h aˊ p aˊ aˊ ɲ aˋ
+h aˊ ph aˊ
+h aˊ r ʊˊ l ʊˊ x aˋ ɲ aˋ
+h ɪˊ m ɛˊ l aˋ
+h iˊ th aˊ
+h ʊˊ k iˊ s aˋ
+h uˊ th aˊ
+iˊ t s aˊ
+ʊˊ eˊ l eˊ t s aˋ
+ʊˊ l aˊ j aˊ
+ʊˊ l ɛˊ l aˊ
+ɔˊ n aˊ t s aˊ
+uˊ s aˊ
+uˊ s ʊˊ l ʊˊ s eˋ t s aˋ
+aˋ
+aˊ x ɔˊ
+ɪˊ
+ɪˋ l aˊ m ʊˊ
+aˋ aˋ n aˋ
+aˋ iˋ t aˋ j aˋ
+aˊ ʊˊ l aˋ
+aˊ p ʊˊ l ʊˋ s aˋ
+aˊ th aˊ
+aˊ th ɛˊ l aˊ
+aˋ j aˋ
+ɪˊ b aˊ x aˊ ɲ aˋ
+ɪˊ b aˊ l aˋ
+ɪˊ k aˊ
+ɪˊ k aˊ n ɛˋ l aˋ
+ɛˊ m aˊ
+eˊ r ɪˊ
+ɪˊ s aˊ
+eˊ t aˊ
+h aˊ b uˊ eˋ t s aˋ
+h aˊ ʊˊ p aˊ
+h aˊ r aˊ aˊ ɲ eˋ t s aˋ
+h aˊ t aˊ
+h aˊ t aˊ ɸ aˊ t s aˋ
+h aˊ th ɛˊ l ɛˊ l aˋ
+h aˊ j aˊ
+h eˊ b ʊˊ l aˊ
+h eˊ b ʊˊ l ɔˊ
+h eˊ k ʊˊ l ʊˊ l aˋ
+h eˊ r ʊˊ l ʊˊ l aˋ
+h iˊ b aˊ
+h ɔˊ b aˊ t s aˋ
+h ʊˊ m aˊ
+h uˊ l aˊ x aˊ ɲ aˋ
+h uˊ ʊˊ l ʊˊ l aˋ
+h uˊ s aˊ
+h uˊ t aˊ
+h w aˊ l aˊ
+iˊ b ʊˊ l aˋ
+iˊ m ʊˊ k aˋ ɲ aˋ
+iˊ r aˊ
+iˊ r ɛˊ l aˋ
+iˊ s aˊ
+aˊ m aˊ
+aˊ m ɛˊ l aˋ
+h aˊ x aˊ n ɛˋ l aˋ
+h aˊ x iˊ s eˋ t s aˋ
+h aˊ l ʊˊ s ɔˊ
+h aˊ m aˊ l aˊ t s aˋ
+h aˊ ʊˊ l aˋ
+h aˊ p iˊ s aˋ
+h ɔˊ k ɔˊ m ɛˊ l aˋ
+h ɔˊ m aˊ
+h ɔˊ m aˊ m iˋ s eˋ t s aˋ
+h ɔˊ ph aˊ
+h oˊ ph ɛˊ l aˋ
+ʊˊ t aˊ
+oˊ t s aˊ
+w aˊ eˊ t s aˊ
+ʊˊ x aˊ k aˋ ɲ aˋ
+s aˋ
+s aˊ m aˊ iˋ s aˋ
+s aˊ n aˊ
+s ɪˊ
+s eˊ x ɪˊ
+s eˊ iˊ s aˊ
+s ɪˊ t s ɪˊ p ɛˋ l aˋ
+t sh aˊ s aˊ
+t sh ɛˊ b aˊ
+t sh ɪˊ d iˊ s aˊ
+t sh ɛˊ k aˊ
+t sh ɛˊ k aˊ
+t sh eˊ k iˊ s aˊ
+t sh eˊ k iˊ s aˋ
+t sh eˊ k ʊˊ l ʊˊ x aˋ
+t sh ɛˊ m aˊ
+t sh ɪˊ ŋˊ k ɛˊ l aˋ
+t sh ɛˊ p aˊ
+t sh iˊ aˊ m iˊ s aˋ
+t sh iˊ r aˊ
+t sh iˊ r eˊ l eˊ t s aˋ
+t sh ɔˊ k aˊ
+t sh ɔˊ k ɛˊ l aˊ
+t sh ɔˊ ph aˊ r aˊ
+t sh uˊ b aˊ
+t sh uˊ k uˊ ɲ aˊ
+t sh uˊ p aˊ
+t sh uˊ th aˊ
+t sh w aˊ r aˊ
+t sh w aˊ rˊ aˊ x aˊ ɲ aˋ
+t sh w aˊ r ɛˊ l aˊ
+t sh w aˊ r ɛˊ l ɛˊ l aˋ
+t sh w aˊ r ɛˊ l w aˊ
+t sh w aˊ r iˊ s aˊ
+s iˊ eˊ t s aˊ
+s iˊ s ɪˊ
+s oˊ k eˊ t s aˊ
+s ʊˊ s aˊ
+uˊ l ɛˊ l aˊ
+uˊ m eˊ d iˋ s aˋ
+uˊ m ɛˊ l aˋ
+uˊ m ɛˊ l ɛˋ l aˋ
+w eˊ l aˊ
 d ʒ aˊ
 d ʒ aˊ aˊ k aˊ
 d ʒ aˊ aˊ n aˊ
@@ -1411,7 +1411,7 @@ k aˋ k aˋ n aˋ
 k aˋ k aˋ n aˋ
 k aˊ k aˊ ɲ ɔˊ
 k aˊ k aˊ r eˊ t s oˋ
-k aˋ k aˋ t ɬ ɛˋ l aˋ
+k aˋ k aˋ t ɛˋ l aˋ
 k aˊ k ɛˊ
 k aˋ k ɛˋ x aˋ
 k aˋ k x ɛˋ l ɔˋ
@@ -1423,7 +1423,7 @@ k aˋ l aˋ
 k aˊ l aˊ
 k aˋ l aˋ ɸ ɛˋ s ɛˋ x ɔˋ
 k aˋ l aˊ ɸ iˊ
-k aˊ l aˊ k aˊ t ɬ ɛˋ x aˋ
+k aˊ l aˊ k aˊ t ɛˋ x aˋ
 k aˊ l aˊ p aˊ
 k aˊ l eˊ t s aˊ
 k aˊ l eˊ t s oˊ
@@ -1466,7 +1466,7 @@ k aˋ p ɛˋ ɔˋ
 k aˋ p eˋ s oˋ
 k aˋ p ɪˋ t eˊ n ɪˊ
 k aˊ p iˊ
-k aˊ p iˊ t ɬ ɛˋ l ɛˊ
+k aˊ p iˊ t ɛˋ l ɛˊ
 k aˋ p ʊˊ k ʊˊ
 k aˊ r aˊ
 k aˊ r aˊ b ɔˊ
@@ -1487,11 +1487,11 @@ k aˋ t aˊ r aˊ
 k aˊ t ɛˊ l aˊ
 k aˋ t iˋ s aˋ
 k aˋ t iˋ s ɔˋ
-k aˋ t ɬ ɛˋ x ɔˋ
-k aˊ t ɬh ʊˊ l ɛˊ l ɔˋ l ʊˋ s ʊˊ
-k aˊ t ɬh ʊˊ l ɔˊ
-k aˋ t ɬ ɔˋ
-k aˊ t ɬ ʊˊ aˊ
+k aˋ t ɛˋ x ɔˋ
+k aˊ th ʊˊ l ɛˊ l ɔˋ l ʊˋ s ʊˊ
+k aˊ th ʊˊ l ɔˊ
+k aˋ t ɔˋ
+k aˊ t ʊˊ aˊ
 k aˋ t ʊˋ x aˋ
 k aˋ t ʊˋ x aˋ ɲ aˋ
 k aˋ t ʊˋ x ɔˋ
@@ -1519,7 +1519,7 @@ k ɛˋ l ɛˋ l ɔˋ
 k ɛˊ l ɛˋ r ɛˊ
 k ɛˋ l ɛˋ r w aˊ
 k eˋ l eˋ t s oˋ
-k ɛˋ l ɔˋ t ɬh ɔˊ k ɔˊ
+k ɛˋ l ɔˋ th ɔˊ k ɔˊ
 k ɛˊ m ɛˊ l ɔˊ
 k eˊ m iˊ s eˊ t s oˋ
 k eˊ m iˊ s ɔˊ
@@ -1541,10 +1541,10 @@ k ɪˊ t ɪˊ k ɔˊ
 k ɛˋ t ɛˋ l ɛˋ l aˋ p ɪˋ l ɪˋ
 k ɛˋ t ɛˋ l ɔˋ
 k ɛˋ t ɛˋ l ɔˋ t uˊ l ɔˊ
-k eˋ t ɬ eˋ eˋ t s oˋ
-k ɪˊ t ɬ ɪˊ l ɪˋ
-k eˊ t ɬ ʊˊ x aˊ
-k eˊ t ɬ ʊˊ l aˊ
+k eˋ t eˋ eˋ t s oˋ
+k ɪˊ t ɪˊ l ɪˋ
+k eˊ t ʊˊ x aˊ
+k eˊ t ʊˊ l aˊ
 k ɛˋ t ɔˋ
 k eˋ t s aˋ eˋ t s ɛˋ x ɔˋ
 k eˋ t s oˋ
@@ -1556,8 +1556,8 @@ k x aˊ b aˊ k x aˊ b aˋ
 k x aˊ b aˊ k x aˊ b iˋ s aˋ
 k x aˊ b aˊ x aˊ ɲ aˋ
 k x aˊ b aˊ x aˊ ɲ ɔˋ
-k x aˊ b ɛˊ t ɬ ɛˊ l ɛˋ l aˋ
-k x aˊ b aˊ t ɬ ʊˊ l ɛˋ x aˋ
+k x aˊ b ɛˊ t ɛˊ l ɛˋ l aˋ
+k x aˊ b aˊ t ʊˊ l ɛˋ x aˋ
 k x aˋ b iˋ s aˋ
 k x aˋ b iˋ s ɔˋ
 k x aˊ b ʊˊ
@@ -1617,7 +1617,7 @@ k x aˊ ʊˊ l aˊ
 k x aˊ ʊˊ l ɔˊ
 k x aˊ ʊˊ l ɔˋ k x ʊˊ l ʊˊ
 k x aˊ ʊˊ t s aˊ
-k x aˋ p eˋ t ɬ aˋ
+k x aˋ p eˋ t aˋ
 k x aˋ p eˋ t s aˋ k x aˋ p eˋ t s aˋ
 k x aˋ ph aˋ
 k x aˋ ph aˋ
@@ -1626,28 +1626,28 @@ k x aˊ p ɪˊ aˊ
 k x aˊ p ɔˊ
 k x aˊ r aˊ k x aˊ t sh ɛˋ x aˋ
 k x aˋ r aˋ m eˋ t s aˋ
-k x aˋ r aˋ t ɬh aˋ
+k x aˋ r aˋ th aˋ
 k x aˋ r ɪˋ b ɛˋ
-k x aˊ r iˊ t ɬh aˊ
+k x aˊ r iˊ th aˊ
 k x aˋ s aˊ
 k x aˊ s ɔˊ
 k x aˋ t aˋ mˊ p iˊ
 k x aˊ t ɛˊ l ɛˊ l ɔˋ
 k x aˋ th aˋ
 k x aˊ t iˊ s ɔˊ
-k x aˋ t ɬ aˊ
-k x aˋ t ɬ aˊ mˋ p aˊ n ɪˊ
-k x aˊ t ɬh aˊ
-k x aˋ t ɬh aˋ n aˋ
-k x aˋ t ɬh aˋ n oˋ ŋˋ
-k x aˋ t ɬh aˋ nˋ t sh aˋ
-k x aˋ t ɬh aˋ nˋ t sh ɔˋ
-k x aˊ t ɬh ɛˊ x aˊ
-k x aˊ t ɬh ɛˊ x ɛˊ l aˋ
-k x aˊ t ɬh ɛˊ x ɛˊ l ɔˋ
-k x aˊ t ɬh ɛˊ x ɔˊ
-k x aˊ t ɬh iˊ s aˊ
-k x aˊ t ɬh w aˊ
+k x aˋ t aˊ
+k x aˋ t aˊ mˋ p aˊ n ɪˊ
+k x aˊ th aˊ
+k x aˋ th aˋ n aˋ
+k x aˋ th aˋ n oˋ ŋˋ
+k x aˋ th aˋ nˋ t sh aˋ
+k x aˋ th aˋ nˋ t sh ɔˋ
+k x aˊ th ɛˊ x aˊ
+k x aˊ th ɛˊ x ɛˊ l aˋ
+k x aˊ th ɛˊ x ɛˊ l ɔˋ
+k x aˊ th ɛˊ x ɔˊ
+k x aˊ th iˊ s aˊ
+k x aˊ th w aˊ
 k x aˊ t ɔˊ
 k x aˊ uˊ p eˊ t s aˋ
 k x aˊ uˊ p eˊ t s ɔˋ
@@ -1657,7 +1657,7 @@ k x ɛˋ r aˋ
 k x eˋ r iˋ s aˋ
 k x ɛˋ th aˋ
 k x ɛˋ t ɛˋ x aˋ
-k x eˋ t ɬh aˋ
+k x eˋ th aˋ
 k x eˋ t s iˊ
 k x ɔˊ b aˊ
 k x ɔˋ b aˋ
@@ -1737,7 +1737,7 @@ k x oˋ r ʊˋ l aˋ
 k x ʊˊ r ʊˊ l aˊ
 k x ɔˊ r ɔˊ m aˊ n aˋ
 k x ʊˋ r ʊˋ m eˋ t s aˋ
-k x oˋ r oˋ t ɬh aˋ
+k x oˋ r oˋ th aˋ
 k x ɔˊ s aˋ n aˊ
 k x oˊ s iˊ
 k x oˊ s iˊ x aˊ d iˋ
@@ -1749,14 +1749,14 @@ k x ʊˊ th aˊ l aˊ
 k x ʊˊ th aˊ l ɔˊ
 k x ʊˊ th aˊ t s aˊ
 k x ʊˊ th aˊ t s ɔˊ
-k x ʊˊ t ɬ aˊ
-k x ɔˋ t ɬ aˋ
-k x ʊˊ t ɬ aˊ t sh ɛˊ k ɛˋ l ɔˋ
-k x oˋ t ɬ eˋ t s aˋ
-k x ʊˊ t ɬh aˋ ŋˊ
-k x ɔˋ t ɬh ɔˋ
-k x ʊˊ t ɬh ɔˊ
-k x ɔˊ t ɬh ɔˊ l ɔˊ
+k x ʊˊ t aˊ
+k x ɔˋ t aˋ
+k x ʊˊ t aˊ t sh ɛˊ k ɛˋ l ɔˋ
+k x oˋ t eˋ t s aˋ
+k x ʊˊ th aˋ ŋˊ
+k x ɔˋ th ɔˋ
+k x ʊˊ th ɔˊ
+k x ɔˊ th ɔˊ l ɔˊ
 k x ɔˊ t ɔˊ
 k x ʊˋ t s aˋ
 k x oˊ t s ʊˊ ɸ aˊ l aˋ
@@ -1768,7 +1768,7 @@ k x w aˋ r aˋ
 k x w aˋ s aˋ
 k x w aˋ th aˋ
 k x w aˋ th ɛˊ
-k x w aˋ t ɬh aˋ
+k x w aˋ th aˋ
 k x w ɛˋ b ɔˋ
 k x w eˋ d iˊ
 k x w eˋ d iˊ th aˊ r ʊˊ
@@ -1781,7 +1781,7 @@ k x w iˊ s aˊ
 kh aˊ b eˋ t ʃh ɪˊ
 kh aˊ iˊ
 kh aˋ m ɛˊ r aˊ
-kh aˊ nˊ t ɬ ɪˊ l ɪˋ
+kh aˊ nˊ t ɪˊ l ɪˋ
 kh aˊ ʊˊ nˊ t aˋ r aˊ
 kh aˊ t ɪˋ b ɔˊ t ɔˊ
 kh eˊ ɸ iˊ
@@ -1807,21 +1807,21 @@ kh uˋ d uˋ ɛˋ x ɔˋ
 kh uˊ d uˊ x ɔˊ
 kh uˊ d uˊ s ɔˊ
 kh uˊ d uˊ th aˊ m aˋ x aˋ
-kh uˊ d uˊ t ɬ oˊ uˋ
+kh uˊ d uˊ t oˊ uˋ
 kh uˊ kh uˊ th aˊ
 kh uˊ kh w aˊ n ɪˋ
 kh uˊ m aˊ n ɛˊ x ɔˋ
 kh uˊ m ɔˊ
 kh uˊ r uˊ m ɛˊ l aˋ
 kh uˋ t iˋ
-kh uˋ t ɬ aˋ
-kh uˋ t ɬ ɛˋ x aˋ
-kh uˋ t ɬ iˋ s aˋ
-kh uˋ t ɬ ɔˋ
-kh uˊ t ɬ ʊˊ x aˊ
-kh uˋ t ɬ ɔˋ kh uˋ t ɬ ɔˋ
-kh uˋ t ɬ ɔˋ p ɔˊ n ɔˊ
-kh uˋ t ɬ ɔˋ th aˊ r ʊˊ
+kh uˋ t aˋ
+kh uˋ t ɛˋ x aˋ
+kh uˋ t iˋ s aˋ
+kh uˋ t ɔˋ
+kh uˊ t ʊˊ x aˊ
+kh uˋ t ɔˋ kh uˋ t ɔˋ
+kh uˋ t ɔˋ p ɔˊ n ɔˊ
+kh uˋ t ɔˋ th aˊ r ʊˊ
 kh uˊ t s aˊ ɸ aˊ l ɔˋ
 kh uˊ t s aˋ n aˊ
 kh uˊ t sh w aˊ ɸ aˊ l aˋ
@@ -1839,9 +1839,9 @@ k iˋ l eˋ t s oˋ t iˋ r ɔˋ
 k iˋ l ɔˋ
 k iˋ m aˋ
 k iˊ n aˋ n ɪˊ
-k iˋ s ɔˋ nˋ t ɬ ɛˊ
+k iˋ s ɔˋ nˋ t ɛˊ
 k iˋ t ɛˋ ɔˋ
-k iˋ t ɬ aˋ n aˋ
+k iˋ t aˋ n aˋ
 k iˊ t s iˊ s aˊ ɲ ɔˋ
 k iˊ t s iˊ s ɔˊ
 k iˋ t s ɔˋ
@@ -1855,7 +1855,7 @@ k ɔˋ b aˋ m ɛˋ l ɔˋ
 k ʊˋ b aˋ s w ɛˋ
 k ʊˋ b ɔˋ
 k ɔˊ b ɔˊ t aˊ
-k ɔˊ b ɔˊ t ɬ ɔˋ
+k ɔˊ b ɔˊ t ɔˋ
 k oˋ d uˋ
 k oˊ d uˊ m ɛˊ l aˋ
 k oˋ d uˊ nˋ t w aˊ n ɪˊ
@@ -1880,8 +1880,8 @@ k ʊˊ k ʊˊ n aˊ
 k ɔˋ k ɔˋ r ɔˋ x aˋ
 k ɔˊ k ɔˊ t aˊ
 k ɔˊ k ɔˊ t ɛˊ l aˋ
-k ɔˊ k ɔˊ t ɬ ɛˊ x ɛˋ l aˋ
-k oˊ k oˊ t ɬ eˊ t s aˋ
+k ɔˊ k ɔˊ t ɛˊ x ɛˋ l aˋ
+k oˊ k oˊ t eˊ t s aˋ
 k ʊˊ k w aˋ n aˊ
 k ɔˊ l ɔˊ b aˊ
 k ʊˋ l ʊˋ b ɛˋ
@@ -1939,13 +1939,13 @@ k ʊˋ r aˊ nˋ t aˊ
 k ɔˋ r ɔˋ b ɛˋ l aˋ
 k ʊˊ r ʊˊ l aˊ l aˋ
 k oˋ r oˋ ŋˋ
-k ɔˋ r ɔˋ t ɬ aˋ
+k ɔˋ r ɔˋ t aˋ
 k ɔˋ t aˊ
 k ʊˊ t aˊ m aˊ
 k ɔˋ t ɛˋ l aˋ
 k ɔˋ t ɛˋ l ɔˋ
-k ɔˋ t ɬh aˋ ɔˋ
-k ɔˊ t ɬ ɔˊ m ɛˊ l aˋ
+k ɔˋ th aˋ ɔˋ
+k ɔˊ t ɔˊ m ɛˊ l aˋ
 k ɔˋ t s ɛˋ l ɔˋ
 k oˋ t s iˋ
 k ɔˋ t s w aˋ n aˋ
@@ -1970,13 +1970,13 @@ k uˊ ŋ w aˊ
 k uˊ r uˋ x aˊ
 k uˊ r uˊ s aˊ
 k uˋ r w aˋ n aˋ
-k uˊ t ɬ aˊ
-k uˊ t ɬ ɔˊ
-k uˊ t ɬ ɔˊ
-k uˊ t ɬ ɔˊ b ʊˋ t ɬh ʊˊ k ʊˊ
-k uˊ t ɬ w aˊ n ɔˊ
-k uˊ t ɬ w aˊ t s ɔˊ
-k uˊ t ɬ w ɛˊ l ɔˊ b ʊˋ t ɬh ʊˊ k ʊˊ
+k uˊ t aˊ
+k uˊ t ɔˊ
+k uˊ t ɔˊ
+k uˊ t ɔˊ b ʊˋ th ʊˊ k ʊˊ
+k uˊ t w aˊ n ɔˊ
+k uˊ t w aˊ t s ɔˊ
+k uˊ t w ɛˊ l ɔˊ b ʊˋ th ʊˊ k ʊˊ
 k uˊ t s ɔˊ
 k uˋ t uˋ
 k uˋ t uˋ m aˋ
@@ -1986,7 +1986,7 @@ k w aˊ d iˊ s ɔˊ
 k w aˋ k w aˋ eˋ t s aˋ
 k w aˊ l aˊ
 k w aˊ l eˊ
-k w aˊ l ɛˊ l aˊ m ɪˋ t ɬh aˊ
+k w aˊ l ɛˊ l aˊ m ɪˋ th aˊ
 k w aˋ n aˊ
 k w aˊ n ʊˊ
 k w aˊ t aˊ l aˊ l aˋ
@@ -2005,7 +2005,7 @@ l aˊ b ʊˊ b eˋ d iˊ
 l aˊ b ʊˊ n ɛˊ
 l aˊ b ʊˋ r aˊ r ʊˊ
 l aˋ b ɔˊ r aˊ t oˋ r ɪˊ
-l aˊ b ʊˋ t ɬh aˊ n ʊˊ
+l aˊ b ʊˋ th aˊ n ʊˊ
 l aˋ ɛˋ l ɛˋ s ɛˋ x aˋ
 l aˋ eˋ t s aˋ
 l aˋ iˋ l aˋ
@@ -2013,7 +2013,7 @@ l aˊ l aˊ
 l aˊ l ɛˊ l aˊ
 l aˊ l ɛˊ l aˊ
 l aˊ l eˊ t s aˊ
-l aˊ m aˊ t ɬh aˊ t s ɔˋ
+l aˊ m aˊ th aˊ t s ɔˋ
 l aˊ m ʊˊ r ɛˊ n aˋ
 l aˋ ʊˋ l aˋ
 l aˋ p aˋ
@@ -2021,9 +2021,9 @@ l aˋ p iˋ s aˋ
 l aˋ p ʊˋ l ʊˋ x aˋ
 l aˋ p ʊˋ l ʊˋ s aˋ
 l aˋ t ɛˋ l aˋ
-l aˊ t ɬh aˊ
-l aˊ t ɬh ɛˊ x aˊ
-l aˊ t ɬh ɛˊ x ɛˊ l w aˋ
+l aˊ th aˊ
+l aˊ th ɛˊ x aˊ
+l aˊ th ɛˊ x ɛˊ l w aˋ
 l aˋ t ʊˋ ɸ aˋ t s aˋ
 l aˋ t ʊˋ l aˋ
 l aˊ t s aˊ
@@ -2032,641 +2032,641 @@ l aˊ t s w aˊ
 l aˋ j aˋ
 l eˊ
 l ɪˊ
-l e aˊ m aˊ ɲ iˊ
-l e aˋ n ɔˋ
-l e aˊ r ʊˊ x iˊ
+l eˊ aˊ m aˊ ɲ iˊ
+l eˊ aˋ n ɔˋ
+l eˊ aˊ r ʊˊ x iˊ
 l ɪˊ b aˊ
 l ɪˊ b aˊ x aˊ n aˋ
-l e b aˊ k aˊ
-l e b aˋ k aˋ
-l e b aˋ l aˋ
+l eˊ b aˊ k aˊ
+l eˊ b aˋ k aˋ
+l eˊ b aˋ l aˋ
 l ɪˊ b aˊ n aˊ
-l e b aˊ nˋ t aˊ
-l e b aˊ t ɬ aˊ
-l e b aˋ t s aˋ
-l e b ɪˋ aˊ n aˊ
+l eˊ b aˊ nˋ t aˊ
+l eˊ b aˊ t aˊ
+l eˊ b aˋ t s aˋ
+l eˊ b ɪˋ aˊ n aˊ
 l ɪˊ b ɛˊ x aˊ
-l e b ɛˋ l ɛˊ
-l e b ɛˊ l ɛˊ
-l e b ɛˋ l ɛˊ b ɛˋ l ɛˊ
+l eˊ b ɛˋ l ɛˊ
+l eˊ b ɛˊ l ɛˊ
+l eˊ b ɛˋ l ɛˊ b ɛˋ l ɛˊ
 l ɪˊ b ɛˊ l ɛˊ l aˋ
-l e b ɪˊ nˊ t ɬ ɪˊ l ɪˋ
-l e b ɪˊ nˊ t ɬ ɪˊ l ɪˋ ɲ aˋ n aˋ
-l e b eˋ ɲ aˊ
+l eˊ b ɪˊ nˊ t ɪˊ l ɪˋ
+l eˊ b ɪˊ nˊ t ɪˊ l ɪˋ ɲ aˋ n aˋ
+l eˊ b eˋ ɲ aˊ
 l eˊ b eˊ t ɪˋ r iˊ iˋ
 l ɪˊ b iˊ s aˊ
-l e b iˋ t ɬ aˋ
-l e b iˊ t s ɔˊ
-l e b ʊˋ aˊ
-l e b ʊˊ d iˊ
+l eˊ b iˋ t aˋ
+l eˊ b iˊ t s ɔˊ
+l eˊ b ʊˋ aˊ
+l eˊ b ʊˊ d iˊ
 l eˋ b ʊˋ x aˋ
-l e b ɔˊ x ɔˊ
-l e b ɔˋ k ɔˋ
-l e b ʊˊ l ɪˊ
-l e b ɔˋ l ɛˋ l aˊ
-l e b ʊˋ l ʊˋ b ʊˊ l ʊˊ
-l e b ɔˋ t ɬ aˋ n aˋ
-l e b ʊˊ t ɬ ʊˊ l ʊˋ
-l e b ʊˊ t s iˊ
-l e b uˊ s uˋ m aˊ n ɪˊ
-l e d iˊ
-l e d iˋ b ʊˋ x ɔˋ
-l e d iˊ m ʊˊ
-l e d iˋ r iˋ
-l e d iˋ s aˋ
-l e d uˊ ɔˊ
-l e ɪˊ
-l e ɪˋ b aˋ
-l e ɪˋ b aˊ n aˊ
+l eˊ b ɔˊ x ɔˊ
+l eˊ b ɔˋ k ɔˋ
+l eˊ b ʊˊ l ɪˊ
+l eˊ b ɔˋ l ɛˋ l aˊ
+l eˊ b ʊˋ l ʊˋ b ʊˊ l ʊˊ
+l eˊ b ɔˋ t aˋ n aˋ
+l eˊ b ʊˊ t ʊˊ l ʊˋ
+l eˊ b ʊˊ t s iˊ
+l eˊ b uˊ s uˋ m aˊ n ɪˊ
+l eˊ d iˊ
+l eˊ d iˋ b ʊˋ x ɔˋ
+l eˊ d iˊ m ʊˊ
+l eˊ d iˋ r iˋ
+l eˊ d iˋ s aˋ
+l eˊ d uˊ ɔˊ
+l eˊ ɪˊ
+l eˊ ɪˋ b aˋ
+l eˊ ɪˋ b aˊ n aˊ
 l eˊ eˋ l eˊ
-l e eˊ m eˊ d iˊ
-l e ɛˋ p aˋ nˋ t ɬ ʊˋ
+l eˊ eˊ m eˊ d iˊ
+l eˊ ɛˋ p aˋ nˋ t ʊˋ
 l ɪˊ ɸ aˊ
-l e ɸ aˋ
-l e ɸ aˋ ph aˊ
-l e ɸ aˋ r aˋ t ɬh aˋ t ɬh aˋ
-l e ɸ aˊ t ɬ aˊ
-l e ɸ aˊ t ɬh aˊ
-l e ɸ aˊ t sh ɪˊ
-l e ɸ ɛˊ l aˊ
-l e ɸ ɪˋ l ɔˋ
-l e ɸ ɪˋ r ɪˋ ɸ ɪˋ r ɪˋ
-l e ɸ ɪˋ t w aˊ
-l e ɸ iˋ ɸ iˋ
-l e ɸ iˊ k aˊ
-l e ɸ iˊ s aˊ
-l e ɸ ʊˋ k ʊˋ
-l e ɸ uˊ ɸ aˊ
+l eˊ ɸ aˋ
+l eˊ ɸ aˋ ph aˊ
+l eˊ ɸ aˋ r aˋ th aˋ th aˋ
+l eˊ ɸ aˊ t aˊ
+l eˊ ɸ aˊ th aˊ
+l eˊ ɸ aˊ t sh ɪˊ
+l eˊ ɸ ɛˊ l aˊ
+l eˊ ɸ ɪˋ l ɔˋ
+l eˊ ɸ ɪˋ r ɪˋ ɸ ɪˋ r ɪˋ
+l eˊ ɸ ɪˋ t w aˊ
+l eˊ ɸ iˋ ɸ iˋ
+l eˊ ɸ iˊ k aˊ
+l eˊ ɸ iˊ s aˊ
+l eˊ ɸ ʊˋ k ʊˋ
+l eˊ ɸ uˊ ɸ aˊ
 l iˋ ɸ uˊ t ɔˊ
-l e x aˊ ɪˊ
-l e x aˊ b ɪˋ aˊ
-l e x aˊ k aˋ b ɪˊ
-l e x aˊ k w aˊ
-l e x aˊ l aˊ
-l e x aˊ n eˊ t s iˊ
-l e x aˋ n ɔˋ
-l e x aˊ p uˊ
-l e x aˋ r ɪˊ
-l e x aˋ t ɬ aˋ p aˋ
+l eˊ x aˊ ɪˊ
+l eˊ x aˊ b ɪˋ aˊ
+l eˊ x aˊ k aˋ b ɪˊ
+l eˊ x aˊ k w aˊ
+l eˊ x aˊ l aˊ
+l eˊ x aˊ n eˊ t s iˊ
+l eˊ x aˋ n ɔˋ
+l eˊ x aˊ p uˊ
+l eˊ x aˋ r ɪˊ
+l eˊ x aˋ t aˋ p aˋ
 l ɛˊ x ɛˊ l ɛˊ l aˋ
-l e x eˊ t ɬ aˊ
-l e x ʊˋ d iˊ m ʊˊ
-l e x oˋ d uˋ
-l e x oˋ d uˊ
-l e x oˊ ɸ iˊ
-l e x ʊˊ l ɛˋ x w aˊ
-l e x ʊˋ p ɛˋ l ɔˋ
-l e x ʊˊ t ɬh ɔˊ
-l e x ɔˋ t ɬ ɔˋ
-l e x w aˊ ɸ aˊ
-l e x w ɛˋ d ʒ aˋ n aˋ
-l e x w ɪˊ r ɪˊ
-l e x w eˋ t ɬ aˊ
-l e h uˊ k uˋ b uˊ
-l e h uˋ m aˊ
-l e h uˋ t iˋ
+l eˊ x eˊ t aˊ
+l eˊ x ʊˋ d iˊ m ʊˊ
+l eˊ x oˋ d uˋ
+l eˊ x oˋ d uˊ
+l eˊ x oˊ ɸ iˊ
+l eˊ x ʊˊ l ɛˋ x w aˊ
+l eˊ x ʊˋ p ɛˋ l ɔˋ
+l eˊ x ʊˊ th ɔˊ
+l eˊ x ɔˋ t ɔˋ
+l eˊ x w aˊ ɸ aˊ
+l eˊ x w ɛˋ d ʒ aˋ n aˋ
+l eˊ x w ɪˊ r ɪˊ
+l eˊ x w eˋ t aˊ
+l eˊ h uˊ k uˋ b uˊ
+l eˊ h uˋ m aˊ
+l eˊ h uˋ t iˋ
 l eˊ iˋ ɸ iˊ
-l e iˊ n aˊ
-l e iˊ n aˋ n ɪˊ
-l e iˊ n ɔˊ
-l e iˊ s ɔˊ
-l e iˊ t iˊ b ʊˊ l ɔˋ
-l e iˊ t ɬh ɔˊ
-l e d ʒ aˊ b aˊ th ʊˋ
+l eˊ iˊ n aˊ
+l eˊ iˊ n aˋ n ɪˊ
+l eˊ iˊ n ɔˊ
+l eˊ iˊ s ɔˊ
+l eˊ iˊ t iˊ b ʊˊ l ɔˋ
+l eˊ iˊ th ɔˊ
+l eˊ d ʒ aˊ b aˊ th ʊˋ
 l ɪˊ k aˊ
-l e k aˋ b aˋ
-l e k aˋ d iˋ b aˋ
-l e k aˋ k aˋ b aˋ
-l e k aˋ l ɪˋ k aˋ n aˋ
-l e k aˋ n aˋ
-l e k aˋ ɲ aˋ
-l e k aˋ ɲ aˋ n ɪˋ
-l e k aˋ ɲ ɛˋ s ɛˋ x aˋ
-l e k aˋ ɲ eˋ t s aˋ
-l e k aˋ p ɪˋ
-l e k aˋ t aˊ n ɪˊ
-l e k aˊ uˊ
-l e k ɛˋ k ɛˋ
+l eˊ k aˋ b aˋ
+l eˊ k aˋ d iˋ b aˋ
+l eˊ k aˋ k aˋ b aˋ
+l eˊ k aˋ l ɪˋ k aˋ n aˋ
+l eˊ k aˋ n aˋ
+l eˊ k aˋ ɲ aˋ
+l eˊ k aˋ ɲ aˋ n ɪˋ
+l eˊ k aˋ ɲ ɛˋ s ɛˋ x aˋ
+l eˊ k aˋ ɲ eˋ t s aˋ
+l eˊ k aˋ p ɪˋ
+l eˊ k aˋ t aˊ n ɪˊ
+l eˊ k aˊ uˊ
+l eˊ k ɛˋ k ɛˋ
 l ɪˊ k ɛˊ l ɛˊ l aˋ
 l ɛˊ k ɛˋ r ɛˊ
-l e k eˊ s iˊ
-l e k eˊ t ɬ oˊ
-l e k x aˋ b aˋ
-l e k x aˋ r ɪˋ b ɛˋ
-l e k x aˋ s aˋ
-l e k x ɪˊ l aˊ
-l e k x ɛˋ th ɔˋ
-l e k x ʊˊ aˊ
-l e k x ɔˋ b aˊ
-l e k x ʊˋ b ɪˊ
-l e k x ʊˊ l ʊˊ
-l e k x ɔˋ m ɛˋ
-l e k x ʊˊ t ɬ aˊ
-l e k x w aˋ ɸ ʊˊ
-l e k x w aˊ m ʊˊ l ɪˋ l ɔˋ
-l e kh aˊ l aˋ t ɪˊ
-l e kh uˋ b uˊ
-l e k ɔˊ k ɔˊ
-l e k ɔˋ k ɔˋ m aˋ
-l e k ɔˋ k ɔˋ m aˋ
+l eˊ k eˊ s iˊ
+l eˊ k eˊ t oˊ
+l eˊ k x aˋ b aˋ
+l eˊ k x aˋ r ɪˋ b ɛˋ
+l eˊ k x aˋ s aˋ
+l eˊ k x ɪˊ l aˊ
+l eˊ k x ɛˋ th ɔˋ
+l eˊ k x ʊˊ aˊ
+l eˊ k x ɔˋ b aˊ
+l eˊ k x ʊˋ b ɪˊ
+l eˊ k x ʊˊ l ʊˊ
+l eˊ k x ɔˋ m ɛˋ
+l eˊ k x ʊˊ t aˊ
+l eˊ k x w aˋ ɸ ʊˊ
+l eˊ k x w aˊ m ʊˊ l ɪˋ l ɔˋ
+l eˊ kh aˊ l aˋ t ɪˊ
+l eˊ kh uˋ b uˊ
+l eˊ k ɔˊ k ɔˊ
+l eˊ k ɔˋ k ɔˋ m aˋ
+l eˊ k ɔˋ k ɔˋ m aˋ
 l eˊ k ʊˊ l aˊ
-l e k ʊˋ l w aˋ n ɪˊ
-l e k ɔˋ p aˋ ɲ iˋ
-l e k uˋ k aˊ
-l e k w aˋ t iˊ
-l e k w ɪˋ l ɪˊ
-l e l aˋ
-l e l aˋ
-l e l aˋ
-l e l aˋ ɸ aˋ l aˋ
+l eˊ k ʊˋ l w aˋ n ɪˊ
+l eˊ k ɔˋ p aˋ ɲ iˋ
+l eˊ k uˋ k aˊ
+l eˊ k w aˋ t iˊ
+l eˊ k w ɪˋ l ɪˊ
+l eˊ l aˋ
+l eˊ l aˋ
+l eˊ l aˋ
+l eˊ l aˋ ɸ aˋ l aˋ
 l ɪˊ l aˊ l aˊ
-l e l aˋ t aˋ
-l e l aˊ t ɬh aˊ
-l e l aˊ t ɬh aˊ
+l eˊ l aˋ t aˋ
+l eˊ l aˊ th aˊ
+l eˊ l aˊ th aˊ
 l eˊ l eˊ ɸ aˊ l aˋ
 l eˊ l eˊ ɸ aˊ t s aˋ
 l ɛˋ l ɛˋ k aˋ
 l ɛˋ l ɛˋ m ɛˋ l aˋ
-l e l ɪˊ ŋ aˊ n aˊ
-l e l oˊ b uˊ
-l e l ɔˋ k ɔˋ
-l e l oˋ k ʊˋ l ʊˋ l ɔˋ
-l e l w aˋ l aˊ
-l e m aˋ
+l eˊ l ɪˊ ŋ aˊ n aˊ
+l eˊ l oˊ b uˊ
+l eˊ l ɔˋ k ɔˋ
+l eˊ l oˋ k ʊˋ l ʊˋ l ɔˋ
+l eˊ l w aˋ l aˊ
+l eˊ m aˋ
 l ɛˊ m aˊ l aˊ
 l ɛˊ m aˊ t s aˊ
-l e m ɛˋ x aˋ
-l e m ɪˋ n aˊ
-l e m iˋ n aˋ
-l e mˋ m ɪˊ
+l eˊ m ɛˋ x aˋ
+l eˊ m ɪˋ n aˊ
+l eˊ m iˋ n aˋ
+l eˊ mˋ m ɪˊ
 l eˊ m ʊˊ x aˊ
 l eˊ m ʊˊ l ʊˊ l aˋ
-l e m ʊˋ l ʊˋ l aˋ
+l eˊ m ʊˋ l ʊˋ l aˋ
 l eˊ m ʊˊ s aˊ
 l eˊ m ʊˊ s ɛˊ x aˋ
-l e mˊ ph ʊˋ r w aˊ n aˊ
-l e mˋ p oˊ ɲ ɪˊ mˊ p oˋ ɲ ɪˋ
-l e n aˊ n ɛˊ ɔˊ
-l e n aˋ th ɔˋ
-l e n aˋ th w aˋ n aˋ
+l eˊ mˊ ph ʊˋ r w aˊ n aˊ
+l eˊ mˋ p oˊ ɲ ɪˊ mˊ p oˋ ɲ ɪˋ
+l eˊ n aˊ n ɛˊ ɔˊ
+l eˊ n aˋ th ɔˋ
+l eˊ n aˋ th w aˋ n aˋ
 l ɪˊ ŋˊ
-l e ŋ aˋ
-l e ŋ aˊ n aˊ
-l e ŋ aˋ uˋ
-l e ŋ ɔˊ l ɛˊ
-l e ŋ ɔˋ t ɛˋ
-l e n ɔˊ k ɔˊ
-l e n oˋ ŋˋ
-l e nˋ t ɬ ɛˊ
-l e nˋ t s w ɛˋ
-l e nˋ t s w ɪˊ
-l e ɲ aˋ ph iˊ r iˊ
-l e ɲ ɪˊ n aˊ
-l e ɲ ɔˊ r aˊ
+l eˊ ŋ aˋ
+l eˊ ŋ aˊ n aˊ
+l eˊ ŋ aˋ uˋ
+l eˊ ŋ ɔˊ l ɛˊ
+l eˊ ŋ ɔˋ t ɛˋ
+l eˊ n ɔˊ k ɔˊ
+l eˊ n oˋ ŋˋ
+l eˊ nˋ t ɛˊ
+l eˊ nˋ t s w ɛˋ
+l eˊ nˋ t s w ɪˊ
+l eˊ ɲ aˋ ph iˊ r iˊ
+l eˊ ɲ ɪˊ n aˊ
+l eˊ ɲ ɔˊ r aˊ
 l eˊ ʊˊ ɸ aˊ
-l e ʊˊ k w aˊ n ɪˋ
-l e ʊˋ t ɬ aˊ n aˊ
-l e ʊˋ t ʊˊ
-l e ʊˋ t w aˊ n aˊ
-l e ʊˋ t w aˊ n aˊ
-l e p aˋ
-l e p aˋ iˋ
-l e p ɪˋ l ɪˋ
+l eˊ ʊˊ k w aˊ n ɪˋ
+l eˊ ʊˋ t aˊ n aˊ
+l eˊ ʊˋ t ʊˊ
+l eˊ ʊˋ t w aˊ n aˊ
+l eˊ ʊˋ t w aˊ n aˊ
+l eˊ p aˋ
+l eˊ p aˋ iˋ
+l eˊ p ɪˋ l ɪˋ
 l ɛˋ p ɛˋ l ɛˋ l aˋ
 l eˋ p eˋ l eˋ t s aˋ
-l e p ɛˋ r ɔˋ
-l e ph aˊ t aˊ
-l e ph aˊ t ɬ ʊˊ
-l e ph oˊ iˊ
-l e ph uˋ t sh ɪˊ
-l e p oˋ d iˊ s iˊ
-l e r aˊ d uˊ
-l e r aˊ x ʊˊ
-l e r aˊ m aˊ
-l e r aˋ ŋˋ
-l e r aˊ p ɔˊ
-l e r aˋ t ɬ aˊ
+l eˊ p ɛˋ r ɔˋ
+l eˊ ph aˊ t aˊ
+l eˊ ph aˊ t ʊˊ
+l eˊ ph oˊ iˊ
+l eˊ ph uˋ t sh ɪˊ
+l eˊ p oˋ d iˊ s iˊ
+l eˊ r aˊ d uˊ
+l eˊ r aˊ x ʊˊ
+l eˊ r aˊ m aˊ
+l eˊ r aˋ ŋˋ
+l eˊ r aˊ p ɔˊ
+l eˊ r aˋ t aˊ
 l eˊ r ɪˊ
-l e r ɛˊ m ɔˊ
-l e r ɛˊ ɔˊ
-l e r iˊ b aˊ
-l e r iˊ n iˊ n iˊ
-l e r ʊˋ b aˋ
-l e r ɔˋ b ɔˋ r ɔˋ b ɔˋ
-l e r ʊˊ ʊˊ
-l e r ʊˊ p ɪˊ
-l e r oˊ ph iˊ
-l e r oˋ th oˊ d iˊ
-l e r ʊˋ t ʊˋ b ʊˊ l ʊˊ
-l e r ɔˊ t s ɛˊ
-l e r uˋ
-l e r uˋ aˋ r uˊ aˊ
-l e r uˊ d iˊ
-l e r uˊ iˊ
-l e r uˊ m ɔˊ
-l e s aˋ
-l e s aˋ k aˊ
-l e s aˋ k aˊ n aˊ
-l e s aˊ l ɛˋ l aˊ
-l e s aˊ m aˊ
-l e s aˊ p ɔˊ
-l e s eˋ d iˊ
-l e s ɪˊ x ɔˊ
-l e s ɛˋ k aˊ
-l e s eˋ l eˋ t s aˋ
-l e s ɛˋ l w aˊ
-l e s iˊ ɛˋ l aˊ
-l e s iˊ l ʊˊ
-l e s iˊ r ɪˊ
-l e s iˊ t ɬ aˊ ʊˊ k aˋ
-l e s ʊˊ x ʊˊ
-l e s oˊ x oˊ d iˊ
-l e s ɔˋ l ɛˋ
-l e s ʊˊ m ɛˊ
-l e s ʊˋ m ɔˋ
-l e s ʊˊ p ɪˊ
-l e s oˊ ph iˊ
-l e s ʊˋ t ɬ aˊ
-l e s ʊˋ t ɬ ɔˋ
-l e s ɔˊ t s ɛˊ
-l e s uˋ ɸ uˊ
-l e s uˋ p aˋ t s ɪˋ l aˋ
-l e s uˋ p iˋ
-l e s uˋ th uˋ
-l e s w aˋ b iˊ
-l e s w aˊ ɸ ɛˊ
-l e s w aˊ l ɔˊ
-l e s w ɛˊ
+l eˊ r ɛˊ m ɔˊ
+l eˊ r ɛˊ ɔˊ
+l eˊ r iˊ b aˊ
+l eˊ r iˊ n iˊ n iˊ
+l eˊ r ʊˋ b aˋ
+l eˊ r ɔˋ b ɔˋ r ɔˋ b ɔˋ
+l eˊ r ʊˊ ʊˊ
+l eˊ r ʊˊ p ɪˊ
+l eˊ r oˊ ph iˊ
+l eˊ r oˋ th oˊ d iˊ
+l eˊ r ʊˋ t ʊˋ b ʊˊ l ʊˊ
+l eˊ r ɔˊ t s ɛˊ
+l eˊ r uˋ
+l eˊ r uˋ aˋ r uˊ aˊ
+l eˊ r uˊ d iˊ
+l eˊ r uˊ iˊ
+l eˊ r uˊ m ɔˊ
+l eˊ s aˋ
+l eˊ s aˋ k aˊ
+l eˊ s aˋ k aˊ n aˊ
+l eˊ s aˊ l ɛˋ l aˊ
+l eˊ s aˊ m aˊ
+l eˊ s aˊ p ɔˊ
+l eˊ s eˋ d iˊ
+l eˊ s ɪˊ x ɔˊ
+l eˊ s ɛˋ k aˊ
+l eˊ s eˋ l eˋ t s aˋ
+l eˊ s ɛˋ l w aˊ
+l eˊ s iˊ ɛˋ l aˊ
+l eˊ s iˊ l ʊˊ
+l eˊ s iˊ r ɪˊ
+l eˊ s iˊ t aˊ ʊˊ k aˋ
+l eˊ s ʊˊ x ʊˊ
+l eˊ s oˊ x oˊ d iˊ
+l eˊ s ɔˋ l ɛˋ
+l eˊ s ʊˊ m ɛˊ
+l eˊ s ʊˋ m ɔˋ
+l eˊ s ʊˊ p ɪˊ
+l eˊ s oˊ ph iˊ
+l eˊ s ʊˋ t aˊ
+l eˊ s ʊˋ t ɔˋ
+l eˊ s ɔˊ t s ɛˊ
+l eˊ s uˋ ɸ uˊ
+l eˊ s uˋ p aˋ t s ɪˋ l aˋ
+l eˊ s uˋ p iˋ
+l eˊ s uˋ th uˋ
+l eˊ s w aˋ b iˊ
+l eˊ s w aˊ ɸ ɛˊ
+l eˊ s w aˊ l ɔˊ
+l eˊ s w ɛˊ
 l ɪˊ s w ɛˊ ɸ aˊ l aˋ
 l ɪˊ s w ɛˊ ɸ aˊ t s aˋ
-l e ʃ aˊ l aˊ b aˊ
-l e ʃ eˋ t ɬ aˋ
-l e t aˋ
-l e t aˊ d iˊ
-l e t aˊ ɪˋ s ɪˊ
-l e t aˋ x w aˊ
-l e t aˊ m ɔˊ
-l e t ɪˊ aˋ n ɪˊ
-l e t eˋ b eˋ l eˋ
-l e t eˋ ŋˋ
-l e t iˊ m ɛˋ l aˊ
-l eˋ t ɬ aˋ
-l e t ɬ aˋ l ɔˋ
-l e t ɬ aˋ m eˋ t ɬ ʊˊ
-l eˋ t ɬ aˋ ɲ aˋ
-l e t ɬ aˋ p aˊ
-l e t ɬ aˋ p aˊ
-l e t ɬ aˋ p ɪˋ
-l eˋ t ɬ ɛˋ l ɛˋ l aˋ
-l e t ɬ eˋ p uˊ
-l e t ɬh aˊ
-l e t ɬh aˋ ɸ uˊ l aˊ
-l e t ɬh aˊ k uˊ
-l e t ɬh aˊ l ɪˊ
-l e t ɬh aˊ l ʊˊ s iˊ
-l e t ɬh aˋ ʊˊ d iˊ
-l e t ɬh aˊ p aˊ
-l e t ɬh aˋ p ɪˊ
-l e t ɬh aˋ r ɪˋ
-l e t ɬh aˊ s eˊ d iˊ
-l e t ɬh aˋ t ɬ aˊ x aˋ ɲ aˊ n ɪˊ
-l e t ɬh oˊ d iˊ
-l e t ɬh ɔˊ x ɔˋ n ɔˊ l ɔˊ
-l e t ɬh ɔˋ k ɔˋ
-l e t ɬh oˋ m eˋ s oˋ
-l e t ɬh ɔˊ ɔˊ
-l e t ɬh ʊˊ t ɬh ʊˋ r aˊ
-l e t ɬ ʊˊ aˊ
-l e t ɬ ʊˋ l ɪˋ
-l e t ɬ ɔˋ t ɬ aˋ
-l e t ɬ ɔˋ t ɬ ɔˋ
-l e t ʊˋ b ʊˋ
-l e t ʊˋ r ɔˊ k ɔˊ
-l e t s aˋ
-l e t s aˋ ɪˊ
+l eˊ ʃ aˊ l aˊ b aˊ
+l eˊ ʃ eˋ t aˋ
+l eˊ t aˋ
+l eˊ t aˊ d iˊ
+l eˊ t aˊ ɪˋ s ɪˊ
+l eˊ t aˋ x w aˊ
+l eˊ t aˊ m ɔˊ
+l eˊ t ɪˊ aˋ n ɪˊ
+l eˊ t eˋ b eˋ l eˋ
+l eˊ t eˋ ŋˋ
+l eˊ t iˊ m ɛˋ l aˊ
+l eˋ t aˋ
+l eˊ t aˋ l ɔˋ
+l eˊ t aˋ m eˋ t ʊˊ
+l eˋ t aˋ ɲ aˋ
+l eˊ t aˋ p aˊ
+l eˊ t aˋ p aˊ
+l eˊ t aˋ p ɪˋ
+l eˋ t ɛˋ l ɛˋ l aˋ
+l eˊ t eˋ p uˊ
+l eˊ th aˊ
+l eˊ th aˋ ɸ uˊ l aˊ
+l eˊ th aˊ k uˊ
+l eˊ th aˊ l ɪˊ
+l eˊ th aˊ l ʊˊ s iˊ
+l eˊ th aˋ ʊˊ d iˊ
+l eˊ th aˊ p aˊ
+l eˊ th aˋ p ɪˊ
+l eˊ th aˋ r ɪˋ
+l eˊ th aˊ s eˊ d iˊ
+l eˊ th aˋ t aˊ x aˋ ɲ aˊ n ɪˊ
+l eˊ th oˊ d iˊ
+l eˊ th ɔˊ x ɔˋ n ɔˊ l ɔˊ
+l eˊ th ɔˋ k ɔˋ
+l eˊ th oˋ m eˋ s oˋ
+l eˊ th ɔˊ ɔˊ
+l eˊ th ʊˊ th ʊˋ r aˊ
+l eˊ t ʊˊ aˊ
+l eˊ t ʊˋ l ɪˋ
+l eˊ t ɔˋ t aˋ
+l eˊ t ɔˋ t ɔˋ
+l eˊ t ʊˋ b ʊˋ
+l eˊ t ʊˋ r ɔˊ k ɔˊ
+l eˊ t s aˋ
+l eˊ t s aˋ ɪˊ
 l iˋ t s aˋ p aˋ
-l e t s aˋ t s iˊ
-l e t s ɪˊ l aˊ
-l e t s ɪˊ l aˊ ɲ aˊ n aˋ
-l e t s ɪˋ m aˋ
-l e t s ɛˊ t s ɛˊ
-l e t sh ɪˊ x ɔˊ
-l e t sh ʊˋ b aˋ
-l e t sh ʊˋ x ɔˋ
-l e t sh ʊˊ l ɔˊ
-l e t sh ʊˋ l ʊˋ l ɔˋ
-l e t sh ʊˊ ʊˊ
-l e t sh ʊˋ r ʊˊ m aˊ
-l e t sh w aˋ x ɔˋ
-l e t sh w aˋ ɔˋ
-l e t sh w aˋ ɔˋ k x ʊˊ k aˊ
-l e t sh w eˋ ɲ oˋ
-l e t s iˋ b ʊˋ x ɔˋ
-l e t s iˊ d iˊ d iˊ
-l e t s iˊ p aˊ
-l e t s ɔˊ x ɔˊ
-l e t s oˋ k uˊ
-l e t s ʊˊ m aˊ n ɪˊ
-l e t s ʊˊ m ɔˊ
-l e t s ʊˊ p aˊ
-l e t s uˋ b uˋ t s uˋ b uˋ
-l e t s uˊ t s uˋ b aˊ
-l e t s w aˊ iˊ
-l e t s w aˋ l ɔˋ
-l e t s w ɛˋ l aˊ
-l e t s w ɪˊ l ɪˊ
-l e t ʃ aˋ t ʃ aˋ
-l e t ʃh aˊ
-l e t ʃh ɛˊ x aˊ
-l e t ʃh ɔˊ t ɬh ɔˊ
-l e uˋ b aˋ
-l e uˊ ŋ ɔˊ
-l e w aˊ t ɬ ɛˊ
-l e w ɛˋ l aˊ n aˊ
+l eˊ t s aˋ t s iˊ
+l eˊ t s ɪˊ l aˊ
+l eˊ t s ɪˊ l aˊ ɲ aˊ n aˋ
+l eˊ t s ɪˋ m aˋ
+l eˊ t s ɛˊ t s ɛˊ
+l eˊ t sh ɪˊ x ɔˊ
+l eˊ t sh ʊˋ b aˋ
+l eˊ t sh ʊˋ x ɔˋ
+l eˊ t sh ʊˊ l ɔˊ
+l eˊ t sh ʊˋ l ʊˋ l ɔˋ
+l eˊ t sh ʊˊ ʊˊ
+l eˊ t sh ʊˋ r ʊˊ m aˊ
+l eˊ t sh w aˋ x ɔˋ
+l eˊ t sh w aˋ ɔˋ
+l eˊ t sh w aˋ ɔˋ k x ʊˊ k aˊ
+l eˊ t sh w eˋ ɲ oˋ
+l eˊ t s iˋ b ʊˋ x ɔˋ
+l eˊ t s iˊ d iˊ d iˊ
+l eˊ t s iˊ p aˊ
+l eˊ t s ɔˊ x ɔˊ
+l eˊ t s oˋ k uˊ
+l eˊ t s ʊˊ m aˊ n ɪˊ
+l eˊ t s ʊˊ m ɔˊ
+l eˊ t s ʊˊ p aˊ
+l eˊ t s uˋ b uˋ t s uˋ b uˋ
+l eˊ t s uˊ t s uˋ b aˊ
+l eˊ t s w aˊ iˊ
+l eˊ t s w aˋ l ɔˋ
+l eˊ t s w ɛˋ l aˊ
+l eˊ t s w ɪˊ l ɪˊ
+l eˊ t ʃ aˋ t ʃ aˋ
+l eˊ t ʃh aˊ
+l eˊ t ʃh ɛˊ x aˊ
+l eˊ t ʃh ɔˊ th ɔˊ
+l eˊ uˋ b aˋ
+l eˊ uˊ ŋ ɔˊ
+l eˊ w aˊ t ɛˊ
+l eˊ w ɛˋ l aˊ n aˊ
 l iˊ t aˋ r aˊ
-l  l ɪˊ r ɪˊ
-l  l ɔˊ t ɔˊ
+lˋ l ɪˊ r ɪˊ
+lˋ l ɔˊ t ɔˊ
 l oˊ
 l ɔˋ aˋ
 l ɔˊ aˊ
-l o aˊ x ɔˊ
-l o aˊ p iˊ
-l o aˊ r ɔˊ
+l oˋ aˊ x ɔˊ
+l oˋ aˊ p iˊ
+l oˋ aˊ r ɔˊ
 l ɔˋ b aˋ
-l o b aˊ d iˊ
-l o b aˋ k aˋ
-l o b aˋ k aˋ ɲ aˋ n aˋ
-l o b aˊ l aˊ
-l o b aˋ t iˊ
-l o b ɪˊ b ɪˊ
-l o b ɪˊ b ɪˋ t s iˊ d iˊ d iˊ
-l o b ɪˋ l ɔˋ
-l o b ɪˊ s ɪˊ
-l o b ɛˊ t ɛˊ
-l o b ʊˊ aˊ
-l o b oˊ d uˊ
-l o b ɔˋ n ɛˋ
-l o b ɔˋ n ɛˋ ɲ aˋ n aˋ
-l o b ʊˊ p ɔˊ
-l o b ɔˋ t aˋ
-l o b uˊ
-l o ɛˋ t ɔˋ
-l o ɸ aˋ ɸ aˊ
-l o ɸ ɛˊ ɛˊ l ɔˊ
-l o ɸ ɛˋ t ɬh ɔˋ
-l o ɸ uˊ k aˊ
-l o ɸ uˊ l ɔˊ
-l o ɸ uˋ l ɔˋ
-l o x aˋ
-l o x aˋ b aˋ
-l o x aˋ d iˋ m aˊ
-l o x aˊ x aˊ
-l o x aˋ k aˋ n aˋ
-l o x aˋ k aˋ ɲ aˋ
-l o x aˊ l aˊ
-l o x aˋ p aˋ
-l o x aˊ r ɪˊ
-l o x aˋ r iˊ
-l o x aˊ t aˊ
+l oˋ b aˊ d iˊ
+l oˋ b aˋ k aˋ
+l oˋ b aˋ k aˋ ɲ aˋ n aˋ
+l oˋ b aˊ l aˊ
+l oˋ b aˋ t iˊ
+l oˋ b ɪˊ b ɪˊ
+l oˋ b ɪˊ b ɪˋ t s iˊ d iˊ d iˊ
+l oˋ b ɪˋ l ɔˋ
+l oˋ b ɪˊ s ɪˊ
+l oˋ b ɛˊ t ɛˊ
+l oˋ b ʊˊ aˊ
+l oˋ b oˊ d uˊ
+l oˋ b ɔˋ n ɛˋ
+l oˋ b ɔˋ n ɛˋ ɲ aˋ n aˋ
+l oˋ b ʊˊ p ɔˊ
+l oˋ b ɔˋ t aˋ
+l oˋ b uˊ
+l oˋ ɛˋ t ɔˋ
+l oˋ ɸ aˋ ɸ aˊ
+l oˋ ɸ ɛˊ ɛˊ l ɔˊ
+l oˋ ɸ ɛˋ th ɔˋ
+l oˋ ɸ uˊ k aˊ
+l oˋ ɸ uˊ l ɔˊ
+l oˋ ɸ uˋ l ɔˋ
+l oˋ x aˋ
+l oˋ x aˋ b aˋ
+l oˋ x aˋ d iˋ m aˊ
+l oˋ x aˊ x aˊ
+l oˋ x aˋ k aˋ n aˋ
+l oˋ x aˋ k aˋ ɲ aˋ
+l oˋ x aˊ l aˊ
+l oˋ x aˋ p aˋ
+l oˋ x aˊ r ɪˊ
+l oˋ x aˋ r iˊ
+l oˋ x aˊ t aˊ
 l ʊˊ x eˊ t s aˊ
-l o x ʊˋ b ɪˊ
-l o x ɔˊ x ɔˊ
-l o x ʊˋ l ʊˋ l aˋ
-l o x ʊˊ ŋˊ
-l o x ʊˋ p ɔˋ
-l o x ʊˊ r aˊ
-l o x w aˋ d iˊ
-l o h iˊ h iˊ r iˊ
-l o h uˊ b aˊ
-l o h uˊ m ɔˊ
-l o h uˋ t iˋ
+l oˋ x ʊˋ b ɪˊ
+l oˋ x ɔˊ x ɔˊ
+l oˋ x ʊˋ l ʊˋ l aˋ
+l oˋ x ʊˊ ŋˊ
+l oˋ x ʊˋ p ɔˋ
+l oˋ x ʊˊ r aˊ
+l oˋ x w aˋ d iˊ
+l oˋ h iˊ h iˊ r iˊ
+l oˋ h uˊ b aˊ
+l oˋ h uˊ m ɔˊ
+l oˋ h uˋ t iˋ
 l oˊ iˊ s aˊ
-l o k aˋ
-l o k aˊ iˊ s aˋ n ɪˊ
+l oˋ k aˋ
+l oˋ k aˊ iˊ s aˋ n ɪˊ
 l ɔˋ k ɛˋ l aˋ
 l oˋ k ʊˋ l ʊˋ x aˋ
 l oˋ k ʊˋ l ʊˋ l aˋ
-l o k w aˊ l ɔˊ
-l o l aˋ m aˋ
-l o l ɪˋ aˋ
-l o l ɪˊ m ɪˊ
-l o l w aˋ p aˊ
+l oˋ k w aˊ l ɔˊ
+l oˋ l aˋ m aˋ
+l oˋ l ɪˋ aˋ
+l oˋ l ɪˊ m ɪˊ
+l oˋ l w aˋ p aˊ
 l ʊˊ m aˊ
 l ʊˊ m aˊ x aˊ n aˋ
 l ʊˊ m aˊ x aˊ ɲ aˋ
 l ʊˊ m aˊ l ʊˊ m aˋ
-l o m aˊ ɔˊ
-l o m aˋ p ɔˋ
-l o m aˋ t iˊ
+l oˋ m aˊ ɔˊ
+l oˋ m aˋ p ɔˋ
+l oˋ m aˋ t iˊ
 l ʊˊ m ɛˊ x aˊ
 l ʊˊ m ɛˊ l aˊ
-l o m eˋ l eˋ t s aˋ
-l o m ɛˋ p ɛˋ
-l o m iˊ p iˊ
+l oˋ m eˋ l eˋ t s aˋ
+l oˋ m ɛˋ p ɛˋ
+l oˋ m iˊ p iˊ
 l ʊˊ m ʊˊ l ʊˊ x aˋ
 l ʊˊ m ʊˊ l ʊˊ l aˋ
-l o m ɔˋ t aˋ
-l o n aˊ
-l o n aˋ k aˊ
-l o n aˋ k aˊ t ɬ oˊ uˋ
-l o n aˊ l aˊ
-l o n aˋ ʊˋ
-l o ŋˋ k ɔˊ
-l o ɲ aˊ l ɔˊ
-l o ɲ aˋ t s ɔˋ
-l o ɔˋ b ɔˋ
-l o ʊˊ t ʊˊ
+l oˋ m ɔˋ t aˋ
+l oˋ n aˊ
+l oˋ n aˋ k aˊ
+l oˋ n aˋ k aˊ t oˊ uˋ
+l oˋ n aˊ l aˊ
+l oˋ n aˋ ʊˋ
+l oˋ ŋˋ k ɔˊ
+l oˋ ɲ aˊ l ɔˊ
+l oˋ ɲ aˋ t s ɔˋ
+l oˋ ɔˋ b ɔˋ
+l oˋ ʊˊ t ʊˊ
 l oˋ oˋ t s aˋ
 l ɔˊ p aˊ
-l o p aˋ l aˋ l aˋ
+l oˋ p aˋ l aˋ l aˋ
 l ɔˊ r aˊ
-l o r aˊ k ɔˊ
+l oˋ r aˊ k ɔˊ
 l ɔˊ r aˊ l ɔˊ r aˋ
-l o r aˊ t ɔˊ
-l o r ɪˊ
+l oˋ r aˊ t ɔˊ
+l oˋ r ɪˊ
 l oˊ r iˊ
-l o r ʊˋ l ɪˋ
-l o r ɔˋ l ɔˊ
-l o r uˊ ɔˊ
-l o s aˋ
-l o s aˋ iˋ s aˋ iˋ
-l o s ɪˊ aˊ
-l o s ɛˋ l ɔˋ
-l o s eˋ t s aˋ
+l oˋ r ʊˋ l ɪˋ
+l oˋ r ɔˋ l ɔˊ
+l oˋ r uˊ ɔˊ
+l oˋ s aˋ
+l oˋ s aˋ iˋ s aˋ iˋ
+l oˋ s ɪˊ aˊ
+l oˋ s ɛˋ l ɔˋ
+l oˋ s eˋ t s aˋ
 l oˊ s iˊ
-l o s iˊ
-l o s iˊ k aˊ
-l o s ʊˊ
-l o s ɔˋ
-l o s w aˋ n aˋ
-l o s w aˋ ɔˋ
-l o th aˋ
-l o th ɛˋ k aˊ
-l o t ɬ aˋ t ɬ aˋ n aˋ
-l ɔˋ t ɬ ɛˋ x aˋ
-l ɔˊ t ɬ ɛˊ l aˊ
-l o t ɬh aˋ aˊ
-l o t ɬh aˋ k aˋ
-l o t ɬh aˊ k ʊˊ r ɪˊ
-l o t ɬh aˋ n aˋ
-l o t ɬh aˋ ɲ aˋ
-l o t ɬh aˋ r aˋ p aˋ
-l oˊ t ɬh eˊ
-l o t ɬh ɔˋ k w aˊ
+l oˋ s iˊ
+l oˋ s iˊ k aˊ
+l oˋ s ʊˊ
+l oˋ s ɔˋ
+l oˋ s w aˋ n aˋ
+l oˋ s w aˋ ɔˋ
+l oˋ th aˋ
+l oˋ th ɛˋ k aˊ
+l oˋ t aˋ t aˋ n aˋ
+l ɔˋ t ɛˋ x aˋ
+l ɔˊ t ɛˊ l aˊ
+l oˋ th aˋ aˊ
+l oˋ th aˋ k aˋ
+l oˋ th aˊ k ʊˊ r ɪˊ
+l oˋ th aˋ n aˋ
+l oˋ th aˋ ɲ aˋ
+l oˋ th aˋ r aˋ p aˋ
+l oˊ th eˊ
+l oˋ th ɔˋ k w aˊ
 l ɔˋ t s aˋ ɸ aˋ l aˋ
-l o t s aˋ t s aˋ
-l o t sh iˊ t sh iˊ
-l o t s ɔˋ
-l o uˊ p aˊ
+l oˋ t s aˋ t s aˋ
+l oˋ t sh iˊ t sh iˊ
+l oˋ t s ɔˋ
+l oˋ uˊ p aˊ
 l w aˋ
 l w aˊ l aˊ
 l w aˋ nˋ t sh aˋ
 l w eˊ t s ɪˊ
-l o t s ɔˋ
-l o uˊ p aˊ
+l oˋ t s ɔˋ
+l oˋ uˊ p aˊ
 l w aˊ l aˊ
 l w aˋ nˋ t sh aˋ
 l w eˊ t s ɪˊ
-m a aˋ b aˊ n ɪˊ
-m a aˋ b aˊ ɲ aˋ n ɪˊ
-m a aˊ d iˊ m ɔˊ
-m a aˋ k aˊ
-m a aˊ m uˊ s ɔˊ
-m a aˋ t ɬ aˋ
-m a b ɪˋ l aˋ
-m a b ɛˋ l ɛˊ
-m a b iˊ ɸ iˊ
-m a b iˋ t ɬ aˋ
-m a b ɔˊ x ɔˋ d iˊ k aˊ
-m a b ʊˊ l ɪˊ
-m a b ɔˋ t ɛˊ
-m a b uˊ k aˊ
-m a d iˊ
-m a d iˊ
-m a d iˊ l aˊ
-m a d iˋ r ɛˋ l ɔˋ
-m a d iˊ s ɔˊ
-m a d uˋ b ɛˋ d uˋ b ɛˋ
-m a d uˊ ɔˊ
-m a ɛˋ b ɛˊ ɛˊ b ɛˊ
-m a ɪˋ l ɪˊ
-m a ɛˊ m ɔˊ
-m a ɸ aˋ ɸ aˋ
-m a ɸ aˋ r aˋ t ɬh aˋ t ɬh aˋ
-m a ɸ aˋ t ɬh aˋ
-m a ɸ ɪˋ x aˋ
-m a ɸ eˋ t ʊˋ x ɛˋ l ɔˋ
-m a ɸ ʊˋ k ʊˋ
-m a ɸ ʊˋ l ʊˋ ɸ ʊˋ l ʊˋ
-m a ɸ uˋ l ɔˋ
-m a ɸ uˊ r aˊ
-m a x aˋ k x aˋ l aˋ
-m a x aˋ l aˋ p aˋ
-m a x aˊ t w ɪˋ
-m a x ʊˊ x ʊˋ r w aˊ n ɪˊ
-m a x ɔˊ x w ɛˊ
-m a x w aˋ x w aˋ
-m a x w aˋ t aˋ
-m a h uˊ b eˊ
-m a iˋ b iˋ
-m a iˊ k aˊ ɛˊ l ɛˋ l ɔˋ
-m a iˊ k aˊ n ɔˊ
-m a iˊ k aˊ r aˊ b ɛˊ l ɔˋ
-m a iˊ k uˊ t ɬ ɔˊ
-m a iˊ t iˊ s ɔˊ
-m a iˊ t ɬ aˊ m ɔˊ
-m a iˊ t ɬh ɔˊ m ɔˊ
-m a iˊ t s ɪˊ b ʊˋ aˊ
-m a iˊ t s ɛˊ ɔˊ
-m a d ʒ aˊ k ɔˊ
-m a k aˊ t ɬ aˊ n aˋ m aˊ n ɪˊ
-m a k ɛˊ k ɛˊ t ɛˊ
-m a k x aˊ b ɪˊ
-m a k x aˊ k x aˊ
-m a k x aˋ m aˋ th aˋ
-m a k x aˋ ph aˋ
-m a k x aˋ ph iˋ l aˋ
-m a k x aˊ r iˋ t ɬh aˊ
-m a k x w aˋ k x w aˋ
-m a k x aˋ t ɬh aˋ n ɔˋ
-m a k x ɔˋ n aˋ t s oˊ t ɬh eˊ
-m a k iˊ d iˋ aˊ n ɪˊ
-m a k uˊ k uˊ
-m a l aˊ
-m a l aˊ t s aˊ
-m a l eˋ b ʊˊ
-m a l ɪˊ l ɪˊ
-m a l ɪˋ p aˊ
-m a l ɔˋ b aˋ
-m a l ʊˊ m aˊ
-m a l ʊˊ m ɛˊ
-m a m aˋ r ɛˋ l aˋ
-m a n aˋ
-m a n aˋ m aˋ
-m a n ɛˋ x aˋ
+m aˋ aˋ b aˊ n ɪˊ
+m aˋ aˋ b aˊ ɲ aˋ n ɪˊ
+m aˋ aˊ d iˊ m ɔˊ
+m aˋ aˋ k aˊ
+m aˋ aˊ m uˊ s ɔˊ
+m aˋ aˋ t aˋ
+m aˋ b ɪˋ l aˋ
+m aˋ b ɛˋ l ɛˊ
+m aˋ b iˊ ɸ iˊ
+m aˋ b iˋ t aˋ
+m aˋ b ɔˊ x ɔˋ d iˊ k aˊ
+m aˋ b ʊˊ l ɪˊ
+m aˋ b ɔˋ t ɛˊ
+m aˋ b uˊ k aˊ
+m aˋ d iˊ
+m aˋ d iˊ
+m aˋ d iˊ l aˊ
+m aˋ d iˋ r ɛˋ l ɔˋ
+m aˋ d iˊ s ɔˊ
+m aˋ d uˋ b ɛˋ d uˋ b ɛˋ
+m aˋ d uˊ ɔˊ
+m aˋ ɛˋ b ɛˊ ɛˊ b ɛˊ
+m aˋ ɪˋ l ɪˊ
+m aˋ ɛˊ m ɔˊ
+m aˋ ɸ aˋ ɸ aˋ
+m aˋ ɸ aˋ r aˋ th aˋ th aˋ
+m aˋ ɸ aˋ th aˋ
+m aˋ ɸ ɪˋ x aˋ
+m aˋ ɸ eˋ t ʊˋ x ɛˋ l ɔˋ
+m aˋ ɸ ʊˋ k ʊˋ
+m aˋ ɸ ʊˋ l ʊˋ ɸ ʊˋ l ʊˋ
+m aˋ ɸ uˋ l ɔˋ
+m aˋ ɸ uˊ r aˊ
+m aˋ x aˋ k x aˋ l aˋ
+m aˋ x aˋ l aˋ p aˋ
+m aˋ x aˊ t w ɪˋ
+m aˋ x ʊˊ x ʊˋ r w aˊ n ɪˊ
+m aˋ x ɔˊ x w ɛˊ
+m aˋ x w aˋ x w aˋ
+m aˋ x w aˋ t aˋ
+m aˋ h uˊ b eˊ
+m aˋ iˋ b iˋ
+m aˋ iˊ k aˊ ɛˊ l ɛˋ l ɔˋ
+m aˋ iˊ k aˊ n ɔˊ
+m aˋ iˊ k aˊ r aˊ b ɛˊ l ɔˋ
+m aˋ iˊ k uˊ t ɔˊ
+m aˋ iˊ t iˊ s ɔˊ
+m aˋ iˊ t aˊ m ɔˊ
+m aˋ iˊ th ɔˊ m ɔˊ
+m aˋ iˊ t s ɪˊ b ʊˋ aˊ
+m aˋ iˊ t s ɛˊ ɔˊ
+m aˋ d ʒ aˊ k ɔˊ
+m aˋ k aˊ t aˊ n aˋ m aˊ n ɪˊ
+m aˋ k ɛˊ k ɛˊ t ɛˊ
+m aˋ k x aˊ b ɪˊ
+m aˋ k x aˊ k x aˊ
+m aˋ k x aˋ m aˋ th aˋ
+m aˋ k x aˋ ph aˋ
+m aˋ k x aˋ ph iˋ l aˋ
+m aˋ k x aˊ r iˋ th aˊ
+m aˋ k x w aˋ k x w aˋ
+m aˋ k x aˋ th aˋ n ɔˋ
+m aˋ k x ɔˋ n aˋ t s oˊ th eˊ
+m aˋ k iˊ d iˋ aˊ n ɪˊ
+m aˋ k uˊ k uˊ
+m aˋ l aˊ
+m aˋ l aˊ t s aˊ
+m aˋ l eˋ b ʊˊ
+m aˋ l ɪˊ l ɪˊ
+m aˋ l ɪˋ p aˊ
+m aˋ l ɔˋ b aˋ
+m aˋ l ʊˊ m aˊ
+m aˋ l ʊˊ m ɛˊ
+m aˋ m aˋ r ɛˋ l aˋ
+m aˋ n aˋ
+m aˋ n aˋ m aˋ
+m aˋ n ɛˋ x aˋ
 m aˊ ŋˊ
-m a ŋ aˋ ŋ aˊ
-m a ŋ oˋ m ʊˊ
-m a n ɔˋ b ɔˋ n ɔˋ b ɔˋ
-m a n ʊˋ l ʊˋ x aˋ
-m a n ɔˋ n t ɬh ɔˋ t ɬh ɔˋ
-m a n ɔˋ t ɔˋ
+m aˋ ŋ aˋ ŋ aˊ
+m aˋ ŋ oˋ m ʊˊ
+m aˋ n ɔˋ b ɔˋ n ɔˋ b ɔˋ
+m aˋ n ʊˋ l ʊˋ x aˋ
+m aˋ n ɔˋ n th ɔˋ th ɔˋ
+m aˋ n ɔˋ t ɔˋ
 m aˊ nˊ t aˊ x aˋ
-m a nˋ t ɬ ɛˊ
-m a ɲ ɔˋ b ɔˋ ɲ ɔˋ b ɔˋ
-m a oˊ k ʊˊ
-m a p aˊ x aˊ m ɔˊ
-m a p aˊ l aˊ m ɔˊ
-m a ph aˊ t aˊ
-m a r aˋ x aˋ n aˋ t eˋ ŋˋ
-m a r aˋ x aˋ r aˋ x aˋ
-m a r aˋ ɲ aˊ n ɪˊ
-m a r aˊ p ɔˊ
-m a r aˊ r aˊ
-m a r ɛˋ l ɛˋ
-m a r iˊ x aˊ
-m a r ʊˊ t aˊ
-m a r uˊ l ɛˊ l ɔˊ
-m a s aˊ l ɛˋ l aˊ
-m a s ɪˊ l aˊ m ʊˊ s ɪˋ
-m a s ɪˊ p aˊ
-m a s ɪˊ t ɬ aˊ p ɪˋ l ʊˊ
-m a s iˋ s iˋ
-m a s ʊˊ m ɛˊ
-m a s w aˋ b ɪˊ
-m a s w ɛˊ
-m a ʃ aˋ mˋ p aˋ
-m a ʃ iˋ
-m a t ɪˋ r aˊ s ɪˊ
-m a th aˋ iˋ th aˋ iˋ
-m a th ɪˊ
-m a th uˊ d iˊ
-m a t ɬ aˊ b aˊ
-m a t ɬ aˋ k aˊ d iˋ b ɪˊ
-m a t ɬ aˋ k aˋ l aˋ
-m a t ɬ aˋ p aˊ n aˊ
-m a t ɬh aˋ x aˋ t ɬh aˋ x aˋ
-m a t ɬh aˋ k aˊ t ɬh aˋ k aˊ n ɪˊ
-m a t ɬh aˊ t s aˊ
-m a t ɬh aˋ t s ɔˋ
-m a t ɬh ɔˋ x ɔˋ l ɛˋ
-m a t ɬh oˋ m ʊˋ l aˋ p ɪˋ l ʊˊ
-m a t ʊˋ l ʊˋ x aˋ
-m a t ʊˋ l ʊˋ l aˋ
-m a t s aˊ l aˊ
-m a t s aˊ l ɪˊ
-m a t s aˋ p aˋ
-m a t s ɪˊ l aˊ
-m a t s ɛˋ t s ɛˋ l ɛˋ k ɔˋ
-m a t sh aˊ m ɪˊ k w aˊ n ɪˋ
-m a t sh ɪˊ d iˊ s ɔˊ
-m a t sh ʊˋ s eˋ t s iˋ
-m a t sh w aˊ n ɪˊ
-m a t sh w aˊ r ɔˊ
-m a t sh w eˋ ɲ ɛˋ x ɔˋ
-m a t sh w iˊ t iˊ
-m a t s iˊ p aˋ n ɪˊ
-m a t uˊ t eˊ
+m aˋ nˋ t ɛˊ
+m aˋ ɲ ɔˋ b ɔˋ ɲ ɔˋ b ɔˋ
+m aˋ oˊ k ʊˊ
+m aˋ p aˊ x aˊ m ɔˊ
+m aˋ p aˊ l aˊ m ɔˊ
+m aˋ ph aˊ t aˊ
+m aˋ r aˋ x aˋ n aˋ t eˋ ŋˋ
+m aˋ r aˋ x aˋ r aˋ x aˋ
+m aˋ r aˋ ɲ aˊ n ɪˊ
+m aˋ r aˊ p ɔˊ
+m aˋ r aˊ r aˊ
+m aˋ r ɛˋ l ɛˋ
+m aˋ r iˊ x aˊ
+m aˋ r ʊˊ t aˊ
+m aˋ r uˊ l ɛˊ l ɔˊ
+m aˋ s aˊ l ɛˋ l aˊ
+m aˋ s ɪˊ l aˊ m ʊˊ s ɪˋ
+m aˋ s ɪˊ p aˊ
+m aˋ s ɪˊ t aˊ p ɪˋ l ʊˊ
+m aˋ s iˋ s iˋ
+m aˋ s ʊˊ m ɛˊ
+m aˋ s w aˋ b ɪˊ
+m aˋ s w ɛˊ
+m aˋ ʃ aˋ mˋ p aˋ
+m aˋ ʃ iˋ
+m aˋ t ɪˋ r aˊ s ɪˊ
+m aˋ th aˋ iˋ th aˋ iˋ
+m aˋ th ɪˊ
+m aˋ th uˊ d iˊ
+m aˋ t aˊ b aˊ
+m aˋ t aˋ k aˊ d iˋ b ɪˊ
+m aˋ t aˋ k aˋ l aˋ
+m aˋ t aˋ p aˊ n aˊ
+m aˋ th aˋ x aˋ th aˋ x aˋ
+m aˋ th aˋ k aˊ th aˋ k aˊ n ɪˊ
+m aˋ th aˊ t s aˊ
+m aˋ th aˋ t s ɔˋ
+m aˋ th ɔˋ x ɔˋ l ɛˋ
+m aˋ th oˋ m ʊˋ l aˋ p ɪˋ l ʊˊ
+m aˋ t ʊˋ l ʊˋ x aˋ
+m aˋ t ʊˋ l ʊˋ l aˋ
+m aˋ t s aˊ l aˊ
+m aˋ t s aˊ l ɪˊ
+m aˋ t s aˋ p aˋ
+m aˋ t s ɪˊ l aˊ
+m aˋ t s ɛˋ t s ɛˋ l ɛˋ k ɔˋ
+m aˋ t sh aˊ m ɪˊ k w aˊ n ɪˋ
+m aˋ t sh ɪˊ d iˊ s ɔˊ
+m aˋ t sh ʊˋ s eˋ t s iˋ
+m aˋ t sh w aˊ n ɪˊ
+m aˋ t sh w aˊ r ɔˊ
+m aˋ t sh w eˋ ɲ ɛˋ x ɔˋ
+m aˋ t sh w iˊ t iˊ
+m aˋ t s iˊ p aˋ n ɪˊ
+m aˋ t uˊ t eˊ
 m ɪˋ aˊ m uˊ s ɔˊ
 m ɪˋ d uˋ p ɪˊ
 m ɪˋ k x aˋ th ɔˋ
@@ -2682,701 +2682,701 @@ m eˋ n ʊˋ s aˋ
 m ɪˊ ɲ aˊ m aˊ
 m ɪˋ r aˋ p ɛˋ l ɔˋ
 m ɪˊ t aˊ
-m ɪˋ t ɬh aˊ
+m ɪˋ th aˊ
 m ɪˋ t s aˋ
 m eˋ t s iˊ
 m iˋ n aˋ
 m iˋ n ʊˋ l aˋ
 m iˊ t aˋ r aˊ
 mˊ m aˋ
-m m aˊ
-m m aˊ m ʊˋ x ʊˊ l ʊˊ
-m m aˊ aˊ k aˊ ɲ iˋ
-m m aˋ b aˊ
-m m aˊ b aˊ l eˊ d iˋ
-m m aˊ b ʊˋ l ɪˊ
-m m aˋ d iˋ
-m m aˊ k ɛˋ t ɛˊ
-m m aˊ l aˊ
-m m aˋ l aˋ b aˋ d iˋ
-m m aˋ l w aˊ
-m m aˊ m aˋ nˊ th w aˊ n ɪˋ
-m m aˊ mˋ p ʊˊ d iˊ
-m m aˊ ŋ w aˋ n aˊ
-m m aˊ ŋ w aˋ n ɪˊ
-m m aˋ p aˋ d iˋ
-m m aˋ p aˋ t s iˋ
-m m aˊ r aˋ k aˊ
-m m aˋ t ɬ aˋ t iˋ r ɔˋ
-m m aˋ t ɬ iˋ
-m m ɪˊ
-m m ɛˊ
-m m eˋ d iˊ
-m m eˊ eˊ l eˊ d iˋ w aˊ
-m m eˊ eˊ l eˊ t s iˋ
-m m ɪˊ x aˋ k x aˊ ŋˊ
-m m ɪˊ x iˊ
-m m ɪˋ l aˋ ɸ aˋ d iˋ
-m m ɪˋ l ɪˋ
-m m eˋ l eˋ x iˋ
-m m eˋ l eˋ x iˋ s iˋ
-m m ɛˊ m ʊˋ x ʊˊ l ʊˊ
-m m eˊ ʊˊ d iˊ
-m m ɛˊ p ɛˊ
-m m eˊ r eˊ k iˊ
-m m eˋ s iˋ
-m m eˋ t ɬ iˋ
-m m eˊ t ʃh iˋ s iˊ
-m m iˊ d iˊ
-m m iˋ l aˊ
-m m iˊ n iˊ
-m m iˊ n ɔˊ
-m m iˊ n ɔˊ t ɪˊ t s ɔˋ
-m m iˊ t s aˊ
-m m ʊˊ b ʊˊ d iˊ
-m m oˋ d uˋ ɸ aˋ d iˋ
-m m ʊˊ x eˊ d iˊ
-m m ɔˊ x ɔˊ
-m m oˋ k iˋ
-m m ʊˊ l aˊ iˊ
-m m ʊˊ l ʊˊ k iˊ
-m m oˊ l oˋ p iˊ t aˊ
-m m ʊˊ p aˊ
-m m ʊˊ p eˊ l eˊ d iˋ
-m m ʊˊ p aˊ m ɔˊ
-m m ʊˊ p iˊ
-m m ʊˋ p ʊˊ
-m m ɔˋ t ɬ aˋ n aˋ
-m m oˊ t ʊˊ r ʊˋ k aˊ r aˊ
-m m uˊ
-m m uˊ aˊ b ʊˋ b ɪˊ
-m m uˊ eˊ l eˊ d iˋ
-m m uˊ iˊ
-m m uˊ p uˋ d uˊ
-m m uˊ s aˋ eˊ s iˊ
-m m uˊ s iˊ
-m m uˊ s iˊ aˋ m ʊˊ
-m m uˊ s ɔˊ
-m m uˊ t ɬ aˊ
+mˋ m aˊ
+mˋ m aˊ m ʊˋ x ʊˊ l ʊˊ
+mˋ m aˊ aˊ k aˊ ɲ iˋ
+mˋ m aˋ b aˊ
+mˋ m aˊ b aˊ l eˊ d iˋ
+mˋ m aˊ b ʊˋ l ɪˊ
+mˋ m aˋ d iˋ
+mˋ m aˊ k ɛˋ t ɛˊ
+mˋ m aˊ l aˊ
+mˋ m aˋ l aˋ b aˋ d iˋ
+mˋ m aˋ l w aˊ
+mˋ m aˊ m aˋ nˊ th w aˊ n ɪˋ
+mˋ m aˊ mˋ p ʊˊ d iˊ
+mˋ m aˊ ŋ w aˋ n aˊ
+mˋ m aˊ ŋ w aˋ n ɪˊ
+mˋ m aˋ p aˋ d iˋ
+mˋ m aˋ p aˋ t s iˋ
+mˋ m aˊ r aˋ k aˊ
+mˋ m aˋ t aˋ t iˋ r ɔˋ
+mˋ m aˋ t iˋ
+mˋ m ɪˊ
+mˋ m ɛˊ
+mˋ m eˋ d iˊ
+mˋ m eˊ eˊ l eˊ d iˋ w aˊ
+mˋ m eˊ eˊ l eˊ t s iˋ
+mˋ m ɪˊ x aˋ k x aˊ ŋˊ
+mˋ m ɪˊ x iˊ
+mˋ m ɪˋ l aˋ ɸ aˋ d iˋ
+mˋ m ɪˋ l ɪˋ
+mˋ m eˋ l eˋ x iˋ
+mˋ m eˋ l eˋ x iˋ s iˋ
+mˋ m ɛˊ m ʊˋ x ʊˊ l ʊˊ
+mˋ m eˊ ʊˊ d iˊ
+mˋ m ɛˊ p ɛˊ
+mˋ m eˊ r eˊ k iˊ
+mˋ m eˋ s iˋ
+mˋ m eˋ t iˋ
+mˋ m eˊ t ʃh iˋ s iˊ
+mˋ m iˊ d iˊ
+mˋ m iˋ l aˊ
+mˋ m iˊ n iˊ
+mˋ m iˊ n ɔˊ
+mˋ m iˊ n ɔˊ t ɪˊ t s ɔˋ
+mˋ m iˊ t s aˊ
+mˋ m ʊˊ b ʊˊ d iˊ
+mˋ m oˋ d uˋ ɸ aˋ d iˋ
+mˋ m ʊˊ x eˊ d iˊ
+mˋ m ɔˊ x ɔˊ
+mˋ m oˋ k iˋ
+mˋ m ʊˊ l aˊ iˊ
+mˋ m ʊˊ l ʊˊ k iˊ
+mˋ m oˊ l oˋ p iˊ t aˊ
+mˋ m ʊˊ p aˊ
+mˋ m ʊˊ p eˊ l eˊ d iˋ
+mˋ m ʊˊ p aˊ m ɔˊ
+mˋ m ʊˊ p iˊ
+mˋ m ʊˋ p ʊˊ
+mˋ m ɔˋ t aˋ n aˋ
+mˋ m oˊ t ʊˊ r ʊˋ k aˊ r aˊ
+mˋ m uˊ
+mˋ m uˊ aˊ b ʊˋ b ɪˊ
+mˋ m uˊ eˊ l eˊ d iˋ
+mˋ m uˊ iˊ
+mˋ m uˊ p uˋ d uˊ
+mˋ m uˊ s aˋ eˊ s iˊ
+mˋ m uˊ s iˊ
+mˋ m uˊ s iˊ aˋ m ʊˊ
+mˋ m uˊ s ɔˊ
+mˋ m uˊ t aˊ
 m oˊ
-m o aˋ b eˋ d w iˋ
-m o aˋ b iˋ
-m o aˊ d iˊ m iˊ
-m o aˊ x iˊ
-m o aˊ x iˊ s aˊ n iˋ
-m o aˊ x iˊ s aˊ ɲ iˋ
-m o aˊ x ɔˊ
-m o aˋ k iˋ
-m o aˋ l aˋ ɸ iˋ
-m o aˊ m ɔˊ
-m o aˊ m uˊ s iˊ
-m o aˊ n eˊ d iˊ
-m o aˋ p aˋ r ɔˋ
-m o aˋ p eˋ iˋ
-m o aˊ r aˊ b eˊ d iˋ
-m o aˊ r iˊ
-m o aˊ r iˋ w aˊ
-m o aˊ t ɬh ʊˊ d iˊ
-m o b iˊ ʃ ɔˋ p ɔˊ
-m o d iˋ
-m o d iˋ d iˋ
-m o d iˊ eˊ x iˊ
-m o d iˋ x aˊ
-m o d iˊ k ɔˊ
-m o d iˋ l ʊˊ
-m o d iˊ m ʊˊ
-m o d iˋ r aˋ m ʊˋ l aˋ t ʊˊ
-m o d iˋ r aˋ mˋ m ʊˊ p aˊ
-m o d iˋ r aˋ x aˋ t s iˋ
-m o d iˋ r eˋ d iˋ
-m o d iˋ r ɛˋ l aˋ mˋ m uˊ s ɔˊ
-m o d iˋ r iˋ
-m o d iˋ r iˋ s aˋ m aˋ d iˊ
-m o d iˋ r iˋ s iˋ
-m o d iˋ r ɔˋ
-m o d iˊ s aˊ
-m o d iˊ t ʃh aˊ b aˋ
-m o d uˋ b uˊ n ʊˋ k aˊ
-m o d uˊ eˊ d iˊ
-m o d uˊ l aˊ s ɪˋ t iˊ l ɔˊ
-m o d uˋ m eˋ d iˋ
-m o d uˋ m ɔˋ
-m o d uˋ m ʊˋ l ʊˋ x iˋ
-m o eˋ d iˋ
-m o eˋ k iˋ
-m o eˊ m eˊ d iˊ
-m o eˊ m iˊ s eˊ t s iˋ
-m o eˋ ŋˋ
-m o ɛˊ ɲˊ d ʒ ɪˋ n iˊ ɛˋ r ɛˊ
-m o ɛˋ p ɔˋ
-m o eˊ s ɪˊ m aˋ n ɪˋ
-m o ɛˊ t aˊ
-m o ɛˋ t aˋ p ɪˋ l ɪˋ
-m o eˋ t eˊ l eˊ d iˊ p ɪˊ l ɪˋ
-m o eˋ t iˋ
-m o eˋ t s aˊ n aˊ
-m o ɛˋ t s ɛˋ
-m o ɸ aˊ x ɔˊ
-m o ɸ aˊ l ʊˊ d iˊ
-m o ɸ aˊ l ʊˊ t s iˊ
-m o ɸ aˋ m aˋ
-m o ɸ aˊ ph aˊ
-m o ɸ eˊ eˊ d iˊ
-m o ɸ ɪˋ m eˋ d iˋ
-m o ɸ eˊ ŋˊ ŋ w ɪˊ
-m o ɸ eˊ ɲ iˊ
-m o ɸ ɛˋ r ɔˋ
-m o ɸ ɪˋ t iˋ
-m o ɸ eˋ t ʊˋ l eˋ d iˋ
-m o ɸ iˊ k ɛˊ l aˊ
-m o ɸ iˊ n eˊ
-m o ɸ iˊ ɲ aˊ n aˊ
-m o ɸ iˊ r iˊ
-m o ɸ oˊ d iˊ s iˊ
-m o ɸ ʊˋ r aˊ
-m o ɸ uˊ d iˊ
-m o ɸ uˋ ɸ uˋ t s ɔˋ
-m o ɸ uˊ l aˊ
-m o ɸ uˊ l aˊ
-m o ɸ uˊ l aˊ r iˊ
+m oˋ aˋ b eˋ d w iˋ
+m oˋ aˋ b iˋ
+m oˋ aˊ d iˊ m iˊ
+m oˋ aˊ x iˊ
+m oˋ aˊ x iˊ s aˊ n iˋ
+m oˋ aˊ x iˊ s aˊ ɲ iˋ
+m oˋ aˊ x ɔˊ
+m oˋ aˋ k iˋ
+m oˋ aˋ l aˋ ɸ iˋ
+m oˋ aˊ m ɔˊ
+m oˋ aˊ m uˊ s iˊ
+m oˋ aˊ n eˊ d iˊ
+m oˋ aˋ p aˋ r ɔˋ
+m oˋ aˋ p eˋ iˋ
+m oˋ aˊ r aˊ b eˊ d iˋ
+m oˋ aˊ r iˊ
+m oˋ aˊ r iˋ w aˊ
+m oˋ aˊ th ʊˊ d iˊ
+m oˋ b iˊ ʃ ɔˋ p ɔˊ
+m oˋ d iˋ
+m oˋ d iˋ d iˋ
+m oˋ d iˊ eˊ x iˊ
+m oˋ d iˋ x aˊ
+m oˋ d iˊ k ɔˊ
+m oˋ d iˋ l ʊˊ
+m oˋ d iˊ m ʊˊ
+m oˋ d iˋ r aˋ m ʊˋ l aˋ t ʊˊ
+m oˋ d iˋ r aˋ mˋ m ʊˊ p aˊ
+m oˋ d iˋ r aˋ x aˋ t s iˋ
+m oˋ d iˋ r eˋ d iˋ
+m oˋ d iˋ r ɛˋ l aˋ mˋ m uˊ s ɔˊ
+m oˋ d iˋ r iˋ
+m oˋ d iˋ r iˋ s aˋ m aˋ d iˊ
+m oˋ d iˋ r iˋ s iˋ
+m oˋ d iˋ r ɔˋ
+m oˋ d iˊ s aˊ
+m oˋ d iˊ t ʃh aˊ b aˋ
+m oˋ d uˋ b uˊ n ʊˋ k aˊ
+m oˋ d uˊ eˊ d iˊ
+m oˋ d uˊ l aˊ s ɪˋ t iˊ l ɔˊ
+m oˋ d uˋ m eˋ d iˋ
+m oˋ d uˋ m ɔˋ
+m oˋ d uˋ m ʊˋ l ʊˋ x iˋ
+m oˋ eˋ d iˋ
+m oˋ eˋ k iˋ
+m oˋ eˊ m eˊ d iˊ
+m oˋ eˊ m iˊ s eˊ t s iˋ
+m oˋ eˋ ŋˋ
+m oˋ ɛˊ ɲˊ d ʒ ɪˋ n iˊ ɛˋ r ɛˊ
+m oˋ ɛˋ p ɔˋ
+m oˋ eˊ s ɪˊ m aˋ n ɪˋ
+m oˋ ɛˊ t aˊ
+m oˋ ɛˋ t aˋ p ɪˋ l ɪˋ
+m oˋ eˋ t eˊ l eˊ d iˊ p ɪˊ l ɪˋ
+m oˋ eˋ t iˋ
+m oˋ eˋ t s aˊ n aˊ
+m oˋ ɛˋ t s ɛˋ
+m oˋ ɸ aˊ x ɔˊ
+m oˋ ɸ aˊ l ʊˊ d iˊ
+m oˋ ɸ aˊ l ʊˊ t s iˊ
+m oˋ ɸ aˋ m aˋ
+m oˋ ɸ aˊ ph aˊ
+m oˋ ɸ eˊ eˊ d iˊ
+m oˋ ɸ ɪˋ m eˋ d iˋ
+m oˋ ɸ eˊ ŋˊ ŋ w ɪˊ
+m oˋ ɸ eˊ ɲ iˊ
+m oˋ ɸ ɛˋ r ɔˋ
+m oˋ ɸ ɪˋ t iˋ
+m oˋ ɸ eˋ t ʊˋ l eˋ d iˋ
+m oˋ ɸ iˊ k ɛˊ l aˊ
+m oˋ ɸ iˊ n eˊ
+m oˋ ɸ iˊ ɲ aˊ n aˊ
+m oˋ ɸ iˊ r iˊ
+m oˋ ɸ oˊ d iˊ s iˊ
+m oˋ ɸ ʊˋ r aˊ
+m oˋ ɸ uˊ d iˊ
+m oˋ ɸ uˋ ɸ uˋ t s ɔˋ
+m oˋ ɸ uˊ l aˊ
+m oˋ ɸ uˊ l aˊ
+m oˋ ɸ uˊ l aˊ r iˊ
 m oˋ ɸ uˊ t aˊ
-m o x aˊ
-m o x aˊ d iˋ k aˊ
-m o x aˊ d iˋ k aˊ n ɪˊ
-m o x aˊ k ʊˊ l ʊˊ d iˋ
-m o x aˋ l aˋ
-m o x aˋ l aˋ l eˋ d iˋ w aˊ
-m o x aˊ l ɪˊ
-m o x aˊ m iˊ
-m o x aˊ n eˊ t s iˊ
-m o x aˊ ŋˋ
-m o x aˋ n ʊˊ
-m o x aˋ n ɔˋ
-m o x aˋ p aˋ
-m o x aˊ p iˊ
-m o x aˊ t ɛˊ l ɔˊ
-m o x aˊ t iˊ s iˊ
-m o x aˋ t ɬ aˊ
-m o x aˊ t s aˊ
-m o x aˊ t s ɛˊ
-m o x aˊ t s ɔˋ
-m o x aˊ uˊ
-m o x eˋ t ɬ ʊˋ
-m o x ʊˊ b aˊ d iˊ
-m o x ʊˋ b ɪˊ
-m o x ʊˊ d iˊ
-m o x oˋ d iˊ r iˊ
-m o x ʊˋ d iˊ r iˊ
-m o x oˊ d uˊ
-m o x ɔˊ x aˊ
-m o x oˊ x iˊ
-m o x oˊ x iˊ
-m o x ʊˋ k x ʊˊ
-m o x ʊˊ l aˊ ɸ aˊ d iˋ
-m o x ʊˊ l ɛˋ x w aˊ
-m o x ʊˊ l ʊˊ
-m o x ʊˊ l ʊˊ
-m o x ʊˊ l ʊˋ l ɪˊ
-m o x oˋ l oˋ d iˋ
-m o x ʊˊ l ʊˊ d iˊ
-m o x ʊˊ l w aˋ n ɪˊ
-m o x ʊˋ m aˊ
-m o x oˊ m ʊˊ t s iˊ
-m o x ɔˊ n ɔˋ n ɔˊ
-m o x ʊˋ p ɪˋ
-m o x ʊˊ p ʊˊ
-m o x oˊ p ʊˊ l ɔˊ
-m o x ʊˋ r ʊˋ x ʊˋ r ʊˋ
-m o x oˊ t eˊ
-m o x ʊˊ t ɬh aˊ
-m o x oˊ t oˊ m ʊˋ d uˊ aˋ n ɪˊ
-m o x ʊˊ t s w aˊ n aˊ
-m o x w aˊ x aˋ d iˊ
-m o x w aˊ n aˊ
-m o x w aˋ ŋˋ
-m o x w ɛˊ
-m o x w eˋ b iˋ
-m o x w ɪˋ l ɪˊ
-m o h eˊ iˊ t aˊ n ɪˋ
-m o h iˊ r iˊ
-m o h iˊ r iˊ s aˊ n iˋ
-m o h uˊ b uˊ
-m o h uˊ m aˊ x aˊ d iˋ
-m o h uˊ m aˊ x aˊ t s aˋ n aˋ
-m o h uˊ m aˊ n eˊ x iˋ
-m o h uˊ m iˊ
-m o iˊ k aˊ ɲ eˊ x iˋ
-m o iˊ k eˊ p iˊ
-m o iˊ k x aˊ nˊ t sh iˊ
-m o iˊ k x ʊˊ d iˊ s iˊ
-m o iˊ k x oˊ x oˊ m ʊˋ s iˋ
-m o iˊ k oˊ k oˊ b eˊ t s iˋ
-m o iˊ k uˊ eˊ d iˊ
-m o iˋ l aˊ
-m o iˋ m aˋ n aˋ
-m o iˊ p ɪˊ l aˊ ɸ aˋ t s iˋ
-m o iˊ p ʊˊ l aˊ iˊ
-m o iˋ s aˋ nˋ t ɬ ɛˊ
-m o iˊ t aˊ ʊˊ d iˋ
-m o iˊ th aˊ b uˊ eˋ t s iˋ
-m o iˊ th aˊ ʊˊ p iˊ
-m o iˊ th aˊ t iˊ
-m o iˊ th eˊ b ʊˊ d iˊ
-m o iˊ th uˊ s iˊ
-m o iˊ th uˊ t iˊ
-m o iˊ t iˊ m ʊˊ k aˋ ɲ ɪˋ
-m o iˊ t ɬ aˊ m ɔˊ
-m o iˊ t ɬh ɔˊ
-m o iˊ t s ɪˊ d iˋ k iˊ t s ɔˊ
-m o iˊ t s ɪˋ aˊ n aˋ p ɪˊ
-m o iˊ t sh eˊ p iˊ
-m o d ʒ aˊ
-m o d ʒ aˊ b ʊˋ s w aˊ
-m o d ʒ aˊ d iˊ
-m o d ʒ aˊ k iˊ
-m o d ʒ aˋ k ɔˋ
-m o d ʒ aˊ m ʊˋ n aˊ t ɪˊ
-m o d ʒ aˊ n aˋ l aˊ
-m o d ʒ ɛˊ l aˊ
-m o d ʒ ɪˊ s aˊ b ʊˋ d uˊ t uˊ
-m o d ʒ iˊ
-m o d ʒ ɔˊ
-m o d ʒ uˊ t aˊ
-m o k aˊ ɪˊ
-m o k aˋ eˋ d iˋ
-m o k aˊ b aˊ ʊˋ w aˊ n ɪˊ
-m o k aˋ iˋ d iˋ
-m o k aˋ l aˋ
-m o k aˊ l aˊ k aˊ
-m o k aˋ l ʊˋ b aˋ
-m o k aˊ ɔˊ
-m o k aˋ r aˋ x aˋ n aˋ
-m o k aˊ r ɔˊ
-m o k aˊ t aˊ k ɔˊ
-m o k aˋ t iˋ s iˋ
-m o k aˊ uˊ l ɪˊ ŋ w ɪˋ
-m o k aˋ j aˋ t s ɪˋ l aˋ
-m o k ɛˊ nˊ t ɛˊ l ɔˋ
-m o k ɛˊ nˊ t ɔˊ
-m o k ɪˋ r eˊ s ɪˋ t ɪˊ
-m o k ɪˊ t ɪˊ
-m o k x aˋ b iˋ s iˋ
-m o k x aˋ b iˋ s ɔˋ
-m o k x aˋ b ɔˋ
-m o k x aˊ d iˊ
-m o k x aˋ l aˋ x aˋ d iˋ
-m o k x aˊ l ɔˊ
-m o k x aˋ nˋ t s uˊ t s w aˋ n ɪˊ
-m o k x aˊ ph iˊ
-m o k x aˊ t ɬh eˊ x eˊ d iˋ
-m o k x aˋ t ɬh ɔˋ
-m o k x aˋ t sh aˋ
-m o k x ɛˊ k x ɛˊ th ɔˊ
-m o k x eˋ th iˋ
-m o k x eˋ th iˋ s aˋ d iˋ th ʊˊ t ʊˊ
-m o k x ʊˊ b ɛˊ
-m o k x oˊ k ʊˋ l ʊˊ s aˊ
-m o k x ɔˋ r ɔˋ
-m o k x oˊ s iˊ
-m o k x oˊ th iˊ
-m o k x w aˊ
-m o k x w aˋ r ɔˋ
-m o k x w aˋ r ɔˋ
-m o k x w aˋ s aˊ
-m o k x w ɛˊ b aˊ
-m o k x w eˊ eˊ t s iˊ
-m o k x w ɪˋ l ɪˋ ɔˋ
-m o kh eˊ m iˋ s iˊ
-m o kh ɛˊ n ɛˊ k ɛˊ
-m o k ɔˊ
-m o k ʊˊ aˊ
-m o k oˋ d uˋ ɛˋ
-m o k ʊˊ k ʊˊ
-m o k ɔˋ k ɔˋ t ɬ ɔˋ
-m o k ɔˋ l aˋ
-m o k ʊˋ l aˋ n ɪˋ
-m o k oˊ l oˊ b eˊ t s iˋ
-m o k ʊˋ m aˊ k ʊˋ m aˊ n ɪˊ
+m oˋ x aˊ
+m oˋ x aˊ d iˋ k aˊ
+m oˋ x aˊ d iˋ k aˊ n ɪˊ
+m oˋ x aˊ k ʊˊ l ʊˊ d iˋ
+m oˋ x aˋ l aˋ
+m oˋ x aˋ l aˋ l eˋ d iˋ w aˊ
+m oˋ x aˊ l ɪˊ
+m oˋ x aˊ m iˊ
+m oˋ x aˊ n eˊ t s iˊ
+m oˋ x aˊ ŋˋ
+m oˋ x aˋ n ʊˊ
+m oˋ x aˋ n ɔˋ
+m oˋ x aˋ p aˋ
+m oˋ x aˊ p iˊ
+m oˋ x aˊ t ɛˊ l ɔˊ
+m oˋ x aˊ t iˊ s iˊ
+m oˋ x aˋ t aˊ
+m oˋ x aˊ t s aˊ
+m oˋ x aˊ t s ɛˊ
+m oˋ x aˊ t s ɔˋ
+m oˋ x aˊ uˊ
+m oˋ x eˋ t ʊˋ
+m oˋ x ʊˊ b aˊ d iˊ
+m oˋ x ʊˋ b ɪˊ
+m oˋ x ʊˊ d iˊ
+m oˋ x oˋ d iˊ r iˊ
+m oˋ x ʊˋ d iˊ r iˊ
+m oˋ x oˊ d uˊ
+m oˋ x ɔˊ x aˊ
+m oˋ x oˊ x iˊ
+m oˋ x oˊ x iˊ
+m oˋ x ʊˋ k x ʊˊ
+m oˋ x ʊˊ l aˊ ɸ aˊ d iˋ
+m oˋ x ʊˊ l ɛˋ x w aˊ
+m oˋ x ʊˊ l ʊˊ
+m oˋ x ʊˊ l ʊˊ
+m oˋ x ʊˊ l ʊˋ l ɪˊ
+m oˋ x oˋ l oˋ d iˋ
+m oˋ x ʊˊ l ʊˊ d iˊ
+m oˋ x ʊˊ l w aˋ n ɪˊ
+m oˋ x ʊˋ m aˊ
+m oˋ x oˊ m ʊˊ t s iˊ
+m oˋ x ɔˊ n ɔˋ n ɔˊ
+m oˋ x ʊˋ p ɪˋ
+m oˋ x ʊˊ p ʊˊ
+m oˋ x oˊ p ʊˊ l ɔˊ
+m oˋ x ʊˋ r ʊˋ x ʊˋ r ʊˋ
+m oˋ x oˊ t eˊ
+m oˋ x ʊˊ th aˊ
+m oˋ x oˊ t oˊ m ʊˋ d uˊ aˋ n ɪˊ
+m oˋ x ʊˊ t s w aˊ n aˊ
+m oˋ x w aˊ x aˋ d iˊ
+m oˋ x w aˊ n aˊ
+m oˋ x w aˋ ŋˋ
+m oˋ x w ɛˊ
+m oˋ x w eˋ b iˋ
+m oˋ x w ɪˋ l ɪˊ
+m oˋ h eˊ iˊ t aˊ n ɪˋ
+m oˋ h iˊ r iˊ
+m oˋ h iˊ r iˊ s aˊ n iˋ
+m oˋ h uˊ b uˊ
+m oˋ h uˊ m aˊ x aˊ d iˋ
+m oˋ h uˊ m aˊ x aˊ t s aˋ n aˋ
+m oˋ h uˊ m aˊ n eˊ x iˋ
+m oˋ h uˊ m iˊ
+m oˋ iˊ k aˊ ɲ eˊ x iˋ
+m oˋ iˊ k eˊ p iˊ
+m oˋ iˊ k x aˊ nˊ t sh iˊ
+m oˋ iˊ k x ʊˊ d iˊ s iˊ
+m oˋ iˊ k x oˊ x oˊ m ʊˋ s iˋ
+m oˋ iˊ k oˊ k oˊ b eˊ t s iˋ
+m oˋ iˊ k uˊ eˊ d iˊ
+m oˋ iˋ l aˊ
+m oˋ iˋ m aˋ n aˋ
+m oˋ iˊ p ɪˊ l aˊ ɸ aˋ t s iˋ
+m oˋ iˊ p ʊˊ l aˊ iˊ
+m oˋ iˋ s aˋ nˋ t ɛˊ
+m oˋ iˊ t aˊ ʊˊ d iˋ
+m oˋ iˊ th aˊ b uˊ eˋ t s iˋ
+m oˋ iˊ th aˊ ʊˊ p iˊ
+m oˋ iˊ th aˊ t iˊ
+m oˋ iˊ th eˊ b ʊˊ d iˊ
+m oˋ iˊ th uˊ s iˊ
+m oˋ iˊ th uˊ t iˊ
+m oˋ iˊ t iˊ m ʊˊ k aˋ ɲ ɪˋ
+m oˋ iˊ t aˊ m ɔˊ
+m oˋ iˊ th ɔˊ
+m oˋ iˊ t s ɪˊ d iˋ k iˊ t s ɔˊ
+m oˋ iˊ t s ɪˋ aˊ n aˋ p ɪˊ
+m oˋ iˊ t sh eˊ p iˊ
+m oˋ d ʒ aˊ
+m oˋ d ʒ aˊ b ʊˋ s w aˊ
+m oˋ d ʒ aˊ d iˊ
+m oˋ d ʒ aˊ k iˊ
+m oˋ d ʒ aˋ k ɔˋ
+m oˋ d ʒ aˊ m ʊˋ n aˊ t ɪˊ
+m oˋ d ʒ aˊ n aˋ l aˊ
+m oˋ d ʒ ɛˊ l aˊ
+m oˋ d ʒ ɪˊ s aˊ b ʊˋ d uˊ t uˊ
+m oˋ d ʒ iˊ
+m oˋ d ʒ ɔˊ
+m oˋ d ʒ uˊ t aˊ
+m oˋ k aˊ ɪˊ
+m oˋ k aˋ eˋ d iˋ
+m oˋ k aˊ b aˊ ʊˋ w aˊ n ɪˊ
+m oˋ k aˋ iˋ d iˋ
+m oˋ k aˋ l aˋ
+m oˋ k aˊ l aˊ k aˊ
+m oˋ k aˋ l ʊˋ b aˋ
+m oˋ k aˊ ɔˊ
+m oˋ k aˋ r aˋ x aˋ n aˋ
+m oˋ k aˊ r ɔˊ
+m oˋ k aˊ t aˊ k ɔˊ
+m oˋ k aˋ t iˋ s iˋ
+m oˋ k aˊ uˊ l ɪˊ ŋ w ɪˋ
+m oˋ k aˋ j aˋ t s ɪˋ l aˋ
+m oˋ k ɛˊ nˊ t ɛˊ l ɔˋ
+m oˋ k ɛˊ nˊ t ɔˊ
+m oˋ k ɪˋ r eˊ s ɪˋ t ɪˊ
+m oˋ k ɪˊ t ɪˊ
+m oˋ k x aˋ b iˋ s iˋ
+m oˋ k x aˋ b iˋ s ɔˋ
+m oˋ k x aˋ b ɔˋ
+m oˋ k x aˊ d iˊ
+m oˋ k x aˋ l aˋ x aˋ d iˋ
+m oˋ k x aˊ l ɔˊ
+m oˋ k x aˋ nˋ t s uˊ t s w aˋ n ɪˊ
+m oˋ k x aˊ ph iˊ
+m oˋ k x aˊ th eˊ x eˊ d iˋ
+m oˋ k x aˋ th ɔˋ
+m oˋ k x aˋ t sh aˋ
+m oˋ k x ɛˊ k x ɛˊ th ɔˊ
+m oˋ k x eˋ th iˋ
+m oˋ k x eˋ th iˋ s aˋ d iˋ th ʊˊ t ʊˊ
+m oˋ k x ʊˊ b ɛˊ
+m oˋ k x oˊ k ʊˋ l ʊˊ s aˊ
+m oˋ k x ɔˋ r ɔˋ
+m oˋ k x oˊ s iˊ
+m oˋ k x oˊ th iˊ
+m oˋ k x w aˊ
+m oˋ k x w aˋ r ɔˋ
+m oˋ k x w aˋ r ɔˋ
+m oˋ k x w aˋ s aˊ
+m oˋ k x w ɛˊ b aˊ
+m oˋ k x w eˊ eˊ t s iˊ
+m oˋ k x w ɪˋ l ɪˋ ɔˋ
+m oˋ kh eˊ m iˋ s iˊ
+m oˋ kh ɛˊ n ɛˊ k ɛˊ
+m oˋ k ɔˊ
+m oˋ k ʊˊ aˊ
+m oˋ k oˋ d uˋ ɛˋ
+m oˋ k ʊˊ k ʊˊ
+m oˋ k ɔˋ k ɔˋ t ɔˋ
+m oˋ k ɔˋ l aˋ
+m oˋ k ʊˋ l aˋ n ɪˋ
+m oˋ k oˊ l oˊ b eˊ t s iˋ
+m oˋ k ʊˋ m aˊ k ʊˋ m aˊ n ɪˊ
 m ʊˊ k ʊˊ n aˊ
-m o k ʊˊ ŋˊ
-m o k ʊˋ p iˋ
-m o k ɔˊ r ɔˊ
-m o k w aˊ d iˊ
-m o k w aˊ l aˊ d iˋ k x aˊ ŋˊ
-m o k w aˊ l eˊ d iˊ
-m o k w aˊ l ɔˊ
-m o k w aˋ t ɬ aˋ
-m o k w ɛˊ p aˊ
-m o l aˋ
-m o l aˋ eˋ t s aˊ
-m o l aˋ l aˋ
-m o l aˊ l eˊ d iˋ w aˊ
-m o l aˋ m uˊ
-m o l aˋ ɔˋ
-m o l aˋ ʊˋ d iˋ
-m o l aˋ p ɔˋ
-m o l aˋ t eˋ d iˋ
-m o l aˊ t ɬh ɛˊ x ɛˋ l w aˊ
-m o l aˊ t ɬh eˊ x iˊ
-m o l aˋ t ʊˊ
-m o l aˋ t ʊˋ ɸ aˋ d iˋ w aˊ
-m o l aˋ t s w aˋ n aˋ
-m o l aˋ w aˋ n aˋ
-m o l ɪˋ b aˋ d iˋ
-m o l ɪˊ b eˊ l eˊ d iˋ
-m o l ɪˋ k aˋ n ɪˋ
-m o l ɪˊ k w aˊ
-m o l ɪˋ l ɔˋ
-m o l ɪˊ l w aˋ n ɪˊ
-m o l ɛˊ m aˊ
-m o l ɪˋ m iˋ
-m o l ɪˋ m iˋ
-m o l ɪˋ m ɔˋ
-m o l eˊ oˊ ɸ iˊ
-m o l ɪˋ p iˋ
-m o l ɪˋ p ɔˋ
-m o l ɪˋ t iˋ
-m o l eˋ t ɬ aˋ ɲ iˋ
-m o l ɪˋ t ɬ ɔˋ
-m o l ɪˋ t s iˋ
-m o l ɪˋ t s ɔˋ
-m o l oˊ d iˊ
-m o l ʊˋ x iˋ
-m o l ʊˋ x ɔˋ
-m o l oˋ iˋ
-m o l ʊˊ m aˊ t s ɛˋ b ɛˊ
-m o l oˋ m ʊˋ
-m o l ʊˊ m ɔˊ
-m o l ɔˋ r aˋ
-m o l oˊ r iˊ
-m o l ʊˋ t ɬh aˋ ɲ iˋ
-m o l ɔˋ t s aˋ n aˋ
-m o l w ɛˋ l aˊ
-m o l w eˊ t s ɪˊ
+m oˋ k ʊˊ ŋˊ
+m oˋ k ʊˋ p iˋ
+m oˋ k ɔˊ r ɔˊ
+m oˋ k w aˊ d iˊ
+m oˋ k w aˊ l aˊ d iˋ k x aˊ ŋˊ
+m oˋ k w aˊ l eˊ d iˊ
+m oˋ k w aˊ l ɔˊ
+m oˋ k w aˋ t aˋ
+m oˋ k w ɛˊ p aˊ
+m oˋ l aˋ
+m oˋ l aˋ eˋ t s aˊ
+m oˋ l aˋ l aˋ
+m oˋ l aˊ l eˊ d iˋ w aˊ
+m oˋ l aˋ m uˊ
+m oˋ l aˋ ɔˋ
+m oˋ l aˋ ʊˋ d iˋ
+m oˋ l aˋ p ɔˋ
+m oˋ l aˋ t eˋ d iˋ
+m oˋ l aˊ th ɛˊ x ɛˋ l w aˊ
+m oˋ l aˊ th eˊ x iˊ
+m oˋ l aˋ t ʊˊ
+m oˋ l aˋ t ʊˋ ɸ aˋ d iˋ w aˊ
+m oˋ l aˋ t s w aˋ n aˋ
+m oˋ l aˋ w aˋ n aˋ
+m oˋ l ɪˋ b aˋ d iˋ
+m oˋ l ɪˊ b eˊ l eˊ d iˋ
+m oˋ l ɪˋ k aˋ n ɪˋ
+m oˋ l ɪˊ k w aˊ
+m oˋ l ɪˋ l ɔˋ
+m oˋ l ɪˊ l w aˋ n ɪˊ
+m oˋ l ɛˊ m aˊ
+m oˋ l ɪˋ m iˋ
+m oˋ l ɪˋ m iˋ
+m oˋ l ɪˋ m ɔˋ
+m oˋ l eˊ oˊ ɸ iˊ
+m oˋ l ɪˋ p iˋ
+m oˋ l ɪˋ p ɔˋ
+m oˋ l ɪˋ t iˋ
+m oˋ l eˋ t aˋ ɲ iˋ
+m oˋ l ɪˋ t ɔˋ
+m oˋ l ɪˋ t s iˋ
+m oˋ l ɪˋ t s ɔˋ
+m oˋ l oˊ d iˊ
+m oˋ l ʊˋ x iˋ
+m oˋ l ʊˋ x ɔˋ
+m oˋ l oˋ iˋ
+m oˋ l ʊˊ m aˊ t s ɛˋ b ɛˊ
+m oˋ l oˋ m ʊˋ
+m oˋ l ʊˊ m ɔˊ
+m oˋ l ɔˋ r aˋ
+m oˋ l oˊ r iˊ
+m oˋ l ʊˋ th aˋ ɲ iˋ
+m oˋ l ɔˋ t s aˋ n aˋ
+m oˋ l w ɛˋ l aˊ
+m oˋ l w eˊ t s ɪˊ
 m ʊˊ m aˊ
 m ʊˊ m aˊ x aˊ ɲ aˋ
 m ʊˊ m aˊ x aˊ ɲ ɔˋ
-m o m ɪˋ l aˋ
-m o m ɪˋ n ɔˋ
-m o m ɪˋ t s ɔˋ
-m o m ɔˊ
+m oˋ m ɪˋ l aˋ
+m oˋ m ɪˋ n ɔˋ
+m oˋ m ɪˋ t s ɔˋ
+m oˋ m ɔˊ
 m ʊˊ m ʊˊ l ʊˊ l aˋ
-m o m ʊˊ m aˊ x aˊ ɲ iˋ
+m oˋ m ʊˊ m aˊ x aˊ ɲ iˋ
 m ʊˊ n aˊ
-m o n aˋ x eˋ ŋˋ
-m o n aˋ m ɔˋ
-m o n aˋ ŋˊ
-m o n aˊ t ɪˊ
-m o ŋˊ
-m o ŋ aˊ t ɔˊ
-m o ŋˊ x aˊ ɪˊ
-m o ŋ oˊ ŋ oˊ r eˊ x iˋ
-m o ŋ w ɪˋ
-m o ŋˋ k aˋ n ɪˋ
-m o ŋˋ k ɔˊ
-m o nˊ n aˊ
-m o nˊ n aˊ
-m o nˊ n aˊ m ʊˋ x ʊˊ l ʊˊ
-m o nˊ n iˊ
+m oˋ n aˋ x eˋ ŋˋ
+m oˋ n aˋ m ɔˋ
+m oˋ n aˋ ŋˊ
+m oˋ n aˊ t ɪˊ
+m oˋ ŋˊ
+m oˋ ŋ aˊ t ɔˊ
+m oˋ ŋˊ x aˊ ɪˊ
+m oˋ ŋ oˊ ŋ oˊ r eˊ x iˋ
+m oˋ ŋ w ɪˋ
+m oˋ ŋˋ k aˋ n ɪˋ
+m oˋ ŋˋ k ɔˊ
+m oˋ nˊ n aˊ
+m oˋ nˊ n aˊ
+m oˋ nˊ n aˊ m ʊˋ x ʊˊ l ʊˊ
+m oˋ nˊ n iˊ
 m oˊ n ʊˊ
-m o n ɔˊ
-m o n ɔˋ
-m o n ɔˋ
-m o n ɔˊ k ɛˊ l aˊ
-m o n ʊˊ ŋ w aˋ x aˊ
-m o n ɔˋ n ɔˋ
-m o n ɔˋ t ɔˋ
-m o nˋ t s aˋ n aˋ
-m o nˋ t sh ʊˋ
-m o n w aˋ n aˋ
-m o ɲ aˊ d iˊ
-m o ɲ aˊ d iˋ w aˊ
-m o ɲ aˊ l w aˊ
-m o ɲ aˋ t s iˋ
+m oˋ n ɔˊ
+m oˋ n ɔˋ
+m oˋ n ɔˋ
+m oˋ n ɔˊ k ɛˊ l aˊ
+m oˋ n ʊˊ ŋ w aˋ x aˊ
+m oˋ n ɔˋ n ɔˋ
+m oˋ n ɔˋ t ɔˋ
+m oˋ nˋ t s aˋ n aˋ
+m oˋ nˋ t sh ʊˋ
+m oˋ n w aˋ n aˋ
+m oˋ ɲ aˊ d iˊ
+m oˋ ɲ aˊ d iˋ w aˊ
+m oˋ ɲ aˊ l w aˊ
+m oˋ ɲ aˋ t s iˋ
 m ʊˊ ɲ ɛˊ l aˊ
-m o ɲ ɪˊ ɲ ɔˊ
-m o ɲ ɔˋ
-m o ɔˋ b aˋ m eˋ d iˋ
-m o ʊˋ k aˊ m eˊ d iˊ
-m o oˋ k iˋ
-m o oˋ k oˋ d iˋ
-m o ɔˋ m ɔˊ
-m o ʊˋ p aˋ
-m o oˊ p eˊ d iˊ
-m o p aˊ x aˊ m iˊ
-m o p aˋ k ɔˋ
-m o p aˋ l aˋ m ɛˊ nˋ t ɛˊ
-m o p aˊ l aˊ m iˊ
-m o p aˊ p aˊ
-m o p aˊ t iˊ
-m o p eˋ d iˊ
-m o p eˊ nˊ t iˊ
-m o p eˋ r eˊ s iˋ t aˊ
-m o ph aˊ n ɪˊ
-m o ph aˊ t ɔˊ
-m o ph uˋ th ɛˋ l ɔˋ
-m o ph uˋ th ɔˋ
-m o ph uˋ th ʊˋ l ʊˋ d iˋ
-m o p iˊ t ɬ w ɛˊ
-m o p uˋ t s ɔˋ
-m o r aˋ b aˋ r aˋ b aˋ
-m o r aˊ ɸ ɪˊ
-m o r aˊ ɸ ɔˊ
-m o r aˊ x ʊˊ
-m o r aˊ l aˊ d iˊ
-m o r aˊ l ɔˊ
-m o r aˊ n aˊ ŋˊ
-m o r aˋ n ʊˋ d iˋ
-m o r aˋ p ɛˋ l ɔˋ
-m o r aˊ t iˊ
-m o r aˊ t iˋ w aˊ
-m o r ɪˊ
-m o r ɪˋ b aˋ
-m o r eˊ eˊ t s iˊ
-m o r eˊ k iˊ
-m o r eˊ k iˊ s iˊ
-m o r eˊ m iˊ
-m o r ɛˋ n aˋ
-m o r eˊ r iˊ
-m o r ɛˊ r ɔˊ
-m o r eˊ t ɬ w aˊ
-m o r ɛˋ t ɔˋ
-m o r eˊ t ʊˋ l ʊˊ x aˊ
-m o r iˊ r iˊ
-m o r iˊ t iˊ
-m o r iˋ t sh aˋ n aˋ
-m o r ɔˋ
-m o r ʊˊ b aˊ
-m o r ɔˋ b aˋ d iˋ
-m o r oˋ b iˋ
-m o r oˋ d iˋ
-m o r ʊˊ x aˊ n ɔˊ
-m o r ɔˊ x ɔˊ
-m o r ɔˊ k aˊ
-m o r ʊˊ k iˊ
-m o r ʊˊ k ɔˊ
-m o r ʊˊ k ʊˊ
-m o r oˋ k oˋ t s oˋ
-m o r ʊˋ l w aˊ n aˊ
-m o r ɔˋ m aˊ
-m o r ʊˊ ŋ w aˊ
-m o r ʊˊ p aˊ
-m o r ɔˊ r ɔˊ
-m o r ʊˋ t ɔˋ
-m o r uˊ b iˋ s iˊ
-m o r uˊ iˊ
-m o r uˊ l aˊ
-m o r uˊ l aˊ x aˊ ɲ iˋ
-m o r uˊ l eˊ
-m o r uˊ m ʊˊ l aˊ n iˋ
-m o r uˊ t aˊ b aˋ n aˊ
-m o r uˊ t eˊ x iˊ
-m o r uˋ th w aˊ n ɪˊ
-m o r uˊ t iˊ
-m o r uˊ t iˊ nˊ t sh iˋ
-m o r uˊ t w aˊ
-m o r uˊ t w aˋ n aˊ
-m o r uˊ t w aˊ t iˊ r ɔˋ
-m o r w aˊ
-m o r w aˊ d iˊ
-m o r w aˊ d iˊ
-m o r w aˊ d iˊ aˋ k x oˊ s iˊ
-m o r w aˊ k x oˊ s iˊ
-m o r w aˊ l eˊ d iˊ
-m o r w aˊ l ɛˋ l aˊ
-m o r w aˊ l ɔˊ
-m o s aˋ b aˊ t aˊ
-m o s aˊ d iˊ
-m o s aˊ d iˊ m ʊˋ x ʊˊ l ʊˊ
-m o s aˊ ɪˊ n iˊ
-m o s aˊ ɪˊ n ɔˊ
-m o s aˋ iˊ t s ɪˋ ŋˊ
-m o s aˋ k ɔˋ
-m o s aˊ l aˋ x aˊ ɪˊ
-m o s aˊ l aˋ oˊ s iˊ
-m o s aˊ m ɔˊ
-m o s aˊ r w aˊ
-m o s eˊ b eˊ d iˋ w aˊ
-m o s eˊ b iˊ
-m o s ɪˊ x ɔˊ
-m o s ɪˊ d ʒ aˊ
-m o s eˋ k iˋ s iˋ
-m o s eˋ k iˋ s iˋ w aˊ
-m o s ɪˊ l aˊ
-m o s ɛˋ l ɛˊ
-m o s ɛˋ m ɛˋ
-m o s ɪˊ ɲ iˊ
-m o s ɪˊ p ɪˊ l ɪˊ
-m o s ɪˊ s ɪˊ
-m o s ɛˋ t ɬh ɔˋ
-m o s ɪˊ t s aˊ n aˋ
-m o s ɪˊ t s aˊ ɲ aˋ n aˋ
-m o s iˊ
-m o s iˊ aˊ m iˊ
-m o s iˊ aˊ m iˊ s iˋ
-m o s iˊ aˊ m ʊˊ l ʊˋ d iˋ
-m o s iˊ aˊ n iˊ
-m o s iˋ ɸ aˋ
-m o s iˊ iˊ
-m o s iˋ m aˊ
-m o s iˊ m aˋ n ɪˊ
-m o s iˊ m eˊ x iˊ
-m o s iˊ m ʊˊ l ʊˊ d iˋ
-m o s iˊ r eˊ l eˊ d iˋ w aˊ
-m o s iˊ r eˊ l eˊ t s iˋ
-m o s ɔˊ
-m o s ɔˊ k ɛˊ l aˊ t s eˋ b eˊ ŋˋ
-m o s ɔˊ k ɛˊ l aˊ t s eˋ b eˊ ŋˋ
-m o s ɔˊ k ɔˊ
-m o s ʊˊ l aˊ
-m o s ʊˊ th ʊˊ
-m o s ʊˋ t ɬ iˋ
-m o s uˊ
-m o s uˋ x aˋ
-m o s uˋ x iˋ
-m o s uˋ m ɔˋ
-m o s uˋ p aˋ d iˋ ŋ ɔˊ ŋ ɔˊ r ɛˊ x ɔˋ
-m o s uˋ p aˋ t s ɪˋ l aˋ
-m o s uˋ p iˋ
-m o s uˋ p ʊˋ l ʊˋ x ɔˋ
-m o s w aˊ x aˊ d iˋ
-m o s w iˊ
-m o ʃ aˊ
-m o ʃ aˊ p iˊ
-m o ʃ aˊ t ɛˊ
-m o ʃ aˋ w aˋ
-m o t aˊ b ʊˊ x iˊ
-m o t aˊ b ʊˊ x ɔˊ
-m o t aˊ k iˊ
-m o t eˋ k eˋ n iˊ k iˊ
-m o th aˊ ɪˊ p iˊ
-m o th aˊ l aˊ d iˊ
-m o th aˋ l ɪˊ
-m o th aˊ l ɔˊ
-m o th aˊ m aˊ
-m o th aˊ p iˊ
-m o th aˊ t aˊ
-m o th eˊ iˊ
-m o th ɛˊ ɔˊ
-m o th ɪˋ p aˋ
-m o th iˋ b iˋ
-m o th ʊˋ
-m o th uˊ d iˊ
-m o th uˋ x iˋ
-m o th uˊ l aˊ s ɪˊ t ɬh aˋ k ʊˊ
-m o th uˊ l aˊ t sh uˊ p aˋ n aˋ k ɔˋ
-m o th uˊ s iˊ
-m o t iˊ m aˊ m ʊˊ l ɪˋ l ɔˋ
-m o t ɬ aˊ aˋ x aˊ n aˊ
-m o t ɬ aˋ ɪˊ
-m o t ɬ aˋ k aˊ s ɪˊ
-m o t ɬ aˋ m eˊ d iˊ
-m o t ɬ aˋ ɲ iˋ
-m o t ɬ aˊ p aˊ
-m o t ɬ aˊ t s iˊ
-m o t ɬ ɪˊ l ɪˊ
-m o t ɬh aˊ
-m o t ɬh aˊ b aˊ
-m o t ɬh aˋ b aˋ n iˋ
-m o t ɬh aˋ b eˋ l eˋ t s iˋ
-m o t ɬh aˊ eˊ d iˊ
-m o t ɬh aˋ k ʊˋ l aˋ n ɪˋ
-m o t ɬh aˋ l aˊ
-m o t ɬh aˊ eˊ l eˊ t s aˋ ɲ iˋ
-m o t ɬh aˊ l ɪˊ
-m o t ɬh aˊ l ɪˊ ɸ iˊ
-m o t ɬh aˊ m iˊ
-m o t ɬh aˊ m ɔˊ
-m o t ɬh aˋ ŋˊ k aˊ
-m o t ɬh aˋ p ɪˊ
-m o t ɬh aˋ p ɔˋ
-m o t ɬh aˊ t ɬh ʊˊ b iˊ
-m o t ɬh aˊ t ɬh ʊˋ d ʒ w aˊ
-m o t ɬh aˊ t s aˊ
-m o t ɬh aˋ t s w iˋ
-m o t ɬh ɔˋ
-m o t ɬh oˋ d iˋ
-m o t ɬh oˋ d iˋ
-m o t ɬh oˊ d iˊ
-m o t ɬh ʊˋ ɸ ʊˋ
-m o t ɬh ɔˋ k aˋ k iˊ t s ɔˊ
-m o t ɬh ɔˋ k aˋ t iˋ r ɔˋ
-m o t ɬh oˋ k iˋ
-m o t ɬh oˊ k oˊ m eˊ d iˋ
-m o t ɬh ʊˊ l aˊ x aˊ d iˋ
-m o t ɬh oˋ l eˋ x iˋ
-m o t ɬh ɔˋ l ɔˋ
-m o t ɬh ɔˋ m aˋ m iˋ s eˋ t s iˋ
-m o t ɬh ɔˋ t ɬh ɔˋ
-m o t ɬh oˋ t s iˋ
-m o t ɬh w aˊ
-m o t ɬ ʊˊ x ʊˊ l ʊˊ
-m o t ɬ oˋ p iˊ
-m o t ɬ ʊˊ t ɬ ʊˊ
-m o t ɬ ɔˋ t ɬ ɔˋ
-m o t ɬ w aˊ eˊ d iˊ
-m o t ɔˋ x ɔˊ
-m o t oˊ l oˊ k iˊ
-m o t ɔˋ m ɔˊ
-m o t s aˊ d iˊ
-m o t s aˊ l w aˊ p ɪˊ l ɪˋ
-m o t s aˋ m aˋ iˋ
-m o t s aˋ m aˋ ɔˋ
-m o t s aˋ n aˋ
-m o t s aˊ j aˊ d iˋ t sh w aˊ nˊ t sh ɔˊ
-m o t s ɪˋ
-m o t s ɪˋ m ʊˋ x ʊˊ l ʊˊ
-m o t s eˊ ɲ iˊ
-m o t s ɪˊ r ɪˊ x aˊ ɲ iˋ
-m o t s ɪˋ t aˋ
-m o t s ɪˊ t ɔˊ
-m o t s eˊ t s ɪˊ
-m o t s ɪˋ th ʊˊ k ʊˊ
-m o t sh aˊ b iˊ
-m o t sh aˊ m ɪˊ k iˊ
-m o t sh aˊ m ɪˊ k ɔˊ
-m o t sh ɪˋ
-m o t sh ɪˊ d iˊ
-m o t sh ɪˊ d iˊ s iˊ
-m o t sh ɛˋ x aˋ n oˋ ŋˋ
-m o t sh ɪˊ x aˋ r ɪˊ
-m o t sh ɪˊ x eˊ t s iˊ
-m o t sh eˋ x iˋ
-m o t sh ɛˋ l ɔˋ
-m o t sh ɪˋ t ɛˋ l ɔˋ
-m o t sh ɔˊ ph ɔˊ
-m o t sh w aˊ r iˊ
-m o t s iˊ eˊ t s iˊ
-m o t s iˋ t ɬ aˊ n aˊ
-m o t s ɔˋ
-m o t s ʊˊ ɸ eˊ
-m o t s ʊˋ k ʊˊ
-m o t s ʊˊ m iˊ
-m o t s ʊˋ t s ʊˊ
-m o t s ʊˋ t s w aˊ n aˊ
-m o t s uˊ
-m o t s uˋ ʊˋ l ʊˋ d iˋ
-m o t s w aˋ k w aˊ
-m o t s w aˊ iˊ s ɔˊ
-m o t s w aˊ n aˊ
-m o t s w eˋ d iˋ
-m o t s w iˊ
-m o t ʃh iˊ n ɪˊ
-m o t ʃh oˊ m ʊˊ l ʊˊ d iˋ
-m o uˊ t ɬ w aˊ l ɔˊ
-m o uˊ w aˋ n ɪˊ
-m o w aˊ
-m o w aˊ n aˊ
+m oˋ ɲ ɪˊ ɲ ɔˊ
+m oˋ ɲ ɔˋ
+m oˋ ɔˋ b aˋ m eˋ d iˋ
+m oˋ ʊˋ k aˊ m eˊ d iˊ
+m oˋ oˋ k iˋ
+m oˋ oˋ k oˋ d iˋ
+m oˋ ɔˋ m ɔˊ
+m oˋ ʊˋ p aˋ
+m oˋ oˊ p eˊ d iˊ
+m oˋ p aˊ x aˊ m iˊ
+m oˋ p aˋ k ɔˋ
+m oˋ p aˋ l aˋ m ɛˊ nˋ t ɛˊ
+m oˋ p aˊ l aˊ m iˊ
+m oˋ p aˊ p aˊ
+m oˋ p aˊ t iˊ
+m oˋ p eˋ d iˊ
+m oˋ p eˊ nˊ t iˊ
+m oˋ p eˋ r eˊ s iˋ t aˊ
+m oˋ ph aˊ n ɪˊ
+m oˋ ph aˊ t ɔˊ
+m oˋ ph uˋ th ɛˋ l ɔˋ
+m oˋ ph uˋ th ɔˋ
+m oˋ ph uˋ th ʊˋ l ʊˋ d iˋ
+m oˋ p iˊ t w ɛˊ
+m oˋ p uˋ t s ɔˋ
+m oˋ r aˋ b aˋ r aˋ b aˋ
+m oˋ r aˊ ɸ ɪˊ
+m oˋ r aˊ ɸ ɔˊ
+m oˋ r aˊ x ʊˊ
+m oˋ r aˊ l aˊ d iˊ
+m oˋ r aˊ l ɔˊ
+m oˋ r aˊ n aˊ ŋˊ
+m oˋ r aˋ n ʊˋ d iˋ
+m oˋ r aˋ p ɛˋ l ɔˋ
+m oˋ r aˊ t iˊ
+m oˋ r aˊ t iˋ w aˊ
+m oˋ r ɪˊ
+m oˋ r ɪˋ b aˋ
+m oˋ r eˊ eˊ t s iˊ
+m oˋ r eˊ k iˊ
+m oˋ r eˊ k iˊ s iˊ
+m oˋ r eˊ m iˊ
+m oˋ r ɛˋ n aˋ
+m oˋ r eˊ r iˊ
+m oˋ r ɛˊ r ɔˊ
+m oˋ r eˊ t w aˊ
+m oˋ r ɛˋ t ɔˋ
+m oˋ r eˊ t ʊˋ l ʊˊ x aˊ
+m oˋ r iˊ r iˊ
+m oˋ r iˊ t iˊ
+m oˋ r iˋ t sh aˋ n aˋ
+m oˋ r ɔˋ
+m oˋ r ʊˊ b aˊ
+m oˋ r ɔˋ b aˋ d iˋ
+m oˋ r oˋ b iˋ
+m oˋ r oˋ d iˋ
+m oˋ r ʊˊ x aˊ n ɔˊ
+m oˋ r ɔˊ x ɔˊ
+m oˋ r ɔˊ k aˊ
+m oˋ r ʊˊ k iˊ
+m oˋ r ʊˊ k ɔˊ
+m oˋ r ʊˊ k ʊˊ
+m oˋ r oˋ k oˋ t s oˋ
+m oˋ r ʊˋ l w aˊ n aˊ
+m oˋ r ɔˋ m aˊ
+m oˋ r ʊˊ ŋ w aˊ
+m oˋ r ʊˊ p aˊ
+m oˋ r ɔˊ r ɔˊ
+m oˋ r ʊˋ t ɔˋ
+m oˋ r uˊ b iˋ s iˊ
+m oˋ r uˊ iˊ
+m oˋ r uˊ l aˊ
+m oˋ r uˊ l aˊ x aˊ ɲ iˋ
+m oˋ r uˊ l eˊ
+m oˋ r uˊ m ʊˊ l aˊ n iˋ
+m oˋ r uˊ t aˊ b aˋ n aˊ
+m oˋ r uˊ t eˊ x iˊ
+m oˋ r uˋ th w aˊ n ɪˊ
+m oˋ r uˊ t iˊ
+m oˋ r uˊ t iˊ nˊ t sh iˋ
+m oˋ r uˊ t w aˊ
+m oˋ r uˊ t w aˋ n aˊ
+m oˋ r uˊ t w aˊ t iˊ r ɔˋ
+m oˋ r w aˊ
+m oˋ r w aˊ d iˊ
+m oˋ r w aˊ d iˊ
+m oˋ r w aˊ d iˊ aˋ k x oˊ s iˊ
+m oˋ r w aˊ k x oˊ s iˊ
+m oˋ r w aˊ l eˊ d iˊ
+m oˋ r w aˊ l ɛˋ l aˊ
+m oˋ r w aˊ l ɔˊ
+m oˋ s aˋ b aˊ t aˊ
+m oˋ s aˊ d iˊ
+m oˋ s aˊ d iˊ m ʊˋ x ʊˊ l ʊˊ
+m oˋ s aˊ ɪˊ n iˊ
+m oˋ s aˊ ɪˊ n ɔˊ
+m oˋ s aˋ iˊ t s ɪˋ ŋˊ
+m oˋ s aˋ k ɔˋ
+m oˋ s aˊ l aˋ x aˊ ɪˊ
+m oˋ s aˊ l aˋ oˊ s iˊ
+m oˋ s aˊ m ɔˊ
+m oˋ s aˊ r w aˊ
+m oˋ s eˊ b eˊ d iˋ w aˊ
+m oˋ s eˊ b iˊ
+m oˋ s ɪˊ x ɔˊ
+m oˋ s ɪˊ d ʒ aˊ
+m oˋ s eˋ k iˋ s iˋ
+m oˋ s eˋ k iˋ s iˋ w aˊ
+m oˋ s ɪˊ l aˊ
+m oˋ s ɛˋ l ɛˊ
+m oˋ s ɛˋ m ɛˋ
+m oˋ s ɪˊ ɲ iˊ
+m oˋ s ɪˊ p ɪˊ l ɪˊ
+m oˋ s ɪˊ s ɪˊ
+m oˋ s ɛˋ th ɔˋ
+m oˋ s ɪˊ t s aˊ n aˋ
+m oˋ s ɪˊ t s aˊ ɲ aˋ n aˋ
+m oˋ s iˊ
+m oˋ s iˊ aˊ m iˊ
+m oˋ s iˊ aˊ m iˊ s iˋ
+m oˋ s iˊ aˊ m ʊˊ l ʊˋ d iˋ
+m oˋ s iˊ aˊ n iˊ
+m oˋ s iˋ ɸ aˋ
+m oˋ s iˊ iˊ
+m oˋ s iˋ m aˊ
+m oˋ s iˊ m aˋ n ɪˊ
+m oˋ s iˊ m eˊ x iˊ
+m oˋ s iˊ m ʊˊ l ʊˊ d iˋ
+m oˋ s iˊ r eˊ l eˊ d iˋ w aˊ
+m oˋ s iˊ r eˊ l eˊ t s iˋ
+m oˋ s ɔˊ
+m oˋ s ɔˊ k ɛˊ l aˊ t s eˋ b eˊ ŋˋ
+m oˋ s ɔˊ k ɛˊ l aˊ t s eˋ b eˊ ŋˋ
+m oˋ s ɔˊ k ɔˊ
+m oˋ s ʊˊ l aˊ
+m oˋ s ʊˊ th ʊˊ
+m oˋ s ʊˋ t iˋ
+m oˋ s uˊ
+m oˋ s uˋ x aˋ
+m oˋ s uˋ x iˋ
+m oˋ s uˋ m ɔˋ
+m oˋ s uˋ p aˋ d iˋ ŋ ɔˊ ŋ ɔˊ r ɛˊ x ɔˋ
+m oˋ s uˋ p aˋ t s ɪˋ l aˋ
+m oˋ s uˋ p iˋ
+m oˋ s uˋ p ʊˋ l ʊˋ x ɔˋ
+m oˋ s w aˊ x aˊ d iˋ
+m oˋ s w iˊ
+m oˋ ʃ aˊ
+m oˋ ʃ aˊ p iˊ
+m oˋ ʃ aˊ t ɛˊ
+m oˋ ʃ aˋ w aˋ
+m oˋ t aˊ b ʊˊ x iˊ
+m oˋ t aˊ b ʊˊ x ɔˊ
+m oˋ t aˊ k iˊ
+m oˋ t eˋ k eˋ n iˊ k iˊ
+m oˋ th aˊ ɪˊ p iˊ
+m oˋ th aˊ l aˊ d iˊ
+m oˋ th aˋ l ɪˊ
+m oˋ th aˊ l ɔˊ
+m oˋ th aˊ m aˊ
+m oˋ th aˊ p iˊ
+m oˋ th aˊ t aˊ
+m oˋ th eˊ iˊ
+m oˋ th ɛˊ ɔˊ
+m oˋ th ɪˋ p aˋ
+m oˋ th iˋ b iˋ
+m oˋ th ʊˋ
+m oˋ th uˊ d iˊ
+m oˋ th uˋ x iˋ
+m oˋ th uˊ l aˊ s ɪˊ th aˋ k ʊˊ
+m oˋ th uˊ l aˊ t sh uˊ p aˋ n aˋ k ɔˋ
+m oˋ th uˊ s iˊ
+m oˋ t iˊ m aˊ m ʊˊ l ɪˋ l ɔˋ
+m oˋ t aˊ aˋ x aˊ n aˊ
+m oˋ t aˋ ɪˊ
+m oˋ t aˋ k aˊ s ɪˊ
+m oˋ t aˋ m eˊ d iˊ
+m oˋ t aˋ ɲ iˋ
+m oˋ t aˊ p aˊ
+m oˋ t aˊ t s iˊ
+m oˋ t ɪˊ l ɪˊ
+m oˋ th aˊ
+m oˋ th aˊ b aˊ
+m oˋ th aˋ b aˋ n iˋ
+m oˋ th aˋ b eˋ l eˋ t s iˋ
+m oˋ th aˊ eˊ d iˊ
+m oˋ th aˋ k ʊˋ l aˋ n ɪˋ
+m oˋ th aˋ l aˊ
+m oˋ th aˊ eˊ l eˊ t s aˋ ɲ iˋ
+m oˋ th aˊ l ɪˊ
+m oˋ th aˊ l ɪˊ ɸ iˊ
+m oˋ th aˊ m iˊ
+m oˋ th aˊ m ɔˊ
+m oˋ th aˋ ŋˊ k aˊ
+m oˋ th aˋ p ɪˊ
+m oˋ th aˋ p ɔˋ
+m oˋ th aˊ th ʊˊ b iˊ
+m oˋ th aˊ th ʊˋ d ʒ w aˊ
+m oˋ th aˊ t s aˊ
+m oˋ th aˋ t s w iˋ
+m oˋ th ɔˋ
+m oˋ th oˋ d iˋ
+m oˋ th oˋ d iˋ
+m oˋ th oˊ d iˊ
+m oˋ th ʊˋ ɸ ʊˋ
+m oˋ th ɔˋ k aˋ k iˊ t s ɔˊ
+m oˋ th ɔˋ k aˋ t iˋ r ɔˋ
+m oˋ th oˋ k iˋ
+m oˋ th oˊ k oˊ m eˊ d iˋ
+m oˋ th ʊˊ l aˊ x aˊ d iˋ
+m oˋ th oˋ l eˋ x iˋ
+m oˋ th ɔˋ l ɔˋ
+m oˋ th ɔˋ m aˋ m iˋ s eˋ t s iˋ
+m oˋ th ɔˋ th ɔˋ
+m oˋ th oˋ t s iˋ
+m oˋ th w aˊ
+m oˋ t ʊˊ x ʊˊ l ʊˊ
+m oˋ t oˋ p iˊ
+m oˋ t ʊˊ t ʊˊ
+m oˋ t ɔˋ t ɔˋ
+m oˋ t w aˊ eˊ d iˊ
+m oˋ t ɔˋ x ɔˊ
+m oˋ t oˊ l oˊ k iˊ
+m oˋ t ɔˋ m ɔˊ
+m oˋ t s aˊ d iˊ
+m oˋ t s aˊ l w aˊ p ɪˊ l ɪˋ
+m oˋ t s aˋ m aˋ iˋ
+m oˋ t s aˋ m aˋ ɔˋ
+m oˋ t s aˋ n aˋ
+m oˋ t s aˊ j aˊ d iˋ t sh w aˊ nˊ t sh ɔˊ
+m oˋ t s ɪˋ
+m oˋ t s ɪˋ m ʊˋ x ʊˊ l ʊˊ
+m oˋ t s eˊ ɲ iˊ
+m oˋ t s ɪˊ r ɪˊ x aˊ ɲ iˋ
+m oˋ t s ɪˋ t aˋ
+m oˋ t s ɪˊ t ɔˊ
+m oˋ t s eˊ t s ɪˊ
+m oˋ t s ɪˋ th ʊˊ k ʊˊ
+m oˋ t sh aˊ b iˊ
+m oˋ t sh aˊ m ɪˊ k iˊ
+m oˋ t sh aˊ m ɪˊ k ɔˊ
+m oˋ t sh ɪˋ
+m oˋ t sh ɪˊ d iˊ
+m oˋ t sh ɪˊ d iˊ s iˊ
+m oˋ t sh ɛˋ x aˋ n oˋ ŋˋ
+m oˋ t sh ɪˊ x aˋ r ɪˊ
+m oˋ t sh ɪˊ x eˊ t s iˊ
+m oˋ t sh eˋ x iˋ
+m oˋ t sh ɛˋ l ɔˋ
+m oˋ t sh ɪˋ t ɛˋ l ɔˋ
+m oˋ t sh ɔˊ ph ɔˊ
+m oˋ t sh w aˊ r iˊ
+m oˋ t s iˊ eˊ t s iˊ
+m oˋ t s iˋ t aˊ n aˊ
+m oˋ t s ɔˋ
+m oˋ t s ʊˊ ɸ eˊ
+m oˋ t s ʊˋ k ʊˊ
+m oˋ t s ʊˊ m iˊ
+m oˋ t s ʊˋ t s ʊˊ
+m oˋ t s ʊˋ t s w aˊ n aˊ
+m oˋ t s uˊ
+m oˋ t s uˋ ʊˋ l ʊˋ d iˋ
+m oˋ t s w aˋ k w aˊ
+m oˋ t s w aˊ iˊ s ɔˊ
+m oˋ t s w aˊ n aˊ
+m oˋ t s w eˋ d iˋ
+m oˋ t s w iˊ
+m oˋ t ʃh iˊ n ɪˊ
+m oˋ t ʃh oˊ m ʊˊ l ʊˊ d iˋ
+m oˋ uˊ t w aˊ l ɔˊ
+m oˋ uˊ w aˋ n ɪˊ
+m oˋ w aˊ
+m oˋ w aˊ n aˊ
 mˋ p aˋ
 mˊ p aˊ
-mˋ ph aˊ t ɬ aˋ l aˊ t s aˋ n ɪˊ
+mˋ ph aˊ t aˋ l aˊ t s aˋ n ɪˊ
 mˋ ph ɔˊ
 mˋ p ʊˊ aˋ n ɪˊ
 mˋ p oˊ p iˊ
 m uˊ m uˊ ɸ aˊ l aˋ
 m uˋ n aˋ
-m uˊ t ɬ w aˊ
-m uˊ t ɬ w aˋ n ɪˊ
+m uˊ t w aˊ
+m uˊ t w aˋ n ɪˊ
 n aˋ
 n aˋ
 n aˋ aˊ n aˊ
@@ -3406,7 +3406,7 @@ n aˊ t ɪˊ ɸ aˊ
 n aˊ t ɪˊ ɸ ɛˊ l aˋ
 n aˊ t ɪˊ t sh aˊ
 n aˋ th aˋ
-n aˋ t ɬ aˋ ɸ aˋ l aˋ
+n aˋ t aˋ ɸ aˋ l aˋ
 n aˋ w aˊ
 n aˊ j aˊ
 n ɛˋ
@@ -3448,11 +3448,11 @@ n ɛˊ w aˊ
 ŋ ɔˋ x ɔˊ l aˊ
 ŋ ɔˊ ŋ ɔˊ r ɛˊ x aˋ
 ŋ ɔˊ ŋ ɔˊ r ɛˊ x ɔˋ
-ŋ ɔˊ t ɬ aˊ
-ŋ ɔˊ t ɬ ɔˊ
+ŋ ɔˊ t aˊ
+ŋ ɔˊ t ɔˊ
 ŋ w aˋ x aˊ
 ŋ w aˋ x aˊ k x ʊˊ l ʊˊ
-ŋ w aˋ x aˊ t ɬ ʊˊ l aˊ
+ŋ w aˋ x aˊ t ʊˊ l aˊ
 ŋ w aˋ l ɪˊ
 ŋ w aˋ n aˊ
 ŋ w aˋ n aˊ t s ɛˊ l ɛˊ
@@ -3473,21 +3473,21 @@ n iˋ t aˋ m aˋ
 ŋˋ k uˊ
 ŋˋ k uˋ k uˊ
 ŋˋ k w ɛˋ
-n aˊ
+nˋ aˊ
 nˊ n aˊ
 nˊ n aˋ k ɛˊ
-n n aˊ l ɪˊ
-n aˊ n aˊ
+nˋ n aˊ l ɪˊ
+nˋ aˊ n aˊ
 nˊ n ɛˊ x aˊ
-n n ɛˊ s ɛˊ
-n n ɪˊ t ɪˊ
-n eˊ t ɬ aˋ n ɪˊ
+nˋ n ɛˊ s ɛˊ
+nˋ n ɪˊ t ɪˊ
+nˋ eˊ t aˋ n ɪˊ
 nˊ n iˊ s aˊ
 nˊ n iˊ w aˊ
 nˊ n ɔˊ
-n n ɔˊ
-n n ɔˊ t ɔˊ
-n ɔˊ t ɔˊ
+nˋ n ɔˊ
+nˋ n ɔˊ t ɔˊ
+nˋ ɔˊ t ɔˊ
 ɲˋ ɲ aˋ aˋ
 ɲˊ ɲ ɪˊ
 ɲˊ ɲ ɪˊ ɸ aˊ l aˋ
@@ -3521,46 +3521,46 @@ n oˊ s iˊ
 n ɔˋ t aˋ
 n oˊ t eˊ t s aˊ
 n oˊ t sh ɪˊ
-n t aˊ
-n t aˋ t aˊ
-n t aˋ t aˊ
-n t aˋ t ɛˊ
-n t ɪˊ k aˋ n ɪˊ
-n th aˋ
-n th aˋ th aˋ
-n th ɔˊ
-n t ɬ aˋ ɸ aˋ l aˋ
-n t ɬ aˋ ɸ aˋ t s aˋ
-n t ɬ ɛˊ
-n t ɬ ɛˋ
-n t ɬ ɛˋ nˋ t ɬ ɛˋ
-n t ɬ ɛˋ ɲ aˊ n ɪˊ
-n t ɬh aˊ
-n t ɬh oˋ ph eˊ ŋˋ
-n t ɬ ʊˋ
-n t ɬ ʊˊ l ɛˊ
-n t ɬ ʊˋ ph ɪˋ m ɛˋ l ɔˋ
-n t ɬ w aˋ n aˋ
-n t ʊˊ n aˊ
-n t s aˊ aˋ n aˊ
-n t s aˊ l aˊ
-n t sh aˋ
-n t sh iˊ
-n t sh ʊˋ
-n t sh uˊ
-n t s iˋ
+nˋ t aˊ
+nˋ t aˋ t aˊ
+nˋ t aˋ t aˊ
+nˋ t aˋ t ɛˊ
+nˋ t ɪˊ k aˋ n ɪˊ
+nˋ th aˋ
+nˋ th aˋ th aˋ
+nˋ th ɔˊ
+nˋ t aˋ ɸ aˋ l aˋ
+nˋ t aˋ ɸ aˋ t s aˋ
+nˋ t ɛˊ
+nˋ t ɛˋ
+nˋ t ɛˋ nˋ t ɛˋ
+nˋ t ɛˋ ɲ aˊ n ɪˊ
+nˋ th aˊ
+nˋ th oˋ ph eˊ ŋˋ
+nˋ t ʊˋ
+nˋ t ʊˊ l ɛˊ
+nˋ t ʊˋ ph ɪˋ m ɛˋ l ɔˋ
+nˋ t w aˋ n aˋ
+nˋ t ʊˊ n aˊ
+nˋ t s aˊ aˋ n aˊ
+nˋ t s aˊ l aˊ
+nˋ t sh aˋ
+nˋ t sh iˊ
+nˋ t sh ʊˋ
+nˋ t sh uˊ
+nˋ t s iˋ
 nˊ t s iˊ
 nˊ t s iˊ ɸ aˊ l aˋ
 nˊ t s iˊ ɸ aˊ t s aˋ
 nˊ t s iˋ nˊ t s iˊ
-n t s uˋ
+nˋ t s uˋ
 nˊ t s w aˊ
 ɲˋ t ʃ aˊ
 ɲˋ t ʃh aˋ ɸ aˋ l aˋ
 ɲˋ t ʃh aˋ ɸ aˋ t s aˋ
 ɲˋ t ʃh eˊ
 ɲˋ t ʃh ɛˋ
-n t w aˋ
+nˋ t w aˋ
 n w aˊ
 n w ɛˊ x aˊ
 n w ɛˊ l aˊ
@@ -3632,11 +3632,11 @@ oˊ s iˊ
 ɔˋ t ɛˊ l ɛˊ
 oˊ t ɪˋ r oˊ uˋ p uˊ
 oˊ th uˊ m aˊ
-ʊˋ t ɬ aˋ
-ɔˋ t ɬ aˋ
-ɔˋ t ɬh aˋ j aˋ
-oˊ t ɬh eˊ
-oˋ t ɬ ʊˋ l ʊˋ l aˋ
+ʊˋ t aˋ
+ɔˋ t aˋ
+ɔˋ th aˋ j aˋ
+oˊ th eˊ
+oˋ t ʊˋ l ʊˋ l aˋ
 ɔˋ t s ɛˋ l aˋ
 oˋ uˊ r aˊ
 p aˊ aˊ k aˊ ɲ eˋ t s oˋ
@@ -3665,15 +3665,15 @@ p aˋ l ɛˋ l ɔˋ
 p aˋ l ɛˋ l w aˋ
 p aˋ l ɔˋ
 p aˋ l ɔˋ x aˋ r ɪˊ
-p aˋ l ɔˋ p ɔˋ t ɬ aˊ n aˊ
+p aˋ l ɔˋ p ɔˋ t aˊ n aˊ
 p aˋ mˋ p iˊ r iˊ
 p aˋ mˋ p iˊ r iˋ k x aˊ ŋˊ
 p aˋ n aˊ n aˊ
 p aˊ p aˊ
 p aˋ p aˋ l aˋ x aˊ ɪˊ
 p aˋ p aˋ t s ɔˋ
-p aˊ p eˊ t ɬ aˊ
-p aˊ p eˊ t ɬ ɛˊ x aˋ
+p aˊ p eˊ t aˊ
+p aˊ p eˊ t ɛˊ x aˋ
 p aˊ p iˊ ɛˊ l aˋ
 p aˋ p iˋ s ɔˋ
 p aˋ p ʊˋ l ɔˋ
@@ -3693,9 +3693,9 @@ p aˊ t eˊ l eˊ t s aˋ
 p aˊ t iˊ k aˊ
 p aˊ t iˊ k ɛˊ x aˋ
 p aˊ t iˊ k ɔˊ
-p aˊ t ɬ ɛˊ l ɔˊ
-p aˋ t ɬ iˋ s iˋ s ɔˋ
-p aˋ t ɬ ɔˋ
+p aˊ t ɛˊ l ɔˊ
+p aˋ t iˋ s iˋ s ɔˋ
+p aˋ t ɔˋ
 p aˊ t ʊˊ l ʊˊ x aˋ n aˋ
 p aˊ t ʊˊ l ʊˊ x aˋ ɲ aˋ
 p ɛˊ
@@ -3730,10 +3730,10 @@ p ɪˋ l ʊˊ mˋ p ɪˊ
 p ɪˋ l ʊˊ n aˋ m aˊ x aˊ d iˊ
 p ɪˋ l ʊˊ n ɔˊ l ɔˊ
 p ɪˋ l ʊˊ n oˊ m iˊ
-p ɪˋ l ʊˊ nˊ t ɬ ɛˋ
+p ɪˋ l ʊˊ nˊ t ɛˋ
 p ɪˋ l ʊˊ t eˊ l eˋ l eˊ
-p ɪˋ l ʊˊ t ɬh oˋ m ʊˊ x iˊ
-p ɪˋ l ʊˊ t sh ɛˋ t ɬh aˊ
+p ɪˋ l ʊˊ th oˋ m ʊˊ x iˊ
+p ɪˋ l ʊˊ t sh ɛˋ th aˊ
 p ɪˋ l ʊˊ t sh w eˋ uˊ
 p ɛˊ n ɛˊ
 p eˊ n ʊˊ l ʊˊ x aˋ
@@ -3747,15 +3747,15 @@ p eˊ ʊˋ l w aˊ n ɪˊ
 p ɛˊ ɔˊ m ʊˊ l aˋ t ʊˊ
 p eˊ p eˋ n eˊ n eˊ ŋˋ
 p ɪˊ p ɪˊ r ɪˋ
-p eˊ p eˊ t ɬ eˊ t s aˋ
-p eˊ p eˊ t ɬ eˊ t s oˋ
+p eˊ p eˊ t eˊ t s aˋ
+p eˊ p eˊ t eˊ t s oˋ
 p eˊ r eˊ k iˊ s iˋ
 p ɛˊ r ɛˊ k ɔˊ
 p eˋ s oˋ
 p ɪˊ t ɪˋ k oˊ uˋ t uˊ
 p eˊ t ɪˊ r ɔˊ l ɔˋ
-p eˋ t ɬ oˋ
-p eˋ t ɬ w aˊ
+p eˋ t oˋ
+p eˋ t w aˊ
 p ɪˊ t ɔˊ
 p ɪˋ t s ɔˋ
 ph aˊ d iˊ m ʊˊ x aˋ
@@ -3800,16 +3800,16 @@ ph aˋ s aˋ l aˋ t s ɔˋ
 ph aˊ t aˊ
 ph aˋ t ɛˊ
 ph aˊ th iˊ
-ph aˊ t ɬ aˊ
-ph aˊ t ɬ aˊ k aˊ n aˋ
-ph aˊ t ɬ aˊ k aˊ ɲ aˋ
-ph aˊ t ɬ aˊ l aˊ l aˋ
-ph aˊ t ɬ aˊ l aˊ t s aˋ
-ph aˋ t ɬh aˋ
-ph aˋ t ɬh ʊˋ s ɔˋ
-ph aˊ t ɬ ʊˊ x aˊ
-ph aˊ t ɬ ʊˊ x ɔˊ
-ph aˊ t ɬ ʊˊ l aˊ
+ph aˊ t aˊ
+ph aˊ t aˊ k aˊ n aˋ
+ph aˊ t aˊ k aˊ ɲ aˋ
+ph aˊ t aˊ l aˊ l aˋ
+ph aˊ t aˊ l aˊ t s aˋ
+ph aˋ th aˋ
+ph aˋ th ʊˋ s ɔˋ
+ph aˊ t ʊˊ x aˊ
+ph aˊ t ʊˊ x ɔˊ
+ph aˊ t ʊˊ l aˊ
 ph aˋ t s aˋ
 ph aˋ t sh w aˋ
 ph aˋ t sh w aˋ n aˋ
@@ -3838,7 +3838,7 @@ ph ɛˊ p aˊ ɸ aˊ t s aˋ
 ph ɛˊ p aˊ ɸ aˊ t s ɔˋ
 ph eˊ ph eˋ ŋˊ
 ph ɪˋ r ɪˋ ɸ ɪˋ r ɪˋ
-ph ɪˋ r ɪˋ t ɬh ɛˋ x ɔˋ
+ph ɪˋ r ɪˋ th ɛˋ x ɔˋ
 ph ɪˋ t eˋ l eˋ t s oˋ
 ph ɪˋ t ɔˋ
 ph eˋ t ʊˋ x ɔˋ
@@ -3858,8 +3858,8 @@ ph iˊ r iˊ
 ph iˋ r iˋ m aˋ
 ph iˋ r iˋ m ɛˋ l ɛˋ l w aˋ
 ph iˊ s ɛˊ x ɔˊ
-ph iˋ t ɬh ɛˋ l aˋ n ɔˋ
-ph iˊ t ɬh ɔˊ
+ph iˋ th ɛˋ l aˋ n ɔˋ
+ph iˊ th ɔˊ
 ph oˊ d iˊ s ɔˊ
 ph ʊˋ ɸ aˋ
 ph ʊˋ ɸ ɔˋ
@@ -3888,8 +3888,8 @@ ph ʊˊ th aˊ
 ph ʊˊ th ɔˊ
 ph ɔˋ th ɔˋ s ɛˋ l aˋ
 ph ʊˋ t iˋ
-ph ɔˊ t ɬ aˊ
-ph ɔˊ t ɬ aˊ
+ph ɔˊ t aˊ
+ph ɔˊ t aˊ
 ph ʊˊ t sh aˊ
 ph uˊ aˊ
 ph uˊ d uˋ h uˊ d uˊ
@@ -3916,7 +3916,7 @@ ph uˋ th ʊˋ l ʊˋ x aˋ
 ph uˋ th ʊˋ l ʊˋ l aˋ
 ph uˋ th ʊˋ l ʊˋ l ɛˋ s ɛˋ x aˋ
 ph uˋ th ʊˋ l ʊˋ l ɔˋ
-ph uˋ t ɬh aˋ m aˋ
+ph uˋ th aˋ m aˋ
 p iˋ aˊ n oˊ
 p iˊ d iˋ p iˊ d iˊ
 p iˊ ɸ ɔˊ
@@ -3929,13 +3929,13 @@ p iˊ n aˊ
 p iˊ n aˊ x aˋ r ɪˊ
 p iˋ ŋˊ
 p iˊ p ɛˊ l ɔˊ
-p iˊ p iˊ t ɬ aˊ
+p iˊ p iˊ t aˊ
 p iˊ t iˊ k aˊ
 p iˊ t iˊ k ʊˊ l ʊˋ x aˋ
 p iˊ t iˊ k ʊˊ l ʊˋ l aˋ
-p iˊ t ɬ aˊ
-p iˊ t ɬ aˊ x aˊ n aˋ
-p iˊ t ɬ aˊ x aˊ ɲ aˋ
+p iˊ t aˊ
+p iˊ t aˊ x aˊ n aˋ
+p iˊ t aˊ x aˊ ɲ aˋ
 p iˋ t s aˊ
 p iˋ t s ɪˊ
 p iˊ t s ɔˊ
@@ -3986,13 +3986,13 @@ p ʊˊ p ɛˊ l ɔˊ
 p ʊˊ p ɔˊ
 p ʊˊ p ʊˊ m aˊ l aˋ
 p ʊˋ r ɔˋ d ʒ ɛˊ k ɪˊ t aˋ r aˊ
-p ɔˋ r ɔˋ t ɬ aˋ
-p ɔˋ r ɔˋ t ɬ ɛˋ l aˋ
+p ɔˋ r ɔˋ t aˋ
+p ɔˋ r ɔˋ t ɛˋ l aˋ
 p ɔˊ s aˊ
 p ɔˊ s ɔˊ
-p ʊˋ t ɬ aˋ k aˋ
-p ʊˋ t ɬ aˋ k iˋ s aˋ
-p ʊˋ t ɬ aˋ k ɔˋ
+p ʊˋ t aˋ k aˋ
+p ʊˋ t aˋ k iˋ s aˋ
+p ʊˋ t aˋ k ɔˋ
 p ʊˊ t ʊˊ k aˊ
 p ʊˊ t ʊˊ k w ɪˊ
 p oˊ t ʊˊ l ʊˊ x aˋ
@@ -4018,9 +4018,9 @@ p uˊ s eˊ t s oˊ
 p uˊ s ɔˊ
 p uˊ s ɔˊ
 p uˊ s ʊˊ l ʊˊ s ɔˋ
-p uˊ t ɬ aˊ
-p uˊ t ɬ aˊ x aˊ ɲ aˋ
-p uˊ t ɬ ɛˋ l aˊ
+p uˊ t aˊ
+p uˊ t aˊ x aˊ ɲ aˋ
+p uˊ t ɛˋ l aˊ
 p uˋ t s w aˋ n aˋ
 p ʊˋ l eˊ iˋ t iˊ
 p ʊˊ l ɛˊ l ɔˊ
@@ -4047,11 +4047,11 @@ p ʊˊ p ɛˊ l ɛˊ l ɔˋ
 p ʊˊ p ɛˊ l ɔˊ
 p ʊˊ p ɔˊ
 p ʊˋ r ɔˋ ɸ ɛˊ s aˊ
-p ɔˋ r ɔˋ t ɬ aˋ
+p ɔˋ r ɔˋ t aˋ
 p ɔˊ s aˊ
 p ɔˊ s ɔˊ
-p ʊˋ t ɬ aˋ k aˋ
-p ʊˋ t ɬ aˋ k ɔˋ
+p ʊˋ t aˋ k aˋ
+p ʊˋ t aˋ k ɔˋ
 p ʊˊ t ʊˊ k aˊ
 p ʊˊ t ʊˊ k w ɪˊ
 p ʊˋ t ʊˋ m ɛˊ nˋ t ɛˊ
@@ -4073,7 +4073,7 @@ p uˊ s eˊ t s oˊ
 p uˊ s ɔˊ
 p uˊ s ɔˊ
 p uˊ s ʊˊ l ʊˊ s ɔˋ
-p uˊ t ɬ aˊ
+p uˊ t aˊ
 p uˋ t s w aˋ
 r aˊ aˊ n aˊ
 r aˊ b aˋ r aˊ
@@ -4102,9 +4102,9 @@ r aˊ m aˋ k w aˊ l ɔˊ
 r aˊ m aˊ p oˋ d iˊ s iˊ
 r aˊ m aˊ r aˋ ɲ aˊ n ɪˊ
 r aˊ m aˋ s ɪˊ l aˊ m ʊˊ s ɪˋ
-r aˋ m aˋ t ɬ aˋ
+r aˋ m aˋ t aˋ
 r aˊ m ɛˋ n ɔˊ
-r aˊ m ʊˊ t ɬ aˋ k aˊ s ɪˊ
+r aˊ m ʊˊ t aˋ k aˊ s ɪˊ
 r aˊ m ʊˊ t s ɪˊ
 r aˊ mˋ ph ɛˊ ɛˊ t ʃh aˋ n ɪˋ
 r aˊ ŋ w aˋ n aˊ
@@ -4144,7 +4144,7 @@ r eˊ eˊ t s aˊ
 r ɛˊ k aˊ
 r ɛˊ k ɛˊ x ɛˊ l aˋ
 r ɛˊ k ɛˋ r ɛˊ
-r eˊ k eˊ t ɬ aˊ
+r eˊ k eˊ t aˊ
 r eˊ k iˊ s aˊ
 r eˊ k ʊˊ l ʊˊ l aˋ
 r ɛˊ k ɔˋ t ɔˊ
@@ -4159,7 +4159,7 @@ r ɛˊ m ʊˊ l ʊˊ l aˋ
 r ɛˋ n aˋ
 r ɛˊ nˋ t ɛˊ
 r ɛˋ p aˋ
-r eˋ p eˋ t ɬ aˋ n aˋ
+r eˋ p eˋ t aˋ n aˋ
 r eˋ p iˋ s aˋ
 r ɪˋ ph aˊ b ʊˋ l iˊ k iˊ
 r ɛˊ r aˊ
@@ -4176,7 +4176,7 @@ r iˋ b aˋ m aˋ
 r iˋ b ɛˋ x aˋ
 r iˋ b eˋ x eˋ t s aˋ
 r iˊ b ɛˊ l aˊ
-r iˊ nˊ t ɬh w eˊ
+r iˊ nˊ th w eˊ
 r iˋ t aˋ
 r iˋ t aˋ
 r iˋ t ɛˋ l aˋ
@@ -4196,7 +4196,7 @@ r ʊˋ k w aˋ
 r ʊˋ k w aˋ n aˋ
 r ʊˊ l aˊ
 r ʊˊ m aˊ
-p r o
+r ʊˋ n aˊ
 r ʊˊ n aˊ
 r ʊˊ ŋˊ k x aˊ
 r ʊˊ r aˊ
@@ -4207,7 +4207,7 @@ r ɔˋ r ɔˋ m ɛˋ l aˋ
 r ʊˋ r ʊˋ m iˋ s aˋ
 r ʊˋ t aˋ
 r ɔˋ th aˋ
-r ʊˊ t ɬ ʊˊ eˊ t s aˋ
+r ʊˊ t ʊˊ eˊ t s aˋ
 r ʊˊ t ʊˊ l aˊ
 rˋ r aˊ
 rˋ r aˊ m ʊˋ x ʊˊ l ʊˊ
@@ -4217,7 +4217,7 @@ r uˊ aˊ
 r uˊ aˊ ɲ aˊ
 r uˊ d iˊ s aˊ
 r uˊ ɸ aˊ
-r uˋ k uˋ t ɬh aˋ
+r uˋ k uˋ th aˋ
 r uˊ l aˊ
 r uˊ l aˊ x aˊ n aˋ
 r uˊ l aˊ x aˊ ɲ aˋ
@@ -4237,9 +4237,9 @@ r uˊ s uˊ
 r uˊ t aˊ
 r uˊ t ɛˊ x aˊ
 r uˋ th aˋ
-r uˊ t ɬ aˊ
-r uˊ t ɬ ʊˊ l ʊˊ x aˋ
-r uˊ t ɬ ʊˊ l ʊˊ l aˋ
+r uˊ t aˊ
+r uˊ t ʊˊ l ʊˊ x aˋ
+r uˊ t ʊˊ l ʊˊ l aˋ
 r w aˊ l aˊ
 r w aˊ l ɛˊ x aˊ
 r w aˊ l ɛˊ l aˊ
@@ -4262,432 +4262,432 @@ s aˊ nˊ t s ɪˋ
 s aˋ r ɪˋ t iˊ n ɪˊ
 s aˊ t ɪˊ r ɪˋ t aˊ x aˊ
 s eˊ
-s e aˋ b ɛˊ
-s e aˊ k aˊ
-s e aˋ l ɔˋ
-s e aˋ m ʊˋ x ɛˋ l aˋ m aˋ d iˊ
-s e aˊ m uˊ s iˊ
-s e aˋ n ɪˊ
-s e aˋ n ɔˋ
-s e aˋ p aˋ r ɔˋ
-s e aˋ t ɬ aˋ
+s eˋ aˋ b ɛˊ
+s eˋ aˊ k aˊ
+s eˋ aˋ l ɔˋ
+s eˋ aˋ m ʊˋ x ɛˋ l aˋ m aˋ d iˊ
+s eˋ aˊ m uˊ s iˊ
+s eˋ aˋ n ɪˊ
+s eˋ aˋ n ɔˋ
+s eˋ aˋ p aˋ r ɔˋ
+s eˋ aˋ t aˋ
 s ɛˊ b aˊ
-s e b aˊ b eˋ t s aˊ n ɪˊ
-s e b aˋ x aˊ
-s e b aˋ k aˋ
-s e b aˋ t aˋ
-s e b aˋ t aˋ
-s e b aˊ t ɬ aˊ
-s e b ɪˊ
-s e b eˋ d iˊ
-s e b ɪˋ d iˋ s ɔˋ
-s e b ɪˊ x ɔˊ
-s e b ɪˋ l ɪˋ
-s e b ɛˊ ɔˊ
-s e b eˊ ʊˊ d iˊ
-s e b eˋ s oˋ
-s e b ɪˊ t ɪˊ
-s e b eˋ t ɬ ɛˋ l aˋ
-s e b eˋ t ʊˊ
+s eˋ b aˊ b eˋ t s aˊ n ɪˊ
+s eˋ b aˋ x aˊ
+s eˋ b aˋ k aˋ
+s eˋ b aˋ t aˋ
+s eˋ b aˋ t aˋ
+s eˋ b aˊ t aˊ
+s eˋ b ɪˊ
+s eˋ b eˋ d iˊ
+s eˋ b ɪˋ d iˋ s ɔˋ
+s eˋ b ɪˊ x ɔˊ
+s eˋ b ɪˋ l ɪˋ
+s eˋ b ɛˊ ɔˊ
+s eˋ b eˊ ʊˊ d iˊ
+s eˋ b eˋ s oˋ
+s eˋ b ɪˊ t ɪˊ
+s eˋ b eˋ t ɛˋ l aˋ
+s eˋ b eˋ t ʊˊ
 s eˊ b eˊ t s aˊ
-s e b ɪˋ t s aˊ
-s e b iˊ
-s e b iˋ p ɔˋ
-s e b ʊˋ b aˋ
-s e b oˊ d uˊ
-s e b ɔˊ ɸ ɔˊ
+s eˋ b ɪˋ t s aˊ
+s eˋ b iˊ
+s eˋ b iˋ p ɔˋ
+s eˋ b ʊˋ b aˋ
+s eˋ b oˊ d uˊ
+s eˋ b ɔˊ ɸ ɔˊ
 s eˋ b ʊˋ x aˋ
-s e b ʊˊ k aˊ
-s e b ɔˋ k ɔˋ
-s e b ʊˋ k ʊˊ
-s e b oˊ k oˋ l oˊ d iˊ
-s e b oˋ n eˋ s aˋ n aˋ w aˊ
-s e b ʊˊ n ʊˊ
-s e b ʊˊ p ɛˊ x ɔˊ
-s e b ʊˊ p ɛˊ l ɔˊ
-s e b ʊˊ p iˋ w aˊ
-s e b ʊˊ th ɔˊ
-s e d iˋ b aˋ
-s e d iˋ b ɛˋ l ɔˋ
-s e d iˊ d iˊ
+s eˋ b ʊˊ k aˊ
+s eˋ b ɔˋ k ɔˋ
+s eˋ b ʊˋ k ʊˊ
+s eˋ b oˊ k oˋ l oˊ d iˊ
+s eˋ b oˋ n eˋ s aˋ n aˋ w aˊ
+s eˋ b ʊˊ n ʊˊ
+s eˋ b ʊˊ p ɛˊ x ɔˊ
+s eˋ b ʊˊ p ɛˊ l ɔˊ
+s eˋ b ʊˊ p iˋ w aˊ
+s eˋ b ʊˊ th ɔˊ
+s eˋ d iˋ b aˋ
+s eˋ d iˋ b ɛˋ l ɔˋ
+s eˋ d iˊ d iˊ
 s eˋ d iˋ ɸ aˋ l aˋ
 s eˋ d iˋ ɸ aˋ t s aˋ
-s e d iˊ k aˋ d iˊ k eˊ
-s e d iˊ k ɔˊ
-s e d iˊ m ʊˊ
-s e d iˊ m ʊˊ nˋ th ʊˊ l ɛˊ
+s eˋ d iˊ k aˋ d iˊ k eˊ
+s eˋ d iˊ k ɔˊ
+s eˋ d iˊ m ʊˊ
+s eˋ d iˊ m ʊˊ nˋ th ʊˊ l ɛˊ
 s eˋ d iˋ m ʊˋ s aˋ
-s e d iˋ r iˊ s iˋ w aˊ
-s e d iˋ t s ɪˊ
-s e d uˊ l ɔˊ
-s e d uˊ p eˊ
-s e eˋ d iˋ
-s e ɛˋ l ɛˊ
-s e eˋ l eˋ d iˋ
-s e ɪˋ l ɪˊ ɪˋ l ɪˊ
-s e ɛˋ l ɔˋ
-s e ɛˊ m ɔˊ
-s e eˋ ŋˋ
-s e eˋ t ɪˊ b ʊˋ s iˊ x ʊˊ
-s e ɸ aˋ ɸ aˋ l ɛˋ l ɛˋ
-s e ɸ aˋ k ɔˋ
-s e ɸ aˋ l aˋ
-s e ɸ aˋ l aˋ n aˋ
-s e ɸ aˋ n ɪˊ
-s e ɸ aˊ p aˊ aˊ n ɔˋ
-s e ɸ aˊ p aˋ t ɬh ɔˊ x ɔˊ
-s e ɸ aˊ p ɔˊ
-s e ɸ aˊ t ɬ aˊ
-s e ɸ aˋ t ɬh aˋ
-s e ɸ aˋ t ɬh ɛˋ x ɔˋ
-s e ɸ aˊ t ɬh iˊ
+s eˋ d iˋ r iˊ s iˋ w aˊ
+s eˋ d iˋ t s ɪˊ
+s eˋ d uˊ l ɔˊ
+s eˋ d uˊ p eˊ
+s eˋ eˋ d iˋ
+s eˋ ɛˋ l ɛˊ
+s eˋ eˋ l eˋ d iˋ
+s eˋ ɪˋ l ɪˊ ɪˋ l ɪˊ
+s eˋ ɛˋ l ɔˋ
+s eˋ ɛˊ m ɔˊ
+s eˋ eˋ ŋˋ
+s eˋ eˋ t ɪˊ b ʊˋ s iˊ x ʊˊ
+s eˋ ɸ aˋ ɸ aˋ l ɛˋ l ɛˋ
+s eˋ ɸ aˋ k ɔˋ
+s eˋ ɸ aˋ l aˋ
+s eˋ ɸ aˋ l aˋ n aˋ
+s eˋ ɸ aˋ n ɪˊ
+s eˋ ɸ aˊ p aˊ aˊ n ɔˋ
+s eˋ ɸ aˊ p aˋ th ɔˊ x ɔˊ
+s eˋ ɸ aˊ p ɔˊ
+s eˋ ɸ aˊ t aˊ
+s eˋ ɸ aˋ th aˋ
+s eˋ ɸ aˋ th ɛˋ x ɔˋ
+s eˋ ɸ aˊ th iˊ
 s ɛˊ ɸ ɛˊ
-s e ɸ ɪˊ ɸ ɔˊ
-s e ɸ ɪˋ l aˋ
-s e ɸ ɪˋ t iˋ s aˋ n aˋ k ɔˋ
-s e ɸ iˋ ɸ iˋ
-s e ɸ iˋ ɸ iˋ
-s e ɸ iˋ ɸ iˋ
-s e ɸ iˊ k aˊ nˊ t s w ɛˋ
-s e ɸ iˊ t ɬh ʊˊ l ɔˊ
-s e ɸ ʊˋ ɸ aˊ n ɪˊ
-s e ɸ oˋ ɸ uˋ
-s e ɸ ʊˋ k aˋ b ʊˋ l ɪˋ aˋ
-s e ɸ ʊˋ k iˋ s aˋ ph ɪˊ ɸ ɔˊ
-s e ɸ uˊ l aˊ r ɔˊ
-s e x aˊ
+s eˋ ɸ ɪˊ ɸ ɔˊ
+s eˋ ɸ ɪˋ l aˋ
+s eˋ ɸ ɪˋ t iˋ s aˋ n aˋ k ɔˋ
+s eˋ ɸ iˋ ɸ iˋ
+s eˋ ɸ iˋ ɸ iˋ
+s eˋ ɸ iˋ ɸ iˋ
+s eˋ ɸ iˊ k aˊ nˊ t s w ɛˋ
+s eˋ ɸ iˊ th ʊˊ l ɔˊ
+s eˋ ɸ ʊˋ ɸ aˊ n ɪˊ
+s eˋ ɸ oˋ ɸ uˋ
+s eˋ ɸ ʊˋ k aˋ b ʊˋ l ɪˋ aˋ
+s eˋ ɸ ʊˋ k iˋ s aˋ ph ɪˊ ɸ ɔˊ
+s eˋ ɸ uˊ l aˊ r ɔˊ
+s eˋ x aˊ
 s ɪˊ x aˊ
-s e x aˊ d iˊ k ɛˊ l ɔˋ
-s e x aˊ x aˊ b iˊ
-s e x aˊ x aˊ p aˊ
-s e x aˊ iˊ
-s e x aˊ k ʊˊ l ʊˊ d iˋ
-s e x aˊ m ʊˊ l aˊ n aˋ m uˊ n ɪˊ
-s e x aˊ n aˋ n aˊ
-s e x aˋ ŋˋ k aˋ
-s e x aˊ s aˊ d iˋ t sh w aˊ nˊ t sh ɔˊ
-s e x aˊ uˊ
-s e x ɛˊ l ɛˊ l ɔˊ
-s e x ɔˊ
+s eˋ x aˊ d iˊ k ɛˊ l ɔˋ
+s eˋ x aˊ x aˊ b iˊ
+s eˋ x aˊ x aˊ p aˊ
+s eˋ x aˊ iˊ
+s eˋ x aˊ k ʊˊ l ʊˊ d iˋ
+s eˋ x aˊ m ʊˊ l aˊ n aˋ m uˊ n ɪˊ
+s eˋ x aˊ n aˋ n aˊ
+s eˋ x aˋ ŋˋ k aˋ
+s eˋ x aˊ s aˊ d iˋ t sh w aˊ nˊ t sh ɔˊ
+s eˋ x aˊ uˊ
+s eˋ x ɛˊ l ɛˊ l ɔˊ
+s eˋ x ɔˊ
 s ɪˊ x ɔˊ
-s e x oˊ d iˊ
-s e x oˊ x eˊ d iˊ
-s e x ɔˋ x w aˋ n ɪˋ
-s e x ʊˋ k x ʊˋ
-s e x ɔˊ l ɛˊ
-s e x ɔˋ l ɛˊ
-s e x ʊˊ l ʊˊ
-s e x oˊ p ʊˊ t s ɔˊ
-s e x ɔˋ r ɔˊ
-s e x oˊ s iˊ
-s e x ɔˊ t ɬh ɔˋ l aˊ
-s e x ɔˋ t ɬ ɔˊ
-s e x w aˋ b aˋ
-s e x w aˋ x w aˋ
-s e x w aˊ n aˊ
-s e x w aˋ p aˊ
-s e x w ɪˋ r ɪˋ
-s e x w ɛˋ t ɛˋ
-s e h uˊ b aˊ
-s e h uˊ d iˊ
+s eˋ x oˊ d iˊ
+s eˋ x oˊ x eˊ d iˊ
+s eˋ x ɔˋ x w aˋ n ɪˋ
+s eˋ x ʊˋ k x ʊˋ
+s eˋ x ɔˊ l ɛˊ
+s eˋ x ɔˋ l ɛˊ
+s eˋ x ʊˊ l ʊˊ
+s eˋ x oˊ p ʊˊ t s ɔˊ
+s eˋ x ɔˋ r ɔˊ
+s eˋ x oˊ s iˊ
+s eˋ x ɔˊ th ɔˋ l aˊ
+s eˋ x ɔˋ t ɔˊ
+s eˋ x w aˋ b aˋ
+s eˋ x w aˋ x w aˋ
+s eˋ x w aˊ n aˊ
+s eˋ x w aˋ p aˊ
+s eˋ x w ɪˋ r ɪˋ
+s eˋ x w ɛˋ t ɛˋ
+s eˋ h uˊ b aˊ
+s eˋ h uˊ d iˊ
 s eˊ iˊ
-s e iˊ k ɔˊ k ɔˊ t ɬ ɛˊ l ɔˋ
+s eˋ iˊ k ɔˊ k ɔˊ t ɛˊ l ɔˋ
 s eˊ iˊ l ɛˋ
-s e iˊ p aˊ t ɔˊ
-s e iˊ ph ɪˊ m ɛˊ l ɔˋ
-s e iˊ p oˊ n ɪˊ
-s e iˊ th aˊ t iˊ
-s e iˊ j aˋ iˊ j ɛˊ
-s e d ʒ aˊ b aˋ n aˊ
-s e d ʒ aˊ l ɔˊ
-s e d ʒ aˋ n aˋ
-s e d ʒ aˊ n aˊ x aˋ
-s e d ʒ eˊ s oˊ
-s e d ʒ iˊ
-s e d ʒ ɔˊ
+s eˋ iˊ p aˊ t ɔˊ
+s eˋ iˊ ph ɪˊ m ɛˊ l ɔˋ
+s eˋ iˊ p oˊ n ɪˊ
+s eˋ iˊ th aˊ t iˊ
+s eˋ iˊ j aˋ iˊ j ɛˊ
+s eˋ d ʒ aˊ b aˋ n aˊ
+s eˋ d ʒ aˊ l ɔˊ
+s eˋ d ʒ aˋ n aˋ
+s eˋ d ʒ aˊ n aˊ x aˋ
+s eˋ d ʒ eˊ s oˊ
+s eˋ d ʒ iˊ
+s eˋ d ʒ ɔˊ
 s ɛˋ k aˋ
-s e k aˊ
-s e k aˊ ɸ ʊˊ
-s e k aˋ iˊ
-s e k aˋ k aˋ
-s e k aˊ l ɪˊ
+s eˋ k aˊ
+s eˋ k aˊ ɸ ʊˊ
+s eˋ k aˋ iˊ
+s eˋ k aˋ k aˋ
+s eˋ k aˊ l ɪˊ
 s ɪˊ k aˊ m aˊ
 s ɪˊ k aˊ m iˊ s aˋ
-s e k aˊ m ɔˊ
-s e k aˋ n ɔˋ
-s e k aˋ ɔˋ
+s eˋ k aˊ m ɔˊ
+s eˋ k aˋ n ɔˋ
+s eˋ k aˋ ɔˋ
 s ɪˊ k aˊ s ɪˊ k aˋ
-s e k aˊ t aˊ n aˋ
-s e k aˋ uˊ s uˊ
+s eˋ k aˊ t aˊ n aˋ
+s eˋ k aˋ uˊ s uˊ
 s ɪˊ k ɛˊ x aˊ
 s ɪˊ k ɪˋ l ɪˊ
-s e k ɛˊ p ɛˊ
-s e k ɛˊ r ɛˊ
-s e k ɛˋ r ɛˊ t ɛˊ
-s e k ɛˊ t ɛˊ
-s e k ɪˋ t ɪˋ
-s e k x aˋ l aˋ
-s e k x aˊ n ɛˊ l ɔˊ
-s e k x aˋ ph aˋ
-s e k x ɛˋ l ɛˋ
-s e k x ɔˊ x ɛˊ
-s e k x ʊˋ m aˋ r eˋ t s iˋ
-s e k x ʊˊ n ʊˊ
-s e k x ʊˊ p iˊ
-s e k x ʊˊ r eˊ l eˊ t s iˋ
-s e k x w aˋ
-s e k x w aˊ m aˊ
-s e k x w aˋ r iˋ p aˋ n ɪˋ
-s e kh eˊ m iˊ kh aˋ l ɪˊ
-s e kh uˋ kh uˋ
-s e kh uˋ mˋ p aˋ
-s e kh uˊ r uˊ m ɛˊ l ɔˋ
-s e kh uˋ t ɬ ɔˋ
-s e k iˊ p aˋ r aˊ
+s eˋ k ɛˊ p ɛˊ
+s eˋ k ɛˊ r ɛˊ
+s eˋ k ɛˋ r ɛˊ t ɛˊ
+s eˋ k ɛˊ t ɛˊ
+s eˋ k ɪˋ t ɪˋ
+s eˋ k x aˋ l aˋ
+s eˋ k x aˊ n ɛˊ l ɔˊ
+s eˋ k x aˋ ph aˋ
+s eˋ k x ɛˋ l ɛˋ
+s eˋ k x ɔˊ x ɛˊ
+s eˋ k x ʊˋ m aˋ r eˋ t s iˋ
+s eˋ k x ʊˊ n ʊˊ
+s eˋ k x ʊˊ p iˊ
+s eˋ k x ʊˊ r eˊ l eˊ t s iˋ
+s eˋ k x w aˋ
+s eˋ k x w aˊ m aˊ
+s eˋ k x w aˋ r iˋ p aˋ n ɪˋ
+s eˋ kh eˊ m iˊ kh aˋ l ɪˊ
+s eˋ kh uˋ kh uˋ
+s eˋ kh uˋ mˋ p aˋ
+s eˋ kh uˊ r uˊ m ɛˊ l ɔˋ
+s eˋ kh uˋ t ɔˋ
+s eˋ k iˊ p aˋ r aˊ
 s eˋ k iˋ s aˋ
-s e k ʊˋ aˋ
-s e k ʊˊ b aˊ
-s e k oˊ l eˊ
-s e k oˊ l oˊ
-s e k oˋ l oˊ n ɪˊ
-s e k ʊˊ l ʊˋ t ʊˊ
-s e k ɔˊ nˋ t ɪˊ r ɪˊ
-s e k ʊˋ ʊˊ
-s e k ʊˋ p aˋ
-s e k ɔˋ p ɛˋ l ɔˋ
-s e k ɔˋ p ɔˊ
-s e k oˋ t iˊ
-s e k ʊˊ t ɬ ɪˊ l ɪˋ
-s e k w aˋ k w aˋ l aˋ l aˋ
-s e k w eˊ l eˊ
-s e k w ɛˊ ɛˋ r ɛˊ
+s eˋ k ʊˋ aˋ
+s eˋ k ʊˊ b aˊ
+s eˋ k oˊ l eˊ
+s eˋ k oˊ l oˊ
+s eˋ k oˋ l oˊ n ɪˊ
+s eˋ k ʊˊ l ʊˋ t ʊˊ
+s eˋ k ɔˊ nˋ t ɪˊ r ɪˊ
+s eˋ k ʊˋ ʊˊ
+s eˋ k ʊˋ p aˋ
+s eˋ k ɔˋ p ɛˋ l ɔˋ
+s eˋ k ɔˋ p ɔˊ
+s eˋ k oˋ t iˊ
+s eˋ k ʊˊ t ɪˊ l ɪˋ
+s eˋ k w aˋ k w aˋ l aˋ l aˋ
+s eˋ k w eˊ l eˊ
+s eˋ k w ɛˊ ɛˋ r ɛˊ
 s ɛˋ l aˋ
-s e l aˋ b ɛˋ
-s e l aˊ x aˊ
-s e l aˊ l eˊ d iˊ
-s e l aˊ l ɛˊ l ɔˊ
-s e l aˋ l ʊˋ m ɛˋ
+s eˋ l aˋ b ɛˋ
+s eˋ l aˊ x aˊ
+s eˋ l aˊ l eˊ d iˊ
+s eˋ l aˊ l ɛˊ l ɔˊ
+s eˋ l aˋ l ʊˋ m ɛˋ
 s ɛˊ l aˋ r aˊ
-s e l aˋ uˊ
-s e l ɪˊ
-s e l eˋ d uˋ
-s e l eˊ eˋ t s w aˊ n ɪˊ
+s eˋ l aˋ uˊ
+s eˋ l ɪˊ
+s eˋ l eˋ d uˋ
+s eˋ l eˊ eˋ t s w aˊ n ɪˊ
 s ɪˊ l ɪˊ k aˊ
-s e l ɪˋ k aˋ ɲ ɔˋ
-s e l ɪˋ l ɔˋ
-s e l ɪˋ m ɛˋ l aˋ
-s e l ɪˋ m ɔˋ
-s e l ɛˊ p ɛˊ
-s e l ɪˋ t s ɔˋ
-s e l ɔˋ
-s e l ʊˋ x ɛˋ l ɔˋ
-s e l ʊˋ x iˋ
-s e l ʊˋ k iˋ
-s e l ɔˋ k ɔˊ
-s e l ʊˊ m iˊ
-s e l oˋ oˋ t s iˋ
-s e l ɔˋ p ɔˊ
-s e l oˊ t ɬ ʊˊ l ʊˋ
-s e l ɔˊ t ɔˊ
+s eˋ l ɪˋ k aˋ ɲ ɔˋ
+s eˋ l ɪˋ l ɔˋ
+s eˋ l ɪˋ m ɛˋ l aˋ
+s eˋ l ɪˋ m ɔˋ
+s eˋ l ɛˊ p ɛˊ
+s eˋ l ɪˋ t s ɔˋ
+s eˋ l ɔˋ
+s eˋ l ʊˋ x ɛˋ l ɔˋ
+s eˋ l ʊˋ x iˋ
+s eˋ l ʊˋ k iˋ
+s eˋ l ɔˋ k ɔˊ
+s eˋ l ʊˊ m iˊ
+s eˋ l oˋ oˋ t s iˋ
+s eˋ l ɔˋ p ɔˊ
+s eˋ l oˊ t ʊˊ l ʊˋ
+s eˋ l ɔˊ t ɔˊ
 s ɛˊ l w aˊ
-s e l w aˋ n aˋ
+s eˋ l w aˋ n aˋ
 s ɪˊ m aˊ
-s e m aˋ n ɛˋ x ɔˋ
-s e m aˋ th aˋ n aˋ
-s e m aˋ t ɬ aˋ
-s e m aˊ uˋ m aˊ uˊ
-s e m aˋ uˊ s uˊ
-s e m ɪˊ
-s e m ɪˋ l aˊ
-s e m ɛˊ nˋ t ɛˊ
-s e m iˋ k aˋ
-s e m ʊˊ n aˋ m ʊˊ n ɪˊ
-s e m uˊ m uˊ
-s e n aˊ
-s e n aˋ t ɬ aˊ
-s e n ɛˊ p ɛˊ
-s e ŋ aˋ p aˋ r eˋ t s iˋ
-s e ŋ aˋ th w aˊ
-s e ŋ aˊ uˊ
-s e ŋ w aˋ n aˊ
-s e ŋ w ɪˋ
+s eˋ m aˋ n ɛˋ x ɔˋ
+s eˋ m aˋ th aˋ n aˋ
+s eˋ m aˋ t aˋ
+s eˋ m aˊ uˋ m aˊ uˊ
+s eˋ m aˋ uˊ s uˊ
+s eˋ m ɪˊ
+s eˋ m ɪˋ l aˊ
+s eˋ m ɛˊ nˋ t ɛˊ
+s eˋ m iˋ k aˋ
+s eˋ m ʊˊ n aˋ m ʊˊ n ɪˊ
+s eˋ m uˊ m uˊ
+s eˋ n aˊ
+s eˋ n aˋ t aˊ
+s eˋ n ɛˊ p ɛˊ
+s eˋ ŋ aˋ p aˋ r eˋ t s iˋ
+s eˋ ŋ aˋ th w aˊ
+s eˋ ŋ aˊ uˊ
+s eˋ ŋ w aˋ n aˊ
+s eˋ ŋ w ɪˋ
 s ɪˊ ŋˊ k aˊ
 s ɛˊ ŋˋ k ɛˊ
-s e ŋˋ k x iˋ s aˋ m ʊˋ n aˊ t ɪˊ
-s e ŋˋ k x w ɛˋ
-s e nˊ n aˊ
-s e nˊ n ɔˊ
-s e n ɔˊ
+s eˋ ŋˋ k x iˋ s aˋ m ʊˋ n aˊ t ɪˊ
+s eˋ ŋˋ k x w ɛˋ
+s eˋ nˊ n aˊ
+s eˋ nˊ n ɔˊ
+s eˋ n ɔˊ
 s eˋ n ʊˋ x aˋ
-s e n ʊˊ k w aˊ n ɪˋ
+s eˋ n ʊˊ k w aˊ n ɪˋ
 s eˋ n ʊˋ l aˋ
-s e n oˊ t ɬ ʊˊ l ʊˋ
+s eˋ n oˊ t ʊˊ l ʊˋ
 s ɛˊ nˊ t iˋ m ɪˊ t aˋ r aˊ
-s e nˋ t ɬ ɛˋ
-s e nˊ t ɬh aˋ x aˊ
+s eˋ nˋ t ɛˋ
+s eˋ nˊ th aˋ x aˊ
 s iˋ nˋ t sh aˋ b ʊˋ d uˊ t uˊ
-s e nˋ t sh aˋ m ʊˋ s iˊ
-s e n w ɛˊ l ɔˊ
+s eˋ nˋ t sh aˋ m ʊˋ s iˊ
+s eˋ n w ɛˊ l ɔˊ
 s ɪˊ ɲ aˊ
 s ɪˊ ɲ aˊ n aˊ
-s e ɲ aˊ n aˊ
+s eˋ ɲ aˊ n aˊ
 s ɪˊ ɲ eˊ d iˊ w aˋ
 s ɪˊ ɲ ɛˊ x aˊ
 s ɪˊ ɲ ɛˊ x ɛˊ l w aˋ
 s ɪˊ ɲ eˊ t s aˊ
-s e ɲ eˋ t s aˋ n aˋ
-s e oˋ k ʊˋ m ɛˋ l aˋ b aˋ x w ɛˊ
-s e ʊˋ l ʊˋ
-s e oˊ p eˊ d iˊ
-s e ɔˋ p ɔˋ s ɪˋ ŋ w ɪˋ
-s e p aˊ l aˊ m ɔˊ
-s e p aˊ l aˋ ŋ w aˊ
-s e p aˊ nˊ n ɛˊ r ɛˋ
-s e p aˊ p eˋ t ɬ aˊ
-s e p aˊ t ɛˋ l aˊ
+s eˋ ɲ eˋ t s aˋ n aˋ
+s eˋ oˋ k ʊˋ m ɛˋ l aˋ b aˋ x w ɛˊ
+s eˋ ʊˋ l ʊˋ
+s eˋ oˊ p eˊ d iˊ
+s eˋ ɔˋ p ɔˋ s ɪˋ ŋ w ɪˋ
+s eˋ p aˊ l aˊ m ɔˊ
+s eˋ p aˊ l aˋ ŋ w aˊ
+s eˋ p aˊ nˊ n ɛˊ r ɛˋ
+s eˋ p aˊ p eˋ t aˊ
+s eˋ p aˊ t ɛˋ l aˊ
 s ɪˊ p ɛˊ
 s iˋ p ɛˊ x aˊ d iˋ th ʊˊ t ʊˊ
-s e p ɪˊ k ɪˋ r ɪˊ
+s eˋ p ɪˊ k ɪˋ r ɪˊ
 s ɪˊ p ɪˊ l aˊ
-s e p ɛˊ l ɛˋ t ɛˊ
-s e p eˊ r uˋ p eˊ r uˊ
-s e ph aˋ r aˋ
-s e ph aˊ s aˊ l aˊ t s ɪˋ
-s e ph aˊ t ɬ ɔˊ
-s e ph iˋ m ʊˋ l ɔˋ
-s e ph iˋ ɲ aˊ
-s e ph iˋ r iˊ
-s e ph ʊˋ m aˋ
-s e ph uˋ th ɛˋ l ɔˋ
-s e p ɔˊ ɲˋ t ʃh ɪˊ
-s e p ʊˊ r aˊ
-s e p oˊ r oˊ
-s e r aˊ
-s e r aˋ iˊ
-s e r aˊ l aˊ
-s e r aˋ m aˋ t ɬ aˋ
-s e r aˋ m ɛˊ
-s e r aˋ p aˊ
-s e r ɛˋ n aˋ
-s e r ɪˋ p aˋ
-s e r eˊ p ʊˊ d iˊ
-s e r ɛˊ th ɛˊ
-s e r ɪˋ th ɪˋ
-s e r ɛˋ t ɔˋ
-s e r ɛˋ t s ɛˋ
-s e r iˋ p aˊ
-s e r iˊ r iˊ
-s e r ɔˋ b ɛˊ
-s e r ɔˋ l ɛˋ
-s e r ʊˊ m aˊ m ʊˋ w aˊ
-s e r ʊˋ p ɪˋ
-s e r ɔˋ p ɔˊ
-s e r ʊˊ t aˊ
-s e r ʊˊ t ʊˊ
-s e r uˋ
-s e r uˊ ɸ ɔˊ
-s e r uˊ iˋ w aˊ
-s e r uˋ kh uˋ t ɬh iˋ
-s e r uˊ ɲ aˊ
-s e r uˊ r uˋ b eˊ l eˊ
-s e r w aˊ l ɔˊ
-s e r w ɛˊ
-s e s aˊ d iˊ
-s e s aˊ n aˊ
+s eˋ p ɛˊ l ɛˋ t ɛˊ
+s eˋ p eˊ r uˋ p eˊ r uˊ
+s eˋ ph aˋ r aˋ
+s eˋ ph aˊ s aˊ l aˊ t s ɪˋ
+s eˋ ph aˊ t ɔˊ
+s eˋ ph iˋ m ʊˋ l ɔˋ
+s eˋ ph iˋ ɲ aˊ
+s eˋ ph iˋ r iˊ
+s eˋ ph ʊˋ m aˋ
+s eˋ ph uˋ th ɛˋ l ɔˋ
+s eˋ p ɔˊ ɲˋ t ʃh ɪˊ
+s eˋ p ʊˊ r aˊ
+s eˋ p oˊ r oˊ
+s eˋ r aˊ
+s eˋ r aˋ iˊ
+s eˋ r aˊ l aˊ
+s eˋ r aˋ m aˋ t aˋ
+s eˋ r aˋ m ɛˊ
+s eˋ r aˋ p aˊ
+s eˋ r ɛˋ n aˋ
+s eˋ r ɪˋ p aˋ
+s eˋ r eˊ p ʊˊ d iˊ
+s eˋ r ɛˊ th ɛˊ
+s eˋ r ɪˋ th ɪˋ
+s eˋ r ɛˋ t ɔˋ
+s eˋ r ɛˋ t s ɛˋ
+s eˋ r iˋ p aˊ
+s eˋ r iˊ r iˊ
+s eˋ r ɔˋ b ɛˊ
+s eˋ r ɔˋ l ɛˋ
+s eˋ r ʊˊ m aˊ m ʊˋ w aˊ
+s eˋ r ʊˋ p ɪˋ
+s eˋ r ɔˋ p ɔˊ
+s eˋ r ʊˊ t aˊ
+s eˋ r ʊˊ t ʊˊ
+s eˋ r uˋ
+s eˋ r uˊ ɸ ɔˊ
+s eˋ r uˊ iˋ w aˊ
+s eˋ r uˋ kh uˋ th iˋ
+s eˋ r uˊ ɲ aˊ
+s eˋ r uˊ r uˋ b eˊ l eˊ
+s eˋ r w aˊ l ɔˊ
+s eˋ r w ɛˊ
+s eˋ s aˊ d iˊ
+s eˋ s aˊ n aˊ
 s ɪˊ s aˋ n ɪˊ
 s ɛˊ s ɛˊ l aˊ
-s e s ɪˊ ɲ iˊ
-s e s ɪˊ p aˊ
-s e s iˊ x ʊˊ
-s e s iˊ r eˊ l eˊ t s iˋ
-s e s ʊˊ
-s e s ɔˊ
-s e s ɔˋ l ɛˋ
-s e s ʊˊ l ʊˊ
-s e s uˊ x aˊ
-s e s uˋ p aˋ n aˋ k ɔˋ
-s e s uˋ p ɔˋ
-s e ʃ aˋ b ɔˋ
+s eˋ s ɪˊ ɲ iˊ
+s eˋ s ɪˊ p aˊ
+s eˋ s iˊ x ʊˊ
+s eˋ s iˊ r eˊ l eˊ t s iˋ
+s eˋ s ʊˊ
+s eˋ s ɔˊ
+s eˋ s ɔˋ l ɛˋ
+s eˋ s ʊˊ l ʊˊ
+s eˋ s uˊ x aˊ
+s eˋ s uˋ p aˋ n aˋ k ɔˋ
+s eˋ s uˋ p ɔˋ
+s eˋ ʃ aˋ b ɔˋ
 s ɛˋ t aˋ
-s e t aˊ mˋ p aˊ
-s e t eˊ d iˊ aˋ m ʊˊ
-s e t eˊ iˋ n iˊ
-s e t eˊ iˊ ʃ ɪˋ n ɪˊ
-s e t ɛˊ mˋ p ɛˊ
-s e t ɪˊ n aˊ
-s e t ɪˋ r aˊ t aˊ
-s e th aˋ k x aˋ
-s e th aˊ th ɛˋ l aˊ
-s e th iˊ b ɔˊ
-s e th ʊˋ
-s e th ɔˋ b ɔˋ l ɔˋ k ɔˋ
-s e th uˊ ɲ aˊ
-s e th uˋ t aˋ ɸ aˋ t s iˋ
-s e th uˋ th uˋ th uˋ
+s eˋ t aˊ mˋ p aˊ
+s eˋ t eˊ d iˊ aˋ m ʊˊ
+s eˋ t eˊ iˋ n iˊ
+s eˋ t eˊ iˊ ʃ ɪˋ n ɪˊ
+s eˋ t ɛˊ mˋ p ɛˊ
+s eˋ t ɪˊ n aˊ
+s eˋ t ɪˋ r aˊ t aˊ
+s eˋ th aˋ k x aˋ
+s eˋ th aˊ th ɛˋ l aˊ
+s eˋ th iˊ b ɔˊ
+s eˋ th ʊˋ
+s eˋ th ɔˋ b ɔˋ l ɔˋ k ɔˋ
+s eˋ th uˊ ɲ aˊ
+s eˋ th uˋ t aˋ ɸ aˋ t s iˋ
+s eˋ th uˋ th uˋ th uˋ
 s eˋ t iˊ ɸ iˋ k eˊ iˋ t ɪˊ
-s e t iˊ m ɛˋ l aˊ
-s ɪˊ t ɬ aˊ
-s e t ɬ aˊ aˋ x aˊ n aˊ
-s e t ɬ aˊ ŋˊ k aˊ n aˋ
-s e t ɬh aˊ
-s e t ɬh aˋ
-s ɛˋ t ɬh aˊ
-s ɛˋ t ɬh aˋ
-s e t ɬh aˊ b aˊ
-s e t ɬh aˋ b ɛˋ l ɔˋ
-s e t ɬh aˋ b iˊ
-s e t ɬh aˊ k ɛˊ
-s e t ɬh aˋ k ʊˊ
-s e t ɬh aˊ m aˊ l aˊ t s iˋ
-s ɛˋ t ɬh aˊ n aˊ
-s e t ɬh aˋ r ɪˋ
-s e t ɬh aˋ t sh aˋ n aˋ
-s e t ɬh aˋ t ɬ ʊˋ s iˋ
-s e t ɬh aˋ t s w eˋ t s oˋ
-s e t ɬh ʊˊ aˊ
-s e t ɬh ɔˊ b ɔˋ x w aˊ
-s e t ɬh oˊ d iˊ
-s e t ɬh ʊˊ x ʊˊ
-s e t ɬh ɔˊ x ɔˊ
-s e t ɬh ɔˊ l aˊ
-s e t ɬh ɔˋ m ɔˋ
-s e t ɬh oˊ ŋˊ
-s e t ɬh ɔˋ ph aˋ
-s e t ɬh ɔˋ t ɬh aˋ
-s e t ɬh oˋ t s aˊ
-s e t ɬ ʊˊ x ʊˊ l ʊˊ
-s e t ɬ ɔˋ l ɔˋ
-s e t ɔˊ ɸ ɔˊ
+s eˋ t iˊ m ɛˋ l aˊ
+s ɪˊ t aˊ
+s eˋ t aˊ aˋ x aˊ n aˊ
+s eˋ t aˊ ŋˊ k aˊ n aˋ
+s eˋ th aˊ
+s eˋ th aˋ
+s ɛˋ th aˊ
+s ɛˋ th aˋ
+s eˋ th aˊ b aˊ
+s eˋ th aˋ b ɛˋ l ɔˋ
+s eˋ th aˋ b iˊ
+s eˋ th aˊ k ɛˊ
+s eˋ th aˋ k ʊˊ
+s eˋ th aˊ m aˊ l aˊ t s iˋ
+s ɛˋ th aˊ n aˊ
+s eˋ th aˋ r ɪˋ
+s eˋ th aˋ t sh aˋ n aˋ
+s eˋ th aˋ t ʊˋ s iˋ
+s eˋ th aˋ t s w eˋ t s oˋ
+s eˋ th ʊˊ aˊ
+s eˋ th ɔˊ b ɔˋ x w aˊ
+s eˋ th oˊ d iˊ
+s eˋ th ʊˊ x ʊˊ
+s eˋ th ɔˊ x ɔˊ
+s eˋ th ɔˊ l aˊ
+s eˋ th ɔˋ m ɔˋ
+s eˋ th oˊ ŋˊ
+s eˋ th ɔˋ ph aˋ
+s eˋ th ɔˋ th aˋ
+s eˋ th oˋ t s aˊ
+s eˋ t ʊˊ x ʊˊ l ʊˊ
+s eˋ t ɔˋ l ɔˋ
+s eˋ t ɔˊ ɸ ɔˊ
 s eˋ t ʊˋ x aˋ
-s e t oˊ k iˊ
-s e t ʊˋ p ʊˊ
-s e t ɔˊ r ɔˊ
-s e t ʊˋ r oˊ oˋ b eˊ r iˊ
-s e t ʊˊ t ʊˊ
-s e t ʊˊ t ʊˋ d ʒ aˊ n ɪˊ
-s e t ʊˋ t ʊˋ m aˊ n aˊ
+s eˋ t oˊ k iˊ
+s eˋ t ʊˋ p ʊˊ
+s eˋ t ɔˊ r ɔˊ
+s eˋ t ʊˋ r oˊ oˋ b eˊ r iˊ
+s eˋ t ʊˊ t ʊˊ
+s eˋ t ʊˊ t ʊˋ d ʒ aˊ n ɪˊ
+s eˋ t ʊˋ t ʊˋ m aˊ n aˊ
 s eˊ t s ɪˋ
-s e t s ɛˊ n ɔˊ
-s e t sh aˋ
-s e t sh ɪˊ d iˊ
-s e t sh ɪˊ x eˊ t s iˊ
-s e t sh ɛˋ x ɔˋ
-s e t sh iˊ r ɔˊ
-s e t sh aˊ m ɪˊ k iˊ s iˋ w aˊ
-s e t sh w aˋ k x aˋ
-s e t sh w aˊ n ɔˊ
-s e t sh w aˊ nˊ t sh ɔˊ
-s e t sh w aˊ r ɔˊ
-s e t sh w aˊ r w aˊ
-s e t s iˊ d iˊ ɸ aˊ t s iˋ
-s e t s ɔˋ
-s e t s w aˋ l ɔˋ
-s e t s w aˊ l ɔˊ
-s e t s w ɪˊ r ɪˊ r ɪˊ
-s e t ʃh aˋ b aˋ
-s e t uˊ l ɔˊ
-s e w ɛˋ l ɔˋ
-s e j aˋ nˋ t ɬ ʊˋ
+s eˋ t s ɛˊ n ɔˊ
+s eˋ t sh aˋ
+s eˋ t sh ɪˊ d iˊ
+s eˋ t sh ɪˊ x eˊ t s iˊ
+s eˋ t sh ɛˋ x ɔˋ
+s eˋ t sh iˊ r ɔˊ
+s eˋ t sh aˊ m ɪˊ k iˊ s iˋ w aˊ
+s eˋ t sh w aˋ k x aˋ
+s eˋ t sh w aˊ n ɔˊ
+s eˋ t sh w aˊ nˊ t sh ɔˊ
+s eˋ t sh w aˊ r ɔˊ
+s eˋ t sh w aˊ r w aˊ
+s eˋ t s iˊ d iˊ ɸ aˊ t s iˋ
+s eˋ t s ɔˋ
+s eˋ t s w aˋ l ɔˋ
+s eˋ t s w aˊ l ɔˊ
+s eˋ t s w ɪˊ r ɪˊ r ɪˊ
+s eˋ t ʃh aˋ b aˋ
+s eˋ t uˊ l ɔˊ
+s eˋ w ɛˋ l ɔˋ
+s eˋ j aˋ nˋ t ʊˋ
 s iˊ aˊ
 s iˊ aˊ m aˊ
 s iˊ aˊ m ɛˊ l aˋ
@@ -4722,7 +4722,7 @@ s iˊ t w aˊ
 s ʊˊ b ʊˊ k aˊ n aˋ
 s ʊˊ b ʊˊ k aˊ ɲ aˋ
 s ʊˊ b ʊˊ l ʊˊ k aˋ
-s ʊˊ x ʊˊ t ɬh aˊ
+s ʊˊ x ʊˊ th aˊ
 s ɔˊ k aˊ
 s ɔˊ k aˊ m aˊ
 s ɔˊ k aˊ s ɔˊ k aˋ
@@ -4747,9 +4747,9 @@ s ɔˊ nˊ t aˊ x aˋ
 s ɔˊ p ɔˊ
 s ɔˊ s ɔˊ b aˊ x aˋ n aˋ
 s oˊ s ʊˊ l ʊˊ x aˋ
-s ʊˋ t ɬ aˋ
-s ɔˋ t ɬh aˋ
-s ɔˋ t ɬh ɔˋ m ɛˋ l aˋ
+s ʊˋ t aˋ
+s ɔˋ th aˋ
+s ɔˋ th ɔˋ m ɛˋ l aˋ
 s uˊ b aˊ
 s uˋ x aˋ
 s uˋ x ɛˋ x aˋ
@@ -4763,7 +4763,7 @@ s uˋ l aˋ ɸ aˋ l ɛˋ l w aˋ
 s uˋ l aˋ ɸ aˋ t s aˋ
 s uˋ m aˋ
 s uˊ n aˊ
-n u m
+s uˋ p aˊ
 s uˋ p aˋ
 s uˋ p aˋ ɸ aˋ l aˋ
 s uˋ p eˋ x eˋ t s aˋ
@@ -4776,9 +4776,9 @@ s uˋ t aˋ
 s uˋ t aˋ s uˋ t aˋ
 s uˋ t ɛˋ l aˋ
 s uˋ t iˋ s aˋ
-s uˋ t ɬh aˋ
-s uˋ t ɬh aˋ
-s uˋ t ɬh ɛˋ x aˋ
+s uˋ th aˋ
+s uˋ th aˋ
+s uˋ th ɛˋ x aˋ
 s uˊ t uˊ
 s w aˊ
 s w aˋ aˊ n aˊ
@@ -4805,11 +4805,11 @@ s w iˊ k iˋ r iˊ
 ʃ aˊ w aˋ r aˊ
 ʃ ɛˋ b aˋ
 ʃ ɛˋ m aˋ
-s e n aˋ
-s e n aˋ m aˋ
-ʃ eˋ t ɬ aˋ
+s eˋ n aˋ
+s eˋ n aˋ m aˋ
+ʃ eˋ t aˋ
 ʃ iˊ t iˊ
-ʃ ɔˋ b ɔˋ t ɬ aˋ
+ʃ ɔˋ b ɔˋ t aˋ
 t aˊ b ʊˊ x aˊ
 t aˋ b ʊˋ l aˋ
 t aˊ d iˊ
@@ -4848,8 +4848,8 @@ t aˊ t aˊ
 t aˋ t eˋ d iˋ s ɔˋ
 t aˋ t ɛˋ l aˋ n ɔˋ
 t aˋ t ɛˋ l ɔˋ
-t aˊ t ɬh ɛˊ x ɛˊ l ɔˋ
-t aˊ t ɬh ɛˊ x ɔˊ
+t aˊ th ɛˊ x ɛˊ l ɔˋ
+t aˊ th ɛˊ x ɔˊ
 t aˋ t ʊˋ ɸ aˋ t s ɔˋ
 t aˋ t ʊˋ l ɔˋ
 t aˊ t s ɔˊ
@@ -4913,14 +4913,14 @@ t ɪˋ r ɪˊ k ɪˊ t aˋ r aˊ
 t ɪˋ r ɪˊ n aˊ
 t eˋ s eˋ l eˋ t s oˋ
 t ɛˋ t ɛˋ s ɛˋ l aˋ
-t eˋ t ɬ aˊ
-t eˋ t ɬ aˋ ɲ ɔˋ
-t eˋ t ɬ ɛˋ l ɛˋ l ɔˋ
+t eˋ t aˊ
+t eˋ t aˋ ɲ ɔˋ
+t eˋ t ɛˋ l ɛˋ l ɔˋ
 t ɪˋ t ɔˋ
 th aˋ b aˋ
 th aˋ b aˋ n aˋ
 th aˋ b uˋ ɛˋ l aˋ
-th aˋ b uˋ ɛˋ l ɔ
+th aˋ b uˋ ɛˋ l ɔˋ
 th aˋ b uˋ eˋ t s aˋ
 th aˊ d iˊ s aˊ
 th aˊ d iˊ s ɔˊ
@@ -5087,7 +5087,7 @@ th uˊ t aˋ p uˊ ɔˊ
 th uˊ t eˊ x ɔˊ
 th uˋ th aˋ ɸ aˋ l aˋ
 th uˋ th aˋ ɸ aˋ t s aˋ
-th uˋ t ɬ w aˋ
+th uˋ t w aˋ
 th uˊ t ɔˊ
 th w aˊ l aˊ
 th w aˊ l ɔˊ
@@ -5136,277 +5136,277 @@ t iˊ s ɔˊ
 t iˊ t aˊ
 t iˊ t aˊ t iˊ t aˋ
 t iˋ t ɛˋ ɔˋ
-t ɬ aˋ
-t ɬ aˊ b aˊ t ɬ aˊ b aˋ
-t ɬ aˋ d iˊ
-t ɬ aˊ d iˊ k aˊ
-t ɬ aˋ k aˋ s ɛˋ l aˋ
-t ɬ aˋ k aˋ s ɛˋ l ɔˋ
-t ɬ aˊ l aˊ
-t ɬ aˋ l aˋ
-t ɬ aˊ l aˊ t ɬ aˊ l aˋ
-t ɬ aˊ l ɪˊ aˊ
-t ɬ aˊ l eˊ d iˊ w aˋ
-t ɬ aˊ l ɛˊ l aˊ
-t ɬ aˊ l eˊ l eˊ t s oˋ
-t ɬ aˊ l ɛˊ l ɔˊ
-t ɬ aˊ l ɛˊ l w aˊ
-t ɬ aˊ m aˊ
-t ɬ aˊ m ɛˊ x ɔˊ
-t ɬ aˋ m ɛˋ l aˋ
-t ɬ aˋ m ɛˋ l ɔˋ
-t ɬ aˋ m eˋ t ɬ ʊˊ
-t ɬ aˊ mˊ p aˊ r ɛˋ l aˋ
-t ɬ aˋ ɲ aˋ
-t ɬ aˊ p eˊ t ɬ aˊ
-t ɬ aˊ p iˊ s aˊ
-t ɬ aˊ ʊˊ p aˊ
-t ɬ aˋ s ɪˊ
-t ɬ aˋ t ɬ aˋ n aˋ
-t ɬ aˊ t s aˊ
-t ɬ eˋ
-t ɬ ɛˋ l aˋ
-t ɬ ɪˋ l aˊ ɸ ʊˊ
-t ɬ ɪˋ l aˊ s ɪˊ
-t ɬ ɛˋ t ɬ ɛˋ r ɛˋ x aˋ n aˋ
-t ɬh aˋ b aˋ
-t ɬh aˋ b aˋ n aˋ
-t ɬh aˋ b aˋ n ɔˋ
-t ɬh aˋ b eˋ l eˋ t s aˋ
-t ɬh aˋ b iˋ s aˋ
-t ɬh aˋ b ɔˋ
-t ɬh aˋ b ʊˋ l ʊˋ x aˋ
-t ɬh aˋ b ʊˋ l ʊˋ x ɔˋ
-t ɬh aˋ b ʊˋ l ʊˋ l aˋ
-t ɬh aˋ b ʊˋ l ʊˋ l ɔˋ
-t ɬh aˊ d iˊ aˊ
-t ɬh aˊ ɛˊ l aˊ
-t ɬh aˊ eˊ l eˊ t s aˋ
-t ɬh aˊ eˊ l eˊ t s aˋ n aˋ
-t ɬh aˊ eˊ l eˊ t s aˋ n ɔˋ
-t ɬh aˊ ɛˊ l ɔˊ
-t ɬh aˋ ɸ uˋ
-t ɬh aˊ ɸ uˊ n aˊ
-t ɬh aˊ x aˊ
-t ɬh aˋ x aˋ
-t ɬh aˋ x aˊ
-t ɬh aˊ x aˊ ɸ aˊ l aˋ
-t ɬh aˊ x aˊ ɸ aˊ l ɛˋ l aˋ
-t ɬh aˊ x aˊ ɸ aˊ l ɔˋ
-t ɬh aˊ x aˊ ɸ aˊ t s aˋ
-t ɬh aˋ x aˋ l aˋ
-t ɬh aˋ x iˋ s aˋ
-t ɬh aˋ x iˋ s ɔˋ
-t ɬh aˋ x ɔˋ
-t ɬh aˋ x ʊˋ l aˋ
-t ɬh aˋ d ʒ w aˋ
-t ɬh aˋ k aˋ
-t ɬh aˊ k aˊ
-t ɬh aˋ k aˋ n aˋ
-t ɬh aˋ k aˋ n ɛˋ l aˋ
-t ɬh aˋ k aˊ nˋ t s uˊ k eˊ
-t ɬh aˋ k aˋ ɲ aˋ
-t ɬh aˋ k aˋ ɲ ɔˋ
-t ɬh aˋ k aˋ t ɬh aˋ k aˋ n aˋ
-t ɬh aˋ k aˋ t ɬh aˋ k aˋ n ɔˋ
-t ɬh aˋ k aˋ t ɬh aˋ k aˋ ɲ aˋ
-t ɬh aˋ k ʊˊ
-t ɬh aˋ k ʊˋ l aˋ
-t ɬh aˋ k ʊˋ l ɛˋ
-t ɬh aˋ l aˋ
-t ɬh aˊ l ɪˊ
-t ɬh aˊ l ɪˊ ɸ aˊ
-t ɬh aˋ l ɔˋ
-t ɬh aˋ l ʊˋ x aˋ ɲ aˋ
-t ɬh aˋ l ʊˋ x aˋ ɲ ɛˋ s ɛˋ x aˋ
-t ɬh aˋ l ʊˋ x aˋ ɲ ɔˋ
-t ɬh aˊ l ʊˊ s aˊ
-t ɬh aˊ l ʊˊ s ɛˊ x aˋ
-t ɬh aˊ l ʊˊ s ɔˊ
-t ɬh aˊ m aˊ
-t ɬh aˊ m aˊ l aˊ l aˋ
-t ɬh aˊ m aˊ l aˊ l ɔˋ
-t ɬh aˊ m aˊ l aˊ t s aˋ
-t ɬh aˊ m aˋ n ɪˊ
-t ɬh aˊ m ɔˊ
-t ɬh aˋ n aˋ s ɛˋ l aˋ
-t ɬh aˊ n ʊˊ
-t ɬh aˋ n ʊˋ x aˋ
-t ɬh aˋ n ʊˋ l aˋ
-t ɬh aˋ n ʊˋ s aˋ
-t ɬh aˊ ɲ aˊ
-t ɬh aˋ ʊˋ l aˋ
-t ɬh aˋ ʊˋ l ɛˋ x aˋ
-t ɬh aˊ ʊˊ l ʊˊ x aˋ
-t ɬh aˊ ʊˊ l ʊˊ s aˋ
-t ɬh aˋ p aˋ
-t ɬh aˊ p aˊ
-t ɬh aˊ p aˊ t s aˊ
-t ɬh aˊ p aˊ t s ɔˊ
-t ɬh aˋ p ɛˋ l aˋ
-t ɬh aˋ p iˋ
-t ɬh aˋ p iˋ s aˋ
-t ɬh aˋ p ʊˋ l ʊˋ x aˋ
-t ɬh aˊ r aˊ l aˊ l aˋ
-t ɬh aˊ s ɪˊ
-t ɬh aˊ s ɛˊ l aˊ
-t ɬh aˊ s ɛˊ l ɛˊ x aˋ
-t ɬh aˊ s ɛˊ l ɔˊ
-t ɬh aˋ t ɬ aˋ x aˋ n aˋ
-t ɬh aˋ t ɬ aˋ x aˋ n ɔˋ
-t ɬh aˋ t ɬ aˋ x aˋ ɲ aˋ
-t ɬh aˋ t ɬ aˋ j aˋ
-t ɬh aˋ t ɬh aˋ m aˋ
-t ɬh aˊ t ɬh aˊ m ʊˊ l ʊˋ x aˋ
-t ɬh aˊ t ɬh aˊ m ʊˊ l ʊˋ l aˋ
-t ɬh aˊ t ɬh aˊ ɲ ɛˊ x aˋ
-t ɬh aˋ t ɬh ɛˋ l aˋ
-t ɬh aˊ t ɬh ʊˊ b aˊ
-t ɬh aˊ t ɬh ʊˊ b ɔˊ
-t ɬh aˋ t ɬ ʊˋ x aˋ
-t ɬh aˋ t ɬ ʊˋ x ɔˋ
-t ɬh aˋ t ɬ ʊˋ l aˋ
-t ɬh aˋ t ɬ ʊˋ l ʊˋ x aˋ n aˋ
-t ɬh aˋ t ɬ ʊˋ l ʊˋ x aˋ n ɔˋ
-t ɬh aˋ t ɬ ʊˋ s aˋ
-t ɬh aˊ t s aˊ
-t ɬh aˋ t s ɔˋ
-t ɬh aˋ t s w aˋ
-t ɬh aˋ t s w ɛˋ x aˋ
-t ɬh ʊˊ aˊ
-t ɬh ɔˊ aˊ
-t ɬh ʊˊ aˊ ɸ aˊ l aˋ
-t ɬh ʊˊ aˊ ɸ aˊ l ɛˋ l aˋ
-t ɬh ʊˊ aˊ ɸ aˊ l ɔˋ
-t ɬh ʊˊ aˊ t ɬh ʊˊ ɛˋ x aˋ
-t ɬh ʊˊ aˊ t ɬh ʊˊ ɛˋ x ɔˋ
-t ɬh ʊˋ b aˋ
-t ɬh ʊˋ b aˋ ɛˋ l aˋ
-t ɬh ʊˋ b aˋ ɛˋ l ɔˋ
-t ɬh ʊˋ b aˋ eˋ t s aˋ
-t ɬh ɔˊ b ɔˊ x aˊ
-t ɬh ɔˊ b ɔˊ x ɔˊ
-t ɬh oˋ b ʊˋ l aˋ
-t ɬh oˋ b ʊˋ l ɔˋ
-t ɬh ɔˋ b ɔˋ l ɔˋ
-t ɬh oˊ b oˊ s aˊ
-t ɬh oˊ d iˊ aˊ
-t ɬh oˊ d iˊ ɛˊ x aˋ
-t ɬh ɔˊ ɛˊ x aˊ
-t ɬh ʊˋ ɸ ʊˋ ɸ aˋ l aˋ
-t ɬh ʊˋ ɸ ʊˋ ɸ aˋ t s aˋ
-t ɬh ʊˋ x aˋ
-t ɬh ɔˊ x ɔˊ
-t ɬh ɔˊ x ɔˋ n ɔˊ l ɔˊ
-t ɬh ɔˊ x ɔˊ n ɔˊ l ɔˊ ɸ aˊ t s aˋ
-t ɬh ɔˊ x ɔˊ t aˋ l aˊ
-t ɬh ɔˊ x w aˊ n aˊ
-t ɬh ɔˋ k aˋ
-t ɬh ɔˋ k aˋ ɸ aˋ l aˋ
-t ɬh ɔˋ k aˋ ɸ aˋ l ɔˋ
-t ɬh ɔˋ k aˋ k uˊ t ɬ w aˊ n ɔˊ
-t ɬh ɔˋ k ɛˋ x aˋ
-t ɬh ɔˋ k ɛˋ x ɔˋ
-t ɬh ɔˊ k ɔˊ
-t ɬh ʊˊ k ʊˊ ɸ aˊ l aˋ
-t ɬh ʊˊ k ʊˊ ɸ aˊ t s aˋ
-t ɬh ɔˊ k ɔˊ m ɛˊ l aˋ
-t ɬh ɔˊ k ɔˊ m ɛˊ l ɔˋ
-t ɬh oˊ k oˊ m ʊˊ l ʊˋ x aˋ
-t ɬh oˋ k oˋ t s aˋ
-t ɬh ɔˊ l aˊ
-t ɬh ɔˋ l aˋ
-t ɬh ɔˋ l aˋ
-t ɬh oˋ l ɪˊ
-t ɬh ɔˋ l ɛˋ x aˋ
-t ɬh ɔˋ l ɛˋ x ɔˋ
-t ɬh ʊˊ l ʊˊ x ɛˊ l ɛˋ l w aˋ
-t ɬh ɔˊ l ɔˊ l ɔˊ
-t ɬh ʊˊ l w aˊ
-t ɬh ɔˋ l w ɛˊ
-t ɬh ɔˋ m aˋ
-t ɬh ɔˋ m aˋ x aˋ n aˋ
-t ɬh ɔˋ m aˋ x aˋ n ɔˋ
-t ɬh ɔˋ m aˋ m aˋ
-t ɬh ɔˋ m aˋ m iˋ s aˋ
-t ɬh ɔˋ m aˋ m iˋ s ɛˋ x aˋ
-t ɬh ɔˋ m aˋ m iˋ s eˋ t s aˋ
-t ɬh ɔˋ m aˋ m iˋ s e t s oˋ
-t ɬh ɔˋ m aˋ m iˋ s ɔˋ
-t ɬh ɔˋ m aˋ m ɔˋ
-t ɬh ɔˋ m aˋ r aˋ
-t ɬh oˋ m eˋ s aˋ
-t ɬh oˋ m eˋ s oˋ
-t ɬh oˋ m eˋ s ʊˋ l ʊˋ l aˋ
-t ɬh ɔˋ m ɔˋ
-t ɬh oˋ m ʊˋ x aˋ
-t ɬh oˋ m ʊˋ x ɛˋ l ɔˋ p ɪˋ l ʊˊ
-t ɬh oˋ m ʊˋ l aˋ
-t ɬh oˊ mˊ ph aˊ
-t ɬh oˊ mˊ ph ɛˊ x aˋ
-t ɬh ʊˊ n aˊ m aˊ
-t ɬh oˊ ɲ aˊ
-t ɬh ɔˋ ph aˋ
-t ɬh ɔˋ ph ɔˋ
-t ɬh ʊˋ r aˊ
-t ɬh ʊˊ r ʊˊ
-t ɬh oˊ r oˊ nˊ t sh aˋ
-t ɬh ɔˋ t ɬh aˋ
-t ɬh ɔˋ t ɬh ɛˋ x aˋ
-t ɬh oˋ t ɬh eˋ l eˋ t s aˋ
-t ɬh oˋ t ɬh eˋ l eˋ t s oˋ
-t ɬh oˋ t ɬh oˋ m iˋ s aˋ
-t ɬh oˋ t ɬh oˋ m iˋ s ɔˋ
-t ɬh ʊˊ t ɬh ʊˊ r aˊ
-t ɬh ʊˊ t ɬh w aˊ ɛˊ x aˋ
-t ɬh ʊˊ t ɬh w aˊ ɛˊ x ɔˋ
-t ɬh oˋ t s aˋ
-t ɬh w aˊ r ɪˊ
-t ɬh w aˋ t ɬh w aˊ
-t ɬh w aˊ j aˊ
-t ɬ iˋ l iˊ n iˋ k iˊ
-t ɬ iˋ s aˋ
-t ɬ iˋ s ɔˋ
-t ɬ oˋ b ʊˋ x aˋ
-t ɬ ʊˋ x aˋ
-t ɬ ʊˋ x ɛˋ l aˋ
-t ɬ ʊˋ x ɛˋ l ɔˋ
-t ɬ ɔˋ l aˋ
-t ɬ ʊˊ l aˊ
-t ɬ ʊˊ l aˊ x aˊ ɲ aˋ
-t ɬ ʊˊ l aˊ k aˊ
-t ɬ ʊˊ l aˊ t ɬ ʊˊ l aˋ
-t ɬ ʊˊ l ɔˊ
-t ɬ ʊˋ l ɔˊ k ɔˊ
-t ɬ oˋ nˋ t ɬ ʊˋ l ʊˋ x aˋ
-t ɬ oˋ nˋ t ɬ ʊˋ l ʊˋ l aˋ
-t ɬ ʊˋ ʊˊ
-t ɬ ʊˊ p ɛˊ l aˊ
-t ɬ oˊ p ʊˊ l aˊ
-t ɬ ʊˋ s aˋ
-t ɬ ʊˋ s ʊˋ l ʊˋ s aˋ
-t ɬ ʊˋ s ʊˋ l ʊˋ s ɔˋ
-t ɬ ɔˋ t ɬ aˋ
-t ɬ ʊˋ t ɬ aˋ
-t ɬ ʊˋ t ɬ ɛˋ x aˋ
-t ɬ ʊˋ t ɬ ɛˋ x ɔˋ
-t ɬ ʊˋ t ɬ ɔˋ
-t ɬ ɔˋ t ɬ ɔˋ ɸ ʊˋ k ʊˋ
-t ɬ ʊˋ t ɬ ʊˋ l ʊˋ x aˋ
-t ɬ ʊˋ t ɬ ʊˋ l ʊˋ x ɔˋ
-t ɬ ʊˋ t ɬ ʊˋ l ʊˋ l aˋ
-t ɬ ʊˋ t ɬ ʊˋ l ʊˋ l ɔˋ
-t ɬ ʊˊ t ɬ ʊˊ m aˊ l aˋ
-t ɬ ʊˊ t ɬ ʊˊ m aˊ l ɔˋ
-t ɬ oˋ t s aˋ
-t ɬ oˋ uˋ
-t ɬ w aˊ ɛˊ l aˊ
-t ɬ w aˊ ɛˊ l ɛˊ s ɛˋ x aˋ
-t ɬ w aˊ ɛˊ l ɔˊ
-t ɬ w aˊ eˊ t s aˊ
-t ɬ w aˊ eˊ t s oˊ
-t ɬ w aˊ ʊˊ l ʊˊ l aˋ
-t ɬ w aˊ ʊˊ l ʊˊ s aˋ
+t aˋ
+t aˊ b aˊ t aˊ b aˋ
+t aˋ d iˊ
+t aˊ d iˊ k aˊ
+t aˋ k aˋ s ɛˋ l aˋ
+t aˋ k aˋ s ɛˋ l ɔˋ
+t aˊ l aˊ
+t aˋ l aˋ
+t aˊ l aˊ t aˊ l aˋ
+t aˊ l ɪˊ aˊ
+t aˊ l eˊ d iˊ w aˋ
+t aˊ l ɛˊ l aˊ
+t aˊ l eˊ l eˊ t s oˋ
+t aˊ l ɛˊ l ɔˊ
+t aˊ l ɛˊ l w aˊ
+t aˊ m aˊ
+t aˊ m ɛˊ x ɔˊ
+t aˋ m ɛˋ l aˋ
+t aˋ m ɛˋ l ɔˋ
+t aˋ m eˋ t ʊˊ
+t aˊ mˊ p aˊ r ɛˋ l aˋ
+t aˋ ɲ aˋ
+t aˊ p eˊ t aˊ
+t aˊ p iˊ s aˊ
+t aˊ ʊˊ p aˊ
+t aˋ s ɪˊ
+t aˋ t aˋ n aˋ
+t aˊ t s aˊ
+t eˋ
+t ɛˋ l aˋ
+t ɪˋ l aˊ ɸ ʊˊ
+t ɪˋ l aˊ s ɪˊ
+t ɛˋ t ɛˋ r ɛˋ x aˋ n aˋ
+th aˋ b aˋ
+th aˋ b aˋ n aˋ
+th aˋ b aˋ n ɔˋ
+th aˋ b eˋ l eˋ t s aˋ
+th aˋ b iˋ s aˋ
+th aˋ b ɔˋ
+th aˋ b ʊˋ l ʊˋ x aˋ
+th aˋ b ʊˋ l ʊˋ x ɔˋ
+th aˋ b ʊˋ l ʊˋ l aˋ
+th aˋ b ʊˋ l ʊˋ l ɔˋ
+th aˊ d iˊ aˊ
+th aˊ ɛˊ l aˊ
+th aˊ eˊ l eˊ t s aˋ
+th aˊ eˊ l eˊ t s aˋ n aˋ
+th aˊ eˊ l eˊ t s aˋ n ɔˋ
+th aˊ ɛˊ l ɔˊ
+th aˋ ɸ uˋ
+th aˊ ɸ uˊ n aˊ
+th aˊ x aˊ
+th aˋ x aˋ
+th aˋ x aˊ
+th aˊ x aˊ ɸ aˊ l aˋ
+th aˊ x aˊ ɸ aˊ l ɛˋ l aˋ
+th aˊ x aˊ ɸ aˊ l ɔˋ
+th aˊ x aˊ ɸ aˊ t s aˋ
+th aˋ x aˋ l aˋ
+th aˋ x iˋ s aˋ
+th aˋ x iˋ s ɔˋ
+th aˋ x ɔˋ
+th aˋ x ʊˋ l aˋ
+th aˋ d ʒ w aˋ
+th aˋ k aˋ
+th aˊ k aˊ
+th aˋ k aˋ n aˋ
+th aˋ k aˋ n ɛˋ l aˋ
+th aˋ k aˊ nˋ t s uˊ k eˊ
+th aˋ k aˋ ɲ aˋ
+th aˋ k aˋ ɲ ɔˋ
+th aˋ k aˋ th aˋ k aˋ n aˋ
+th aˋ k aˋ th aˋ k aˋ n ɔˋ
+th aˋ k aˋ th aˋ k aˋ ɲ aˋ
+th aˋ k ʊˊ
+th aˋ k ʊˋ l aˋ
+th aˋ k ʊˋ l ɛˋ
+th aˋ l aˋ
+th aˊ l ɪˊ
+th aˊ l ɪˊ ɸ aˊ
+th aˋ l ɔˋ
+th aˋ l ʊˋ x aˋ ɲ aˋ
+th aˋ l ʊˋ x aˋ ɲ ɛˋ s ɛˋ x aˋ
+th aˋ l ʊˋ x aˋ ɲ ɔˋ
+th aˊ l ʊˊ s aˊ
+th aˊ l ʊˊ s ɛˊ x aˋ
+th aˊ l ʊˊ s ɔˊ
+th aˊ m aˊ
+th aˊ m aˊ l aˊ l aˋ
+th aˊ m aˊ l aˊ l ɔˋ
+th aˊ m aˊ l aˊ t s aˋ
+th aˊ m aˋ n ɪˊ
+th aˊ m ɔˊ
+th aˋ n aˋ s ɛˋ l aˋ
+th aˊ n ʊˊ
+th aˋ n ʊˋ x aˋ
+th aˋ n ʊˋ l aˋ
+th aˋ n ʊˋ s aˋ
+th aˊ ɲ aˊ
+th aˋ ʊˋ l aˋ
+th aˋ ʊˋ l ɛˋ x aˋ
+th aˊ ʊˊ l ʊˊ x aˋ
+th aˊ ʊˊ l ʊˊ s aˋ
+th aˋ p aˋ
+th aˊ p aˊ
+th aˊ p aˊ t s aˊ
+th aˊ p aˊ t s ɔˊ
+th aˋ p ɛˋ l aˋ
+th aˋ p iˋ
+th aˋ p iˋ s aˋ
+th aˋ p ʊˋ l ʊˋ x aˋ
+th aˊ r aˊ l aˊ l aˋ
+th aˊ s ɪˊ
+th aˊ s ɛˊ l aˊ
+th aˊ s ɛˊ l ɛˊ x aˋ
+th aˊ s ɛˊ l ɔˊ
+th aˋ t aˋ x aˋ n aˋ
+th aˋ t aˋ x aˋ n ɔˋ
+th aˋ t aˋ x aˋ ɲ aˋ
+th aˋ t aˋ j aˋ
+th aˋ th aˋ m aˋ
+th aˊ th aˊ m ʊˊ l ʊˋ x aˋ
+th aˊ th aˊ m ʊˊ l ʊˋ l aˋ
+th aˊ th aˊ ɲ ɛˊ x aˋ
+th aˋ th ɛˋ l aˋ
+th aˊ th ʊˊ b aˊ
+th aˊ th ʊˊ b ɔˊ
+th aˋ t ʊˋ x aˋ
+th aˋ t ʊˋ x ɔˋ
+th aˋ t ʊˋ l aˋ
+th aˋ t ʊˋ l ʊˋ x aˋ n aˋ
+th aˋ t ʊˋ l ʊˋ x aˋ n ɔˋ
+th aˋ t ʊˋ s aˋ
+th aˊ t s aˊ
+th aˋ t s ɔˋ
+th aˋ t s w aˋ
+th aˋ t s w ɛˋ x aˋ
+th ʊˊ aˊ
+th ɔˊ aˊ
+th ʊˊ aˊ ɸ aˊ l aˋ
+th ʊˊ aˊ ɸ aˊ l ɛˋ l aˋ
+th ʊˊ aˊ ɸ aˊ l ɔˋ
+th ʊˊ aˊ th ʊˊ ɛˋ x aˋ
+th ʊˊ aˊ th ʊˊ ɛˋ x ɔˋ
+th ʊˋ b aˋ
+th ʊˋ b aˋ ɛˋ l aˋ
+th ʊˋ b aˋ ɛˋ l ɔˋ
+th ʊˋ b aˋ eˋ t s aˋ
+th ɔˊ b ɔˊ x aˊ
+th ɔˊ b ɔˊ x ɔˊ
+th oˋ b ʊˋ l aˋ
+th oˋ b ʊˋ l ɔˋ
+th ɔˋ b ɔˋ l ɔˋ
+th oˊ b oˊ s aˊ
+th oˊ d iˊ aˊ
+th oˊ d iˊ ɛˊ x aˋ
+th ɔˊ ɛˊ x aˊ
+th ʊˋ ɸ ʊˋ ɸ aˋ l aˋ
+th ʊˋ ɸ ʊˋ ɸ aˋ t s aˋ
+th ʊˋ x aˋ
+th ɔˊ x ɔˊ
+th ɔˊ x ɔˋ n ɔˊ l ɔˊ
+th ɔˊ x ɔˊ n ɔˊ l ɔˊ ɸ aˊ t s aˋ
+th ɔˊ x ɔˊ t aˋ l aˊ
+th ɔˊ x w aˊ n aˊ
+th ɔˋ k aˋ
+th ɔˋ k aˋ ɸ aˋ l aˋ
+th ɔˋ k aˋ ɸ aˋ l ɔˋ
+th ɔˋ k aˋ k uˊ t w aˊ n ɔˊ
+th ɔˋ k ɛˋ x aˋ
+th ɔˋ k ɛˋ x ɔˋ
+th ɔˊ k ɔˊ
+th ʊˊ k ʊˊ ɸ aˊ l aˋ
+th ʊˊ k ʊˊ ɸ aˊ t s aˋ
+th ɔˊ k ɔˊ m ɛˊ l aˋ
+th ɔˊ k ɔˊ m ɛˊ l ɔˋ
+th oˊ k oˊ m ʊˊ l ʊˋ x aˋ
+th oˋ k oˋ t s aˋ
+th ɔˊ l aˊ
+th ɔˋ l aˋ
+th ɔˋ l aˋ
+th oˋ l ɪˊ
+th ɔˋ l ɛˋ x aˋ
+th ɔˋ l ɛˋ x ɔˋ
+th ʊˊ l ʊˊ x ɛˊ l ɛˋ l w aˋ
+th ɔˊ l ɔˊ l ɔˊ
+th ʊˊ l w aˊ
+th ɔˋ l w ɛˊ
+th ɔˋ m aˋ
+th ɔˋ m aˋ x aˋ n aˋ
+th ɔˋ m aˋ x aˋ n ɔˋ
+th ɔˋ m aˋ m aˋ
+th ɔˋ m aˋ m iˋ s aˋ
+th ɔˋ m aˋ m iˋ s ɛˋ x aˋ
+th ɔˋ m aˋ m iˋ s eˋ t s aˋ
+th ɔˋ m aˋ m iˋ s eˋ t s oˋ
+th ɔˋ m aˋ m iˋ s ɔˋ
+th ɔˋ m aˋ m ɔˋ
+th ɔˋ m aˋ r aˋ
+th oˋ m eˋ s aˋ
+th oˋ m eˋ s oˋ
+th oˋ m eˋ s ʊˋ l ʊˋ l aˋ
+th ɔˋ m ɔˋ
+th oˋ m ʊˋ x aˋ
+th oˋ m ʊˋ x ɛˋ l ɔˋ p ɪˋ l ʊˊ
+th oˋ m ʊˋ l aˋ
+th oˊ mˊ ph aˊ
+th oˊ mˊ ph ɛˊ x aˋ
+th ʊˊ n aˊ m aˊ
+th oˊ ɲ aˊ
+th ɔˋ ph aˋ
+th ɔˋ ph ɔˋ
+th ʊˋ r aˊ
+th ʊˊ r ʊˊ
+th oˊ r oˊ nˊ t sh aˋ
+th ɔˋ th aˋ
+th ɔˋ th ɛˋ x aˋ
+th oˋ th eˋ l eˋ t s aˋ
+th oˋ th eˋ l eˋ t s oˋ
+th oˋ th oˋ m iˋ s aˋ
+th oˋ th oˋ m iˋ s ɔˋ
+th ʊˊ th ʊˊ r aˊ
+th ʊˊ th w aˊ ɛˊ x aˋ
+th ʊˊ th w aˊ ɛˊ x ɔˋ
+th oˋ t s aˋ
+th w aˊ r ɪˊ
+th w aˋ th w aˊ
+th w aˊ j aˊ
+t iˋ l iˊ n iˋ k iˊ
+t iˋ s aˋ
+t iˋ s ɔˋ
+t oˋ b ʊˋ x aˋ
+t ʊˋ x aˋ
+t ʊˋ x ɛˋ l aˋ
+t ʊˋ x ɛˋ l ɔˋ
+t ɔˋ l aˋ
+t ʊˊ l aˊ
+t ʊˊ l aˊ x aˊ ɲ aˋ
+t ʊˊ l aˊ k aˊ
+t ʊˊ l aˊ t ʊˊ l aˋ
+t ʊˊ l ɔˊ
+t ʊˋ l ɔˊ k ɔˊ
+t oˋ nˋ t ʊˋ l ʊˋ x aˋ
+t oˋ nˋ t ʊˋ l ʊˋ l aˋ
+t ʊˋ ʊˊ
+t ʊˊ p ɛˊ l aˊ
+t oˊ p ʊˊ l aˊ
+t ʊˋ s aˋ
+t ʊˋ s ʊˋ l ʊˋ s aˋ
+t ʊˋ s ʊˋ l ʊˋ s ɔˋ
+t ɔˋ t aˋ
+t ʊˋ t aˋ
+t ʊˋ t ɛˋ x aˋ
+t ʊˋ t ɛˋ x ɔˋ
+t ʊˋ t ɔˋ
+t ɔˋ t ɔˋ ɸ ʊˋ k ʊˋ
+t ʊˋ t ʊˋ l ʊˋ x aˋ
+t ʊˋ t ʊˋ l ʊˋ x ɔˋ
+t ʊˋ t ʊˋ l ʊˋ l aˋ
+t ʊˋ t ʊˋ l ʊˋ l ɔˋ
+t ʊˊ t ʊˊ m aˊ l aˋ
+t ʊˊ t ʊˊ m aˊ l ɔˋ
+t oˋ t s aˋ
+t oˋ uˋ
+t w aˊ ɛˊ l aˊ
+t w aˊ ɛˊ l ɛˊ s ɛˋ x aˋ
+t w aˊ ɛˊ l ɔˊ
+t w aˊ eˊ t s aˊ
+t w aˊ eˊ t s oˊ
+t w aˊ ʊˊ l ʊˊ l aˋ
+t w aˊ ʊˊ l ʊˊ s aˋ
 t ʊˊ b aˊ t ʊˊ b aˋ
 t ʊˋ b ɪˋ k aˋ n aˋ
 t ʊˋ b ɪˋ k aˋ n ɔˋ
@@ -5443,8 +5443,8 @@ t ʊˋ r oˊ p iˋ k iˊ
 t ʊˋ r ɔˊ p ɔˊ
 t ʊˋ r ɔˊ w aˋ r aˊ
 t ɔˋ t aˊ
-t ʊˋ t ɬh aˋ n ɔˋ
-t ʊˋ t ɬh aˋ ɲ ɔˋ
+t ʊˋ th aˋ n ɔˋ
+t ʊˋ th aˋ ɲ ɔˋ
 t ɔˊ t ɔˊ b aˊ
 t ʊˊ t ʊˊ b aˊ l aˋ
 t ʊˊ t ʊˊ m aˊ l aˋ
@@ -5540,7 +5540,7 @@ t sh ɛˊ ph ɛˊ
 t sh eˊ p iˊ s aˊ
 t sh ɛˊ p ɔˊ
 t sh ɪˋ r ɪˋ aˋ n aˋ
-t sh ɪˋ t ɬ eˋ d iˋ
+t sh ɪˋ t eˋ d iˋ
 t sh ɪˊ t s aˊ
 t sh ɪˊ t s aˊ n aˋ
 t sh ɛˊ t sh ɛˊ th aˊ
@@ -5601,8 +5601,8 @@ t sh ʊˋ s eˋ t s aˋ
 t sh ʊˊ s ʊˊ b aˊ ɲ ɔˋ
 t sh oˊ s ʊˊ l ʊˊ x ɔˋ
 t sh ɔˋ s w aˊ n ɪˊ
-t sh ʊˋ t ɬ ɛˋ x ɔˋ
-t sh ʊˋ t ɬ ɔˋ
+t sh ʊˋ t ɛˋ x ɔˋ
+t sh ʊˋ t ɔˋ
 t sh uˋ b aˋ
 t sh uˊ iˊ s aˊ
 t sh uˊ iˊ s ɔˊ
@@ -5616,7 +5616,7 @@ t sh uˋ p eˋ x eˋ t s oˋ
 t sh uˋ p eˋ t s oˋ
 t sh uˋ p ɔˋ
 t sh uˋ t iˋ s ɔˋ
-t sh uˋ t ɬh ɔˋ
+t sh uˋ th ɔˋ
 t sh uˋ t ɔˋ
 t sh w aˋ b iˋ s ɔˋ
 t sh w aˋ ɛˋ x aˋ
@@ -5678,7 +5678,7 @@ t s iˊ eˊ t s aˊ
 t s iˊ eˊ t s ɛˊ x aˋ
 t s iˊ eˋ t s iˊ
 t s iˊ eˊ t s oˊ
-t s iˊ k iˊ t ɬ aˊ
+t s iˊ k iˊ t aˊ
 t s iˋ m ʊˋ l aˋ
 t s iˊ n aˊ
 t s iˊ p ʊˊ x aˊ
@@ -5699,7 +5699,7 @@ t s ʊˊ k ʊˊ t s aˊ
 t s ʊˊ l aˊ
 t s ʊˊ m aˊ
 t s oˊ p oˊ d iˊ ɛˋ x aˋ
-t s ɔˋ r ɔˋ t ɬ aˋ
+t s ɔˋ r ɔˋ t aˋ
 t s ʊˊ s aˊ
 t s ʊˊ s eˊ l eˊ t s aˋ
 t s ʊˊ s ʊˊ l ʊˊ x aˋ
@@ -5743,7 +5743,7 @@ t ʃh oˊ k ʊˊ l ɛˊ t ɛˋ
 t ʃh ɔˊ m aˊ
 t ʃh oˊ m iˊ
 t ʃh ɔˊ n aˊ
-t ʃh ɔˊ t ɬh aˊ
+t ʃh ɔˊ th aˊ
 t ʃh uˊ p uˊ
 t uˋ b aˋ
 t uˋ b aˋ n aˋ
@@ -5779,14 +5779,14 @@ uˋ p aˋ
 uˋ p aˋ l aˋ l aˋ
 uˋ p ʊˋ l ʊˋ l aˋ
 uˋ s aˋ
-uˊ t ɬ uˊ s aˊ
-uˊ t ɬ w aˊ
-uˊ t ɬ w aˊ l aˊ
-uˊ t ɬ w aˊ l ɛˊ l aˋ
-uˊ t ɬ w aˊ n aˊ
-uˊ t ɬ w aˊ t s aˊ
-uˊ t ɬ w ɛˊ x aˊ
-uˊ t ɬ w ɛˊ l aˊ
+uˊ t uˊ s aˊ
+uˊ t w aˊ
+uˊ t w aˊ l aˊ
+uˊ t w aˊ l ɛˊ l aˋ
+uˊ t w aˊ n aˊ
+uˊ t w aˊ t s aˊ
+uˊ t w ɛˊ x aˊ
+uˊ t w ɛˊ l aˊ
 uˊ t s w aˊ
 w aˋ
 w aˊ ɪˊ r ɪˋ
@@ -5794,7 +5794,7 @@ w ɛˋ l aˋ
 w ɛˋ l aˋ
 w ɛˋ l aˋ n aˋ
 w ɛˋ l w aˋ
-p r o
+w ɛˋ n aˊ
 w eˋ t s aˋ
 w eˋ t s ɛˋ x aˋ
 w iˊ s iˊ k iˊ
@@ -5805,3 +5805,25 @@ j ɔˋ
 j uˋ n iˋ b eˊ s iˋ th iˊ
 j uˊ n iˋ ɸ ɔˊ m ɔˊ
 j uˋ r ɔˊ p aˊ
+ɸ ʃ aˊ
+ɸ ʃ ɛˋ l aˋ
+s ɪˊ ɸ ʃ aˊ
+b aˋ ɸ ʃ aˊ
+m aˋ ɸ ʃ iˋ
+ɸ ʃ ɛˋ x aˋ ɸ ʃ ɛˋ x aˋ
+ɸ ʃ ɪˋ l ɛˋ
+b ʊˋ ɸ ʃ eˋ ŋˋ
+b ʊˋ p ʃ aˋ
+ŋ aˋ p ʃ aˋ
+mˋ p ʃ aˊ
+mˋ p ʃh aˋ p ʃh aˋ
+mˋ p ʃh ɛˋ
+mˋ p ʃh ɪˊ
+p ʃh aˋ t aˋ
+p ʃh ɛˊ x aˊ
+mˋ p ʃh aˋ
+p ʃh ɛˋ m ʊˋ x aˋ
+b ʒ aˊ l aˊ
+r ɔˋ b ʒ aˋ
+aˋ b ʒ aˋ
+b ʒ aˊ

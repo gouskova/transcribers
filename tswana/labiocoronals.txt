@@ -1,22 +1,23 @@
-ɸ ʃ aˊ	ʃ aˊ	burn
-ɸ ʃ ɛˋ l aˋ	ʃ ɛˋ l aˋ	burn-perfective
-s ɪˊ ɸ ʃ aˊ	s ɪˊ ʃ aˊ	modern ways of doing and behaving (matumo)
-b aˋ ɸ ʃ aˊ	b aˋ ʃ aˊ	the youth
-m a ɸ ʃ i	m a ʃ i	milk
-ɸ ʃ ɛ x a ɸ ʃ ɛ x a	ʃ ɛ x a ʃ ɛ x a	impatient
-ɸ ʃ ɪ l ɛ	ʃ ɪ l ɛ	has burnt
-b ʊ ɸ ʃ e ŋ	b ʊ ʃ e ŋ	lately
-b ʊ p ʃ a	b ʊ t ʃ a	to be moulded
-ŋ a p ʃ a	ŋ a t ʃ a	to be scratched
-mˋ p ʃ a	ɲ t ʃ a	dog
-m p ʃh a p ʃh a	ɲ t ʃh a t ʃh a	a type of Setswana delicacy
-mˋ p ʃh ɛˋ	ɲ t ʃh ɛˋ	sweet cane
-mˋ p ʃh ɪˊ	ɲ t ʃh eˊ	ostrich
-p ʃh a t a	t ʃh a t a	to crush
-p ʃh ɛ x a	t ʃh ɛ x a	vulgar expression for to have diarrhea
-mˋ p sh aˋ	nˋ t sh aˋ	new
-p ʃh ɛ m ʊ x a	t ʃh ɛ m ʊ x a	slip loose
-b ʒ aˊ l aˊ	d ʒ aˊ l aˊ	sow
-r ɔ b ʒ a	r ɔ d ʒ a	be broken
-a b ʒ a	a d ʒ a	be given away
-b ʒ a	d ʒ a	to belch
+sengwato	prefix	stem	pos 	other_dialects_pref	other_dialects_stem	gloss	comment
+ɸ ʃ aˊ		ɸ ʃ aˊ	v		ʃ aˊ	burn	tones were checked for words in Creissels 1996 (modulo coronal substitutions in the non-sengwato dialect), and if word was missing, low tone was assigned (no good reason other than  to have a tone)
+ɸ ʃ ɛˋ l aˋ		ɸ ʃ ɛˋ l aˋ	v		ʃ ɛˋ l aˋ	burn-perfective
+s ɪˊ ɸ ʃ aˊ		s ɪˊ ɸ ʃ aˊ	n		s ɪˊ ʃ aˊ	modern ways of doing and behaving (matumo)
+b aˋ ɸ ʃ aˊ	b aˋ	ɸ ʃ aˊ	n	b aˋ	ʃ aˊ	the youth
+m aˋ ɸ ʃ iˋ	m aˋ	ɸ ʃ iˋ	n	m aˋ	ʃ iˋ	milk
+ɸ ʃ ɛˋ x aˋ ɸ ʃ ɛˋ x aˋ		ɸ ʃ ɛˋ x aˋ ɸ ʃ ɛˋ x aˋ	a		ʃ ɛˋ x aˋ ʃ ɛˋ x aˋ	impatient
+ɸ ʃ ɪˋ l ɛˋ		ɸ ʃ ɪˋ l ɛˋ	v		ʃ ɪˋ l ɛˋ	has burnt
+b ʊˋ ɸ ʃ eˋ ŋˋ		b ʊˋ ɸ ʃ eˋ ŋˋ	NA		b ʊˋ ʃ eˋ ŋˋ	lately
+b ʊˋ p ʃ aˋ		b ʊˋ p ʃ aˋ	v		b ʊˋ t ʃ aˋ	to be moulded
+ŋ aˋ p ʃ aˋ		ŋ aˋ p ʃ aˋ	v		ŋ aˋ t ʃ aˋ	to be scratched
+mˋ p ʃ aˊ	mˋ	p ʃ aˊ	n	ɲˋ	t ʃ aˊ	dog
+mˋ p ʃh aˋ p ʃh aˋ	mˋ	p ʃh aˋ p ʃh aˋ	n	ɲˋ	t ʃh aˋ t ʃh aˋ	a type of Setswana delicacy
+mˋ p ʃh ɛˋ	mˋ	p ʃh ɛˋ	n	ɲˋ	t ʃh ɛˋ	sweet cane
+mˋ p ʃh ɪˊ	mˋ	p ʃh ɪˊ	n	ɲˋ	t ʃh eˊ	ostrich
+p ʃh aˋ t aˋ		p ʃh aˋ t aˋ	v		t ʃh aˋ t aˋ	to crush
+p ʃh ɛˊ x aˊ		p ʃh ɛˊ x aˊ	v		t ʃh ɛˊ x aˊ	vulgar expression for to have diarrhea
+mˋ p ʃh aˋ	mˋ	p ʃh aˋ	a	nˋ	t sh aˋ	new
+p ʃh ɛˋ m ʊˋ x aˋ		p ʃh ɛˋ m ʊˋ x aˋ	v		t ʃh ɛˋ m ʊˋ x aˋ	slip loose
+b ʒ aˊ l aˊ		b ʒ aˊ l aˊ	v		d ʒ aˊ l aˊ	sow
+r ɔˋ b ʒ aˋ		r ɔˋ b ʒ aˋ	v		r ɔˋ d ʒ aˋ	be broken
+aˋ b ʒ aˋ		aˋ b ʒ aˋ	v		aˋ d ʒ aˋ	be given away
+b ʒ aˊ		b ʒ aˊ	v		d ʒ aˊ	to belch

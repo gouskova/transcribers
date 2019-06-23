@@ -20,6 +20,7 @@ def transcribe_wd(word, tkey):
     for key in sorted(tkey):
         word = word.replace(tkey[key][0], tkey[key][1])
     word = word.replace(" -", "")
+    word = word.replace("v ", "ʋ ")
     return word
 
 

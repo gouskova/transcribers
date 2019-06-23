@@ -10,6 +10,7 @@ v h	vʱ
 z v	ʐ
 n '	ŋ
 n j	ɲ d ʒ
+n g	ŋ g
 z w	z g w
 s w	s k w
 s v	ʂ
@@ -25,7 +26,6 @@ n h	nʱ
 m h	mʱ
 b h	bʱ
 d h	dʱ
-v	ʋ
 h	ɦ
 j	d ʒ 
 y	j

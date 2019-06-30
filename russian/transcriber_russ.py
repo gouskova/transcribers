@@ -335,6 +335,8 @@ def fix_infinitives(word, spaces):
     if spaces=='yes':
         if word.endswith('tʲ sʲ a'):
             return word[:-7]+'ʦ a'
+        elif word.endswith('t sʲ a'):
+            return word[:-6]+ 'ʦ a'
         else:
             return word
     else:

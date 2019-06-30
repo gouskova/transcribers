@@ -4,13 +4,16 @@
 '''
 slight modifications to the file from Schott's wordlist for greek (Ralf's dictionaries) to make it usable in UCLAPL research
 
-also, some utilities for converting greek orthography into 
+also, some utilities for converting greek orthography into IPA
 '''
 
-import re
+import re, os
 
 
 def writefeats(inset, outpath):
+    '''
+    makes a skeleton of a Features.txt file (one IPA character per line)
+    '''
     outlist = []
     for wd in inset:
         segs = wd.split(' ')
@@ -21,6 +24,9 @@ def writefeats(inset, outpath):
         f.write('\n'.join(sorted(outlist)))
 
 def get_letters(inpath):
+    '''
+    finds all the letters in the word list that will need to be converted to IPA
+    '''
     outlist = set()
     with open(inpath, 'r', encoding='utf-8') as f:
         for line in f:
@@ -33,7 +39,7 @@ def get_letters(inpath):
 
 def spacify(inpath):
     '''
-    returns a list of words 
+    opens inpath, returns a giant list of words with spaces between chars 
     '''
     out = set() 
     with open(inpath, 'r', encoding='utf-8') as f:
@@ -47,41 +53,72 @@ def spacify(inpath):
 
 
 def writeld(inset, outpath):
+    '''
+    takes giant list of words and writes it to outpath
+    '''
     with open(outpath, 'w', encoding='utf-8') as f:
         for wd in sorted(inset):
             f.write(wd+'\n')
 
 
 def get_key(inpath):
-    out = {}
+    '''
+    reads in transcription key
+    '''
     with open(inpath, 'r', encoding='utf-8') as f:
-        for line in f:
-            segs = line.strip().split('\t')
-            out[segs[0]] = segs[1]
+        lines = f.readlines()
+        out = {}.fromkeys(range(1,len(lines)+1))
+        for k in out:
+            line = lines[k-1].strip('\n').split('\t')
+            out[k] = [line[0], line[1]]
     return out
 
 
-def transcribe(word, digraphs, unis):
-    for seg in word:
-        word = ''.join([digraphs[seq] if seq in digraphs else seq for seq in word])
-        word = ' '.join([unis[seg] if seg in unis else seg for seg in word])
+def transcribe(word, tkey):
+    '''
+    "word" is a string
+    'transkey' = is a dictionary of ordered substitions
+    '''
+    word = ' '.join(list(word.lower()))
+    for k in tkey:
+        word = word.replace(tkey[k][0], tkey[k][1]) 
     return word
 
 
 def transcribe_words(inpath, outpath):
-    digraphs = get_key('digraphs.txt')
-    unis = get_key('transcription_key.txt')
+    tkey = get_key('transcription_key.txt')
     with open(inpath, 'r', encoding='utf-8') as f:
         with open(outpath, 'w', encoding='utf-8') as out:
             for line in f:
                 word = line.strip().split(' ')[0].lower()
                 word = word.rstrip('/fnbced')
-                word = transcribe(word, digraphs, unis)
+                word = transcribe(word, tkey)
                 out.write(word+'\n')
     print('done writing ld')
 
 
+def reveng():
+    '''
+    tests my transcriptions against ralf/schott
+    '''
+    ralf = 'greek-dictionary_orig.txt'
+    tkey = get_key('transcription_key.txt') 
+    with open(ralf, 'r', encoding='utf-8') as f:
+        for line in f:
+            line = line.rstrip('\n').split('\t')
+            wd = line[0]
+            trans = ' '.join(list(line[1]))
+            mytrans = transcribe(wd, tkey)
+            if trans == mytrans:
+                continue
+            else:
+                print(trans + '\t' + mytrans)
+                continue
+
 def cheat(ralfpath, crubapath, outpath):
+    '''
+    plucks all the words in an crubadan that are also in ralf/schott,  and writes them to LearningData.txt
+    '''
     out = {}
     with open(ralfpath, 'r', encoding='utf-8') as f:
         for line in f:
@@ -102,6 +139,22 @@ def cheat(ralfpath, crubapath, outpath):
                     print(wd)
 
 
+def cmg(inpath, ortho=False):
+    tkey = get_key('transcription_key.txt')
+    with open(inpath, 'r', encoding='utf-8') as f:
+        with open('LearningData_cmg.txt', 'w', encoding='utf-8') as out:
+            for line in f:
+                if line.startswith(' lex:'):
+                    word = line.split(':')[1].strip()
+                    if '/' in word:
+                        word = word.split('/')[0].strip()
+                    if ortho:
+                        out.write(transcribe(word, tkey) + '\t' + word+ '\n')
+                    else:
+                        out.write(transcribe(word, tkey)+'\n')
+    print("done")
+
+
 
 if __name__=='__main__':
     import sys
@@ -115,3 +168,5 @@ if __name__=='__main__':
     elif 'crubadan' in sys.argv:
         #transcribe_words('greek_an_crubadan.txt', 'LearningData_crub.txt')
         cheat('greek-dictionary_orig.txt', 'greek_an_crubadan.txt', 'LearningData_crub.txt')
+    elif 'cmg' in sys.argv:
+        cmg(os.path.expanduser('~/Dropbox/work/dictionaries/greek/greek_lexemes.txt'), ortho=True)

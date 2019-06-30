@@ -1197,7 +1197,7 @@ t ʃ i k u m b i r o
 t ʃ i k u m e g u m b u  
 t ʃ i k u m o  
 t ʃ i k u n d o  
-t ʃ i k u n d ʒ g a  
+t ʃ i k u ɲ d ʒ g a  
 t ʃ i k u ŋ g u o   m u s o r i  
 t ʃ i k u ŋ g u r u  
 t ʃ i k u p o  
@@ -1239,7 +1239,7 @@ t ʃ i m i m b a
 t ʃ i m i n i  
 t ʃ i m i s o  
 t ʃ i m o m b e e n d a   t ʃ i m o m b e d z o k a  
-t ʃ i m u g o n d ʒ g a  
+t ʃ i m u g o ɲ d ʒ g a  
 t ʃ i m u k i r o  
 t ʃ i m u k o m b ʒ i r o  
 t ʃ i m u m u m u  
@@ -2523,7 +2523,7 @@ g a i
 g a k a  
 g a k a t ʃ i g a  
 g a k a m i r a  
-g a k a n d ʒ g e  
+g a k a ɲ d ʒ g e  
 g a k a r a r a  
 g a k a ʋ a  
 g a m a  
@@ -2606,7 +2606,7 @@ g a t a ɦ w a
 g a t a r e  
 g a t e  
 g a u d ʒ g a  
-g a u n d ʒ g a  
+g a u ɲ d ʒ g a  
 g a ʋ a  
 g a ʋ a  
 g a ʋ a m w e d z i  
@@ -3286,7 +3286,7 @@ i ŋ a
 i n d a  
 i n d a s i t i r i  
 i n d i d z a n a  
-i n d ʒ g e  
+i ɲ d ʒ g e  
 i ŋ g i  
 i n i  
 i n i n i  
@@ -3502,7 +3502,7 @@ k a n d a
 k a n d o n d o  
 k a n d u  
 k a n d u r a  
-k a n d ʒ g e r a  
+k a ɲ d ʒ g e r a  
 k a ŋ g a i  
 k a ŋ g a i  
 k a ŋ g a i d z a  
@@ -5225,14 +5225,14 @@ n d w e
 n d w i  
 n d w i s e  
 n d w i z i  
-n d ʒ g a n d ʒ g a d z a  
-n d ʒ g a r a r i d z a  
-n d ʒ g a ʋ a ʋ a  
-n d ʒ g e  
-n d ʒ g i r e n d ʒ g i r e  
-n d ʒ g o  
-n d ʒ g u n d ʒ g u  
-n d ʒ g u n d ʒ g u t a  
+ɲ d ʒ g a ɲ d ʒ g a d z a  
+ɲ d ʒ g a r a r i d z a  
+ɲ d ʒ g a ʋ a ʋ a  
+ɲ d ʒ g e  
+ɲ d ʒ g i r e ɲ d ʒ g i r e  
+ɲ d ʒ g o  
+ɲ d ʒ g u ɲ d ʒ g u  
+ɲ d ʒ g u ɲ d ʒ g u t a  
 n e t ʃ o m b o  
 n e d z o i  
 n e i  
@@ -5298,7 +5298,7 @@ n e ʐ o k u t i
 ŋ g e d a n i s a  
 ŋ g e m a t a m b u d z i k o  
 ŋ g e n d a  
-ŋ g e n d ʒ g e  
+ŋ g e ɲ d ʒ g e  
 ŋ g e ŋ g e r e d z a  
 ŋ g e ɲ d ʒ e  
 ŋ g e r e ŋ g e r e  
@@ -5444,7 +5444,7 @@ nʱ e n d a
 nʱ e n d e r e k e d z i  
 nʱ e n d e ʃ u r e  
 nʱ e n d e s u r e  
-nʱ e n d ʒ g a n a  
+nʱ e ɲ d ʒ g a n a  
 nʱ e ŋ g e n i  
 nʱ e ŋ g e ɲ ŋ a  
 nʱ e ŋ g o  
@@ -6842,7 +6842,7 @@ s e ʐ o
 ʃ o m a n a n a  
 ʃ o m e k a  
 ʃ o mʱ w e  
-ʃ o n d ʒ g a  
+ʃ o ɲ d ʒ g a  
 ʃ o ŋ g e d z a  
 ʃ o nʱ a  
 ʃ o ɲ o p o d z a  
@@ -6967,7 +6967,7 @@ s o k u ŋ g e
 s o k u t i  
 s o m e k a  
 s o n d o  
-s o n d ʒ g a  
+s o ɲ d ʒ g a  
 s o ŋ g a n a  
 s o nʱ o m o  
 s o n o n o  
@@ -7724,7 +7724,7 @@ u n d u b ʋ u r a
 u n d u m u  
 u n d u n d u  
 u n d u r a  
-u n d ʒ g i r e  
+u ɲ d ʒ g i r e  
 u ŋ g a  
 u ŋ g a   u ŋ g a  
 u ŋ g a n a  
@@ -11582,7 +11582,7 @@ g u r u m a
 g u r u m b a  
 g u r u m u ʂ i ʂ i  
 g u r u m w a n d i r a  
-g u r u ŋ g u n d ʒ g u  
+g u r u ŋ g u ɲ d ʒ g u  
 g u r u nʱ a  
 g u r u n u r a  
 g u r u r u  
@@ -11787,7 +11787,7 @@ i n a
 i n d a  
 i n d e e  
 i n d i r i r a  
-i n d ʒ g o  
+i ɲ d ʒ g o  
 i ŋ g a  
 i ŋ g i d z a  
 k a k a i r a  
@@ -12214,10 +12214,10 @@ n d w a r e
 n d w i  
 n d w i d z a  
 n d w i j o  
-n d ʒ g a n d ʒ g a   n d ʒ g a n d ʒ g a  
-n d ʒ g a ŋ g a  
-n d ʒ g a r a r a  
-n d ʒ g a r i  
+ɲ d ʒ g a ɲ d ʒ g a   ɲ d ʒ g a ɲ d ʒ g a  
+ɲ d ʒ g a ŋ g a  
+ɲ d ʒ g a r a r a  
+ɲ d ʒ g a r i  
 n i n i  
 n i n i ŋ g i d z a  
 n i n i p i s a  
@@ -12255,11 +12255,11 @@ m w o k o
 m w o n i  
 m w o w a  
 m w o j o  
-n d ʒ g a r i ŋ g o  
-n d ʒ g i r e  
-n d ʒ g u   n d ʒ g u   n d ʒ g u  
-n d ʒ g u n d ʒ g u d z a  
-n d ʒ g w a ʋ a ʋ a  
+ɲ d ʒ g a r i ŋ g o  
+ɲ d ʒ g i r e  
+ɲ d ʒ g u   ɲ d ʒ g u   ɲ d ʒ g u  
+ɲ d ʒ g u ɲ d ʒ g u d z a  
+ɲ d ʒ g w a ʋ a ʋ a  
 n e  
 n e ɦ a n d a  
 n e k a  
@@ -13081,7 +13081,7 @@ mʱ i d z u r a
 mʱ i mʱ i d z a  
 mʱ i n d e p i n d e  
 mʱ i n d u  
-mʱ i n d ʒ g a  
+mʱ i ɲ d ʒ g a  
 mʱ i ŋ g a n i d z o  
 mʱ i ŋ g o  
 m u f e ɲ d ʒ e  
@@ -13417,7 +13417,7 @@ m u n a n z i
 m u n a ʋ a  
 m u n d a r i r a  
 m u n d a t ʂ a  
-m u n d ʒ g a  
+m u ɲ d ʒ g a  
 m u s i m b i r o  
 m u s i m b ʒ a  
 m u s i n d o  
@@ -15764,7 +15764,7 @@ t s k w a t i
 t s k w i  
 u n d u k u r a  
 u n d u n d i k a  
-u n d ʒ g a r i  
+u ɲ d ʒ g a r i  
 u n e   u n e  
 u ŋ g a  
 u ŋ g a n i d z a  

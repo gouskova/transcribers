@@ -54,7 +54,7 @@ with open(path, 'r', encoding='utf-8') as f:
             IPA = IPA.replace('ɹ *', "")
             IPA = IPA.replace("n ŋ", "ŋ") #this happens because of the way CELEX transcribes fraanch loans
             IPA = IPA.strip('[]').replace(':', "")
-            IPA = IPA.replace(' ] [',  '')
+            IPA = IPA.replace(' ] [',  '') #so CELEX does not give morpheme boundaries for transcribed words, but in all the cases where t S is heteromorphemic, it's also heterosyllabic (e.g. court-ship). this step assures that only tautomorphemic t S is transcribed narrowly.
             IPA = IPA.replace('  ', ' ')
             if not ortho in celexdic:
                 celexdic[ortho]={'lemmafreq':lemmafreq, 'sylltrans':sylltrans, 'IPA': IPA}

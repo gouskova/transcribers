@@ -1,3 +1,21 @@
+α ι	e
+ε ι	i
+ο ι	i
+υ ι	i
+ο υ	u
+ε ί	i
+γ γ	ɡ
+γ κ	ɡ
+γ ξ	ŋ k s
+γ χ	ŋ x
+ε υ	e v
+α υ	a v
+ω υ	o i
+μ π	b
+ν τ	d
+τ ζ	d z
+ψ	p s
+ξ	k s	
 ΐ	i
 ά	a
 έ	e
@@ -6,10 +24,10 @@
 ΰ	i
 α	a
 β	v
-γ	g
+γ	ɣ
 δ	ð
 ε	e
-ζ	s
+ζ	z
 η	i
 θ	θ
 ι	i
@@ -17,7 +35,6 @@
 λ	l
 μ	m
 ν	n	
-ξ	ks	
 ο	o
 π	p
 ρ	r
@@ -27,10 +44,22 @@
 υ	i
 φ	f	
 χ	x
-ψ	ps
 ω	o
 ϊ	i
 ϋ	i
 ό	o
-ύ	í
+ύ	i
 ώ	o
+v k	f k		#allophonic rules
+v t	f t
+v p	f p
+v s	f s
+v x	f x
+x i	ç i
+x e	ç e
+g i	ɟ i
+g e	ɟ e
+ɣ i	ʝ i
+ɣ e	ʝ e
+k i	c i
+k e	c e

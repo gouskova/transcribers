@@ -4,12 +4,18 @@
 import os
 import itertools
 
+import sys
+sys.path.append(os.path.dirname(os.getcwd()))
+
+import clean_shona as cs
+
 workdir = os.getcwd()
 vowels = ['i', 'e', 'a', 'o', 'u'] #looked at the corpus manually, all non-vowel-final words are English
 
 def findshonasegs():
     shonasegs = []
-    feats = open('/home/maria/git/phonotactics/data/shona/verbs/Features.txt', 'r', encoding='utf-8')
+    #for older, non-ipa work
+    feats = open(os.path.expanduser('~/git/phonotactics/data/shona/verbs/Features.txt'), 'r', encoding='utf-8')
     f =feats.readlines()[1:]
     for line in f:
         seg = line.split('\t')[0].strip()
@@ -82,7 +88,23 @@ def spacify(wordlist):
         trandic[orthoword]=word
     print('length of shona wordlist after spacifying: ')
     print('\t' + str(len(trandic)))
-    return sorted([trandic[x] for x in trandic])
+    return sorted(tranndic.values())
+
+
+def transcribe(wordlist):
+    '''
+    transcribes into phones (without complex segments) as in clean_shona.py in the duramazwi dataset. according to zezuru descriptions.
+    '''
+    tkey = cs.transkey()
+    trandic = {}
+    print('length of shona wordlist before transcribing: ')
+    print('\t' + str(len(wordlist)))
+    for word in sorted(wordlist):
+        orthowd = cs.transcribe_wd(word, tkey)
+        trandic[orthowd] = word
+    print('lenth of shona wordlist after stranscribing: ')
+    print('\t'+str(len(trandic)))
+    return sorted(trandic.keys())
 
 
 def find_shona_clusters(wlist):
@@ -150,7 +172,7 @@ def removelongwds(wdic):
     return outdic
 
 def writeoutfile(shonawds):
-    outfile = open("LearningData.txt", 'w', encoding='utf-8')
+    outfile = open("LearningData_allex_IPA.txt", 'w', encoding='utf-8')
     for wd in shonawds:
         outfile.write(wd+'\n')
     outfile.close()
@@ -160,3 +182,12 @@ def cleanshona():
     f = removelongwds(removeforeignsegs(spacify(intersectcelex(rawshona()))))
     writeoutfile(f)
     print('done with ALLEX cleaning')
+
+
+def transc_shona():
+    f = transcribe(intersectcelex(rawshona()))
+    writeoutfile(f)
+
+
+if __name__=='__main__':
+    transc_shona()

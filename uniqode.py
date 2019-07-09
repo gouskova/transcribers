@@ -4,14 +4,19 @@
 '''
 a python3 utility to create a copy of a file that eliminates duplicate lines. similar to the bash 'uniq' command except that it works on UTF-8 encoded files.
 
-usage: 
+copy it to your bin directory as uniqode, and then do:
 
-$ pyuniq infile.txt
+$ uniqode infile.txt
 
-this will create a copy of infile.txt called infile_uniq.txt, in the same directory as infile.txt
+by default this will create a copy of infile.txt called infile_uniq.txt, in the same directory as infile.txt
+
+if you want to name the file something else, give the util second argument:
+
+$ uniqode infile.whatevs outfile.somestuff
+
 '''
 
-def unique(infile):
+def unique(infile, outfile):
     wordset = set()
     if infile.endswith('.txt') and len(infile.split('.txt'))==2:
         outpath = infile.split('.txt')[0]+'_uniq.txt'
@@ -30,8 +35,15 @@ def unique(infile):
 
 if __name__=='__main__':
     import sys
-    try:
-        unique(sys.argv[1])
-    except FileNotFoundError:
-        print("file " + sys.argv[1] + " does not exist.")
+    if len(sys.argv)==2:
+        try:
+            unique(sys.argv[1])
+        except FileNotFoundError:
+            print("file " + sys.argv[1] + " does not exist.")
+    elif len(sys.argv)==3:
+            print("file " + sys.argv[2] + ' will be overwritten if it exists.')  
+            try:
+                unique(sys.argv[1], sys.argv[2])
+            except FileNotFoundError:
+                print("file " + sys.argv[1] + " does not exist.")
 

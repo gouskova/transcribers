@@ -6,6 +6,7 @@ designed to make duramazwi recishona usable for phonological purposes
 http://www.edd.uio.no/perl/search/search.cgi?appid=215;tabid=2391&lang=ENG
 (the source list was obtained by sending an empty query to the database)
 '''
+import os
 
 def transkey():
     with open('transcription_key.txt', 'r', encoding='utf-8') as f:
@@ -28,7 +29,7 @@ def transcribe_words():
     tkey = transkey()
     segs = []
     with open('duramazwi_rechishona.txt', 'r', encoding='utf-8') as f:
-        with open('LearningData.txt', 'w', encoding='utf-8') as out:
+        with open('LearningData_duramazwi.txt', 'w', encoding='utf-8') as out:
             for line in f:
                 word = ' '.join(list(line.strip('\n').split('\t')[0].lower().strip('-')))
                 word = transcribe_wd(word, tkey)
@@ -41,8 +42,26 @@ def transcribe_words():
             f.write(seg+'\n')
     print('done')
 
+def transcribe_allex():
+    tkey = transkey()
+    segs = []
+    with open(os.path.join('allex', 'orig_shona_allex.txt'), 'r', encoding='utf-8') as f:
+        with open('LearningData_allex.txt', 'w', encoding='utf-8') as out:
+            for line in f:
+                word = ' '.join(list(line.strip().lower().replace('-', '')))
+                if not word[-1] in ['a','e','i','o','u']:
+                    continue
+                else:
+                    word = transcribe_wd(word, tkey)
+                    out.write(word+'\n')
+    print('done')
+
 
 
 
 if __name__=='__main__':
-    transcribe_words()
+    import sys
+    if 'dura' in sys.argv:
+        transcribe_words()
+    elif 'allex' in sys.argv:
+        transcribe_allex()

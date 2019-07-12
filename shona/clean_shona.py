@@ -42,9 +42,22 @@ def transcribe_words():
             f.write(seg+'\n')
     print('done')
 
-def transcribe_allex():
+def intersectcelex(inlist):
+    celex = open('/home/maria/git/transcribers/shona/shona_wd_corpus/celex_word_freq.txt', 'r', encoding='utf-8')
+    f = []
+    for line in celex:
+        word = line.split('\\')[1]
+        if not word in f:
+            f.append(' '.join(list(word.lower())))
+    celex.close()
+    outlist = list(sorted(inlist-set(f))) 
+    return outlist
+
+
+def transcribe_allex(celex = True):
     tkey = transkey()
-    segs = []
+    if celex:
+        wds = set()
     with open(os.path.join('allex', 'orig_shona_allex.txt'), 'r', encoding='utf-8') as f:
         with open('LearningData_allex.txt', 'w', encoding='utf-8') as out:
             for line in f:
@@ -52,8 +65,19 @@ def transcribe_allex():
                 if not word[-1] in ['a','e','i','o','u']:
                     continue
                 else:
-                    word = transcribe_wd(word, tkey)
-                    out.write(word+'\n')
+                    if not celex:
+                        word = transcribe_wd(word, tkey)
+                        out.write(word+'\n')
+                    else:
+                        wds.add(word)
+            if celex:
+                outlist = intersectcelex(wds)
+                for word in outlist:
+                    if 'x' in word or 'c' in word or 'q' in word:
+                        pass
+                    else:
+                        word = transcribe_wd(word, tkey)
+                        out.write(word+'\n')
     print('done')
 
 

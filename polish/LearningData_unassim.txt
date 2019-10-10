@@ -228,7 +228,7 @@ a d j u t a n t s k i
 a d j u t a n t
 a d l e r ɨ z m
 a d m i ɲ i s t r a t s j a
-a d m i ɲ i s t r a t s ɨ j n o - o r g a ɲ i z a t s ɨ j n ɨ
+a d m i ɲ i s t r a t s ɨ j n o o r g a ɲ i z a t s ɨ j n ɨ
 a d m i ɲ i s t r a t s ɨ j n ɨ
 a d m i ɲ i s t r a t o r
 a d m i ɲ i s t r a t o r k a
@@ -1299,7 +1299,7 @@ a n a l o g i t ʂ n o ɕ t ɕ
 a n a l o g i t ʂ n ɨ
 a n a l o g i z m
 a n a l o g o n
-a n a l o g o v o - t s ɨ f r o v ɨ
+a n a l o g o v o t s ɨ f r o v ɨ
 a n a l o g o v ɨ
 a n a m n e s t ɨ t ʂ n ɨ
 a n a m n e z a
@@ -2988,7 +2988,7 @@ b a d a j õ t s
 b a d a j õ t s ɨ
 b a d a ɲ j e
 b a d a n ɨ
-b a d a v t ʂ o - r o z v o j o v ɨ
+b a d a v t ʂ o r o z v o j o v ɨ
 b a d a v t ʂ ɨ
 b a d j a n
 b a d m i n t o n
@@ -3247,7 +3247,7 @@ b a w a m u t s t v o
 b a w a m u t
 b a w a m u t k a
 b a w a m u t n ɨ
-b a w t o - s w o v j a ɲ s k i
+b a w t o s w o v j a ɲ s k i
 b a w t o l o g
 b a w t o l o g j a
 b a w t ɨ s t a
@@ -4322,7 +4322,7 @@ b j a w k o v a ɲ j e
 b j a w k o v ɨ
 b j a w k u v k a
 b j a w o
-b j a w o - t ʂ e r v o n ɨ
+b j a w o t ʂ e r v o n ɨ
 b j a w o d ʐ e v
 b j a w o g ʐ b j e t ɨ
 b j a w o g ʐ ɨ v ɨ
@@ -7022,7 +7022,7 @@ x e m j a
 x e m j a t r j a
 x e m i t ʂ k a
 x e m i t ʂ ɲ j e
-x e m i t ʂ n o - f i z ɨ t ʂ n ɨ
+x e m i t ʂ n o f i z ɨ t ʂ n ɨ
 x e m i t ʂ n ɨ
 x e m i g r a f
 x e m i g r a f j a
@@ -7727,9 +7727,9 @@ x ʐ e s t n ɨ
 x ʐ e ɕ t ɕ i j a ɲ i n
 x ʐ e ɕ t ɕ i j a n k a
 x ʐ e ɕ t ɕ i j a ɲ s k i
-x ʐ e ɕ t ɕ i j a ɲ s k o - d e m o k r a t ɨ t ʂ n ɨ
-x ʐ e ɕ t ɕ i j a ɲ s k o - n a r o d o v ɨ
-x ʐ e ɕ t ɕ i j a ɲ s k o - s p o w e t ʂ n ɨ
+x ʐ e ɕ t ɕ i j a ɲ s k o d e m o k r a t ɨ t ʂ n ɨ
+x ʐ e ɕ t ɕ i j a ɲ s k o n a r o d o v ɨ
+x ʐ e ɕ t ɕ i j a ɲ s k o s p o w e t ʂ n ɨ
 x ʐ e ɕ ɲ j a t ʂ e k
 x ʐ e ɕ ɲ j a k
 x ʐ e ɕ ɲ i t s a
@@ -8386,7 +8386,7 @@ t s n o t l i v o ɕ t ɕ
 t s n o t l i v ɨ
 t s o
 t s o b o l
-t s o t s a - t s o l a
+t s o t s a t s o l a
 t s o t s k t a i l
 t s o t s t a i l o v ɨ
 t s o d a
@@ -8897,8 +8897,8 @@ t ʂ a r ɲ j a v ɨ
 t ʂ a r ɲ j u ɕ j e ɲ k i
 t ʂ a r ɲ j u t k i
 t ʂ a r n o
-t ʂ a r n o - b j a w o
-t ʂ a r n o - b j a w ɨ
+t ʂ a r n o b j a w o
+t ʂ a r n o b j a w ɨ
 t ʂ a r n o b r e v a
 t ʂ a r n o b r e v ɨ
 t ʂ a r n o g j e w d o v ɨ
@@ -9163,13 +9163,13 @@ t ʂ k a v k a
 t ʂ k n õ t ɕ
 t ʂ k n õ v ʂ ɨ
 t ʂ k ɲ j ẽ t ɕ j e
-t ʂ w a p - t ʂ w a p
+t ʂ w a p t ʂ w a p
 t ʂ w a p a t ɕ
 t ʂ w a p a ɲ j e
 t ʂ w a p a n ɨ
 t ʂ w a p j õ t s
 t ʂ w a p j õ t s ɨ
-t ʂ w a p u - t ʂ w a p u
+t ʂ w a p u t ʂ w a p u
 t ʂ w a p ɨ
 t ʂ w e t ʂ ɨ n a
 t ʂ w e t ʂ ɨ s k o
@@ -10552,7 +10552,7 @@ d j a l i z a
 d j a l i z a t
 d j a l i z a t o r
 d j a l o g
-d j a l o g o v o - p ʐ ɨ g o d o v ɨ
+d j a l o g o v o p ʐ ɨ g o d o v ɨ
 d j a l o g o v ɨ
 d j a m e n t ɕ i k
 d j a m e n t
@@ -12573,7 +12573,7 @@ d r u k o v a ɲ j e
 d r u k o v a n ɨ
 d r u k o v ɨ
 d r u k u j õ t s
-d r u k u j õ t s o - s k a n u j õ t s ɨ
+d r u k u j õ t s o s k a n u j õ t s ɨ
 d r u k u j õ t s ɨ
 d r u m l a
 d r u m l i n
@@ -13788,7 +13788,7 @@ e d r e d o n
 e d r e d o n o v ɨ
 e d u k a t s j a
 e d u k a t s j o ɲ i z m
-e d u k a t s ɨ j n o - r o z r ɨ v k o v ɨ
+e d u k a t s ɨ j n o r o z r ɨ v k o v ɨ
 e d u k a t s ɨ j n ɨ
 e d u k o v a t ɕ
 e d u k o v a ɲ j e
@@ -15133,7 +15133,7 @@ f a g o t s ɨ t o z a
 f a g o t
 f a g o t o v ɨ
 f a i r
-f a i r - p l a ɨ
+f a i r p l a ɨ
 f a j a
 f a j a n s
 f a j a n s o v ɨ
@@ -16947,7 +16947,7 @@ g a d g e t
 g a d k a
 g a d o l i n
 g a d o ʐ e r
-g a d u - g a d u
+g a d u g a d u
 g a d u l s k i
 g a d u l s t v o
 g a d u w a
@@ -18089,7 +18089,7 @@ g w u x n õ t s ɨ
 g w u x n õ t ɕ
 g w u x ɲ j ẽ t ɕ j e
 g w u x o
-g w u x o - t ɕ j e m n ɨ
+g w u x o t ɕ j e m n ɨ
 g w u x o ɲ j e m o t a
 g w u x o ɲ j e m ɨ
 g w u x o t a
@@ -19522,7 +19522,7 @@ x a n d l o v a t ɕ
 x a n d l o v a ɲ j e
 x a n d l o v j e t s
 x a n d l o v o
-x a n d l o v o - u s w u g o v ɨ
+x a n d l o v o u s w u g o v ɨ
 x a n d l o v ɨ
 x a n d l u v k a
 x a n d l u j õ t s
@@ -20197,7 +20197,7 @@ x i s t o r j o z o f i t ʂ n ɨ
 x i s t o r ɨ t s ɨ z m
 x i s t o r ɨ t ʂ k a
 x i s t o r ɨ t ʂ ɲ j e
-x i s t o r ɨ t ʂ n o - l i t e r a t s k i
+x i s t o r ɨ t ʂ n o l i t e r a t s k i
 x i s t o r ɨ t ʂ n o j ẽ z ɨ k o v ɨ
 x i s t o r ɨ t ʂ n o l i t e r a t s k i
 x i s t o r ɨ t ʂ n o ɕ t ɕ
@@ -20447,7 +20447,7 @@ x r ɨ m n õ v ʂ ɨ
 x r ɨ m ɲ j ẽ t ɕ j e
 x r ɨ m ɲ j ẽ t ɨ
 x u
-x u - x a
+x u x a
 x u b a
 x u b a l t ʂ ɨ k
 x u b k a
@@ -20799,7 +20799,7 @@ i d e o m o t o r ɨ t ʂ n ɨ
 i d e o t v u r t ʂ ɨ
 i d e o v j e t s
 i d e o v o
-i d e o v o - v ɨ x o v a v t ʂ ɨ
+i d e o v o v ɨ x o v a v t ʂ ɨ
 i d e o v o ɕ t ɕ
 i d e o v ɨ
 i d j o t s e ɲ j e
@@ -22274,7 +22274,7 @@ j a p o n k a
 j a p o n o l o g
 j a p o n o l o g j a
 j a p o ɲ s k i
-j a p o ɲ s k o - a n g j e l s k i
+j a p o ɲ s k o a n g j e l s k i
 j a p o ɲ s k o j ẽ z ɨ t ʂ n ɨ
 j a p o ɲ s k o ɕ t ɕ
 j a p o ɲ s k u
@@ -22926,7 +22926,7 @@ j o n o g r a m
 j o n o s f e r a
 j o n o s f e r ɨ t ʂ n ɨ
 j o n o s o n d a
-j o n o v o - l i t o v ɨ
+j o n o v o l i t o v ɨ
 j o n o v ɨ
 j o n t o f o r e z a
 j o ɲ s k i
@@ -24410,7 +24410,7 @@ k a ʂ t e l a ɲ s t v o
 k a ʂ t e l o v ɨ
 k a ʂ u b j e ɲ j e
 k a ʂ u b s k i
-k a ʂ u b s k o - p o m o r s k i
+k a ʂ u b s k o p o m o r s k i
 k a ʂ u b ʂ t ʂ ɨ z n a
 k a ʂ ɨ t s a
 k a t
@@ -24514,7 +24514,7 @@ k a t o d a
 k a t o d o l u m i n o f o r
 k a t o d o v ɨ
 k a t o l i t s k i
-k a t o l i t s k o - s p o w e t ʂ n ɨ
+k a t o l i t s k o s p o w e t ʂ n ɨ
 k a t o l i t s ɨ z m
 k a t o l i t ʂ k a
 k a t o l i k
@@ -25343,8 +25343,8 @@ k l e p s ɨ d r a
 k l e p s ɨ d r o v ɨ
 k l e p t o m a n
 k l e p t o m a ɲ j a
-k l e p u - k l e p
-k l e p u - k l e p u
+k l e p u k l e p
+k l e p u k l e p u
 k l e r
 k l e r k
 k l e r k i z m
@@ -31074,7 +31074,7 @@ l i t o t o m j a
 l i t o v a t ɕ
 l i t o v a ɲ j e
 l i t o v j e t s
-l i t o v o - j o n o v ɨ
+l i t o v o j o n o v ɨ
 l i t r
 l i t r a ʐ
 l i t r o v ɨ
@@ -31694,7 +31694,7 @@ w a p u v k a ʐ
 w a p u v k o v ɨ
 w a p s e r d a k
 w a p s k o
-w a p u - t s a p u
+w a p u t s a p u
 w a ɕ i t s a
 w a ɕ i t s o v a t ɨ
 w a ɕ i t ʂ k a
@@ -31988,7 +31988,7 @@ w u b i n
 w u b i n o v ɨ
 w u b k o v ɨ
 w u b o v ɨ
-w u b u - d u
+w u b u d u
 w u t ʂ e k
 w u t ʂ ɲ i t s t v o
 w u t ʂ ɲ i t ʂ k a
@@ -32057,7 +32057,7 @@ w u p n õ t ɕ
 w u p n õ v ʂ ɨ
 w u p ɲ j ẽ t ɕ j e
 w u p ɲ j ẽ t ɨ
-w u p u - t s u p u
+w u p u t s u p u
 w u s e t ʂ k a
 w u s k a
 w u s k a t ɕ
@@ -32316,7 +32316,7 @@ m a g n e s u j õ t s ɨ
 m a g n e s ɨ n
 m a g n e ɕ ɲ i t s a
 m a g n e t o
-m a g n e t o - o p t ɨ t ʂ n ɨ
+m a g n e t o o p t ɨ t ʂ n ɨ
 m a g n e t o d ɨ n a m i k a
 m a g n e t o e l e k t r ɨ t ʂ n ɨ
 m a g n e t o f o n
@@ -32994,7 +32994,7 @@ m a r k o v ɨ
 m a r k ɕ i s t a
 m a r k ɕ i s t o v s k i
 m a r k ɕ i s t o v s k o
-m a r k ɕ i s t o v s k o - l e ɲ i n o v s k i
+m a r k ɕ i s t o v s k o l e ɲ i n o v s k i
 m a r k ɕ i z m
 m a r k s o v s k i
 m a r k u j õ t s
@@ -33286,8 +33286,8 @@ m a t e t ʂ ɲ i k
 m a t e t ʂ n ɨ
 m a t e m a t ɨ t ʂ k a
 m a t e m a t ɨ t ʂ ɲ j e
-m a t e m a t ɨ t ʂ n o - f i z ɨ t ʂ n ɨ
-m a t e m a t ɨ t ʂ n o - p ʐ ɨ r o d ɲ i t ʂ ɨ
+m a t e m a t ɨ t ʂ n o f i z ɨ t ʂ n ɨ
+m a t e m a t ɨ t ʂ n o p ʐ ɨ r o d ɲ i t ʂ ɨ
 m a t e m a t ɨ t ʂ n ɨ
 m a t e m a t ɨ k
 m a t e m a t ɨ k a
@@ -35137,7 +35137,7 @@ m o t ʂ o n ɨ
 m o t ʂ o p ẽ d ɲ j e
 m o t ʂ o p ẽ d n ɨ
 m o t ʂ o p w t ɕ j o v ɨ
-m o t ʂ o v o - p w t ɕ j o v ɨ
+m o t ʂ o v o p w t ɕ j o v ɨ
 m o t ʂ o v u d
 m o t ʂ o v ɨ
 m o t ʂ u v k a
@@ -35504,7 +35504,7 @@ m o r a l i z o v a n ɨ
 m o r a l i z u j õ t s
 m o r a l i z u j õ t s ɨ
 m o r a l ɲ j e
-m o r a l n o - e t ɨ t ʂ n ɨ
+m o r a l n o e t ɨ t ʂ n ɨ
 m o r a l n o ɕ t ɕ
 m o r a l n ɨ
 m o r a w
@@ -35739,7 +35739,7 @@ m u z g o t ʂ a ʂ k a
 m u z g o v j e
 m u z g o v j e t s
 m u z g o v ɲ i t s a
-m u z g o v o - r d z e ɲ j o v ɨ
+m u z g o v o r d z e ɲ j o v ɨ
 m u z g o v ɨ
 m u ʐ d ʐ e k
 m r õ t s
@@ -35780,7 +35780,7 @@ m r u v k o l e v
 m r u v k o v j e t s
 m r u v k o v ɨ
 m r u z
-m r u - m r u
+m r u m r u
 m r u t ʂ a n d o
 m r u t ʂ a n ɨ
 m r u t ʂ õ t s
@@ -38250,7 +38250,7 @@ n a r o d ɲ i t s t v o
 n a r o d ɲ i k
 n a r o d o v j e t s
 n a r o d o v o
-n a r o d o v o - d e m o k r a t ɨ t ʂ n ɨ
+n a r o d o v o d e m o k r a t ɨ t ʂ n ɨ
 n a r o d o v o ɕ t ɕ j o v o
 n a r o d o v o ɕ t ɕ j o v ɨ
 n a r o d o v o ɕ t ɕ
@@ -39919,7 +39919,7 @@ n ẽ k a n ɨ
 ɲ j e m j a r o v o ɕ t ɕ
 ɲ j e m j a r o v ɨ
 ɲ j e m j e t s k i
-ɲ j e m j e t s k o - p o l s k i
+ɲ j e m j e t s k o p o l s k i
 ɲ j e m j e t s k o ɕ t ɕ
 ɲ j e m j e t s k u
 ɲ j e m j e ɲ j e
@@ -41297,7 +41297,7 @@ n o m o g r a m
 n o m o k r a t s j a
 n o m o l o g i t ʂ n ɨ
 n o m o t e t ɨ t ʂ n ɨ
-n o n - i r o n o v ɨ
+n o n i r o n o v ɨ
 n o n s t o p
 n o n a
 n o n a j r o n
@@ -51775,7 +51775,7 @@ p j ẽ t ʐ õ t s ɨ
 p j ẽ t ʐ e ɲ j e
 p j ẽ t ʐ o n ɨ
 p j ẽ t ʐ ɨ t ɕ
-p i f - p a f
+p i f p a f
 p i g m a l j o ɲ i z m
 p i g m e j
 p i g m e n t
@@ -52097,7 +52097,7 @@ p i v o ɲ j a
 p i v o ʂ
 p i v o v a r
 p i v o v a r s k i
-p i v o v a r s k o - s w o d o v ɲ i t ʂ ɨ
+p i v o v a r s k o s w o d o v ɲ i t ʂ ɨ
 p i v o v a r s t v o
 p i v s k o
 p i z d a
@@ -55771,7 +55771,7 @@ p o l i t u r u j õ t s
 p o l i t u r u j õ t s ɨ
 p o l i t ɨ t ʂ n a
 p o l i t ɨ t ʂ ɲ j e
-p o l i t ɨ t ʂ n o - i n f o r m a t ɨ t ʂ n ɨ
+p o l i t ɨ t ʂ n o i n f o r m a t ɨ t ʂ n ɨ
 p o l i t ɨ t ʂ n o v ɨ x o v a v t ʂ ɨ
 p o l i t ɨ t ʂ n ɨ
 p o l i t ɨ k
@@ -55821,7 +55821,7 @@ p o l o v a n k o
 p o l o v ɨ
 p o l u v k a
 p o l s k i
-p o l s k o - ɲ j e m j e t s k i
+p o l s k o ɲ j e m j e t s k i
 p o l s k o j ẽ z ɨ t ʂ n ɨ
 p o l s k o ɕ t ɕ
 p o l s k u
@@ -55911,8 +55911,8 @@ p o w u d ɲ i k o v o
 p o w u d ɲ i k o v ɨ
 p o w u d ɲ j o v j e t s
 p o w u d ɲ j o v o
-p o w u d ɲ j o v o - v s x o d ɲ i
-p o w u d ɲ j o v o - z a x o d ɲ i
+p o w u d ɲ j o v o v s x o d ɲ i
+p o w u d ɲ j o v o z a x o d ɲ i
 p o w u d ɲ j o v s x u d
 p o w u d ɲ j o v ɨ
 p o w u d ɲ j o z a x u d
@@ -58563,8 +58563,8 @@ p u w m r o k
 p u w n a g i
 p u w n a g o
 p u w n o t s
-p u w n o t s n o - v s x o d ɲ i
-p u w n o t s n o - z a x o d ɲ i
+p u w n o t s n o v s x o d ɲ i
+p u w n o t s n o z a x o d ɲ i
 p u w n o t s n ɨ
 p u w n u m e r
 p u w n u t a
@@ -59213,7 +59213,7 @@ p r o d u t s e n t
 p r o d u k t s j a
 p r o d u k t s ɨ j ɲ j a k
 p r o d u k t s ɨ j ɲ j e
-p r o d u k t s ɨ j n o - u s w u g o v ɨ
+p r o d u k t s ɨ j n o u s w u g o v ɨ
 p r o d u k t s ɨ j n o ɕ t ɕ
 p r o d u k t s ɨ j n ɨ
 p r o d u k o v a t ɕ
@@ -61474,7 +61474,7 @@ p ʐ e m ɨ k a ɲ j e
 p ʐ e m ɨ s w
 p ʐ e m ɨ s w o v j e t s
 p ʐ e m ɨ s w o v o
-p ʐ e m ɨ s w o v o - x a n d l o v ɨ
+p ʐ e m ɨ s w o v o x a n d l o v ɨ
 p ʐ e m ɨ s w o v ɨ
 p ʐ e m ɨ s w u v k a
 p ʐ e m ɨ ɕ l a t ɕ
@@ -66401,7 +66401,7 @@ r o b o l
 r o b o t
 r o b o t a
 r o b o t ɲ i t s a
-r o b o t ɲ i t ʂ o - x w o p s k i
+r o b o t ɲ i t ʂ o x w o p s k i
 r o b o t ɲ i t ʂ ɨ
 r o b o t ɲ i k
 r o b o t n ɨ
@@ -66525,12 +66525,12 @@ r o l ɲ i t s a
 r o l ɲ i t s t v o
 r o l ɲ i t ʂ k a
 r o l ɲ i t ʂ o
-r o l ɲ i t ʂ o - t e x ɲ i t ʂ n ɨ
+r o l ɲ i t ʂ o t e x ɲ i t ʂ n ɨ
 r o l ɲ i t ʂ o p ʐ e m ɨ s w o v ɨ
 r o l ɲ i t ʂ ɨ
 r o l ɲ i k
-r o l n o - p ʐ e m ɨ s w o v ɨ
-r o l n o - s p o ʐ ɨ v t ʂ ɨ
+r o l n o p ʐ e m ɨ s w o v ɨ
+r o l n o s p o ʐ ɨ v t ʂ ɨ
 r o l n ɨ
 r o l o v a t ɕ
 r o l o v a ɲ j e
@@ -74005,7 +74005,7 @@ s p o w e t ʂ ɲ j e
 s p o w e t ʂ ɲ i k
 s p o w e t ʂ ɲ i k o s t v o
 s p o w e t ʂ ɲ i k o v s k i
-s p o w e t ʂ n o - k u l t u r a l n ɨ
+s p o w e t ʂ n o k u l t u r a l n ɨ
 s p o w e t ʂ n o e k o n o m i t ʂ n ɨ
 s p o w e t ʂ n o ɕ t ɕ
 s p o w e t ʂ n ɨ
@@ -75602,7 +75602,7 @@ s t u k o t a ɲ j e
 s t u k r o t ɲ j e
 s t u k r o t n ɨ
 s t u k u
-s t u k u - p u k u
+s t u k u p u k u
 s t u k u w k a
 s t u l a t ɕ
 s t u l a j õ t s
@@ -78754,7 +78754,7 @@ t e x ɲ i t s ɨ s t ɨ t ʂ n ɨ
 t e x ɲ i t s ɨ z a t s j a
 t e x ɲ i t s ɨ z m
 t e x ɲ i t ʂ ɲ j e
-t e x ɲ i t ʂ n o - x a n d l o v ɨ
+t e x ɲ i t ʂ n o x a n d l o v ɨ
 t e x ɲ i t ʂ n ɨ
 t e x ɲ i k
 t e x ɲ i k a
@@ -79153,7 +79153,7 @@ t ẽ ʐ ɨ z n a
 t f u
 t j a r a
 t i k
-t i k - t a k
+t i k t a k
 t i k o v a ɲ j e
 t i n t a
 t j o m o t ʂ ɲ i k
@@ -79483,7 +79483,7 @@ t o t u m f a t s k i
 t o t u s
 t o v a r
 t o v a r o v j e t s
-t o v a r o v o - p j e ɲ j ẽ ʐ n ɨ
+t o v a r o v o p j e ɲ j ẽ ʐ n ɨ
 t o v a r o v o ɕ t ɕ
 t o v a r o v ɨ
 t o v a r o z n a v t s a
@@ -80415,7 +80415,7 @@ t u p o t
 t u p o t a t ɕ
 t u p o t a ɲ j e
 t u p u
-t u p u - t u p
+t u p u t u p
 t u r
 t u r a
 t u r a k
@@ -80470,7 +80470,7 @@ t u r p i z m
 t u r ɨ s t a
 t u r ɨ s t k a
 t u r ɨ s t ɨ t ʂ ɲ j e
-t u r ɨ s t ɨ t ʂ n o - k r a j o z n a v t ʂ ɨ
+t u r ɨ s t ɨ t ʂ n o k r a j o z n a v t ʂ ɨ
 t u r ɨ s t ɨ t ʂ n ɨ
 t u r ɨ s t ɨ k a
 t u ʐ ɨ
@@ -80580,7 +80580,7 @@ t ɨ g r ɨ ɕ j ẽ
 t ɨ j õ t s
 t ɨ j õ t s ɨ
 t ɨ k
-t ɨ k - t a k
+t ɨ k t a k
 t ɨ k a
 t ɨ k a t ɕ
 t ɨ k a j õ t s
@@ -84235,7 +84235,7 @@ u ʐ ɨ t k o v a ɲ j e
 u ʐ ɨ t k o v a n ɨ
 u ʐ ɨ t k o v ɲ i t ʂ k a
 u ʐ ɨ t k o v ɲ i k
-u ʐ ɨ t k o v o - n a ʐ ẽ d ʑ j o v ɨ
+u ʐ ɨ t k o v o n a ʐ ẽ d ʑ j o v ɨ
 u ʐ ɨ t k o v o ɕ t ɕ
 u ʐ ɨ t k o v ɨ
 u ʐ ɨ t k u j õ t s
@@ -84274,7 +84274,7 @@ v i d e
 v i d e o
 v i d e o t s l i p
 v i s
-v i s - a - v i s
+v i s a v i s
 v o l k s d e u t s x
 v o l k s v a g e n
 v o l l e ɨ
@@ -86199,7 +86199,7 @@ v i z o v ɨ
 v i z u a l i z a t s j a
 v i z u a l i z m
 v i z u a l ɲ j e
-v i z u a l n o - o b l i t ʂ e ɲ j o v o - k o m u ɲ i k a t s ɨ j n ɨ
+v i z u a l n o o b l i t ʂ e ɲ j o v o k o m u ɲ i k a t s ɨ j n ɨ
 v i z u a l n ɨ
 v i z u j õ t s
 v i z u j õ t s ɨ
@@ -86255,7 +86255,7 @@ v k l ẽ s a j õ t s
 v k l ẽ s a j õ t s ɨ
 v k l ẽ s a ɲ j e
 v k l ẽ s w o
-v k l ẽ s w o - v ɨ p u k w ɨ
+v k l ẽ s w o v ɨ p u k w ɨ
 v k l ẽ s w o d r u k
 v k l ẽ s w o d r u k o v ɨ
 v k l ẽ s w o ɕ t ɕ
@@ -87465,7 +87465,7 @@ v ɨ d a v a ɲ j e
 v ɨ d a v a n ɨ
 v ɨ d a v t s a
 v ɨ d a v ɲ i t s t v o
-v ɨ d a v ɲ i t ʂ o - k o l p o r t a ʐ o v ɨ
+v ɨ d a v ɲ i t ʂ o k o l p o r t a ʐ o v ɨ
 v ɨ d a v ɲ i t ʂ ɨ
 v ɨ d a v ʂ ɨ
 v ɨ d e x
@@ -92726,7 +92726,7 @@ z a p o m ɲ j a v ʂ ɨ
 z a p o m ɲ j e t ɕ
 z a p o m ɲ j e ɲ j e
 z a p o m o g a
-z a p o m o g o v o - p o ʐ ɨ t ʂ k o v ɨ
+z a p o m o g o v o p o ʐ ɨ t ʂ k o v ɨ
 z a p o m o g o v ɨ
 z a p o m u t s
 z a p o r a
@@ -95084,7 +95084,7 @@ z d a t n ɨ
 z d a v a t ɕ
 z d a v a ɲ j e
 z d a v a n ɨ
-z d a v t ʂ o - o d b j o r t ʂ ɨ
+z d a v t ʂ o o d b j o r t ʂ ɨ
 z d a v t ʂ ɨ
 z d a v k o v o
 z d a v k o v ɨ
@@ -96221,7 +96221,7 @@ z x u k a v ʂ ɨ
 ʑ j e l o n e
 ʑ j e l o n k a
 ʑ j e l o n k a v o
-ʑ j e l o n k a v o - ʂ a r ɨ
+ʑ j e l o n k a v o ʂ a r ɨ
 ʑ j e l o n k a v o b r õ z o v ɨ
 ʑ j e l o n k a v ɨ
 ʑ j e l o n o

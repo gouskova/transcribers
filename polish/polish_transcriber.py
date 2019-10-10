@@ -26,11 +26,11 @@ def transcribe_wd(tkey=tkey, **kwargs):
     voiced_obs = ''.join(voiced)
     for k in tkey:
         word = word.replace(tkey[k][0], tkey[k][1])
+    word = word.replace('-', '')
     if voice:
         #progressive assimilation of former sonorants:
         word = re.sub('(['+vless_obs+'])ʐ', '\\1ʂ', word)
         word = re.sub('(['+vless_obs+'])v', '\\1f', word)
-        word = word.replace('-', '')
         #final devoicing:
         if word[-1] in voiced_obs:
             c = word[-1]

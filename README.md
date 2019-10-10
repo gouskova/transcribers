@@ -1,81 +1,31 @@
 # transcribers
-Some utilities for converting orthography into IPA or ASCII formats compatible with several phonological learner programs. 
 
+Some utilities for converting orthography into IPA, for work with phonological computational models. 
 
-##Russian
-The Russian branch implements phonological rules such as voicing assimilation and vowel reduction in unstressed syllables, and can distinguish up to three degrees of stress marking. Also does UCLA Phonotactic Learner transcription and Minimal Generalization Learner transcription of Russian.
+The generic transcriber script is designed to work with relatively simple, good orthographies. If an orthography can be converted into IPA using a simple unordered lookup table (as in Quechua) or by applying ordering logic (as in Russian), the generic transcriber should get you most of the way towards a usable transcription. Many languages require additional processing to implement more complex phonological rules not reflected in the orthography.
 
-To do: make it work better with morpheme boundaries.
+To use the generic transcriber:
 
-##Generic transcriber
+$ python3 generic_transcriber.py --help
 
-Usage:
+This will print all the available options.
 
-python3 generic_transcriber.py path_to_IPA_chart path_to_orig_file path_to_IPA_outfile
+A simple use case:
 
-paths should be full. An example of an IPA chart:
+$ python3 generic_transcriber.py --infile my_orthography.txt --outfile LearningData.txt --transkey transcription_key.txt
 
+This will take any sequences in the first column of the transcription key file, and replace them with corresponding sequences from the second column of the transcription file, unordered.
 
+An example of an IPA chart ("--transkey"):
 
+#transcription_key.txt
 jy	  ɟ
-
 ny	  ɲ
-
 ng	  ŋ
-
 sy	  ç
-
 ts	  ʦ
-
 ch	  ʧ
-
 sh	  ʃ
-
 zh	  ʒ
 
-
-An example of the original file to be converted to IPA:
-
-
-
-
-a b a n a
-
-a b a ny a r u k i k o
-
-a b i r a
-
-a f i t e
-
-a g a ch u h o
-
-a g a ch u r i
-
-a g a h e r a
-
-a g a h i n d a
-
-a g a h u m b a g i z a
-
-a g a h u m b i
-
-a g a k a t o
-
-a g a k i z a
-
-a g a m i zh e
-
-a g a sh i ny a g u r o
-
-a g a s u s u r u k o
-
-a g a t e g a ny o
-
-a g a t i m b a
-
-a g a ts i k o
-
-a g a ts i ts i n o
-=======
-
-The script will take this and convert the digraphs to IPA counterparts, leaving the other characters alone. See Kinyarwanda folder for examples of IPA chart files, originals, and IPA transcribed files.
+Other options you can control include whether to insert spaces between characters, whether to transcribe only the first column of a file, and whether to save the original orthographic forms alongside the transcriptions in the output. You can also apply the transcriber to just one word, to test it. See help for details.

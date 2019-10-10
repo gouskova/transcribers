@@ -22,11 +22,15 @@ def transcribe_wd(tkey=tkey, **kwargs):
     '''
     word = kwargs['word']
     voice = kwargs['voice']
+    narrow = kwargs['narrow']
     vless_obs = ''.join(voiceless)
     voiced_obs = ''.join(voiced)
     for k in tkey:
         word = word.replace(tkey[k][0], tkey[k][1])
     word = word.replace('-', '')
+    if narrow:
+        word = word.replace('tɕ', 'cɕ')
+        word = word.replace('dʑ',  'ɟʑ')
     if voice:
         #progressive assimilation of former sonorants:
         word = re.sub('(['+vless_obs+'])ʐ', '\\1ʂ', word)
@@ -46,7 +50,6 @@ def transcribe_wd(tkey=tkey, **kwargs):
 def transcribe_wds(tkey=tkey, **kwargs):
     infile = kwargs.get('infile')
     outfile = kwargs.get('outfile')
-    print(kwargs.get('voice'))
     with open(infile, 'r', encoding='utf-8') as f:
         with open(outfile, 'w', encoding='utf-8') as out:
             for line in f:
@@ -62,8 +65,10 @@ if __name__=='__main__':
     parser.add_argument('--word', help='transcribes a single-word passed after this argument. as in, "$ python3 polish_transcriber.py --word sweter"')
     parser.add_argument('--infile', help='input file in POLEX orthography', default='ortho_polex.txt')
     parser.add_argument('--outfile', help='output file', default='LearningData.txt')
-    parser.add_argument('--voice', help='Transcribes voicing assimilation and devoicing.', dest='voice', action='store_true')
+    parser.add_argument('--voice', help='Transcribe voicing assimilation and devoicing.', dest='voice', action='store_true')
     parser.add_argument('--novoice', help="Voicing is left at orthographic values", dest='voice', action="store_false")
+    parser.add_argument('--narrow', help="Transcribe [tɕ, dʑ] as [cɕ, ɟʑ] to reflect their homorganic articulation.", dest='narrow', action='store_true')
+    parser.add_argument('--wide', help='Leave [tɕ, dʑ] alone', dest='narrow', action='store_false')
     args = parser.parse_args()
     kwargs = vars(args)
     print(kwargs)

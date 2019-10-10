@@ -98,7 +98,7 @@ def transcribe_wds(**kwargs):
 if __name__=='__main__':
     import argparse
     parser = argparse.ArgumentParser(description="A command-line utility for transcribing orthography into IPA.")
-    parser.add_argument('--ordered', help="True or False, depending on whether transcription key needs to follow ordered logic (as in Polish or Hungarian)", default=True, type=bool)
+    parser.add_argument('--ordered', help="If set, the learner will apply substitutions from the transcription key in the given order. Otherwise the substitutions are unordered.", dest='ordered', action='store_true')
     parser.add_argument('--infile', help='the .txt file to be transcribed.')
     parser.add_argument('--outfile', help='the file where output is going to be written. Existing file with that name will be overwritten without a prompt.')
     parser.add_argument('--transkey', help='the location of a tab-separated transcription key, with orthographic value in first column and ipa correspondence in 2nd. rest of file gets ignored.', default='transcription_key.txt')
@@ -107,8 +107,11 @@ if __name__=='__main__':
     parser.add_argument('--takefirstcolumn', help="True or False; if True, transcribes the first column of the input file and writes the remainder to the outfile in the original form", default=False, type=bool)
     parser.add_argument('--word', help='provide a word along with a transkey file to see its transcription: $ python3 generic_transcriber.py --word szykaj --transkey /home/Desktop/polish/transcription_key.txt')
     args = parser.parse_args()
+    kwargs = vars(args)
+    if not args.ordered:
+        kwargs['ordered']=False
     if args.word:
-        print(transcribe_wd(**vars(args)))
+        print(transcribe_wd(**kwargs))
     else:
-        transcribe_wds(**vars(args))
+        transcribe_wds(**kwargs)
 

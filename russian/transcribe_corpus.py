@@ -59,14 +59,5 @@ def process_lines(inpath, outpath, wb=True):
 
 
 if __name__=='__main__':
-    #basepath = os.path.expanduser("~/Dropbox/work/dictionaries/russian_dictionaries/novel_corpus/")
-    #for fi in os.listdir(basepath):
-    #    fin = fi.split('.txt')[0]
-    #    outfile = os.path.join("novel_corpus", fin+'_IPA.txt')
-    #    if not os.path.isfile(outfile):
-    #        try:
-    #            process_lines(os.path.join(basepath, fi), outfile, wb=True)
-    #        except UnicodeDecodeError:
-    #            pass
     process_lines('russian_novels.txt', 'russian_novels_IPA.txt', wb=False)
 

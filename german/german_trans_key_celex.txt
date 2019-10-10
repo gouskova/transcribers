@@ -1,0 +1,20 @@
+i	i
+A	ɑ
+a:	aː
+O:	ɔː
+u	u
+3	ɜː
+y	y
+E	ɛ
+&	ø
+o	o
+eI	e ɪ
+aI	a ɪ
+OI	ɔ ɪ
+aU	a ʊ
+ai	a i
+au	a u
+Oy	ɔ y
+Q	œ
+&	æ
+r	ʀ

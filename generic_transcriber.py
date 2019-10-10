@@ -1,62 +1,114 @@
 #!/usr/bin/env python3
 
-def transc_table(ipatable):
+def unordered_transkey(**kwargs):
+    '''
+    this assumes no ordering logic. for an ordered transcriber, see 'ordered_transcribe'
+    it takes in a tab-separated file with 
+    ortho \tab ipa
+    and returns a dictionary that has orthog symbols as keys and ipa correspondences as values
+    '''
+    ipatable=kwargs['transkey']
     transkey = {}
     with open(ipatable, 'r', encoding='utf-8') as f:
         for line in f:
             if not line=='':
-                ortho = line.strip().split('\t')[0]
-                ipa = line.strip().split('\t')[1]
+                ortho = line.strip('\n').split('\t')[0]
+                ipa = line.strip('\n').split('\t')[1]
                 transkey[ortho]=ipa
     return transkey
 
 
-def transcribe_wd(ipadic, word):
+def ordered_transkey(**kwargs):
     '''
-    make the ipa table outside this function first!
+    for sucky orthographies like russian where the same symbols stand for different sounds depending on context.
+    this is like unordered_transkey except the output is 
+    {1: [a, b], 2: [x, y} etc.
     '''
-    return ' '.join([ipadic[let] if let in ipadic else let for let in word])
+    ipatable=kwargs['transkey']
+    transkey = {}
+    c = 1
+    with open(ipatable, 'r', encoding='utf-8') as f:
+        for line in f:
+            if not line=='':
+                transkey[c]=[line.strip('\n').split('\t')[0], line.strip('\n').split('\t')[1]]
+            c+=1
+    return transkey
 
-def transcribe_wds(ipatable, infile, outfile, takefirstcolumn=True):
-    transkey = transc_table(ipatable)
+def transcribe_wd(**kwargs):
+    '''
+    replaces orthographic symbols with their IPA values, given an IPA table of them
+    '''
+    transkey = kwargs['transkey'] # a dictionary of ortho and ipa values
+    word = kwargs['word']
+    ordered = kwargs['ordered']
+    spaces = kwargs['spaces']
+    if not type(transkey)==dict: #if function called from command line on a single word
+        if ordered:
+            transkey = ordered_transkey(**kwargs)
+        else:
+            transkey = unordered_transkey(**kwargs)
+    if ordered:
+        for k in sorted(transkey):
+            word = word.replace(transkey[k][0], transkey[k][1])
+        if spaces:
+            return ' '.join(list(word))
+        else:
+            return word 
+    else:
+        for k, v in transkey.items():
+            word = word.replace(k, v)
+        if spaces:
+            return ' '.join(list(word))
+        else:
+            return word
+
+
+def transcribe_wds(**kwargs):
+    '''
+    takes in an orthography file and writes an IPA transcription file
+    '''
+    ordered = kwargs['ordered']
+    takefirstcolumn = kwargs['takefirstcolumn']
+    ipatable = kwargs['transkey']
+    infile = kwargs['infile']
+    outfile = kwargs['outfile']
+    spaces = kwargs['spaces']
+    side = kwargs['sidebyside']
+    if ordered:
+        transkey = ordered_transkey(**kwargs)
+    else:
+        transkey = unordered_transkey(**kwargs)
+    kwargs['transkey']=transkey
     with open(infile, 'r', encoding='utf-8') as f:
         with open(outfile, 'w', encoding='utf-8') as out:
             for line in f:
-                if takefirstcolumn:
-                    word = line.strip().split('\t')[0].split(' ')
-                    out.write(' '.join([transkey[ortho] if ortho in transkey else ortho for ortho in word])+ '\n')
+                if takefirstcolumn or side:
+                    kwargs['word']=line.strip('\n').split('\t')[0]
+                    if takefirstcolumn:
+                        rest = line.strip('\n').split('\t')[1:]
+                    elif side:
+                        rest = kwargs['word']
+                    out.write('\t'.join([transcribe_wd(**kwargs), rest])+'\n')
                 else:
-                    if '\t' in line:
-                        words = line.strip().split('\t')
-                        newwords = []
-                        for word in words:
-                            newwords.append(' '.join([transkey[ortho] if ortho in transkey else ortho for ortho in word.split(' ')]))
-                        out.write('\t'.join(newwords)+'\n')
-                    else:
-                        if line=='':
-                            continue 
-
-
-    print('done')
+                    kwargs['word']=line.strip('\n')
+                    out.write(transcribe_wd(**kwargs)+'\n')
 
 
 
 if __name__=='__main__':
-    import sys
-    helpmessage="usage:\n\n$ python3 generic_transcriber.py fullpathtoIPAtable fullpathtoinputfile fullpathtooutputfile\n\n\n if your data file has multiple columns, add 'False' after the other arguments. The script otherwise assumes that you have one line per word.\n\n\n the IPA table file should have two columns; one for orthographic representations and one for IPA correspondents, in that order."
-    try:
-        if 'help' in sys.argv:
-            print(helpmessage)
-        else:
-            ipatable = sys.argv[1]
-            infile = sys.argv[2]
-            outfile = sys.argv[3]
-            if 'False' in sys.argv:
-                transcribe_wds(ipatable, infile, outfile, takefirstcolumn=False)
-            else:
-                transcribe_wds(ipatable, infile, outfile)
-            print ('your transcribed file is in ' + outfile)
-    except IndexError:
-        print(sys.argv)
-        print (helpmessage)
+    import argparse
+    parser = argparse.ArgumentParser(description="A command-line utility for transcribing orthography into IPA.")
+    parser.add_argument('--ordered', help="True or False, depending on whether transcription key needs to follow ordered logic (as in Polish or Hungarian)", default=True, type=bool)
+    parser.add_argument('--infile', help='the .txt file to be transcribed.')
+    parser.add_argument('--outfile', help='the file where output is going to be written. Existing file with that name will be overwritten without a prompt.')
+    parser.add_argument('--transkey', help='the location of a tab-separated transcription key, with orthographic value in first column and ipa correspondence in 2nd. rest of file gets ignored.', default='transcription_key.txt')
+    parser.add_argument('--spaces', help='True or False; if true, spaces are inserted between characters.', default=True, type=bool)
+    parser.add_argument('--sidebyside', help='True or False; if true, writes IPA-column \tab ortho-column in ouput', default=False, type=bool)
+    parser.add_argument('--takefirstcolumn', help="True or False; if True, transcribes the first column of the input file and writes the remainder to the outfile in the original form", default=False, type=bool)
+    parser.add_argument('--word', help='provide a word along with a transkey file to see its transcription: $ python3 generic_transcriber.py --word szykaj --transkey /home/Desktop/polish/transcription_key.txt')
+    args = parser.parse_args()
+    if args.word:
+        print(transcribe_wd(**vars(args)))
+    else:
+        transcribe_wds(**vars(args))
 

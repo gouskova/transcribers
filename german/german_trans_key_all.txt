@@ -1,0 +1,11 @@
+g	g	#this key contains symbol correspondences shared across transcription systems in the german section of Celex
+N	ŋ
+S	ʃ
+Z	ʒ
+@	ə
+I	ɪ
+Y	ʏ
+E	ɛ
+Q	œ
+U	ʊ
+O	ɔ

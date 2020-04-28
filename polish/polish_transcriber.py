@@ -4,7 +4,7 @@ sys.path.append(os.path.dirname(os.getcwd()))
 
 import generic_transcriber as gt
 
-tkey = gt.ordered_transkey(transkey='transcription_key.txt')
+
 
 voiced = ['b', 'd', 'g', 'v', 'z', 'ʐ', 'ʑ']
 voiceless = ['p', 't', 'k', 'f', 's', 'ʂ', 'ɕ']
@@ -14,17 +14,19 @@ fvmap = dict(zip(voiceless, voiced))
 voiceless.extend('x')
 fvmap['x']='x'
 
-def transcribe_wd(tkey=tkey, **kwargs):
+def transcribe_wd(**kwargs):
     '''
     things to do:
     progressive voicing assimilation in onset clusters like prz, sw
     figure out what to do with palatalization
     '''
+    tkey = kwargs['transkey']
     word = kwargs['word']
     voice = kwargs['voice']
     narrow = kwargs['narrow']
     vless_obs = ''.join(voiceless)
     voiced_obs = ''.join(voiced)
+    word = word.lower()
     for k in tkey:
         word = word.replace(tkey[k][0], tkey[k][1])
     word = word.replace('-', '')
@@ -47,7 +49,7 @@ def transcribe_wd(tkey=tkey, **kwargs):
     word = ' '.join(list(word))
     return word
 
-def transcribe_wds(tkey=tkey, **kwargs):
+def transcribe_wds(**kwargs):
     infile = kwargs.get('infile')
     outfile = kwargs.get('outfile')
     with open(infile, 'r', encoding='utf-8') as f:
@@ -68,12 +70,16 @@ if __name__=='__main__':
     parser.add_argument('--voice', help='Transcribe voicing assimilation and devoicing.', dest='voice', action='store_true')
     parser.add_argument('--novoice', help="Voicing is left at orthographic values", dest='voice', action="store_false")
     parser.add_argument('--narrow', help="Transcribe [tɕ, dʑ] as [cɕ, ɟʑ] to reflect their homorganic articulation.", dest='narrow', action='store_true')
+    parser.add_argument('--transkey', help='Table of mappings from orthography to IPA, tab-separated.', default='transcription_key.txt')
     parser.add_argument('--wide', help='Leave [tɕ, dʑ] alone', dest='narrow', action='store_false')
     args = parser.parse_args()
     kwargs = vars(args)
+    tkey = gt.ordered_transkey(**kwargs)
+    kwargs['transkey']=tkey
     print(kwargs)
     if args.word:
         transcribe_wd(**kwargs)
     else:
+        tkey 
         transcribe_wds(**kwargs)
 

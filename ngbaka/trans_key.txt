@@ -1,0 +1,23 @@
+ON	ɔ̃
+EN	ɛ̃
+an	ã
+un	ũ
+in	ĩ
+E	ɛ
+O	ɔ
+ngb	ŋ m ɡ b
+ngm	ŋ m
+ngg	ŋ ɡ
+gb	ɡ b
+kp	k p
+B	ɓ
+D	ɗ
+ng	ŋ
+nz	n z
+mb	m b
+nd	n d
+ny	ɲ
+y	j
+nw	n w
+vw	v w
+rr	r

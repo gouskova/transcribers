@@ -57,7 +57,10 @@ def transcribe_wds(**kwargs):
             for line in f:
                 kwargs['word']=line.rstrip('\n')
                 word = transcribe_wd(**kwargs)
-                out.write(word+'\n')
+                if kwargs['sidebyside']:
+                    out.write(kwargs['word']+'\t'+word+'\n')
+                else:
+                    out.write(word+'\n')
     print('done')
 
 
@@ -72,6 +75,7 @@ if __name__=='__main__':
     parser.add_argument('--narrow', help="Transcribe [tɕ, dʑ] as [cɕ, ɟʑ] to reflect their homorganic articulation.", dest='narrow', action='store_true')
     parser.add_argument('--transkey', help='Table of mappings from orthography to IPA, tab-separated.', default='transcription_key.txt')
     parser.add_argument('--wide', help='Leave [tɕ, dʑ] alone', dest='narrow', action='store_false')
+    parser.add_argument('--sidebyside', default=True, type=bool)
     args = parser.parse_args()
     kwargs = vars(args)
     tkey = gt.ordered_transkey(**kwargs)

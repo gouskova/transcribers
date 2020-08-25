@@ -1,0 +1,26 @@
+p p 
+t t 
+c (before +bk vowels) k, c (before -bk vowels) ʧ 
+ch (before -bk vowels) k 
+b b 
+d d 
+g (before -bk vowels) ʤ, g (elsewhere) g
+gh (before -bk vowels) g 
+m m 
+n n 
+gn ɲ 
+n (before velars) ŋ, n (elsewhere) n
+f f 
+v v 
+sci (word-finally) ʃi, sci (elsewhere) ʃ 
+s (before voiced stops) z, s (elsewhere) s 
+z ʦ 
+h silent 
+l l 
+gli (before vowel) ʎ, gli (elsewhere) ʎi
+r r 
+a a 
+e e 
+i i 
+o o 
+u u

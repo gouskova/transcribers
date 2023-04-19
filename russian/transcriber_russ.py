@@ -144,21 +144,21 @@ def nostress_vowels(word):
 
 
 def twoway_vowels(word):
-        """ Keeps two levels of stress: primary and unstressed (collapsing secondary stress--if present-- with unstressed)."""
-        word = word+" "
-        word = word.replace("`", "") #just remove sec stress, don't treat it as primary
-        for vowel in cyr_ipa_vowels_nostr_morph.keys():
-                word = word.replace(vowel, cyr_ipa_vowels_nostr_morph[vowel])
-        for vowel in cyr_ipa_vowels_nostr.keys():
-                word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
-        for vowel in ipa_vowels_str.keys():
-                word=word.replace(vowel, ipa_vowels_str[vowel])
-        for vowel in all_vowels:
-                word = word.replace(vowel+" ʲ", vowel)
-        word=word.lstrip("ʲ")
-        if word.startswith("j i"): 
-                word = word[2:]
-        return word.strip()
+    """ Keeps two levels of stress: primary and unstressed (collapsing secondary stress--if present-- with unstressed)."""
+    word = word+" "
+    word = word.replace("`", "") #just remove sec stress, don't treat it as primary
+    for vowel in cyr_ipa_vowels_nostr_morph.keys():
+        word = word.replace(vowel, cyr_ipa_vowels_nostr_morph[vowel])
+    for vowel in cyr_ipa_vowels_nostr.keys():
+        word = word.replace(vowel, cyr_ipa_vowels_nostr[vowel])
+    for vowel in ipa_vowels_str.keys():
+        word=word.replace(vowel, ipa_vowels_str[vowel])
+    for vowel in all_vowels:
+        word = word.replace(vowel+" ʲ", vowel)
+    word=word.lstrip("ʲ")
+    if word.startswith("j i") or word.startswith("j í"): 
+        word = word[2:]
+    return word.strip()
 
 
 def threeway_vowels(word):
